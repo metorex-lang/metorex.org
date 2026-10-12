@@ -1,2 +1,54 @@
-%section.home.container
-  %h1 Metorex
+%section.hero.container
+  %h1.hero-title
+    Ruby 4.0, written in Rust.
+  %p.hero-lede
+    Metorex runs Ruby 4.0 programs, and it exposes a method's syntax tree as objects your program can read at runtime.
+  .hero-sample
+    .sample-label example.rb
+    :plain
+      <pre><code class="language-metorex">Point = Struct.new(:x, :y) do
+        def +(other) = Point.new(x + other.x, y + other.y)
+      end
+
+      total = [Point.new(1, 2), Point.new(3, 4)].sum(Point.new(0, 0))
+      puts total.inspect
+
+      case total
+      in { x: Integer =&gt; x, y: } if y &gt; x
+        puts "y leads by #{y - x}"
+      end</code></pre>
+    .sample-label Output
+    :plain
+      <pre class="sample-output"><code>#&lt;struct Point x=4, y=6&gt;
+      y leads by 2</code></pre>
+
+%section.features.container
+  .feature-card
+    %h2 Ruby 4.0 syntax
+    :plain
+      <p>Metorex reads Ruby 4.0 source with its own lexer and parser. <code>RUBY_VERSION</code> reports <code>4.0.6</code>.</p>
+  .feature-card
+    %h2 Code as objects
+    %p A method's body is available at runtime as syntax tree nodes you can inspect.
+  .feature-card
+    %h2 Built-in test runner
+    :plain
+      <p><code>metorex --test DIR</code> finds and runs <code>*_test.rb</code>, <code>test_*.rb</code>, and <code>*_spec.rb</code> files.</p>
+  .feature-card
+    %h2 C extensions
+    %p Loads C extensions written against Ruby's C API.
+  .feature-card
+    %h2 REPL
+    :plain
+      <p><code>metorex --repl</code> starts an interactive session.</p>
+  .feature-card
+    %h2 Written in Rust
+    %p The lexer, parser, and bytecode VM are written in Rust.
+
+%section.notice.container
+  %p
+    %strong Metorex is in early development.
+    Programs that run under MRI may not run under Metorex yet.
+    %a{href: 'https://github.com/metorex-lang/metorex/issues/new'} Open an issue
+    for one that fails, or
+    %a{href: 'https://github.com/metorex-lang/metorex/pulls'} send a pull request.

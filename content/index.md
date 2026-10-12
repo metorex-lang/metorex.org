@@ -1,5 +1,5 @@
 ---
 title: Metorex
-description: Metorex is a programming language with Ruby's syntax, implemented in Rust.
+description: Metorex runs Ruby 4.0 programs. It is written in Rust, and it exposes a method's syntax tree as objects at runtime.
 layout: home
 ---

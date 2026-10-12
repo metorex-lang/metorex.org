@@ -386,3 +386,61 @@ main {
   color: var(--muted);
   font-style: italic;
 }
+
+.hero {
+  padding: 3rem var(--gutter) 2rem;
+}
+
+.hero-title {
+  margin: 0 0 1rem;
+  font-size: clamp(2rem, 6vw, 3.25rem);
+}
+
+.hero-lede {
+  max-width: 40rem;
+  margin: 0 0 2rem;
+  font-size: 1.15rem;
+}
+
+.sample-label {
+  color: var(--muted);
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.hero-sample pre {
+  margin-top: 0.25rem;
+}
+
+.features {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+  gap: 1rem;
+}
+
+.feature-card {
+  padding: 1.25rem;
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+
+.feature-card h2 {
+  margin: 0 0 0.5rem;
+  font-size: 1.15rem;
+}
+
+.feature-card p {
+  margin: 0;
+}
+
+.notice {
+  margin-top: 2rem;
+}
+
+.notice p {
+  padding: 1rem 1.25rem;
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--accent-2);
+  border-radius: 8px;
+}
