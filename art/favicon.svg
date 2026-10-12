@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Metorex</title>
+  <defs>
+    <linearGradient id="crown" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffd2a8"/>
+      <stop offset="1" stop-color="#ff8a3d"/>
+    </linearGradient>
+  </defs>
+  <!-- The logo's gem with six facets, drawn upright and turned like the logo. -->
+  <g transform="translate(32 32) scale(1.29) translate(-39.5 -26.75) translate(32 32) rotate(38) scale(0.083) translate(0 -65)">
+    <polygon points="-340,-80 -180,-200 -110,-80" fill="#ff8a3d"/>
+    <polygon points="-180,-200 180,-200 110,-80 -110,-80" fill="url(#crown)"/>
+    <polygon points="180,-200 340,-80 110,-80" fill="#e8433a"/>
+    <polygon points="-340,-80 -110,-80 0,330" fill="#e8433a"/>
+    <polygon points="-110,-80 110,-80 0,330" fill="#a3221c"/>
+    <polygon points="110,-80 340,-80 0,330" fill="#5e0f0c"/>
+    <polyline points="-340,-80 -180,-200 180,-200 340,-80" fill="none" stroke="#ffd2a8" stroke-width="22" stroke-linejoin="round" stroke-linecap="round"/>
+  </g>
+</svg>

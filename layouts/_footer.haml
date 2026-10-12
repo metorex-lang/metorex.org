@@ -1,11 +1,43 @@
 %footer.site-footer
   .container
-    %p
-      Metorex is released under the
-      %a{href: 'https://github.com/metorex-lang/metorex/blob/main/LICENSE'} MIT License.
-    %p
-      %a{href: 'https://github.com/metorex-lang/metorex'} Source on GitHub
-      ·
-      %a{href: 'https://github.com/metorex-lang/metorex/issues'} Issues
-      ·
-      %a{href: 'https://github.com/metorex-lang/metorex.org'} Site source
+    .footer-grid
+      .footer-brand
+        %a.brand{href: '/', 'aria-label' => 'Metorex home'}
+          %img.brand-mark{src: '/favicon.svg', alt: '', width: '32', height: '32'}
+          %span.wordmark Metorex
+        %p Meta Object Runtime Execution. Ruby 4.x, written in Rust, released under the MIT License.
+      %div
+        %h4 Language
+        %ul
+          %li
+            %a{href: '/install'} Install
+          %li
+            %a{href: '/language'} Language tour
+          %li
+            %a{href: '/meta'} Code as objects
+          %li
+            %a{href: '/rex'} Rex
+      %div
+        %h4 Reference
+        %ul
+          %li
+            %a{href: '/docs'} Docs
+          %li
+            %a{href: '/versions'} Versions
+          %li
+            %a{href: '/implementations'} Compare
+          %li
+            %a{href: '/blog'} Blog
+      %div
+        %h4 Project
+        %ul
+          %li
+            %a{href: 'https://github.com/metorex-lang/metorex'} Source
+          %li
+            %a{href: 'https://github.com/metorex-lang/metorex/issues'} Issues
+          %li
+            %a{href: 'https://github.com/metorex-lang/metorex/pulls'} Pull requests
+          %li
+            %a{href: 'https://github.com/metorex-lang/metorex/blob/main/LICENSE'} License
+    :plain
+      <p class="footer-legal">© 2025-2026 Greg Donald. Site source at <a href="https://github.com/metorex-lang/metorex.org">metorex-lang/metorex.org</a>.</p>

@@ -16,7 +16,7 @@ blogin serve
 blogin.json        site config: title, base-url, clean-urls, search, robots, minify, fingerprint
 content/
   index.md         the home page, rendered to /
-  *-check.md       draft pages that check the theme, copy button, and search in a browser
+  *-check.md       draft pages that check the theme, phone width, copy button, and search in a browser
   docs/            the reference manual
   theme-sample.md  draft page with one code block per highlighted token class
 layouts/
@@ -54,4 +54,36 @@ python3 -m http.server 8731 -b 127.0.0.1 -d public
 "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --headless=new --virtual-time-budget=5000 --dump-dom http://127.0.0.1:8731/theme-toggle-check.html | grep -o 'data-results="[^"]*"'
 ```
 
-`phone-width-check` frames the sample page at 320px and records its page width, which should equal the frame width. `theme-toggle-check` clicks the toggle, reloads, clears storage, and records the mode, background, and token colors at each step. `copy-button-check` records the text each copy button copies (`data-copied`), and `search-check` records the result titles for a query (`data-search-results`). Add `--blink-settings=preferredColorScheme=0` for an OS in dark mode, or `1` for light. A normal `blogin build` removes the draft pages from `public/`.
+`phone-width-check` frames the home page and the theme sample at 320px and records each page width, which should equal the frame width. `theme-toggle-check` clicks the toggle, reloads, clears storage, and records the mode, background, and token colors at each step. `copy-button-check` records the text each copy button copies (`data-copied`), and `search-check` records the result titles for a query (`data-search-results`). Add `--blink-settings=preferredColorScheme=0` for an OS in dark mode, or `1` for light. A normal `blogin build` removes the draft pages from `public/`.
+
+## Logo
+
+The SVG files in `art/` are the sources. Everything else is exported from them.
+
+```
+art/logo-mark.svg      the mark: a ruby falling as a meteor, 1024x1024
+art/logo.svg           the mark beside the "Metorex" wordmark, with Space Grotesk embedded
+art/favicon.svg        the mark's gem with six facets, for 48px and smaller
+art/logo-mark.png      the mark cropped to its artwork, 848x1024
+art/logo.png           the logo at 2x, 2080x600
+art/github-avatar.png  the mark on the dark background, 1024x1024
+static/favicon.svg     a copy of art/favicon.svg
+static/favicon.ico     art/favicon.svg at 16, 32, and 48px
+static/apple-touch-icon.png  the mark on the dark background, 180x180
+```
+
+`rsvg-convert` renders `logo-mark.svg` and `favicon.svg`. It does not load the font embedded in `logo.svg`, so export that one with Chrome:
+
+```sh
+rsvg-convert -w 2048 -h 2048 art/logo-mark.svg -o mark-2048.png
+magick mark-2048.png -channel A -fuzz 4% -trim +repage +channel mark-trim.png
+magick mark-trim.png -resize 1024x1024 -depth 8 -strip art/logo-mark.png
+magick mark-trim.png -resize 960x960 mark-960.png
+magick -size 1024x1024 xc:'#0e0c0b' mark-960.png -gravity center -composite -depth 8 -strip art/github-avatar.png
+magick mark-trim.png -resize 160x160 mark-160.png
+magick -size 180x180 xc:'#0e0c0b' mark-160.png -gravity center -composite -depth 8 -strip static/apple-touch-icon.png
+for size in 16 32 48; do rsvg-convert -w $size -h $size art/favicon.svg -o favicon-$size.png; done
+magick favicon-16.png favicon-32.png favicon-48.png static/favicon.ico
+"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --headless=new --hide-scrollbars --default-background-color=00000000 --force-device-scale-factor=2 --window-size=1040,300 --screenshot=logo-2x.png "file://$PWD/art/logo.svg"
+magick logo-2x.png -depth 8 -strip art/logo.png
+```

@@ -1,18 +1,20 @@
 ---
 title: Phone width check
-description: Loads the theme sample in a 320px frame and records whether its page scrolls sideways, built with --drafts.
+description: Loads the home page and the theme sample in 320px frames and records whether either page scrolls sideways, built with --drafts.
 layout: page
 draft: true
 ---
 
-<iframe id="phone-frame" src="/theme-sample.html" width="320" height="600"></iframe>
+<iframe class="phone-frame" data-page="home" src="/index.html" width="320" height="600"></iframe>
+<iframe class="phone-frame" data-page="sample" src="/theme-sample.html" width="320" height="600"></iframe>
 
 <script>
-  document.getElementById('phone-frame').addEventListener('load', function () {
-    const framed = this.contentDocument.documentElement;
-    document.documentElement.dataset.frameWidth = this.contentWindow.innerWidth;
-    document.documentElement.dataset.framePageWidth = framed.scrollWidth;
-    document.documentElement.dataset.frameTitle = this.contentDocument.title;
-    document.documentElement.dataset.frameCodeWidth = this.contentDocument.querySelector('pre').scrollWidth;
+  const widths = [];
+
+  document.querySelectorAll('.phone-frame').forEach(function (frame) {
+    frame.addEventListener('load', function () {
+      widths.push(frame.dataset.page + ':frame=' + frame.contentWindow.innerWidth + ',page=' + frame.contentDocument.documentElement.scrollWidth);
+      document.documentElement.dataset.widths = widths.sort().join(' | ');
+    });
   });
 </script>
