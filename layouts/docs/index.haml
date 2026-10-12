@@ -1,0 +1,11 @@
+.doc-layout.container
+  %aside.doc-sidebar
+    != render(:partial<docnav>)
+  %article.doc-article
+    %h1= heading
+    %ul.doc-index
+      - for posts -> $entry
+        %li
+          %a{href: "#{$entry<url>}"}= $entry<title>
+          - if $entry<description>
+            %span.doc-index-note= $entry<description>

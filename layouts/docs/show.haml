@@ -1,0 +1,13 @@
+.doc-layout.container
+  %aside.doc-sidebar
+    != render(:partial<docnav>)
+  %article.doc-article
+    %nav.doc-crumbs{'aria-label' => 'Breadcrumb'}
+      %a{href: '/docs'} Docs
+    %h1= title
+    - if has-toc
+      %nav.doc-toc{'aria-label' => 'On this page'}
+        != toc-html
+    .doc-body
+      != body
+    != post-nav-html
