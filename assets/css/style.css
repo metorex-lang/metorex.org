@@ -613,6 +613,36 @@ pre {
 
 /* Pages */
 
+.anchor {
+  margin-left: 0.4em;
+  color: var(--muted);
+  font-weight: 400;
+  text-decoration: none;
+  opacity: 0;
+  transition: opacity 0.15s;
+}
+
+h2:hover .anchor,
+h3:hover .anchor,
+h4:hover .anchor,
+.anchor:focus-visible {
+  opacity: 1;
+}
+
+.anchor:hover {
+  color: var(--accent);
+}
+
+.page h2 {
+  margin: 2.5rem 0 0.75rem;
+  font-size: 1.5rem;
+}
+
+.page h3 {
+  margin: 2rem 0 0.5rem;
+  font-size: 1.2rem;
+}
+
 main {
   min-height: 60vh;
 }
