@@ -1,0 +1,13 @@
+{
+  "title": "Metorex",
+  "base-url": "https://metorex.org",
+  "author": "Greg Donald",
+  "clean-urls": true,
+  "css-framework": "none",
+  "search": true,
+  "taxonomies": [],
+  "feed-formats": [],
+  "robots": true,
+  "minify": true,
+  "fingerprint": true
+}
