@@ -16,9 +16,36 @@ blogin serve
 blogin.json        site config: title, base-url, clean-urls, search, robots, minify, fingerprint
 content/
   index.md         the home page, rendered to /
+  *-check.md       draft pages that check the theme in a browser
+  theme-sample.md  draft page with one code block per highlighted token class
 layouts/
-  base.haml        the page shell
+  base.haml        the page shell, with the script that applies the stored theme before first paint
+  _header.haml     wordmark and the light/dark toggle
   home.haml        the home page markup
+  page.haml        a plain page: title and body
+assets/
+  css/style.css    color tokens, fonts, and site styles
+  js/theme.js      the light/dark toggle
+  js/highlight.js  highlighting for metorex and ruby code blocks
+static/fonts/      Inter, Space Grotesk, and JetBrains Mono, self-hosted
+bin/
+  check-theme.raku hex colors only in the token block, and WCAG AA contrast in both modes
 public/            build output (gitignored)
 deploy.sh          build and rsync to the server
 ```
+
+## Checking the theme
+
+```sh
+raku bin/check-theme.raku
+```
+
+The draft pages build only with `blogin build --drafts`. Each writes its results to `data-` attributes on its `<html>` element, which headless Chrome prints with `--dump-dom`:
+
+```sh
+blogin build --drafts --force
+python3 -m http.server 8731 -b 127.0.0.1 -d public
+"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --headless=new --virtual-time-budget=5000 --dump-dom http://127.0.0.1:8731/theme-toggle-check.html | grep -o 'data-results="[^"]*"'
+```
+
+`phone-width-check` frames the sample page at 320px and records its page width, which should equal the frame width. `theme-toggle-check` clicks the toggle, reloads, clears storage, and records the mode, background, and token colors at each step. Add `--blink-settings=preferredColorScheme=0` for an OS in dark mode, or `1` for light. A normal `blogin build` removes the draft pages from `public/`.

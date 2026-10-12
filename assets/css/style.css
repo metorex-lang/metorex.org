@@ -1,0 +1,209 @@
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+  src: url('/fonts/inter-latin-wght-normal.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'Space Grotesk';
+  font-style: normal;
+  font-weight: 300 700;
+  font-display: swap;
+  src: url('/fonts/space-grotesk-latin-wght-normal.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: 'JetBrains Mono';
+  font-style: normal;
+  font-weight: 100 800;
+  font-display: swap;
+  src: url('/fonts/jetbrains-mono-latin-wght-normal.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+/* Each token is light-dark(light, dark). color-scheme picks the side: the OS
+   setting by default, or the visitor's choice through data-theme. */
+:root {
+  color-scheme: light dark;
+
+  --bg: light-dark(#fbf8f5, #0e0c0b);
+  --bg-elevated: light-dark(#f2ece6, #1a1614);
+  --border: light-dark(#e3d9d1, #2a2320);
+  --fg: light-dark(#2a2320, #e6dfda);
+  --fg-bright: light-dark(#0e0c0b, #faf6f3);
+  --muted: light-dark(#6f645d, #8a7f78);
+  --accent: light-dark(#c62f27, #e8433a);
+  --accent-2: light-dark(#c25a12, #ff8a3d);
+  --ok: light-dark(#1f8a4c, #5ccf8a);
+  --string: light-dark(#4f7a1f, #a8c97f);
+
+  --wordmark-from: #e8433a;
+  --wordmark-to: #ff8a3d;
+
+  --font-heading: 'Space Grotesk', system-ui, sans-serif;
+  --font-body: 'Inter', system-ui, sans-serif;
+  --font-code: 'JetBrains Mono', ui-monospace, monospace;
+
+  --content-width: 72rem;
+  --gutter: 16px;
+}
+
+:root[data-theme='light'] {
+  color-scheme: light;
+}
+
+:root[data-theme='dark'] {
+  color-scheme: dark;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font-body);
+  font-size: 1rem;
+  line-height: 1.6;
+  overflow-wrap: break-word;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: var(--fg-bright);
+  font-family: var(--font-heading);
+  line-height: 1.2;
+}
+
+a {
+  color: var(--accent);
+}
+
+img,
+svg,
+video {
+  max-width: 100%;
+  height: auto;
+}
+
+code,
+pre,
+kbd,
+samp {
+  font-family: var(--font-code);
+  font-size: 0.9em;
+  font-variant-ligatures: none;
+  font-feature-settings: 'liga' 0, 'calt' 0;
+}
+
+:not(pre) > code {
+  padding: 0.1em 0.3em;
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+}
+
+pre {
+  margin: 1.25rem 0;
+  padding: 1rem;
+  overflow-x: auto;
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  line-height: 1.5;
+}
+
+.container {
+  width: 100%;
+  max-width: var(--content-width);
+  margin: 0 auto;
+  padding: 0 var(--gutter);
+}
+
+.site-header {
+  border-bottom: 1px solid var(--border);
+}
+
+.site-header .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  min-height: 4rem;
+}
+
+.wordmark {
+  font-family: var(--font-heading);
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-decoration: none;
+  background: linear-gradient(90deg, var(--wordmark-from), var(--wordmark-to));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.5rem;
+  height: 2.5rem;
+  padding: 0;
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  color: var(--fg);
+  cursor: pointer;
+}
+
+.theme-toggle svg {
+  width: 1.25rem;
+  height: 1.25rem;
+}
+
+.theme-toggle .icon-sun {
+  display: none;
+}
+
+:root[data-theme-effective='dark'] .theme-toggle .icon-sun {
+  display: block;
+}
+
+:root[data-theme-effective='dark'] .theme-toggle .icon-moon {
+  display: none;
+}
+
+main {
+  padding-bottom: 3rem;
+}
+
+.tok-keyword {
+  color: var(--accent);
+}
+
+.tok-symbol,
+.tok-constant {
+  color: var(--accent-2);
+}
+
+.tok-string {
+  color: var(--string);
+}
+
+.tok-comment {
+  color: var(--muted);
+  font-style: italic;
+}

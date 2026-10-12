@@ -3,8 +3,14 @@
   %head
     %meta{charset: 'utf-8'}
     %meta{name: 'viewport', content: 'width=device-width, initial-scale=1'}
+    :plain
+      <script>(function(){var root=document.documentElement;var stored=null;try{stored=localStorage.getItem('theme')}catch(error){}if(stored==='light'||stored==='dark'){root.dataset.theme=stored}var dark=root.dataset.theme?root.dataset.theme==='dark':window.matchMedia('(prefers-color-scheme: dark)').matches;root.dataset.themeEffective=dark?'dark':'light'})();</script>
     %title= meta-title
     != head-meta
+    %link{rel: 'stylesheet', href: '/assets/css/style.css'}
   %body
-    %main
+    != render(:partial<header>)
+    %main.container
       = yield
+    %script{src: '/assets/js/theme.js'}
+    %script{src: '/assets/js/highlight.js'}
