@@ -1,0 +1,21 @@
+%article.page.container
+  %h1 Examples
+  %p
+    Each page shows one Ruby file from the
+    %code tests/_examples
+    directory of the metorex repository, with the output the test suite checks for it when it runs as a program.
+  %p
+    = data<examples><count>
+    files, grouped by the directory they are in:
+  %ul.example-topics
+    - for data<examples><topics> -> $topic
+      %li
+        %a{href: "##{$topic<anchor>}"}= $topic<name>
+        %span.example-count= $topic<count>
+  - for data<examples><topics> -> $topic
+    %section.example-topic
+      %h2{id: "#{$topic<anchor>}"}= $topic<name>
+      %ul.example-list
+        - for $topic<entries> -> $entry
+          %li
+            %a{href: "#{$entry<url>}"}= $entry<title>

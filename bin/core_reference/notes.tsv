@@ -1,0 +1,4 @@
+# Notes shown under a method on its core reference page: the method as
+# ruby/spec describes it, a tab, then the note.
+GC.config	`GC.config[:implementation]` is `"metorex"`, where MRI answers `"default"`, since Metorex frees an object when the last reference to it goes.
+Thread#native_thread_id	Answers nil for a thread waiting its turn, since every Metorex thread runs on the one operating system thread the interpreter runs on.

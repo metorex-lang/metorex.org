@@ -1,0 +1,48 @@
+---
+title: "stdlib/marshal_load_handler_no_parens.rb"
+slug: stdlib-marshal-load-handler-no-parens
+description: "The metorex example program stdlib/marshal_load_handler_no_parens.rb and its output."
+---
+
+`tests/_examples/stdlib/marshal_load_handler_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/marshal_load_handler_no_parens.rb).
+
+```metorex
+# encoding: binary
+seen = []
+loaded = Marshal.load Marshal.dump("foo"), proc { |held| seen << held; held.upcase }, freeze: true
+puts seen.inspect
+puts loaded
+puts loaded.frozen?
+
+generator = Random.new 42
+generator.rand 100
+copy = Marshal.load Marshal.dump generator
+puts copy == generator
+puts copy.rand(1000) == generator.rand(1000)
+puts copy.seed
+puts Marshal.load(Marshal.dump(Random.new(42))) == Random.new(43)
+
+precise = Time.at(0, 123456789, :nsec).utc
+dumped = Marshal.dump precise
+puts dumped.inspect
+loaded = Marshal.load dumped
+puts loaded.nsec
+puts loaded.utc?
+puts Marshal.load(Marshal.dump(Time.at(0, Rational(1, 3), :nsec))).subsec.inspect
+```
+
+Output:
+
+```
+["foo"]
+FOO
+false
+true
+true
+42
+false
+"\x04\bIu:\tTime\r \x80\x11\xC0@\xE2\x01\x00\t:\rnano_numi\x02\x15\x03:\rnano_deni\x06:\rsubmicro\"\ax\x90:\tzoneI\"\bUTC\x06:\x06EF"
+123456789
+true
+(1/3000000000)
+```

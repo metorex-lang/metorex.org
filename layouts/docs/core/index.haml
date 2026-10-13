@@ -1,0 +1,24 @@
+.doc-layout.container
+  %aside.doc-sidebar
+    != render(:partial<docnav>)
+  %article.doc-article
+    %nav.doc-crumbs{'aria-label' => 'Breadcrumb'}
+      %a{href: '/docs'} Docs
+    %h1 Core reference
+    %p
+      One page for each directory of the ruby/spec suite's
+      %code core/
+      directory, listing the methods its specs describe and which of them Metorex implements.
+    %table.core-index
+      %thead
+        %tr
+          %th Class or module
+          %th Implemented
+          %th Described
+      %tbody
+        - for data<core-reference><classes> -> $class
+          %tr
+            %td
+              %a{href: "#{$class<url>}"}= $class<title>
+            %td= $class<implemented>
+            %td= $class<described>

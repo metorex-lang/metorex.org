@@ -1,0 +1,37 @@
+---
+title: "programs/system_with_environment_no_parens.rb"
+slug: programs-system-with-environment-no-parens
+description: "The metorex example program programs/system_with_environment_no_parens.rb and its output."
+---
+
+`tests/_examples/programs/system_with_environment_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/programs/system_with_environment_no_parens.rb).
+
+```metorex
+# A Hash before the command names what the child's environment adds, or takes
+# away where a name is given nil, and leaves the parent's own alone.
+$stdout.sync = true
+ENV["KEPT"] = "parent"
+p system({ "ADDED" => "child" }, "sh", "-c", 'echo "$ADDED $KEPT"')
+p system({ "KEPT" => nil }, "sh", "-c", 'echo "[$KEPT]"')
+p system({ "ADDED" => "shell" }, 'echo "$ADDED"')
+p system ["sh", "named"], "-c", 'echo $0'
+p system({ "CODE" => "4" }, 'exit $CODE')
+p $?.exitstatus
+p ENV["ADDED"]
+```
+
+Output:
+
+```
+child parent
+true
+[]
+true
+shell
+true
+named
+true
+false
+4
+nil
+```

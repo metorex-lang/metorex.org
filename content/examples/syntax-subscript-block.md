@@ -1,0 +1,42 @@
+---
+title: "syntax/subscript_block.rb"
+slug: syntax-subscript-block
+description: "The metorex example program syntax/subscript_block.rb and its output."
+---
+
+`tests/_examples/syntax/subscript_block.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/subscript_block.rb).
+
+```metorex
+# A block written after a subscript is handed to the `[]` method.
+class Ledger
+  def self.[](index, &block)
+    block ? block.call(index) : index
+  end
+end
+
+p(Ledger[3] { |index| index * 2 })
+p Ledger[4]
+p(Ledger[5] do |index| index + 1 end)
+
+# A `do` after a loop's condition or collection opens the loop body.
+readings = [[3, 4]]
+for reading in readings[0] do p reading end
+index = 0
+while readings[0][index] do index += 1 end
+p index
+
+# A semicolon ends a statement, so a loop keyword after one starts a loop.
+counted = 0; until counted == 2 do counted += 1 end; p counted
+```
+
+Output:
+
+```
+6
+4
+6
+3
+4
+2
+2
+```

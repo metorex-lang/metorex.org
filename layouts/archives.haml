@@ -1,0 +1,6 @@
+%section.page.container
+  %h1= heading
+  %ul.term-list
+    - for posts -> $term
+      %li
+        %a{href: "#{$term<url>}"}= $term<title>

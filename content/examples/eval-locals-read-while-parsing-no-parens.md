@@ -1,0 +1,55 @@
+---
+title: "eval/locals_read_while_parsing_no_parens.rb"
+slug: eval-locals-read-while-parsing-no-parens
+description: "The metorex example program eval/locals_read_while_parsing_no_parens.rb and its output."
+---
+
+`tests/_examples/eval/locals_read_while_parsing_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/eval/locals_read_while_parsing_no_parens.rb).
+
+```metorex
+# Code inside `#{}` and code given to `eval` is read knowing the locals of
+# the scope it runs in, so `name [1]` indexes a local named `name` rather
+# than calling a method of that name with an Array.
+def items *arguments
+  [:method, arguments]
+end
+
+p "#{items [1]}"
+items = [10, 20]
+p "#{items [1]}"
+p :"#{items [0]}"
+p /#{items [0]}/
+[3].each { |number| p "#{number [0]}" }
+
+p eval("items [1]")
+p binding.eval("items [0]")
+p Object.new.instance_eval("items [1]")
+p Class.new.class_eval("items [0]")
+
+def scoped
+  items = [3, 4]
+  binding
+end
+p eval("items [1]", scoped)
+
+def method_scope
+  "#{items [1]}"
+end
+p method_scope
+```
+
+Output:
+
+```
+"[:method, [[1]]]"
+"20"
+:"10"
+/10/
+"1"
+20
+10
+20
+10
+4
+"[:method, [[1]]]"
+```

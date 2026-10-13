@@ -1,0 +1,65 @@
+---
+title: "array_methods/pickings_and_search_no_parens.rb"
+slug: array-methods-pickings-and-search-no-parens
+description: "The metorex example program array_methods/pickings_and_search_no_parens.rb and its output."
+---
+
+`tests/_examples/array_methods/pickings_and_search_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/array_methods/pickings_and_search_no_parens.rb).
+
+```metorex
+# The ways elements can be picked out of an array, and the search that halves
+# a sorted array rather than walking it.
+numbers = [1, 2, 3, 4]
+
+p numbers.combination(2).to_a
+p numbers.combination(0).to_a
+p numbers.combination(3).size
+p numbers.permutation(2).to_a
+p numbers.permutation.size
+p numbers.repeated_combination(2).size
+p [10, 11].repeated_combination(2).to_a
+p [10, 11].repeated_permutation(2).to_a
+p [10, 11].repeated_permutation(3).size
+
+p [1, 2].product [3, 4], [5]
+p [1, 2].product
+p [1, 2].product []
+
+collected = []
+numbers.combination(2) { |pair| collected.push pair }
+p collected.size
+p numbers.combination(2) { |pair| pair }.equal? numbers
+
+sorted = [0, 1, 3, 4]
+p sorted.bsearch { |number| number >= 2 }
+p sorted.bsearch { |number| number >= 9 }
+p sorted.bsearch_index { |number| number >= 2 }
+p sorted.bsearch { |number| number <=> 3 }
+p sorted.bsearch { |number| number <=> 2 }
+p [1].bsearch.class
+```
+
+Output:
+
+```
+[[1, 2], [1, 3], [1, 4], [2, 3], [2, 4], [3, 4]]
+[[]]
+4
+[[1, 2], [1, 3], [1, 4], [2, 1], [2, 3], [2, 4], [3, 1], [3, 2], [3, 4], [4, 1], [4, 2], [4, 3]]
+24
+10
+[[10, 10], [10, 11], [11, 11]]
+[[10, 10], [10, 11], [11, 10], [11, 11]]
+8
+[[1, 3, 5], [1, 4, 5], [2, 3, 5], [2, 4, 5]]
+[[1], [2]]
+[]
+6
+true
+3
+nil
+2
+3
+nil
+Enumerator
+```

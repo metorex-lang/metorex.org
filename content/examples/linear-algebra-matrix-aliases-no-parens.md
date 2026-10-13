@@ -1,0 +1,49 @@
+---
+title: "linear_algebra/matrix_aliases_no_parens.rb"
+slug: linear-algebra-matrix-aliases-no-parens
+description: "The metorex example program linear_algebra/matrix_aliases_no_parens.rb and its output."
+---
+
+`tests/_examples/linear_algebra/matrix_aliases_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/linear_algebra/matrix_aliases_no_parens.rb).
+
+```metorex
+require "matrix"
+require "time"
+require "ostruct"
+
+# The matrix, time and ostruct libraries name some methods twice with
+# `alias`, which a Method for either name reports.
+p Matrix.instance_method(:map).original_name
+same = Matrix.instance_method(:collect) == Matrix.instance_method(:map)
+p same
+same = Matrix.method(:I) == Matrix.method(:identity)
+p same
+same = Vector.instance_method(:norm) == Vector.instance_method(:magnitude)
+p same
+square = Matrix[[1, 2], [3, 4]]
+p square.t
+p square.det
+same = Time.method(:rfc822) == Time.method(:rfc2822)
+p same
+same = Time.method(:iso8601) == Time.method(:xmlschema)
+p same
+epoch = Time.at 0
+p epoch.utc.rfc822
+same = OpenStruct.instance_method(:to_s) == OpenStruct.instance_method(:inspect)
+p same
+```
+
+Output:
+
+```
+:collect
+true
+true
+true
+Matrix[[1, 3], [2, 4]]
+-2
+true
+true
+"Thu, 01 Jan 1970 00:00:00 -0000"
+true
+```

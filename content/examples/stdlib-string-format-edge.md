@@ -1,0 +1,59 @@
+---
+title: "stdlib/string/format_edge.rb"
+slug: stdlib-string-format-edge
+description: "The metorex example program stdlib/string/format_edge.rb and its output."
+---
+
+`tests/_examples/stdlib/string/format_edge.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/string/format_edge.rb).
+
+```metorex
+# A String handed to a number directive is read the way `Integer()` reads one,
+# so the base a prefix names is the one it counts in.
+puts("%x" % "196")
+puts("%X" % "0xc4")
+puts("%o" % "0127")
+puts("%b" % "0b1010")
+
+# A String naming no number at all is refused.
+begin
+  "%x" % "hello"
+rescue ArgumentError => trouble
+  puts(trouble.message)
+end
+
+# %c names a character by its code, or takes the first of a string.
+puts("%c" % 65)
+puts("%c" % "Z")
+
+# Width with right-align (non-zero-pad)
+puts("%8s!" % "hi")
+
+# Integer format from float
+puts("%i" % 7.9)
+
+# Float with int arg
+puts("%f" % 5)
+
+# Float with precision and int
+puts("%.2f" % 5)
+
+# Trailing % is written by doubling it
+puts("test%%" % [])
+```
+
+Output:
+
+```
+c4
+C4
+127
+1010
+invalid value for Integer(): "hello"
+A
+Z
+      hi!
+7
+5.000000
+5.00
+test%
+```

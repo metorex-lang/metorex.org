@@ -2,3 +2,25 @@
   %ul.doc-nav-list
     %li
       %a{href: '/docs'} Contents
+    %li
+      %a{href: '/docs/syntax-tree-nodes'} Syntax tree nodes
+    %li
+      %a{href: '/cli'} Command line
+    %li
+      %a{href: '/rex'} Rex
+    %li
+      %a{href: '/meta'} Code as objects
+    %li
+      %a{href: '/c-extensions'} C extensions
+    %li
+      %a{href: '/stdlib'} Standard library
+    %li
+      %a{href: '/ruby-differences'} Differences from MRI
+    %li
+      %a{href: '/examples'} Examples
+  %h2.doc-nav-heading
+    %a{href: '/docs/core'} Core reference
+  %ul.doc-nav-list
+    - for data<core-reference><classes> -> $class
+      %li
+        %a{href: "#{$class<url>}"}= $class<title>

@@ -1,0 +1,46 @@
+---
+title: "oop/singleton_on_a_collection.rb"
+slug: oop-singleton-on-a-collection
+description: "The metorex example program oop/singleton_on_a_collection.rb and its output."
+---
+
+`tests/_examples/oop/singleton_on_a_collection.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/singleton_on_a_collection.rb).
+
+```metorex
+# A collection is held by reference, so each one carries methods of its own.
+held = [1, 2]
+def held.doubled
+  map { |number| number * 2 }
+end
+p(held.doubled)
+p(held.respond_to?(:doubled))
+p([1, 2].respond_to?(:doubled))
+
+# `clone` carries those methods over where `dup` leaves them behind.
+p(held.clone.respond_to?(:doubled))
+p(held.dup.respond_to?(:doubled))
+
+# A subclass of a collection answers its own methods rather than the ones
+# the collection would answer.
+class Bag < Hash
+  def size
+    77
+  end
+end
+bag = Bag.new
+bag["a"] = "b"
+p(bag.size)
+p(bag.length)
+```
+
+Output:
+
+```
+[2, 4]
+true
+false
+true
+false
+77
+1
+```

@@ -1,0 +1,40 @@
+---
+title: "oop/super/chain.rb"
+slug: oop-super-chain
+description: "The metorex example program oop/super/chain.rb and its output."
+---
+
+`tests/_examples/oop/super/chain.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/super/chain.rb).
+
+```metorex
+class GrandParent
+  def initialize
+    @level = "GrandParent"
+  end
+
+  attr_reader :level
+end
+
+class Parent < GrandParent
+  def initialize
+    super()
+    @parent_level = "Parent"
+  end
+
+  attr_reader :parent_level
+end
+
+class Child < Parent
+  def initialize
+    super()
+    @child_level = "Child"
+  end
+
+  attr_reader :child_level
+end
+
+child = Child.new
+puts child.level
+puts child.parent_level
+puts child.child_level
+```

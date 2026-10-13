@@ -1,0 +1,4 @@
+%section.page.container
+  %h1= heading
+  != render(:partial<entry>, :collection(posts), :as<entry>)
+  != pagination-html

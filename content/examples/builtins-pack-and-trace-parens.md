@@ -1,0 +1,100 @@
+---
+title: "builtins/pack_and_trace_parens.rb"
+slug: builtins-pack-and-trace-parens
+description: "The metorex example program builtins/pack_and_trace_parens.rb and its output."
+---
+
+`tests/_examples/builtins/pack_and_trace_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/pack_and_trace_parens.rb).
+
+```metorex
+# The directive machine `pack` writes with and `unpack` reads back.
+p([65, 66, 67].pack("C*"))
+p("abc".unpack("C*"))
+p("abc".unpack("C2"))
+p("ab".unpack("v"))
+p("ab".unpack("n"))
+p("ab".unpack("S<"))
+p("ab".unpack("S>"))
+p("abcdefgh".unpack("Q<"))
+p(["ab"].pack("a4").length)
+p(["ab"].pack("A4"))
+p("abc\x00def".unpack("Z*Z*"))
+p("\x80".unpack("B*"))
+p("\x8f".unpack("H2"))
+p([300].pack("w").length)
+p("abc".unpack1("C"))
+p("abcd".unpack("C3X*C"))
+p([1].pack("l!").length)
+p([1].pack("i!").length)
+
+# A character named by an escape.
+p(?\001)
+p(?\n)
+p(?\x41)
+
+# A trace is handed each event it asked for.
+seen = []
+tracer = TracePoint.new(:line) { |point| seen.push([point.event, point.lineno]) }
+p(tracer.enabled?)
+tracer.enable
+answer = 1
+tracer.disable
+p(tracer.enabled?)
+p(seen.length)
+p(seen.first[0])
+
+calls = []
+def traced_method
+  7
+end
+watcher = TracePoint.new(:call, :return) { |point| calls.push([point.event, point.method_id]) }
+watcher.enable { traced_method }
+p(calls)
+
+p(Marshal::MAJOR_VERSION)
+p(Marshal::MINOR_VERSION)
+walk = 1.upto("A")
+p(walk.class)
+begin
+  walk.size
+rescue ArgumentError => problem
+  p problem.message
+end
+p(5.upto(10).size)
+```
+
+Output:
+
+```
+"ABC"
+[97, 98, 99]
+[97, 98]
+[25185]
+[24930]
+[25185]
+[24930]
+[7523094288207667809]
+4
+"ab  "
+["abc", "def"]
+["10000000"]
+["8f"]
+2
+97
+[97, 98, 99, 99]
+8
+4
+"\u0001"
+"\n"
+"A"
+false
+false
+2
+:line
+[[:call, :traced_method], [:return, :traced_method]]
+4
+8
+Enumerator
+"comparison of Integer with \"A\" failed"
+6
+```

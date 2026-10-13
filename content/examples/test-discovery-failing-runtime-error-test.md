@@ -1,0 +1,14 @@
+---
+title: "test_discovery/failing/runtime_error_test.rb"
+slug: test-discovery-failing-runtime-error-test
+description: "The metorex example program test_discovery/failing/runtime_error_test.rb and its output."
+---
+
+`tests/_examples/test_discovery/failing/runtime_error_test.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/test_discovery/failing/runtime_error_test.rb).
+
+```metorex
+# This test file has a runtime error
+# It should be discovered but fail at runtime
+
+assert_equal(1, 2)
+```

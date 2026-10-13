@@ -1,0 +1,199 @@
+---
+title: "Kernel"
+slug: kernel
+description: "The methods ruby/spec describes in core/kernel, and which Metorex implements."
+---
+
+ruby/spec describes 189 methods in `core/kernel`, and Metorex implements 173 of them. The parameters are what `Method#parameters` answers under Metorex.
+
+- **`Kernel#!~`**: implemented, parameters `[[:req]]`.
+- **`Kernel#<=>`**: implemented, parameters `[[:req]]`.
+- **`Kernel#==`**: implemented, parameters `[[:req]]`.
+- **`Kernel#===`**: implemented, parameters `[[:req]]`.
+- **`Kernel#=~`**: not implemented.
+- **`Kernel#Array`**: implemented, parameters `[[:req]]`. Returns an array converted from `object`.
+- **`Kernel.Array`**: implemented, parameters `[[:req]]`. Returns an array converted from `object`.
+- **`Kernel#Complex`**: implemented, parameters `[[:rest]]`. Returns a new Complex object if the arguments are valid; otherwise raises an exception if `exception` is `true`; otherwise returns `nil`.
+- **`Kernel.Complex`**: implemented, parameters `[[:rest]]`. Returns a new Complex object if the arguments are valid; otherwise raises an exception if `exception` is `true`; otherwise returns `nil`.
+- **`Kernel#Float`**: implemented, parameters `[[:rest, :args]]`. Returns *arg* converted to a float.
+- **`Kernel.Float`**: implemented, parameters `[[:req, :args]]`. Returns *arg* converted to a float.
+- **`Kernel#Hash`**: implemented, parameters `[[:req]]`. Returns a hash converted from `object`.
+- **`Kernel.Hash`**: implemented, parameters `[[:req]]`. Returns a hash converted from `object`.
+- **`Kernel#Integer`**: implemented, parameters `[[:rest, :args]]`. Returns an integer converted from `object`.
+- **`Kernel.Integer`**: implemented, parameters `[[:req, :args]]`. Returns an integer converted from `object`.
+- **`Kernel#Rational`**: implemented, parameters `[[:rest]]`. Returns <code>x/y</code> or `arg` as a Rational.
+- **`Kernel.Rational`**: implemented, parameters `[[:rest]]`. Returns <code>x/y</code> or `arg` as a Rational.
+- **`Kernel#String`**: implemented, parameters `[[:req]]`. Returns a string converted from `object`.
+- **`Kernel.String`**: implemented, parameters `[[:req]]`. Returns a string converted from `object`.
+- **`Kernel#__callee__`**: implemented, parameters `[]`. Returns the called name of the current method as a Symbol.
+- **`Kernel.__callee__`**: implemented, parameters `[]`. Returns the called name of the current method as a Symbol.
+- **`Kernel#__dir__`**: implemented, parameters `[]`. Returns the canonicalized absolute path of the directory of the file from which this method is called.
+- **`Kernel.__dir__`**: implemented, parameters `[]`. Returns the canonicalized absolute path of the directory of the file from which this method is called.
+- **`Kernel#__method__`**: implemented, parameters `[]`. Returns the name at the definition of the current method as a Symbol.
+- **`Kernel.__method__`**: implemented, parameters `[]`. Returns the name at the definition of the current method as a Symbol.
+- **`` Kernel#` ``**: implemented, parameters `[[:req]]`. Returns the <code>$stdout</code> output from running `command` in a subshell; sets global variable <code>$?</code> to the process status.
+- **`` Kernel.` ``**: implemented, parameters `[[:req]]`. Returns the <code>$stdout</code> output from running `command` in a subshell; sets global variable <code>$?</code> to the process status.
+- **`Kernel#abort`**: implemented, parameters `[[:rest]]`. Terminates execution immediately, effectively by calling <code>Kernel.exit(false)</code>. [An example calling it](/examples/errors-abort-rescued).
+- **`Kernel.abort`**: implemented, parameters `[[:rest]]`. Terminates execution immediately, effectively by calling <code>Kernel.exit(false)</code>. [An example calling it](/examples/errors-abort-rescued).
+- **`Kernel#at_exit`**: implemented, parameters `[]`. Converts *block* to a `Proc` object (and therefore binds it at the point of call) and registers it for execution when the program exits.
+- **`Kernel.at_exit`**: implemented, parameters `[]`. Converts *block* to a `Proc` object (and therefore binds it at the point of call) and registers it for execution when the program exits.
+- **`Kernel#autoload`**: implemented, parameters `[[:req], [:req]]`. Registers *filename* to be loaded (using Kernel::require) the first time that *const* (which may be a String or a symbol) is accessed. [An example calling it](/examples/oop-autoload-during-test).
+- **`Kernel.autoload`**: implemented, parameters `[[:req], [:req]]`. Registers *filename* to be loaded (using Kernel::require) the first time that *const* (which may be a String or a symbol) is accessed. [An example calling it](/examples/require-autoload-in-a-module).
+- **`Kernel#autoload?`**: implemented, parameters `[[:rest]]`. Returns *filename* to be loaded if *name* is registered as `autoload` in the current namespace or one of its ancestors. [An example calling it](/examples/c-extensions-c-modules).
+- **`Kernel.autoload?`**: implemented, parameters `[[:rest]]`. Returns *filename* to be loaded if *name* is registered as `autoload` in the current namespace or one of its ancestors. [An example calling it](/examples/require-kernel-autoload-receiver).
+- **`Kernel#autoload_relative`**: not implemented.
+- **`Kernel.autoload_relative`**: not implemented.
+- **`Kernel#binding`**: implemented, parameters `[]`. Returns a Binding object, describing the variable and method bindings at the point of call. [An example calling it](/examples/callables-curried-shapes).
+- **`Kernel.binding`**: implemented, parameters `[]`. Returns a Binding object, describing the variable and method bindings at the point of call. [An example calling it](/examples/introspection-binding-context).
+- **`Kernel#block_given?`**: implemented, parameters `[]`. Returns `true` if `yield` would execute a block in the current context. [An example calling it](/examples/introspection-block-given-context).
+- **`Kernel.block_given?`**: implemented, parameters `[]`. Returns `true` if `yield` would execute a block in the current context. [An example calling it](/examples/introspection-block-given-context).
+- **`Kernel#caller`**: implemented, parameters `[[:rest]]`. Returns the current execution stack---an array containing strings in the form <code>file:line</code> or <code>file:line: in `method'</code>.
+- **`Kernel.caller`**: implemented, parameters `[[:rest]]`. Returns the current execution stack---an array containing strings in the form <code>file:line</code> or <code>file:line: in `method'</code>.
+- **`Kernel#caller_locations`**: implemented, parameters `[[:rest]]`. Returns the current execution stack---an array containing backtrace location objects.
+- **`Kernel.caller_locations`**: implemented, parameters `[[:rest]]`. Returns the current execution stack---an array containing backtrace location objects.
+- **`Kernel#catch`**: implemented, parameters `[[:rest]]`. `catch` executes its block.
+- **`Kernel.catch`**: implemented, parameters `[[:rest]]`. `catch` executes its block.
+- **`Kernel#chomp`**: implemented, parameters `[[:rest, :args]]`. Equivalent to <code>$_ = $_.chomp(<em>string</em>)</code>. [An example calling it](/examples/advanced-threads-that-wait).
+- **`Kernel.chomp`**: implemented, parameters `[[:req, :args]]`. Equivalent to <code>$_ = $_.chomp(<em>string</em>)</code>. [An example calling it](/examples/runtime-dash-n-chomp).
+- **`Kernel#chop`**: implemented, parameters `[[:rest, :args]]`. Equivalent to <code>($_.dup).chop!</code>, except `nil` is never returned. [An example calling it](/examples/stdlib-string-character-sets).
+- **`Kernel.chop`**: implemented, parameters `[[:req, :args]]`. Equivalent to <code>($_.dup).chop!</code>, except `nil` is never returned.
+- **`Kernel#class`**: implemented, parameters `[[:rest, :args]]`. Returns the class of *obj*. [An example calling it](/examples/addresses-internet-addresses).
+- **`Kernel#clone`**: implemented, parameters `[[:rest, :args]]`. Produces a shallow copy of *obj*---the instance variables of *obj* are copied, but not the objects they reference. [An example calling it](/examples/basics-complexes-protocol).
+- **`Kernel#define_singleton_method`**: implemented, parameters `[[:rest]]`. [An example calling it](/examples/builtins-defined-forms).
+- **`Kernel#display`**: implemented, parameters `[[:rest]]`. [An example calling it](/examples/metaprogramming-advanced-method-chaining-dsl).
+- **`Kernel#dup`**: implemented, parameters `[]`. [An example calling it](/examples/addresses-sockets-of-every-kind).
+- **`Kernel#enum_for`**: implemented, parameters `[[:rest]]`. [An example calling it](/examples/builtins-enumerator-stepping).
+- **`Kernel#eql?`**: implemented, parameters `[[:req]]`. [An example calling it](/examples/array-methods-difference-of-structs).
+- **`Kernel#eval`**: implemented, parameters `[[:rest]]`. Evaluates the Ruby expression(s) in *string*. [An example calling it](/examples/c-extensions-c-debug).
+- **`Kernel.eval`**: implemented, parameters `[[:rest]]`. Evaluates the Ruby expression(s) in *string*. [An example calling it](/examples/eval-eval-scope-and-returns).
+- **`Kernel#exec`**: implemented, parameters `[[:rest]]`. Replaces the current process by doing one of the following: [An example calling it](/examples/require-gem-home-gems-bundler-4-0-19-lib-bundler).
+- **`Kernel.exec`**: implemented, parameters `[[:rest]]`. Replaces the current process by doing one of the following: [An example calling it](/examples/require-gem-home-gems-bundler-4-0-19-lib-bundler).
+- **`Kernel#exit`**: implemented, parameters `[[:rest]]`. Initiates termination of the Ruby script by raising SystemExit; the exception may be caught. [An example calling it](/examples/errors-exit-status-coercion).
+- **`Kernel.exit`**: implemented, parameters `[[:rest]]`. Initiates termination of the Ruby script by raising SystemExit; the exception may be caught. [An example calling it](/examples/errors-exit-status-coercion).
+- **`Kernel#exit!`**: implemented, parameters `[[:rest]]`. Exits the process immediately; no exit handlers are called. [An example calling it](/examples/runtime-fork-child-process).
+- **`Kernel.exit!`**: implemented, parameters `[[:rest]]`. Exits the process immediately; no exit handlers are called.
+- **`Kernel#extend`**: implemented, parameters `[[:rest]]`. [An example calling it](/examples/c-extensions-c-objects).
+- **`Kernel#fail`**: implemented, parameters `[[:rest]]`. Raises an exception; see Exceptions.
+- **`Kernel.fail`**: implemented, parameters `[[:rest]]`. Raises an exception; see Exceptions.
+- **`Kernel#fork`**: implemented, parameters `[]`. Creates a child process.
+- **`Kernel.fork`**: implemented, parameters `[]`. Creates a child process.
+- **`Kernel#format`**: implemented, parameters `[[:rest]]`. Returns the string resulting from formatting `objects` into `format_string`. [An example calling it](/examples/errors-private-kernel-calls).
+- **`Kernel.format`**: implemented, parameters `[[:rest]]`. Returns the string resulting from formatting `objects` into `format_string`. [An example calling it](/examples/stdlib-string-format-keywords).
+- **`Kernel#freeze`**: implemented, parameters `[]`. [An example calling it](/examples/builtins-core-state-and-time).
+- **`Kernel#frozen?`**: implemented, parameters `[[:rest, :args]]`. Returns the freeze status of *obj*. [An example calling it](/examples/basics-imaginary-literals).
+- **`Kernel#gets`**: implemented, parameters `[[:rest]]`. Returns (and assigns to <code>$_</code>) the next line from the list of files in `ARGV` (or <code>$*</code>), or from standard input if no files are present on the command line. [An example calling it](/examples/addresses-sockets-of-every-kind).
+- **`Kernel.gets`**: implemented, parameters `[[:rest]]`. Returns (and assigns to <code>$_</code>) the next line from the list of files in `ARGV` (or <code>$*</code>), or from standard input if no files are present on the command line.
+- **`Kernel#global_variables`**: implemented, parameters `[]`. Returns an array of the names of global variables.
+- **`Kernel.global_variables`**: implemented, parameters `[]`. Returns an array of the names of global variables.
+- **`Kernel#gsub`**: not implemented. Equivalent to <code>$_.gsub...</code>, except that <code>$_</code> will be updated if substitution occurs. [An example calling it](/examples/builtins-operators-by-name).
+- **`Kernel#gsub!`**: not implemented. [An example calling it](/examples/require-gem-home-gems-bundler-4-0-19-lib-bundler-definition).
+- **`Kernel.gsub!`**: not implemented.
+- **`Kernel#hash`**: implemented, parameters `[]`. Returns a hash converted from `object`. [An example calling it](/examples/array-methods-difference-of-structs).
+- **`Kernel#initialize_clone`**: implemented, parameters `[[:rest]]`.
+- **`Kernel#initialize_copy`**: implemented, parameters `[[:req]]`.
+- **`Kernel#initialize_dup`**: implemented, parameters `[[:req]]`.
+- **`Kernel#inspect`**: implemented, parameters `[]`. [An example calling it](/examples/addresses-internet-addresses).
+- **`Kernel#instance_of?`**: implemented, parameters `[[:req]]`. [An example calling it](/examples/builtins-encoding-converter-converting).
+- **`Kernel#instance_variable_defined?`**: implemented, parameters `[[:req]]`. [An example calling it](/examples/introspection-instance-variable-queries).
+- **`Kernel#instance_variable_get`**: implemented, parameters `[[:req]]`. [An example calling it](/examples/builtins-operators-coverage).
+- **`Kernel#instance_variable_set`**: implemented, parameters `[[:req], [:req]]`. [An example calling it](/examples/builtins-string-variables-after-free).
+- **`Kernel#instance_variables`**: implemented, parameters `[]`. [An example calling it](/examples/builtins-string-variables-after-free).
+- **`Kernel#is_a?`**: implemented, parameters `[[:req]]`. [An example calling it](/examples/basics-floats-numeric-protocol).
+- **`Kernel#itself`**: implemented, parameters `[]`. [An example calling it](/examples/introspection-itself).
+- **`Kernel#kind_of?`**: implemented, parameters `[[:req]]`. [An example calling it](/examples/builtins-type-introspection).
+- **`Kernel#lambda`**: implemented, parameters `[]`. Equivalent to Proc.new, except the resulting Proc objects check the number of parameters passed when called.
+- **`Kernel.lambda`**: implemented, parameters `[]`. Equivalent to Proc.new, except the resulting Proc objects check the number of parameters passed when called.
+- **`Kernel#load`**: implemented, parameters `[[:rest]]`. Loads and executes the Ruby program in the file *filename*. [An example calling it](/examples/c-extensions-c-calls).
+- **`Kernel.load`**: implemented, parameters `[[:rest]]`. Loads and executes the Ruby program in the file *filename*. [An example calling it](/examples/require-gem-home-gems-bundler-4-0-19-lib-bundler-cli-exec).
+- **`Kernel#local_variables`**: implemented, parameters `[]`. Returns the names of the current local variables. [An example calling it](/examples/c-extensions-c-debug).
+- **`Kernel.local_variables`**: implemented, parameters `[]`. Returns the names of the current local variables.
+- **`Kernel#loop`**: implemented, parameters `[[:rest, :args]]`. Repeatedly executes the block.
+- **`Kernel.loop`**: implemented, parameters `[[:req, :args]]`. Repeatedly executes the block.
+- **`Kernel#method`**: implemented, parameters `[[:req]]`. [An example calling it](/examples/array-methods-rfind).
+- **`Kernel#methods`**: implemented, parameters `[[:rest]]`. [An example calling it](/examples/dsl-eval-define-method).
+- **`Kernel#nil?`**: implemented, parameters `[]`. [An example calling it](/examples/advanced-block-param-inspect).
+- **`Kernel#object_id`**: implemented, parameters `[]`. [An example calling it](/examples/builtins-string-encodings).
+- **`Kernel#open`**: implemented, parameters `[[:rest]]`. Creates an IO object connected to the given file. [An example calling it](/examples/addresses-streams-over-a-path).
+- **`Kernel.open`**: implemented, parameters `[[:rest]]`. Creates an IO object connected to the given file.
+- **`Kernel#p`**: implemented, parameters `[[:rest]]`. For each object `obj`, executes:
+- **`Kernel.p`**: implemented, parameters `[[:rest]]`. For each object `obj`, executes:
+- **`Kernel#pp`**: implemented, parameters `[[:rest, :args]]`. prints arguments in pretty form. [An example calling it](/examples/require-gem-home-gems-bundler-4-0-19-lib-bundler-vendor-pub-grub-lib-pub-grub-incompatibility).
+- **`Kernel#print`**: implemented, parameters `[[:rest]]`. Equivalent to <code>$stdout.print(*objects)</code>, this method is the straightforward way to write to <code>$stdout</code>. [An example calling it](/examples/array-methods-fetch-warnings).
+- **`Kernel.print`**: implemented, parameters `[[:rest]]`. Equivalent to <code>$stdout.print(*objects)</code>, this method is the straightforward way to write to <code>$stdout</code>.
+- **`Kernel#printf`**: implemented, parameters `[[:rest]]`. Equivalent to: [An example calling it](/examples/require-gem-home-gems-bundler-4-0-19-lib-bundler-vendor-thor-lib-thor-shell-column-printer).
+- **`Kernel.printf`**: implemented, parameters `[[:rest]]`. Equivalent to: [An example calling it](/examples/stdlib-string-stringio-printf).
+- **`Kernel#private_methods`**: implemented, parameters `[[:rest]]`. [An example calling it](/examples/globals-toplevel-binding-receiver).
+- **`Kernel#proc`**: implemented, parameters `[]`. Equivalent to Proc.new. [An example calling it](/examples/require-gem-home-gems-bundler-4-0-19-lib-bundler).
+- **`Kernel.proc`**: implemented, parameters `[]`. Equivalent to Proc.new.
+- **`Kernel#protected_methods`**: implemented, parameters `[[:rest]]`. [An example calling it](/examples/introspection-protected-methods).
+- **`Kernel#public_method`**: implemented, parameters `[[:req]]`. [An example calling it](/examples/errors-eval-and-internal-frames).
+- **`Kernel#public_methods`**: implemented, parameters `[[:rest]]`. [An example calling it](/examples/cli-flags-line-loop-methods).
+- **`Kernel#public_send`**: implemented, parameters `[[:rest]]`. [An example calling it](/examples/builtins-operators-by-name).
+- **`Kernel#putc`**: implemented, parameters `[[:req, :held]]`. Equivalent to: [An example calling it](/examples/stdlib-libraries-shipped-libraries).
+- **`Kernel.putc`**: implemented, parameters `[[:req, :held]]`. Equivalent to:
+- **`Kernel#puts`**: implemented, parameters `[[:rest]]`. Equivalent to `$stdout.puts(objects)`. [An example calling it](/examples/addresses-sockets-of-every-kind).
+- **`Kernel.puts`**: implemented, parameters `[[:rest]]`. Equivalent to `$stdout.puts(objects)`.
+- **`Kernel#raise`**: implemented, parameters `[[:rest]]`. Raises an exception; see Exceptions. [An example calling it](/examples/advanced-fibers-that-schedule).
+- **`Kernel.raise`**: implemented, parameters `[[:rest]]`. Raises an exception; see Exceptions. [An example calling it](/examples/errors-cause-chain).
+- **`Kernel#rand`**: implemented, parameters `[[:rest]]`. If called without an argument, or if <code>max.to_i.abs == 0</code>, rand returns a pseudo-random floating point number between 0.0 and 1.0, including 0.0 and excluding 1.0. [An example calling it](/examples/array-methods-conversion-and-draws).
+- **`Kernel.rand`**: implemented, parameters `[[:rest]]`. If called without an argument, or if <code>max.to_i.abs == 0</code>, rand returns a pseudo-random floating point number between 0.0 and 1.0, including 0.0 and excluding 1.0. [An example calling it](/examples/builtins-random-source-generator).
+- **`Kernel#readline`**: implemented, parameters `[[:rest]]`. Equivalent to method Kernel#gets, except that it raises an exception if called at end-of-stream: [An example calling it](/examples/advanced-threads-wait-on-streams).
+- **`Kernel.readline`**: implemented, parameters `[[:rest]]`. Equivalent to method Kernel#gets, except that it raises an exception if called at end-of-stream:
+- **`Kernel#readlines`**: implemented, parameters `[[:rest]]`. Returns an array containing the lines returned by calling Kernel#gets until the end-of-stream is reached; (see Line IO). [An example calling it](/examples/advanced-threads-wait-on-streams).
+- **`Kernel.readlines`**: implemented, parameters `[[:rest]]`. Returns an array containing the lines returned by calling Kernel#gets until the end-of-stream is reached; (see Line IO).
+- **`Kernel#remove_instance_variable`**: implemented, parameters `[[:req]]`. [An example calling it](/examples/introspection-remove-instance-variable).
+- **`Kernel#require`**: implemented, parameters `[[:req]]`. When RubyGems is required, Kernel#require is replaced with our own which is capable of loading gems on demand. [An example calling it](/examples/require-gem-home-gems-bundler-4-0-19-lib-bundler).
+- **`Kernel.require`**: implemented, parameters `[[:req]]`. When RubyGems is required, Kernel#require is replaced with our own which is capable of loading gems on demand. [An example calling it](/examples/require-gem-home-gems-bundler-4-0-19-lib-bundler).
+- **`Kernel#require_relative`**: implemented, parameters `[[:req]]`. Ruby tries to load the library named *string* relative to the directory containing the requiring file.
+- **`Kernel.require_relative`**: implemented, parameters `[[:req]]`. Ruby tries to load the library named *string* relative to the directory containing the requiring file.
+- **`Kernel#respond_to?`**: implemented, parameters `[[:rest]]`. [An example calling it](/examples/basics-complexes-protocol).
+- **`Kernel#respond_to_missing?`**: implemented, parameters `[[:req], [:req]]`. [An example calling it](/examples/introspection-respond-to-missing).
+- **`Kernel#select`**: implemented, parameters `[[:opt, :readers], [:opt, :writers], [:opt, :errored], [:opt, :timeout]]`. Invokes system call [select(2)](https://linux.die.net/man/2/select), which monitors multiple file descriptors, waiting until one or more of the file descriptors becomes ready for some class of I/O operation. [An example calling it](/examples/addresses-uniform-resources).
+- **`Kernel.select`**: implemented, parameters `[[:opt, :readers], [:opt, :writers], [:opt, :errored], [:opt, :timeout]]`. Invokes system call [select(2)](https://linux.die.net/man/2/select), which monitors multiple file descriptors, waiting until one or more of the file descriptors becomes ready for some class of I/O operation.
+- **`Kernel#send`**: implemented, parameters `[[:rest]]`. [An example calling it](/examples/addresses-sockets-of-every-kind).
+- **`Kernel#set_trace_func`**: implemented, parameters `[[:req, :callable]]`. Establishes *proc* as the handler for tracing, or disables tracing if the parameter is `nil`.
+- **`Kernel.set_trace_func`**: implemented, parameters `[[:req, :callable]]`. Establishes *proc* as the handler for tracing, or disables tracing if the parameter is `nil`.
+- **`Kernel#singleton_class`**: implemented, parameters `[]`. [An example calling it](/examples/basics-warn-categories).
+- **`Kernel#singleton_method`**: implemented, parameters `[[:req]]`. [An example calling it](/examples/introspection-singleton-method).
+- **`Kernel#singleton_methods`**: implemented, parameters `[[:rest]]`. [An example calling it](/examples/constants-def-on-constant-in-block-class-body).
+- **`Kernel#sleep`**: implemented, parameters `[[:rest]]`. Suspends execution of the current thread for the number of seconds specified by numeric argument `secs`, or forever if `secs` is `nil`; returns the integer number of seconds suspended (rounded). [An example calling it](/examples/require-gem-home-gems-bundler-4-0-19-lib-bundler-retry).
+- **`Kernel.sleep`**: implemented, parameters `[[:rest]]`. Suspends execution of the current thread for the number of seconds specified by numeric argument `secs`, or forever if `secs` is `nil`; returns the integer number of seconds suspended (rounded). [An example calling it](/examples/require-gem-home-gems-bundler-4-0-19-lib-bundler-retry).
+- **`Kernel#spawn`**: implemented, parameters `[[:rest]]`. Creates a new child process by doing one of the following in that process: [An example calling it](/examples/fibers-scheduler-hooks).
+- **`Kernel.spawn`**: implemented, parameters `[[:rest]]`. Creates a new child process by doing one of the following in that process:
+- **`Kernel#sprintf`**: implemented, parameters `[[:rest]]`. Returns the string resulting from formatting `objects` into `format_string`.
+- **`Kernel.sprintf`**: implemented, parameters `[[:rest]]`. Returns the string resulting from formatting `objects` into `format_string`.
+- **`Kernel#srand`**: implemented, parameters `[[:rest]]`. Seeds the system pseudo-random number generator, with `number`. [An example calling it](/examples/builtins-random-source-generator).
+- **`Kernel.srand`**: implemented, parameters `[[:rest]]`. Seeds the system pseudo-random number generator, with `number`. [An example calling it](/examples/builtins-random-source-generator).
+- **`Kernel#sub`**: not implemented. Equivalent to <code>$_.sub(<i>args</i>)</code>, except that <code>$_</code> will be updated if substitution occurs. [An example calling it](/examples/array-methods-fetch-warnings).
+- **`Kernel.sub`**: not implemented. Equivalent to <code>$_.sub(<i>args</i>)</code>, except that <code>$_</code> will be updated if substitution occurs.
+- **`Kernel#sub!`**: not implemented. [An example calling it](/examples/require-gem-home-gems-bundler-4-0-19-lib-bundler-env).
+- **`Kernel.sub!`**: not implemented.
+- **`Kernel#syscall`**: implemented, parameters `[[:rest, :args]]`. Invokes Posix system call [syscall(2)](https://linux.die.net/man/2/syscall), which calls a specified function.
+- **`Kernel.syscall`**: implemented, parameters `[[:rest, :args]]`. Invokes Posix system call [syscall(2)](https://linux.die.net/man/2/syscall), which calls a specified function.
+- **`Kernel#system`**: implemented, parameters `[[:rest]]`. Creates a new child process by doing one of the following in that process: [An example calling it](/examples/require-gem-home-gems-bundler-4-0-19-lib-bundler).
+- **`Kernel.system`**: implemented, parameters `[[:rest]]`. Creates a new child process by doing one of the following in that process: [An example calling it](/examples/require-gem-home-gems-bundler-4-0-19-lib-bundler).
+- **`Kernel#taint`**: not implemented.
+- **`Kernel#tainted?`**: not implemented.
+- **`Kernel#tap`**: implemented, parameters `[]`. Yields self to the block and then returns self. [An example calling it](/examples/advanced-threads-wait-on-streams).
+- **`Kernel#test`**: implemented, parameters `[[:req, :command], [:req, :first], [:opt, :second]]`. Performs a test on one or both of the *filesystem entities* at the given paths `path0` and `path1`: [An example calling it](/examples/dsl-test-framework).
+- **`Kernel.test`**: implemented, parameters `[[:req, :command], [:req, :first], [:opt, :second]]`. Performs a test on one or both of the *filesystem entities* at the given paths `path0` and `path1`:
+- **`Kernel#then`**: implemented, parameters `[[:rest, :args]]`. Yields self to the block and returns the result of the block. [An example calling it](/examples/backtraces-chained-call-line).
+- **`Kernel#throw`**: implemented, parameters `[[:rest]]`. Transfers control to the end of the active `catch` block waiting for *tag*.
+- **`Kernel.throw`**: implemented, parameters `[[:rest]]`. Transfers control to the end of the active `catch` block waiting for *tag*.
+- **`Kernel#to_enum`**: implemented, parameters `[[:rest]]`. [An example calling it](/examples/builtins-enumerator-stepping).
+- **`Kernel#to_s`**: implemented, parameters `[]`. [An example calling it](/examples/addresses-internet-addresses).
+- **`Kernel#trace_var`**: implemented, parameters `[[:rest]]`. Controls tracing of assignments to global variables.
+- **`Kernel.trace_var`**: implemented, parameters `[[:rest]]`. Controls tracing of assignments to global variables.
+- **`Kernel#trap`**: implemented, parameters `[[:rest]]`. Specifies the handling of signals. [An example calling it](/examples/c-extensions-c-threads).
+- **`Kernel.trap`**: implemented, parameters `[[:rest]]`. Specifies the handling of signals.
+- **`Kernel#trust`**: not implemented.
+- **`Kernel#untaint`**: not implemented. [An example calling it](/examples/require-gem-home-gems-bundler-4-0-19-lib-bundler-vendor-fileutils-lib-fileutils).
+- **`Kernel#untrace_var`**: implemented, parameters `[[:rest]]`. Removes tracing for the specified command on the given global variable and returns `nil`.
+- **`Kernel.untrace_var`**: implemented, parameters `[[:rest]]`. Removes tracing for the specified command on the given global variable and returns `nil`.
+- **`Kernel#untrust`**: not implemented.
+- **`Kernel#untrusted?`**: not implemented.
+- **`Kernel#warn`**: implemented, parameters `[[:rest, :msgs], [:key, :uplevel], [:key, :category]]`. If warnings have been disabled (for example with the <code>-W0</code> flag), does nothing. [An example calling it](/examples/array-methods-fetch-warnings).
+- **`Kernel.warn`**: implemented, parameters `[[:rest, :messages]]`. If warnings have been disabled (for example with the <code>-W0</code> flag), does nothing. [An example calling it](/examples/rex-mocks-verified-partials-spec-core-class-methods-spec).
+- **`Kernel#yield_self`**: implemented, parameters `[[:rest, :args]]`. Yields self to the block and returns the result of the block. [An example calling it](/examples/basics-then-yield-self-tap).
+
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).

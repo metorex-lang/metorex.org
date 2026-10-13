@@ -1,0 +1,45 @@
+---
+title: "stdlib/file_and_string_reads.rb"
+slug: stdlib-file-and-string-reads
+description: "The metorex example program stdlib/file_and_string_reads.rb and its output."
+---
+
+`tests/_examples/stdlib/file_and_string_reads.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/file_and_string_reads.rb).
+
+```metorex
+path = "/tmp/metorex_example_lines.txt"
+File.open(path, "w") do |file|
+  file.puts "alpha"
+  file.puts "beta"
+end
+
+collected = []
+File.open(path) do |file|
+  file.each_line do |line|
+    collected << line.chomp!
+  end
+end
+puts collected.inspect
+
+File.open(path) do |file|
+  puts file.readlines.length.inspect
+end
+
+File.open(path) do |file|
+  puts file.read.length.inspect
+end
+
+words = ["alpha", "beta"]
+puts words.find { |word| word.start_with?("b") }.inspect
+puts words.detect { |word| word.start_with?("z") }.inspect
+```
+
+Output:
+
+```
+["alpha", "beta"]
+2
+11
+"beta"
+nil
+```

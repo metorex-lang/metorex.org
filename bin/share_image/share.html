@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Metorex share image</title>
+<style>
+  @font-face { font-family: 'Space Grotesk'; src: url('../../static/fonts/space-grotesk-latin-wght-normal.woff2') format('woff2'); font-weight: 300 700; }
+  @font-face { font-family: 'Inter'; src: url('../../static/fonts/inter-latin-wght-normal.woff2') format('woff2'); font-weight: 100 900; }
+  html, body { margin: 0; width: 1200px; height: 630px; overflow: hidden; }
+  body {
+    display: flex;
+    align-items: center;
+    gap: 64px;
+    padding: 0 96px;
+    box-sizing: border-box;
+    background: radial-gradient(circle at 20% 30%, #e8433a2e, transparent 55%), radial-gradient(circle at 85% 80%, #ff8a3d24, transparent 50%), #0e0c0b;
+    color: #e6dfda;
+    font-family: 'Inter', system-ui, sans-serif;
+  }
+  img { width: 240px; height: 240px; flex: none; }
+  h1 {
+    margin: 0 0 20px;
+    font-family: 'Space Grotesk', system-ui, sans-serif;
+    font-size: 120px;
+    font-weight: 700;
+    letter-spacing: -2px;
+    background: linear-gradient(90deg, #e8433a, #ff8a3d);
+    -webkit-background-clip: text;
+    color: transparent;
+  }
+  p { margin: 0; font-size: 40px; line-height: 1.3; color: #faf6f3; }
+  .site { margin-top: 28px; font-size: 28px; color: #8a7f78; }
+</style>
+</head>
+<body>
+  <img src="../../static/favicon.svg" alt="">
+  <div>
+    <h1>Metorex</h1>
+    <p>A Ruby interpreter written in Rust</p>
+    <p class="site">metorex.org</p>
+  </div>
+</body>
+</html>

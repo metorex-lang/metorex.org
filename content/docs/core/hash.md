@@ -1,0 +1,91 @@
+---
+title: "Hash"
+slug: hash
+description: "The methods ruby/spec describes in core/hash, and which Metorex implements."
+---
+
+ruby/spec describes 81 methods in `core/hash`, and Metorex implements 81 of them. The parameters are what `Method#parameters` answers under Metorex.
+
+- **`Hash#<`**: implemented, parameters `[[:req]]`. Returns whether the entries of `self` are a proper subset of the entries of `other`:
+- **`Hash#<=`**: implemented, parameters `[[:req]]`. Returns whether the entries of `self` are a subset of the entries of `other`:
+- **`Hash#==`**: implemented, parameters `[[:req]]`. Returns whether `self` and `object` are equal.
+- **`Hash#>`**: implemented, parameters `[[:req]]`. Returns `true` if the entries of `self` are a proper superset of the entries of `other_hash`, `false` otherwise:
+- **`Hash#>=`**: implemented, parameters `[[:req]]`. Returns `true` if the entries of `self` are a superset of the entries of `other_hash`, `false` otherwise:
+- **`Hash#[]`**: implemented, parameters `[[:req]]`. Searches for a hash key equivalent to the given `key`; see Hash Key Equivalence.
+- **`Hash.[]`**: implemented, parameters `[[:req, :args]]`. Returns a new Hash object populated with the given objects, if any.
+- **`Hash#[]=`**: implemented, parameters `[[:req], [:req]]`. Associates the given `object` with the given `key`; returns `object`.
+- **`Hash.allocate`**: implemented, parameters `[[:req, :args]]`. [An example calling it](/examples/sets-membership-and-allocation).
+- **`Hash#any?`**: implemented, parameters `[[:rest, :pattern]]`. Returns `true` if any element satisfies a given criterion; `false` otherwise. [An example calling it](/examples/hash-methods-lookup-and-transform).
+- **`Hash#assoc`**: implemented, parameters `[[:req]]`. If the given `key` is found, returns its entry as a 2-element array containing that key and its value: [An example calling it](/examples/hash-methods-key-identity-and-hashing).
+- **`Hash#clear`**: implemented, parameters `[]`. Removes all entries from `self`; returns emptied `self`. [An example calling it](/examples/hash-methods-lookup-and-transform).
+- **`Hash#clone`**: implemented, parameters `[[:rest, :args]]`. Produces a shallow copy of *obj*---the instance variables of *obj* are copied, but not the objects they reference. [An example calling it](/examples/hash-methods-string-keys-in-copies).
+- **`Hash#compact`**: implemented, parameters `[]`. Returns a copy of `self` with all `nil`-valued entries removed: [An example calling it](/examples/hash-methods-lookup-and-transform).
+- **`Hash#compact!`**: implemented, parameters `[]`. If `self` contains any `nil`-valued entries, returns `self` with all `nil`-valued entries removed; returns `nil` otherwise: [An example calling it](/examples/hash-methods-keys-and-merging).
+- **`Hash#compare_by_identity`**: implemented, parameters `[]`. Sets `self` to compare keys using *identity* (rather than mere *equality*); returns `self`: [An example calling it](/examples/hash-methods-key-identity-and-hashing).
+- **`Hash#compare_by_identity?`**: implemented, parameters `[]`. Returns whether #compare_by_identity has been called: [An example calling it](/examples/hash-methods-keys-and-merging).
+- **`Hash#deconstruct_keys`**: implemented, parameters `[[:req, :keys]]`. [An example calling it](/examples/data-objects-data-member-keys).
+- **`Hash#default`**: implemented, parameters `[[:rest]]`. Returns the default value for the given `key`. [An example calling it](/examples/hash-methods-keys-and-merging).
+- **`Hash#default=`**: implemented, parameters `[[:req]]`. Sets the default value to `value`; returns `value`:
+- **`Hash#default_proc`**: implemented, parameters `[]`. Returns the default proc for `self` (see Hash Default): [An example calling it](/examples/hash-methods-keys-and-merging).
+- **`Hash#default_proc=`**: implemented, parameters `[[:req]]`. Sets the default proc for `self` to `proc` (see Hash Default):
+- **`Hash#delete`**: implemented, parameters `[[:req]]`. If an entry for the given `key` is found, deletes the entry and returns its associated value; otherwise returns `nil` or calls the given block. [An example calling it](/examples/hash-methods-misses-compare-within-a-hash).
+- **`Hash#delete_if`**: implemented, parameters `[]`. With a block given, calls the block with each key-value pair, deletes each entry for which the block returns a truthy value, and returns `self`: [An example calling it](/examples/data-structures-arrays-searching).
+- **`Hash#dig`**: implemented, parameters `[[:rest]]`. Finds and returns an object found in nested objects, as specified by `key` and `identifiers`. [An example calling it](/examples/oop-struct-basics).
+- **`Hash#each`**: implemented, parameters `[]`. With a block given, calls the block with each key-value pair; returns `self`: [An example calling it](/examples/hash-methods-keys-and-merging).
+- **`Hash#each_key`**: implemented, parameters `[]`. With a block given, calls the block with each key; returns `self`: [An example calling it](/examples/hash-methods-lookup-and-transform).
+- **`Hash#each_pair`**: implemented, parameters `[]`. With a block given, calls the block with each key-value pair; returns `self`: [An example calling it](/examples/callables-forwarded-block-scope).
+- **`Hash#each_value`**: implemented, parameters `[]`. With a block given, calls the block with each value; returns `self`: [An example calling it](/examples/hash-methods-lookup-and-transform).
+- **`Hash#empty?`**: implemented, parameters `[]`. Returns `true` if there are no hash entries, `false` otherwise: [An example calling it](/examples/hash-methods-lookup-and-transform).
+- **`Hash#eql?`**: implemented, parameters `[[:req]]`. Returns `true` if all of the following are true: [An example calling it](/examples/array-methods-difference-of-structs).
+- **`Hash#except`**: implemented, parameters `[[:rest]]`. Returns a copy of `self` that excludes entries for the given `keys`; any `keys` that are not found are ignored: [An example calling it](/examples/hash-methods-lookup-and-transform).
+- **`Hash#fetch`**: implemented, parameters `[[:rest]]`. With no block given, returns the value for the given `key`, if found; `h = {foo: 0, bar: 1, baz: 2}`. [An example calling it](/examples/hash-methods-keys-and-merging).
+- **`Hash#fetch_values`**: implemented, parameters `[[:rest]]`. When all given `keys` are found, returns a new array containing the values associated with the given `keys`: [An example calling it](/examples/hash-methods-lookup-and-transform).
+- **`Hash#filter`**: implemented, parameters `[[:block, :block]]`. With a block given, calls the block with each entry's key and value; returns a new hash whose entries are those for which the block returns a truthy value: [An example calling it](/examples/algorithms-matrix-nested-ops).
+- **`Hash#filter!`**: implemented, parameters `[]`. With a block given, calls the block with each entry's key and value; removes from `self` each entry for which the block returns `false` or `nil`.
+- **`Hash#flatten`**: implemented, parameters `[[:rest]]`. With positive integer `depth`, returns a new array that is a recursive flattening of `self` to the given `depth`. [An example calling it](/examples/hash-methods-lookup-and-transform).
+- **`Hash#has_key?`**: implemented, parameters `[[:req]]`. Returns whether `key` is a key in `self`: [An example calling it](/examples/hash-methods-keys-and-merging).
+- **`Hash#has_value?`**: implemented, parameters `[[:req]]`. Returns whether `value` is a value in `self`. [An example calling it](/examples/hash-methods-lookup-and-transform).
+- **`Hash#hash`**: implemented, parameters `[]`. Returns the integer hash-code for the hash. [An example calling it](/examples/hash-methods-key-changing-its-hash).
+- **`Hash#include?`**: implemented, parameters `[[:req, :wanted]]`. Returns whether `key` is a key in `self`: [An example calling it](/examples/hash-methods-resetting-defaults).
+- **`Hash#initialize`**: implemented, parameters `[[:rest, :arguments], [:block, :block]]`. [An example calling it](/examples/errors-private-kernel-calls).
+- **`Hash#inspect`**: implemented, parameters `[]`. Returns a new string containing the hash entries: [An example calling it](/examples/addresses-internet-addresses).
+- **`Hash#invert`**: implemented, parameters `[]`. Returns a new hash with each key-value pair inverted: [An example calling it](/examples/hash-methods-keys-and-merging).
+- **`Hash#keep_if`**: implemented, parameters `[]`. With a block given, calls the block for each key-value pair; retains the entry if the block returns a truthy value; otherwise deletes the entry; returns `self`: [An example calling it](/examples/hash-methods-lookup-and-transform).
+- **`Hash#key`**: implemented, parameters `[[:req]]`. Returns the key for the first-found entry with the given `value` (see Entry Order): [An example calling it](/examples/hash-methods-keys-and-merging).
+- **`Hash#key?`**: implemented, parameters `[[:req]]`. Returns whether `key` is a key in `self`: [An example calling it](/examples/hash-methods-key-identity-and-hashing).
+- **`Hash#keys`**: implemented, parameters `[]`. Returns a new array containing all keys in `self`: [An example calling it](/examples/hash-methods-key-identity-and-hashing).
+- **`Hash#length`**: implemented, parameters `[]`. Returns the count of entries in `self`: [An example calling it](/examples/advanced-parenless-splat).
+- **`Hash#member?`**: implemented, parameters `[[:req, :wanted]]`. Returns whether `key` is a key in `self`: [An example calling it](/examples/builtins-environment-lookup-coercion).
+- **`Hash#merge`**: implemented, parameters `[[:rest]]`. Each argument `other_hash` in `other_hashes` must be a hash. [An example calling it](/examples/hash-methods-keys-and-merging).
+- **`Hash#merge!`**: implemented, parameters `[[:rest]]`. Updates values and/or adds entries to `self`; returns `self`. [An example calling it](/examples/hash-methods-keys-and-merging).
+- **`Hash.new`**: implemented, parameters `[[:rest]]`. Returns a new empty Hash object. [An example calling it](/examples/hash-methods-keys-and-merging).
+- **`Hash#rassoc`**: implemented, parameters `[[:req]]`. Searches `self` for the first entry whose value is <code>==</code> to the given `value`; see Entry Order. [An example calling it](/examples/hash-methods-lookup-and-transform).
+- **`Hash#rehash`**: implemented, parameters `[]`. Rebuilds the hash table for `self` by recomputing the hash index for each key; returns `self`.
+- **`Hash#reject`**: implemented, parameters `[]`. With a block given, returns a copy of `self` with zero or more entries removed; calls the block with each key-value pair; excludes the entry in the copy if the block returns a truthy value, includes it otherwise: [An example calling it](/examples/hash-methods-lookup-and-transform).
+- **`Hash#reject!`**: implemented, parameters `[]`. With a block given, calls the block with each entry's key and value; removes the entry from `self` if the block returns a truthy value. [An example calling it](/examples/hash-methods-keys-and-merging).
+- **`Hash#replace`**: implemented, parameters `[[:req]]`. Replaces the entire contents of `self` with the contents of `other_hash`; returns `self`: [An example calling it](/examples/hash-methods-keys-and-merging).
+- **`Hash.ruby2_keywords_hash`**: implemented, parameters `[[:req, :args]]`. Duplicates a given hash and adds a ruby2_keywords flag. [An example calling it](/examples/functions-keywords-or-a-hash).
+- **`Hash.ruby2_keywords_hash?`**: implemented, parameters `[[:req, :args]]`. Checks if a given hash is flagged by Module#ruby2_keywords (or Proc#ruby2_keywords). [An example calling it](/examples/callables-keyword-forwarding).
+- **`Hash#select`**: implemented, parameters `[]`. With a block given, calls the block with each entry's key and value; returns a new hash whose entries are those for which the block returns a truthy value: [An example calling it](/examples/hash-methods-lookup-and-transform).
+- **`Hash#select!`**: implemented, parameters `[]`. With a block given, calls the block with each entry's key and value; removes from `self` each entry for which the block returns `false` or `nil`. [An example calling it](/examples/hash-methods-keys-and-merging).
+- **`Hash#shift`**: implemented, parameters `[]`. Removes and returns the first entry of `self` as a 2-element array; see Entry Order: [An example calling it](/examples/hash-methods-lookup-and-transform).
+- **`Hash#size`**: implemented, parameters `[]`. Returns the count of entries in `self`: [An example calling it](/examples/hash-methods-key-changing-its-hash).
+- **`Hash#slice`**: implemented, parameters `[[:rest]]`. Returns a new hash containing the entries from `self` for the given `keys`; ignores any keys that are not found: [An example calling it](/examples/hash-methods-keys-and-merging).
+- **`Hash#sort`**: implemented, parameters `[[:block, :block]]`. Returns an array containing the sorted elements of `self`. [An example calling it](/examples/hash-methods-lookup-and-transform).
+- **`Hash#store`**: implemented, parameters `[[:req], [:req]]`. Associates the given `object` with the given `key`; returns `object`. [An example calling it](/examples/hash-methods-key-identity-and-hashing).
+- **`Hash#to_a`**: implemented, parameters `[]`. Returns all elements of `self` as an array of 2-element arrays; each nested array contains a key-value pair from `self`: [An example calling it](/examples/hash-methods-lookup-and-transform).
+- **`Hash#to_h`**: implemented, parameters `[[:rest, :arguments], [:block, :block]]`. With a block given, returns a new hash whose content is based on the block; the block is called with each entry's key and value; the block should return a 2-element array containing the key and value to be included in the returned array: [An example calling it](/examples/hash-methods-keys-and-merging).
+- **`Hash#to_hash`**: implemented, parameters `[]`. Returns `self`. [An example calling it](/examples/hash-methods-keys-and-merging).
+- **`Hash#to_proc`**: implemented, parameters `[]`. Returns a Proc object that maps a key to its value: [An example calling it](/examples/callables-copies-and-visibility).
+- **`Hash#to_s`**: implemented, parameters `[]`. Returns a new string containing the hash entries: [An example calling it](/examples/hash-methods-keys-and-merging).
+- **`Hash#transform_keys`**: implemented, parameters `[[:rest]]`. With an argument, a block, or both given, derives a new hash `new_hash` from `self`, the argument, and/or the block; all, some, or none of its keys may be different from those in `self`. [An example calling it](/examples/hash-methods-lookup-and-transform).
+- **`Hash#transform_keys!`**: implemented, parameters `[[:rest]]`. With an argument, a block, or both given, derives keys from the argument, the block, and `self`; all, some, or none of the keys in `self` may be changed.
+- **`Hash#transform_values`**: implemented, parameters `[]`. With a block given, returns a new hash `new_hash`; for each pair `key`/`value` in `self`, calls the block with `value` and captures its return as `new_value`; adds to `new_hash` the entry `key`/`new_value`: [An example calling it](/examples/hash-methods-lookup-and-transform).
+- **`Hash#transform_values!`**: implemented, parameters `[]`. With a block given, changes the values of `self` as determined by the block; returns `self`. [An example calling it](/examples/require-gem-home-gems-bundler-4-0-19-lib-bundler-compact-index-client-cache-file).
+- **`Hash.try_convert`**: implemented, parameters `[[:req, :held]]`. If `object` is a hash, returns `object`. [An example calling it](/examples/array-methods-conversion-and-draws).
+- **`Hash#update`**: implemented, parameters `[[:rest]]`. Updates values and/or adds entries to `self`; returns `self`. [An example calling it](/examples/hash-methods-keys-and-merging).
+- **`Hash#value?`**: implemented, parameters `[[:req]]`. Returns whether `value` is a value in `self`. [An example calling it](/examples/hash-methods-lookup-and-transform).
+- **`Hash#values`**: implemented, parameters `[]`. Returns a new array containing all values in `self`: [An example calling it](/examples/hash-methods-lookup-and-transform).
+- **`Hash#values_at`**: implemented, parameters `[[:rest]]`. Returns a new array containing values for the given `keys`: [An example calling it](/examples/hash-methods-lookup-and-transform).
+
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).

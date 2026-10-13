@@ -2,11 +2,18 @@
   "title": "Metorex",
   "base-url": "https://metorex.org",
   "author": "Greg Donald",
+  "image": "/assets/images/share.png",
   "clean-urls": true,
   "css-framework": "none",
   "search": true,
-  "taxonomies": [],
-  "feed-formats": [],
+  "sections": {
+    "blog": { "label": "Blog", "page-size": 10, "index-dates": true, "show-dates": true },
+    "docs": { "label": "Docs", "page-size": 1000, "index-dates": false, "show-dates": false },
+    "docs/core": { "label": "Core reference", "page-size": 1000, "index-dates": false, "show-dates": false },
+    "examples": { "label": "Examples", "page-size": 10000, "index-dates": false, "show-dates": false, "nav": false }
+  },
+  "taxonomies": ["tags", "archives"],
+  "feed-formats": ["atom", "rss"],
   "robots": true,
   "minify": true,
   "fingerprint": true
