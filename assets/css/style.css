@@ -38,6 +38,8 @@
   --accent-2: light-dark(#c25a12, #ff8a3d);
   --ok: light-dark(#1f8a4c, #5ccf8a);
   --string: light-dark(#4f7a1f, #a8c97f);
+  --glow-1: light-dark(#c62f2717, #e8433a1c);
+  --glow-2: light-dark(#c25a121c, #ff8a3d12);
 
   --wordmark-from: #e8433a;
   --wordmark-to: #ff8a3d;
@@ -65,13 +67,27 @@
 }
 
 html {
+  background: var(--bg);
   -webkit-text-size-adjust: 100%;
   scroll-padding-top: 5rem;
 }
 
+/* A fixed layer behind every page with two glows. It is a
+   pseudo-element because iOS Safari ignores background-attachment: fixed. */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background:
+    radial-gradient(64rem 44rem at 88% -12%, var(--glow-1), transparent 70%),
+    radial-gradient(56rem 40rem at -12% 108%, var(--glow-2), transparent 70%),
+    var(--bg);
+  pointer-events: none;
+}
+
 body {
   margin: 0;
-  background: var(--bg);
   color: var(--fg);
   font-family: var(--font-body);
   font-size: 1rem;
@@ -165,8 +181,8 @@ pre {
 }
 
 .brand-mark {
-  width: 2rem;
-  height: 2rem;
+  width: 1.5rem;
+  height: 1.5rem;
 }
 
 .wordmark {
@@ -385,7 +401,6 @@ pre {
 .hero {
   position: relative;
   overflow: hidden;
-  border-bottom: 1px solid var(--border);
 }
 
 .hero::before {
@@ -648,7 +663,6 @@ main {
 }
 
 .page {
-  max-width: 50rem;
   padding-top: 3rem;
   padding-bottom: 3rem;
 }
@@ -827,5 +841,77 @@ main {
 
   .footer-brand {
     grid-column: 1 / -1;
+  }
+}
+
+/* Code beside a diagram */
+
+.code-and-diagram {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 1.5rem;
+  align-items: center;
+  margin: 1.25rem 0;
+}
+
+.code-and-diagram pre {
+  margin: 0;
+}
+
+.tree-diagram {
+  margin: 0;
+}
+
+.tree-diagram svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.tree-diagram figcaption {
+  margin-top: 0.5rem;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.tree-edges line {
+  stroke: var(--border);
+  stroke-width: 2;
+}
+
+.tree-node rect {
+  fill: var(--bg-elevated);
+  stroke: var(--border);
+  stroke-width: 1.5;
+}
+
+.tree-operator rect {
+  stroke: var(--accent);
+}
+
+.tree-node text {
+  text-anchor: middle;
+}
+
+.tree-type {
+  fill: var(--muted);
+  font-family: var(--font-body);
+  font-size: 12px;
+}
+
+.tree-detail {
+  fill: var(--fg-bright);
+  font-family: var(--font-code);
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.tree-operator .tree-detail {
+  fill: var(--accent);
+}
+
+@media (max-width: 760px) {
+  .code-and-diagram {
+    grid-template-columns: minmax(0, 1fr);
   }
 }
