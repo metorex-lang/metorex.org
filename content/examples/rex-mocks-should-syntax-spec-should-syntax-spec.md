@@ -4,7 +4,7 @@ slug: rex-mocks-should-syntax-spec-should-syntax-spec
 description: "The metorex example program rex/mocks/should_syntax/spec/should_syntax_spec.rb and its output."
 ---
 
-`tests/_examples/rex/mocks/should_syntax/spec/should_syntax_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/mocks/should_syntax/spec/should_syntax_spec.rb).
+`tests/_examples/rex/mocks/should_syntax/spec/should_syntax_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/mocks/should_syntax/spec/should_syntax_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Printer

@@ -4,7 +4,7 @@ slug: errors-recursing-too-deep-no-parens
 description: "The metorex example program errors/recursing_too_deep_no_parens.rb and its output."
 ---
 
-`tests/_examples/errors/recursing_too_deep_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/recursing_too_deep_no_parens.rb).
+`tests/_examples/errors/recursing_too_deep_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/recursing_too_deep_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A method that calls itself without end raises SystemStackError, which the

@@ -4,7 +4,7 @@ slug: oop-reopened-core-operator
 description: "The metorex example program oop/reopened_core_operator.rb and its output."
 ---
 
-`tests/_examples/oop/reopened_core_operator.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/reopened_core_operator.rb).
+`tests/_examples/oop/reopened_core_operator.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/reopened_core_operator.rb){target=_blank rel=noopener}.
 
 ```metorex
 module Counting; end

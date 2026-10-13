@@ -220,4 +220,4 @@ done after 2 attempts
 nil
 ```
 
-These samples are `tests/_examples/site/language_*.rb` in the [metorex repository](https://github.com/metorex-lang/metorex), where the test suite checks their output.
+These samples are `tests/_examples/site/language_*.rb` in the [metorex repository](https://github.com/metorex-lang/metorex){target=_blank rel=noopener}, where the test suite checks their output.

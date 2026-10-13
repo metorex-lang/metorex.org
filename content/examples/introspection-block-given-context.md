@@ -4,7 +4,7 @@ slug: introspection-block-given-context
 description: "The metorex example program introspection/block_given_context.rb and its output."
 ---
 
-`tests/_examples/introspection/block_given_context.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/block_given_context.rb).
+`tests/_examples/introspection/block_given_context.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/block_given_context.rb){target=_blank rel=noopener}.
 
 ```metorex
 module Reporter

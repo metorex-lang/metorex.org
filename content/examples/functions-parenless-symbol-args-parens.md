@@ -4,7 +4,7 @@ slug: functions-parenless-symbol-args-parens
 description: "The metorex example program functions/parenless_symbol_args_parens.rb and its output."
 ---
 
-`tests/_examples/functions/parenless_symbol_args_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/parenless_symbol_args_parens.rb).
+`tests/_examples/functions/parenless_symbol_args_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/parenless_symbol_args_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Registry

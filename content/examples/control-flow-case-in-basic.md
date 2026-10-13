@@ -4,7 +4,7 @@ slug: control-flow-case-in-basic
 description: "The metorex example program control_flow/case_in_basic.rb and its output."
 ---
 
-`tests/_examples/control_flow/case_in_basic.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/case_in_basic.rb).
+`tests/_examples/control_flow/case_in_basic.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/case_in_basic.rb){target=_blank rel=noopener}.
 
 ```metorex
 # case/in pattern matching (Ruby 2.7+ style)

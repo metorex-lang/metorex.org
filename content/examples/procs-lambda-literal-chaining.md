@@ -4,7 +4,7 @@ slug: procs-lambda-literal-chaining
 description: "The metorex example program procs/lambda_literal_chaining.rb and its output."
 ---
 
-`tests/_examples/procs/lambda_literal_chaining.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/procs/lambda_literal_chaining.rb).
+`tests/_examples/procs/lambda_literal_chaining.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/procs/lambda_literal_chaining.rb){target=_blank rel=noopener}.
 
 ```metorex
 puts -> (value) { value * 2 }.call(3)

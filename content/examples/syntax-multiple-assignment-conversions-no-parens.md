@@ -4,7 +4,7 @@ slug: syntax-multiple-assignment-conversions-no-parens
 description: "The metorex example program syntax/multiple_assignment_conversions_no_parens.rb and its output."
 ---
 
-`tests/_examples/syntax/multiple_assignment_conversions_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/multiple_assignment_conversions_no_parens.rb).
+`tests/_examples/syntax/multiple_assignment_conversions_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/multiple_assignment_conversions_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # How a multiple assignment takes its right-hand side apart: `to_ary` for a

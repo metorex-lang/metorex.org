@@ -4,7 +4,7 @@ slug: oop-method-defined-visibility
 description: "The metorex example program oop/method_defined_visibility.rb and its output."
 ---
 
-`tests/_examples/oop/method_defined_visibility.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/method_defined_visibility.rb).
+`tests/_examples/oop/method_defined_visibility.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/method_defined_visibility.rb){target=_blank rel=noopener}.
 
 ```metorex
 module Mixin

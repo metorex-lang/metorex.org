@@ -4,7 +4,7 @@ slug: threads-fixtures-counted-autoload
 description: "The metorex example program threads/fixtures/counted_autoload.rb and its output."
 ---
 
-`tests/_examples/threads/fixtures/counted_autoload.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/fixtures/counted_autoload.rb).
+`tests/_examples/threads/fixtures/counted_autoload.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/fixtures/counted_autoload.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Loaded once per name the autoload was registered under. The module is only

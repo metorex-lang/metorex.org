@@ -4,7 +4,7 @@ slug: rex-ordering-failing-spec-failing-spec
 description: "The metorex example program rex/ordering/failing/spec/failing_spec.rb and its output."
 ---
 
-`tests/_examples/rex/ordering/failing/spec/failing_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/ordering/failing/spec/failing_spec.rb).
+`tests/_examples/rex/ordering/failing/spec/failing_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/ordering/failing/spec/failing_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 describe "an order total" do

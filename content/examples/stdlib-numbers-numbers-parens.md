@@ -4,7 +4,7 @@ slug: stdlib-numbers-numbers-parens
 description: "The metorex example program stdlib/numbers/numbers_parens.rb and its output."
 ---
 
-`tests/_examples/stdlib/numbers/numbers_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/numbers/numbers_parens.rb).
+`tests/_examples/stdlib/numbers/numbers_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/numbers/numbers_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Numeric methods demonstration (with parentheses)

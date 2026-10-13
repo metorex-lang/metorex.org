@@ -33,4 +33,4 @@ ruby/spec describes 21 methods in `core/fiber`, and Metorex implements 20 of the
 
 - **`Thread.new`**: implemented, parameters `[[:rest]]`. Creates a new thread executing the given block. [An example calling it](/examples/threads-autoload-one-at-a-time).
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

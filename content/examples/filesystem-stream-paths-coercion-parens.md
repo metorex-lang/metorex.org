@@ -4,7 +4,7 @@ slug: filesystem-stream-paths-coercion-parens
 description: "The metorex example program filesystem/stream_paths/coercion_parens.rb and its output."
 ---
 
-`tests/_examples/filesystem/stream_paths/coercion_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/stream_paths/coercion_parens.rb).
+`tests/_examples/filesystem/stream_paths/coercion_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/stream_paths/coercion_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A path may arrive as anything that names one, and a predicate takes a

@@ -4,7 +4,7 @@ slug: advanced-fibers-that-schedule
 description: "The metorex example program advanced/fibers_that_schedule.rb and its output."
 ---
 
-`tests/_examples/advanced/fibers_that_schedule.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/fibers_that_schedule.rb).
+`tests/_examples/advanced/fibers_that_schedule.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/fibers_that_schedule.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `require "fiber"` adds the scheduler a program hands to Fiber, which has to

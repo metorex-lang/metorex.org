@@ -4,7 +4,7 @@ slug: stdlib-libraries-openssl-scrypt-no-parens
 description: "The metorex example program stdlib_libraries/openssl_scrypt_no_parens.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/openssl_scrypt_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/openssl_scrypt_no_parens.rb).
+`tests/_examples/stdlib_libraries/openssl_scrypt_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/openssl_scrypt_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # scrypt derives a key from a password through a table of earlier states,

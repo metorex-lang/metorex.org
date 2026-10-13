@@ -4,7 +4,7 @@ slug: object-space-gc-latest-info-no-parens
 description: "The metorex example program object_space/gc_latest_info_no_parens.rb and its output."
 ---
 
-`tests/_examples/object_space/gc_latest_info_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/object_space/gc_latest_info_no_parens.rb).
+`tests/_examples/object_space/gc_latest_info_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/object_space/gc_latest_info_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # GC.latest_gc_info reports the collector's last run: every reading in a new

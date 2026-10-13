@@ -4,7 +4,7 @@ slug: signals-interrupting-itself
 description: "The metorex example program signals/interrupting_itself.rb and its output."
 ---
 
-`tests/_examples/signals/interrupting_itself.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/signals/interrupting_itself.rb).
+`tests/_examples/signals/interrupting_itself.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/signals/interrupting_itself.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A signal a program sends itself arrives inside the call that sent it, and an

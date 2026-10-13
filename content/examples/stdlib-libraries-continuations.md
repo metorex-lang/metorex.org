@@ -4,7 +4,7 @@ slug: stdlib-libraries-continuations
 description: "The metorex example program stdlib_libraries/continuations.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/continuations.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/continuations.rb).
+`tests/_examples/stdlib_libraries/continuations.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/continuations.rb){target=_blank rel=noopener}.
 
 ```metorex
 # callcc hands its block a continuation that returns from the block at once

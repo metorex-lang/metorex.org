@@ -4,7 +4,7 @@ slug: oop-attr-keyword-form
 description: "The metorex example program oop/attr/keyword_form.rb and its output."
 ---
 
-`tests/_examples/oop/attr/keyword_form.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/attr/keyword_form.rb).
+`tests/_examples/oop/attr/keyword_form.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/attr/keyword_form.rb){target=_blank rel=noopener}.
 
 ```metorex
 class A

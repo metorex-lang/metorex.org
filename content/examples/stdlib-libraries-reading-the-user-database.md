@@ -4,7 +4,7 @@ slug: stdlib-libraries-reading-the-user-database
 description: "The metorex example program stdlib_libraries/reading_the_user_database.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/reading_the_user_database.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/reading_the_user_database.rb).
+`tests/_examples/stdlib_libraries/reading_the_user_database.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/reading_the_user_database.rb){target=_blank rel=noopener}.
 
 ```metorex
 require 'etc'

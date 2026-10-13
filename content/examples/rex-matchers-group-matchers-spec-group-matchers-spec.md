@@ -4,7 +4,7 @@ slug: rex-matchers-group-matchers-spec-group-matchers-spec
 description: "The metorex example program rex/matchers/group_matchers/spec/group_matchers_spec.rb and its output."
 ---
 
-`tests/_examples/rex/matchers/group_matchers/spec/group_matchers_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/matchers/group_matchers/spec/group_matchers_spec.rb).
+`tests/_examples/rex/matchers/group_matchers/spec/group_matchers_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/matchers/group_matchers/spec/group_matchers_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 require "rspec/matchers/fail_matchers"

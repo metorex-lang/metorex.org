@@ -4,7 +4,7 @@ slug: rex-errors-interrupt-spec-interrupt-spec
 description: "The metorex example program rex/errors/interrupt/spec/interrupt_spec.rb and its output."
 ---
 
-`tests/_examples/rex/errors/interrupt/spec/interrupt_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/errors/interrupt/spec/interrupt_spec.rb).
+`tests/_examples/rex/errors/interrupt/spec/interrupt_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/errors/interrupt/spec/interrupt_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 describe "an interrupted run" do

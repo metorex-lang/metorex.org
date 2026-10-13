@@ -4,7 +4,7 @@ slug: stdlib-libraries-message-digests-parens
 description: "The metorex example program stdlib_libraries/message_digests_parens.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/message_digests_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/message_digests_parens.rb).
+`tests/_examples/stdlib_libraries/message_digests_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/message_digests_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Message digests. Each algorithm answers the same digest every other

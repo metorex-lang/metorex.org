@@ -4,7 +4,7 @@ slug: methods-call-arguments-no-parens
 description: "The metorex example program methods/call_arguments_no_parens.rb and its output."
 ---
 
-`tests/_examples/methods/call_arguments_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/call_arguments_no_parens.rb).
+`tests/_examples/methods/call_arguments_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/call_arguments_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # How a call hands over its arguments: a splat asks for `to_a`, keywords

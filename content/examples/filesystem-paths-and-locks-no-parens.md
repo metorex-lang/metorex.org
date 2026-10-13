@@ -4,7 +4,7 @@ slug: filesystem-paths-and-locks-no-parens
 description: "The metorex example program filesystem/paths_and_locks_no_parens.rb and its output."
 ---
 
-`tests/_examples/filesystem/paths_and_locks_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/paths_and_locks_no_parens.rb).
+`tests/_examples/filesystem/paths_and_locks_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/paths_and_locks_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `dirname` drops the last part of a path, and a level says how many parts

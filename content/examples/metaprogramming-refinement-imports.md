@@ -4,7 +4,7 @@ slug: metaprogramming-refinement-imports
 description: "The metorex example program metaprogramming/refinement_imports.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/refinement_imports.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/refinement_imports.rb).
+`tests/_examples/metaprogramming/refinement_imports.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/refinement_imports.rb){target=_blank rel=noopener}.
 
 ```metorex
 require 'zlib'

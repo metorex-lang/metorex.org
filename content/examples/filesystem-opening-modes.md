@@ -4,7 +4,7 @@ slug: filesystem-opening-modes
 description: "The metorex example program filesystem/opening_modes.rb and its output."
 ---
 
-`tests/_examples/filesystem/opening_modes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/opening_modes.rb).
+`tests/_examples/filesystem/opening_modes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/opening_modes.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A mode string is `r`, `w` or `a`, then any of `+`, `b` or `t` but not both

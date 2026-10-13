@@ -4,7 +4,7 @@ slug: oop-autoload-reopening
 description: "The metorex example program oop/autoload_reopening.rb and its output."
 ---
 
-`tests/_examples/oop/autoload_reopening.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/autoload_reopening.rb).
+`tests/_examples/oop/autoload_reopening.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/autoload_reopening.rb){target=_blank rel=noopener}.
 
 ```metorex
 $LOAD_PATH.unshift(File.join(__dir__, "autoload_fixture"))

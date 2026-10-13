@@ -4,7 +4,7 @@ slug: addresses-internet-addresses-no-parens
 description: "The metorex example program addresses/internet_addresses_no_parens.rb and its output."
 ---
 
-`tests/_examples/addresses/internet_addresses_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/addresses/internet_addresses_no_parens.rb).
+`tests/_examples/addresses/internet_addresses_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/addresses/internet_addresses_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # An IP address held as the number it stands for, together with the mask that

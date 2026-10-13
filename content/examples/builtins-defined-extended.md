@@ -4,7 +4,7 @@ slug: builtins-defined-extended
 description: "The metorex example program builtins/defined_extended.rb and its output."
 ---
 
-`tests/_examples/builtins/defined_extended.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/defined_extended.rb).
+`tests/_examples/builtins/defined_extended.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/defined_extended.rb){target=_blank rel=noopener}.
 
 ```metorex
 # defined? with various expressions

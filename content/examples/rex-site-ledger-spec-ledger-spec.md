@@ -4,7 +4,7 @@ slug: rex-site-ledger-spec-ledger-spec
 description: "The metorex example program rex/site/ledger/spec/ledger_spec.rb and its output."
 ---
 
-`tests/_examples/rex/site/ledger/spec/ledger_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/site/ledger/spec/ledger_spec.rb).
+`tests/_examples/rex/site/ledger/spec/ledger_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/site/ledger/spec/ledger_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 require_relative "../lib/ledger"

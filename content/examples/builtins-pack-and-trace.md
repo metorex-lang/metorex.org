@@ -4,7 +4,7 @@ slug: builtins-pack-and-trace
 description: "The metorex example program builtins/pack_and_trace.rb and its output."
 ---
 
-`tests/_examples/builtins/pack_and_trace.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/pack_and_trace.rb).
+`tests/_examples/builtins/pack_and_trace.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/pack_and_trace.rb){target=_blank rel=noopener}.
 
 ```metorex
 # The directive machine `pack` writes with and `unpack` reads back.

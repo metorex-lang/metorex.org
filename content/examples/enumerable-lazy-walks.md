@@ -4,7 +4,7 @@ slug: enumerable-lazy-walks
 description: "The metorex example program enumerable/lazy_walks.rb and its output."
 ---
 
-`tests/_examples/enumerable/lazy_walks.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/enumerable/lazy_walks.rb).
+`tests/_examples/enumerable/lazy_walks.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/enumerable/lazy_walks.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A lazy walk applies its steps one element at a time, so a source with no

@@ -4,7 +4,7 @@ slug: require-autoload-reload-warning
 description: "The metorex example program require/autoload_reload_warning.rb and its output."
 ---
 
-`tests/_examples/require/autoload_reload_warning.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/autoload_reload_warning.rb).
+`tests/_examples/require/autoload_reload_warning.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/autoload_reload_warning.rb){target=_blank rel=noopener}.
 
 ```metorex
 module Namespace

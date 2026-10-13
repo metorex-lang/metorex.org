@@ -4,7 +4,7 @@ slug: strings-string-subclass-initialize-no-parens
 description: "The metorex example program strings/string_subclass_initialize_no_parens.rb and its output."
 ---
 
-`tests/_examples/strings/string_subclass_initialize_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/string_subclass_initialize_no_parens.rb).
+`tests/_examples/strings/string_subclass_initialize_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/string_subclass_initialize_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A subclass of String that writes its own `initialize` decides what its

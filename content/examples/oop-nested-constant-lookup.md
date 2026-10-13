@@ -4,7 +4,7 @@ slug: oop-nested-constant-lookup
 description: "The metorex example program oop/nested_constant_lookup.rb and its output."
 ---
 
-`tests/_examples/oop/nested_constant_lookup.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/nested_constant_lookup.rb).
+`tests/_examples/oop/nested_constant_lookup.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/nested_constant_lookup.rb){target=_blank rel=noopener}.
 
 ```metorex
 module Catalog

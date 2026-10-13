@@ -4,7 +4,7 @@ slug: strings-encoding-aware-characters
 description: "The metorex example program strings/encoding_aware_characters.rb and its output."
 ---
 
-`tests/_examples/strings/encoding_aware_characters.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/encoding_aware_characters.rb).
+`tests/_examples/strings/encoding_aware_characters.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/encoding_aware_characters.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A string splits into characters the way the encoding it is tagged with

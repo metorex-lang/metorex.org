@@ -4,7 +4,7 @@ slug: site-language-exceptions
 description: "The metorex example program site/language_exceptions.rb and its output."
 ---
 
-`tests/_examples/site/language_exceptions.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/site/language_exceptions.rb).
+`tests/_examples/site/language_exceptions.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/site/language_exceptions.rb){target=_blank rel=noopener}.
 
 ```metorex
 class PaymentError < StandardError

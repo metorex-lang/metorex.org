@@ -4,7 +4,7 @@ slug: stdlib-libraries-inflating-gzip-in-pieces
 description: "The metorex example program stdlib_libraries/inflating_gzip_in_pieces.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/inflating_gzip_in_pieces.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/inflating_gzip_in_pieces.rb).
+`tests/_examples/stdlib_libraries/inflating_gzip_in_pieces.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/inflating_gzip_in_pieces.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Zlib::Inflate with a window of 32 or more reads gzip as well as zlib, and

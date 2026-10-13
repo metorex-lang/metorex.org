@@ -4,7 +4,7 @@ slug: signals-exception-construction-parens
 description: "The metorex example program signals/exception_construction_parens.rb and its output."
 ---
 
-`tests/_examples/signals/exception_construction_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/signals/exception_construction_parens.rb).
+`tests/_examples/signals/exception_construction_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/signals/exception_construction_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 by_number = SignalException.new(Signal.list["INT"])

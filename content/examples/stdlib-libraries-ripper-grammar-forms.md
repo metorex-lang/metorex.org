@@ -4,7 +4,7 @@ slug: stdlib-libraries-ripper-grammar-forms
 description: "The metorex example program stdlib_libraries/ripper_grammar_forms.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/ripper_grammar_forms.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/ripper_grammar_forms.rb).
+`tests/_examples/stdlib_libraries/ripper_grammar_forms.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/ripper_grammar_forms.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Ripper reads a separator after a condition, a command given as the one

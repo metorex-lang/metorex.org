@@ -4,7 +4,7 @@ slug: oop-class-body-clauses
 description: "The metorex example program oop/class_body_clauses.rb and its output."
 ---
 
-`tests/_examples/oop/class_body_clauses.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/class_body_clauses.rb).
+`tests/_examples/oop/class_body_clauses.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/class_body_clauses.rb){target=_blank rel=noopener}.
 
 ```metorex
 answered = eval(<<~RUBY)

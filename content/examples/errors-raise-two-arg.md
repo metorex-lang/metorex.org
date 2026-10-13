@@ -4,7 +4,7 @@ slug: errors-raise-two-arg
 description: "The metorex example program errors/raise_two_arg.rb and its output."
 ---
 
-`tests/_examples/errors/raise_two_arg.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/raise_two_arg.rb).
+`tests/_examples/errors/raise_two_arg.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/raise_two_arg.rb){target=_blank rel=noopener}.
 
 ```metorex
 begin

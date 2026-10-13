@@ -4,7 +4,7 @@ slug: runtime-error-reporting
 description: "The metorex example program runtime/error_reporting.rb and its output."
 ---
 
-`tests/_examples/runtime/error_reporting.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/error_reporting.rb).
+`tests/_examples/runtime/error_reporting.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/error_reporting.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Errors raised at run time and rescued, with the messages they carry.

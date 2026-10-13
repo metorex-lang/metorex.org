@@ -4,7 +4,7 @@ slug: builtins-pack-directives
 description: "The metorex example program builtins/pack_directives.rb and its output."
 ---
 
-`tests/_examples/builtins/pack_directives.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/pack_directives.rb).
+`tests/_examples/builtins/pack_directives.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/pack_directives.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Every directive the pack machine reads, written out and read back.

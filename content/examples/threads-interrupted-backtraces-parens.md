@@ -4,7 +4,7 @@ slug: threads-interrupted-backtraces-parens
 description: "The metorex example program threads/interrupted_backtraces_parens.rb and its output."
 ---
 
-`tests/_examples/threads/interrupted_backtraces_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/interrupted_backtraces_parens.rb).
+`tests/_examples/threads/interrupted_backtraces_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/interrupted_backtraces_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # An exception handed to a sleeping thread is raised where it sleeps, so its

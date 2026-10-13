@@ -4,7 +4,7 @@ slug: methods-class-new-as-a-method-object
 description: "The metorex example program methods/class_new_as_a_method_object.rb and its output."
 ---
 
-`tests/_examples/methods/class_new_as_a_method_object.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/class_new_as_a_method_object.rb).
+`tests/_examples/methods/class_new_as_a_method_object.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/class_new_as_a_method_object.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Guard < ::Mutex

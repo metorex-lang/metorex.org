@@ -4,7 +4,7 @@ slug: filesystem-line-reading-parens
 description: "The metorex example program filesystem/line_reading_parens.rb and its output."
 ---
 
-`tests/_examples/filesystem/line_reading_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/line_reading_parens.rb).
+`tests/_examples/filesystem/line_reading_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/line_reading_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Lines are read up to a separator, or up to a count of bytes, and a stream

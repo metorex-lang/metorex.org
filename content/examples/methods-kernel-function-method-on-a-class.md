@@ -4,7 +4,7 @@ slug: methods-kernel-function-method-on-a-class
 description: "The metorex example program methods/kernel_function_method_on_a_class.rb and its output."
 ---
 
-`tests/_examples/methods/kernel_function_method_on_a_class.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/kernel_function_method_on_a_class.rb).
+`tests/_examples/methods/kernel_function_method_on_a_class.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/kernel_function_method_on_a_class.rb){target=_blank rel=noopener}.
 
 ```metorex
 puts_method = String.method(:puts)

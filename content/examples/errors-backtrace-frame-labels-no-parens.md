@@ -4,7 +4,7 @@ slug: errors-backtrace-frame-labels-no-parens
 description: "The metorex example program errors/backtrace/frame_labels_no_parens.rb and its output."
 ---
 
-`tests/_examples/errors/backtrace/frame_labels_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/backtrace/frame_labels_no_parens.rb).
+`tests/_examples/errors/backtrace/frame_labels_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/backtrace/frame_labels_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A backtrace names a method on a class with a dot and one on an instance

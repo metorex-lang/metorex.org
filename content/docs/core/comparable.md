@@ -14,4 +14,4 @@ ruby/spec describes 7 methods in `core/comparable`, and Metorex implements 7 of 
 - **`Comparable#between?`**: implemented, parameters `[[:req], [:req]]`. Returns `false` if *obj* <code><=></code> *min* is less than zero or if *obj* <code><=></code> *max* is greater than zero, `true` otherwise. [An example calling it](/examples/builtins-random-source-generator).
 - **`Comparable#clamp`**: implemented, parameters `[[:rest]]`. In <code>(min, max)</code> form, returns *min* if *obj* <code><=></code> *min* is less than zero, *max* if *obj* <code><=></code> *max* is greater than zero, and *obj* otherwise. [An example calling it](/examples/methods-argument-forwarding).
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

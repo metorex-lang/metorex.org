@@ -4,7 +4,7 @@ slug: parser-node-shapes
 description: "The metorex example program parser/node_shapes.rb and its output."
 ---
 
-`tests/_examples/parser/node_shapes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/parser/node_shapes.rb).
+`tests/_examples/parser/node_shapes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/parser/node_shapes.rb){target=_blank rel=noopener}.
 
 ```metorex
 # The node `parse` answers for each kind of statement and expression.

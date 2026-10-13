@@ -4,7 +4,7 @@ slug: programs-todo-list-todo-list-no-parens
 description: "The metorex example program programs/todo_list/todo_list_no_parens.rb and its output."
 ---
 
-`tests/_examples/programs/todo_list/todo_list_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/programs/todo_list/todo_list_no_parens.rb).
+`tests/_examples/programs/todo_list/todo_list_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/programs/todo_list/todo_list_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Todo List without parentheses (where possible)

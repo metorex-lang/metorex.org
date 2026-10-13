@@ -4,7 +4,7 @@ slug: filesystem-null-byte-paths
 description: "The metorex example program filesystem/null_byte_paths.rb and its output."
 ---
 
-`tests/_examples/filesystem/null_byte_paths.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/null_byte_paths.rb).
+`tests/_examples/filesystem/null_byte_paths.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/null_byte_paths.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A NUL byte ends a name the operating system reads, so a path holding one

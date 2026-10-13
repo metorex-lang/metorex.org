@@ -4,7 +4,7 @@ slug: oop-initialize-default-arity-parens
 description: "The metorex example program oop/initialize/default_arity_parens.rb and its output."
 ---
 
-`tests/_examples/oop/initialize/default_arity_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/initialize/default_arity_parens.rb).
+`tests/_examples/oop/initialize/default_arity_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/initialize/default_arity_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # The default `initialize` takes no arguments, so handing `new` any is an

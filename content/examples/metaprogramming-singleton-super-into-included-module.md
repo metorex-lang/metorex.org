@@ -4,7 +4,7 @@ slug: metaprogramming-singleton-super-into-included-module
 description: "The metorex example program metaprogramming/singleton_super_into_included_module.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/singleton_super_into_included_module.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/singleton_super_into_included_module.rb).
+`tests/_examples/metaprogramming/singleton_super_into_included_module.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/singleton_super_into_included_module.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Wrapper

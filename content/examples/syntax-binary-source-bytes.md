@@ -4,7 +4,7 @@ slug: syntax-binary-source-bytes
 description: "The metorex example program syntax/binary_source/bytes.rb and its output."
 ---
 
-`tests/_examples/syntax/binary_source/bytes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/binary_source/bytes.rb).
+`tests/_examples/syntax/binary_source/bytes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/binary_source/bytes.rb){target=_blank rel=noopener}.
 
 ```metorex
 # encoding: binary

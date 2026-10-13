@@ -4,7 +4,7 @@ slug: strings-radix-reading
 description: "The metorex example program strings/radix_reading.rb and its output."
 ---
 
-`tests/_examples/strings/radix_reading.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/radix_reading.rb).
+`tests/_examples/strings/radix_reading.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/radix_reading.rb){target=_blank rel=noopener}.
 
 ```metorex
 # String#to_i reads the leading number in a base, taking a radix prefix that

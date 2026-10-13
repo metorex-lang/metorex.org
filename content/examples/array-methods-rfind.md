@@ -4,7 +4,7 @@ slug: array-methods-rfind
 description: "The metorex example program array_methods/rfind.rb and its output."
 ---
 
-`tests/_examples/array_methods/rfind.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/array_methods/rfind.rb).
+`tests/_examples/array_methods/rfind.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/array_methods/rfind.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `rfind` reads an array from the end, `Method#box` names no namespace while

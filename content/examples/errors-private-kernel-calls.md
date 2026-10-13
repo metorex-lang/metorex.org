@@ -4,7 +4,7 @@ slug: errors-private-kernel-calls
 description: "The metorex example program errors/private_kernel_calls.rb and its output."
 ---
 
-`tests/_examples/errors/private_kernel_calls.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/private_kernel_calls.rb).
+`tests/_examples/errors/private_kernel_calls.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/private_kernel_calls.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Kernel's functions and BasicObject's hooks are private methods of every

@@ -4,7 +4,7 @@ slug: control-flow-post-test-loops
 description: "The metorex example program control_flow/post_test_loops.rb and its output."
 ---
 
-`tests/_examples/control_flow/post_test_loops.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/post_test_loops.rb).
+`tests/_examples/control_flow/post_test_loops.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/post_test_loops.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `begin ... end while` reads its condition after the body has run, so the body

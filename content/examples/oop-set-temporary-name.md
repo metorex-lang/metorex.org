@@ -4,7 +4,7 @@ slug: oop-set-temporary-name
 description: "The metorex example program oop/set_temporary_name.rb and its output."
 ---
 
-`tests/_examples/oop/set_temporary_name.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/set_temporary_name.rb).
+`tests/_examples/oop/set_temporary_name.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/set_temporary_name.rb){target=_blank rel=noopener}.
 
 ```metorex
 anonymous = Module.new

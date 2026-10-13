@@ -4,7 +4,7 @@ slug: linear-algebra-eigenvectors
 description: "The metorex example program linear_algebra/eigenvectors.rb and its output."
 ---
 
-`tests/_examples/linear_algebra/eigenvectors.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/linear_algebra/eigenvectors.rb).
+`tests/_examples/linear_algebra/eigenvectors.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/linear_algebra/eigenvectors.rb){target=_blank rel=noopener}.
 
 ```metorex
 # The eigenvectors of a two by two matrix, the matrix they form, and the

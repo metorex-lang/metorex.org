@@ -56,4 +56,4 @@ ruby/spec describes 49 methods in `core/env`, and Metorex implements 49 of them.
 - **`ENV.values`**: implemented, parameters `[]`. Returns all environment variable values in an Array:
 - **`ENV.values_at`**: implemented, parameters `[[:rest]]`. Returns an Array containing the environment variable values associated with the given names:
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

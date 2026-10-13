@@ -4,7 +4,7 @@ slug: functions-keywords-in-a-binary-file-no-parens
 description: "The metorex example program functions/keywords_in_a_binary_file_no_parens.rb and its output."
 ---
 
-`tests/_examples/functions/keywords_in_a_binary_file_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/keywords_in_a_binary_file_no_parens.rb).
+`tests/_examples/functions/keywords_in_a_binary_file_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/keywords_in_a_binary_file_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # encoding: binary

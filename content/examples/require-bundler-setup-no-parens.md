@@ -4,7 +4,7 @@ slug: require-bundler-setup-no-parens
 description: "The metorex example program require/bundler_setup_no_parens.rb and its output."
 ---
 
-`tests/_examples/require/bundler_setup_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/bundler_setup_no_parens.rb).
+`tests/_examples/require/bundler_setup_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/bundler_setup_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `require "bundler/setup"` reads the Gemfile and Gemfile.lock that

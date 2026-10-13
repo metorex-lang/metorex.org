@@ -4,7 +4,7 @@ slug: threads-ending-with-threads-alive
 description: "The metorex example program threads/ending_with_threads_alive.rb and its output."
 ---
 
-`tests/_examples/threads/ending_with_threads_alive.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/ending_with_threads_alive.rb).
+`tests/_examples/threads/ending_with_threads_alive.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/ending_with_threads_alive.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A program that ends takes its threads with it. Each thread unwinds where it

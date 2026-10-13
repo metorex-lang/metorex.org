@@ -4,7 +4,7 @@ slug: symbols-and-ranges-binary-search
 description: "The metorex example program symbols_and_ranges/binary_search.rb and its output."
 ---
 
-`tests/_examples/symbols_and_ranges/binary_search.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/symbols_and_ranges/binary_search.rb).
+`tests/_examples/symbols_and_ranges/binary_search.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/symbols_and_ranges/binary_search.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `bsearch` halves a numeric range: a block answering true or false finds the

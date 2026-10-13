@@ -4,7 +4,7 @@ slug: struct-member-methods
 description: "The metorex example program struct/member_methods.rb and its output."
 ---
 
-`tests/_examples/struct/member_methods.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/struct/member_methods.rb).
+`tests/_examples/struct/member_methods.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/struct/member_methods.rb){target=_blank rel=noopener}.
 
 ```metorex
 Sizes = Struct.new(:length, :size)

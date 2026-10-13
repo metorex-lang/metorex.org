@@ -4,7 +4,7 @@ slug: functions-multiple-return
 description: "The metorex example program functions/multiple_return.rb and its output."
 ---
 
-`tests/_examples/functions/multiple_return.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/multiple_return.rb).
+`tests/_examples/functions/multiple_return.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/multiple_return.rb){target=_blank rel=noopener}.
 
 ```metorex
 def swap(a, b)

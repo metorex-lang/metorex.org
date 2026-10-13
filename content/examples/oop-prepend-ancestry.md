@@ -4,7 +4,7 @@ slug: oop-prepend-ancestry
 description: "The metorex example program oop/prepend_ancestry.rb and its output."
 ---
 
-`tests/_examples/oop/prepend_ancestry.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/prepend_ancestry.rb).
+`tests/_examples/oop/prepend_ancestry.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/prepend_ancestry.rb){target=_blank rel=noopener}.
 
 ```metorex
 module Logging

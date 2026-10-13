@@ -4,7 +4,7 @@ slug: control-flow-jumps-as-values
 description: "The metorex example program control_flow/jumps_as_values.rb and its output."
 ---
 
-`tests/_examples/control_flow/jumps_as_values.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/jumps_as_values.rb).
+`tests/_examples/control_flow/jumps_as_values.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/jumps_as_values.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A jump reads as a value wherever one goes, and a loop answers what a break

@@ -4,7 +4,7 @@ slug: dsl-keyword-arg-options
 description: "The metorex example program dsl/keyword_arg_options.rb and its output."
 ---
 
-`tests/_examples/dsl/keyword_arg_options.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/dsl/keyword_arg_options.rb).
+`tests/_examples/dsl/keyword_arg_options.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/dsl/keyword_arg_options.rb){target=_blank rel=noopener}.
 
 ```metorex
 def receive_options(name, options = nil)

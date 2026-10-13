@@ -4,7 +4,7 @@ slug: callables-copies-and-visibility-parens
 description: "The metorex example program callables/copies_and_visibility_parens.rb and its output."
 ---
 
-`tests/_examples/callables/copies_and_visibility_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/copies_and_visibility_parens.rb).
+`tests/_examples/callables/copies_and_visibility_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/copies_and_visibility_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A copy of a callable is its own object that still compares equal, and

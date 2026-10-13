@@ -4,7 +4,7 @@ slug: require-kernel-autoload-receiver-no-parens
 description: "The metorex example program require/kernel_autoload_receiver_no_parens.rb and its output."
 ---
 
-`tests/_examples/require/kernel_autoload_receiver_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/kernel_autoload_receiver_no_parens.rb).
+`tests/_examples/require/kernel_autoload_receiver_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/kernel_autoload_receiver_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `Kernel.autoload` sent to Kernel itself registers where the call sits, which

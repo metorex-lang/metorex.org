@@ -4,7 +4,7 @@ slug: enumerable-lazy-enum-for-dispatch
 description: "The metorex example program enumerable/lazy_enum_for_dispatch.rb and its output."
 ---
 
-`tests/_examples/enumerable/lazy_enum_for_dispatch.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/enumerable/lazy_enum_for_dispatch.rb).
+`tests/_examples/enumerable/lazy_enum_for_dispatch.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/enumerable/lazy_enum_for_dispatch.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Enumerator::Lazy

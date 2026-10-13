@@ -4,7 +4,7 @@ slug: site-language-classes
 description: "The metorex example program site/language_classes.rb and its output."
 ---
 
-`tests/_examples/site/language_classes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/site/language_classes.rb).
+`tests/_examples/site/language_classes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/site/language_classes.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Account

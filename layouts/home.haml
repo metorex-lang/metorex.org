@@ -77,7 +77,7 @@
       .feature-card
         %span.feature-icon{'aria-hidden' => 'true'} rs
         %h3 Written in Rust
-        %p The lexer, parser, and bytecode VM are written in Rust.
+        %p The lexer, parser, and interpreter are written in Rust.
         %a.feature-link{href: '/architecture'} Architecture →
 
 %section.section
@@ -88,5 +88,5 @@
         :plain
           <p>Every spec in core, library, language, command_line, optional, and security runs in CI. If a program behaves differently under Metorex than under MRI, open an issue with the program and both outputs.</p>
       .hero-actions
-        %a.button.button-primary{href: 'https://github.com/metorex-lang/metorex/issues/new'} Open an issue
-        %a.button{href: 'https://github.com/metorex-lang/metorex/pulls'} Pull requests
+        %a.button.button-primary{href: 'https://github.com/metorex-lang/metorex/issues/new', target: '_blank', rel: 'noopener'} Open an issue
+        %a.button{href: 'https://github.com/metorex-lang/metorex/pulls', target: '_blank', rel: 'noopener'} Pull requests

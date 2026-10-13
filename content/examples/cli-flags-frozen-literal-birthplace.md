@@ -4,7 +4,7 @@ slug: cli-flags-frozen-literal-birthplace
 description: "The metorex example program cli_flags/frozen_literal_birthplace.rb and its output."
 ---
 
-`tests/_examples/cli_flags/frozen_literal_birthplace.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/cli_flags/frozen_literal_birthplace.rb).
+`tests/_examples/cli_flags/frozen_literal_birthplace.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/cli_flags/frozen_literal_birthplace.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Under --debug-frozen-string-literal a string literal remembers where it was

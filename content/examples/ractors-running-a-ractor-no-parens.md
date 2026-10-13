@@ -4,7 +4,7 @@ slug: ractors-running-a-ractor-no-parens
 description: "The metorex example program ractors/running_a_ractor_no_parens.rb and its output."
 ---
 
-`tests/_examples/ractors/running_a_ractor_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/ractors/running_a_ractor_no_parens.rb).
+`tests/_examples/ractors/running_a_ractor_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/ractors/running_a_ractor_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A Ractor runs its block with `self` as the new Ractor and the arguments it

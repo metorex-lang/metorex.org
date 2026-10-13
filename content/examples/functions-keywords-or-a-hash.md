@@ -4,7 +4,7 @@ slug: functions-keywords-or-a-hash
 description: "The metorex example program functions/keywords_or_a_hash.rb and its output."
 ---
 
-`tests/_examples/functions/keywords_or_a_hash.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/keywords_or_a_hash.rb).
+`tests/_examples/functions/keywords_or_a_hash.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/keywords_or_a_hash.rb){target=_blank rel=noopener}.
 
 ```metorex
 gather = proc { |*args, **kwargs| [args, kwargs] }

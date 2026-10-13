@@ -4,7 +4,7 @@ slug: site-differences-disasm
 description: "The metorex example program site/differences_disasm.rb and its output."
 ---
 
-`tests/_examples/site/differences_disasm.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/site/differences_disasm.rb).
+`tests/_examples/site/differences_disasm.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/site/differences_disasm.rb){target=_blank rel=noopener}.
 
 ```metorex
 puts RubyVM::InstructionSequence.compile("total = 2 + 3").disasm

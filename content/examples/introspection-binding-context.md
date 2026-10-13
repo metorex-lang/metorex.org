@@ -4,7 +4,7 @@ slug: introspection-binding-context
 description: "The metorex example program introspection/binding_context.rb and its output."
 ---
 
-`tests/_examples/introspection/binding_context.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/binding_context.rb).
+`tests/_examples/introspection/binding_context.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/binding_context.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Vault

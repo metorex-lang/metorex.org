@@ -4,7 +4,7 @@ slug: strings-unicode-succ
 description: "The metorex example program strings/unicode_succ.rb and its output."
 ---
 
-`tests/_examples/strings/unicode_succ.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/unicode_succ.rb).
+`tests/_examples/strings/unicode_succ.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/unicode_succ.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `succ` steps a letter or digit outside ASCII to the next of its kind, and

@@ -4,7 +4,7 @@ slug: basics-integers-bit-predicates
 description: "The metorex example program basics/integers/bit_predicates.rb and its output."
 ---
 
-`tests/_examples/basics/integers/bit_predicates.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/integers/bit_predicates.rb).
+`tests/_examples/basics/integers/bit_predicates.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/integers/bit_predicates.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `allbits?` asks whether every bit of the mask is set, `anybits?` whether any

@@ -4,7 +4,7 @@ slug: methods-singleton-keyword-method-names
 description: "The metorex example program methods/singleton_keyword_method_names.rb and its output."
 ---
 
-`tests/_examples/methods/singleton_keyword_method_names.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/singleton_keyword_method_names.rb).
+`tests/_examples/methods/singleton_keyword_method_names.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/singleton_keyword_method_names.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Widget

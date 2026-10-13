@@ -4,7 +4,7 @@ slug: methods-def-in-instance-exec-from-a-block
 description: "The metorex example program methods/def_in_instance_exec_from_a_block.rb and its output."
 ---
 
-`tests/_examples/methods/def_in_instance_exec_from_a_block.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/def_in_instance_exec_from_a_block.rb).
+`tests/_examples/methods/def_in_instance_exec_from_a_block.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/def_in_instance_exec_from_a_block.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Group

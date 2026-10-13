@@ -4,7 +4,7 @@ slug: symbols-and-ranges-range-identity
 description: "The metorex example program symbols_and_ranges/range_identity.rb and its output."
 ---
 
-`tests/_examples/symbols_and_ranges/range_identity.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/symbols_and_ranges/range_identity.rb).
+`tests/_examples/symbols_and_ranges/range_identity.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/symbols_and_ranges/range_identity.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A range written with literal ends is one object, however many times the line

@@ -4,7 +4,7 @@ slug: stdlib-libraries-socket-settings
 description: "The metorex example program stdlib_libraries/socket_settings.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/socket_settings.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/socket_settings.rb).
+`tests/_examples/stdlib_libraries/socket_settings.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/socket_settings.rb){target=_blank rel=noopener}.
 
 ```metorex
 require 'socket'

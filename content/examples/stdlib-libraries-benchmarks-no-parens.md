@@ -4,7 +4,7 @@ slug: stdlib-libraries-benchmarks-no-parens
 description: "The metorex example program stdlib_libraries/benchmarks_no_parens.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/benchmarks_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/benchmarks_no_parens.rb).
+`tests/_examples/stdlib_libraries/benchmarks_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/benchmarks_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Benchmark measures blocks and prints reports of the times they took. The

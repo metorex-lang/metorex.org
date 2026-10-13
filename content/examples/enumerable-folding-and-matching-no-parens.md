@@ -4,7 +4,7 @@ slug: enumerable-folding-and-matching-no-parens
 description: "The metorex example program enumerable/folding_and_matching_no_parens.rb and its output."
 ---
 
-`tests/_examples/enumerable/folding_and_matching_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/enumerable/folding_and_matching_no_parens.rb).
+`tests/_examples/enumerable/folding_and_matching_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/enumerable/folding_and_matching_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # inject folds a walk, either through a block or through an operator named by

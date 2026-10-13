@@ -4,7 +4,7 @@ slug: methods-anonymous-block-parameter
 description: "The metorex example program methods/anonymous_block_parameter.rb and its output."
 ---
 
-`tests/_examples/methods/anonymous_block_parameter.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/anonymous_block_parameter.rb).
+`tests/_examples/methods/anonymous_block_parameter.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/anonymous_block_parameter.rb){target=_blank rel=noopener}.
 
 ```metorex
 def run_it(&block)

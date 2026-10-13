@@ -4,7 +4,7 @@ slug: syntax-clause-bodies
 description: "The metorex example program syntax/clause_bodies.rb and its output."
 ---
 
-`tests/_examples/syntax/clause_bodies.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/clause_bodies.rb).
+`tests/_examples/syntax/clause_bodies.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/clause_bodies.rb){target=_blank rel=noopener}.
 
 ```metorex
 def count_rates(list)

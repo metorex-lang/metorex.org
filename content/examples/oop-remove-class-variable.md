@@ -4,7 +4,7 @@ slug: oop-remove-class-variable
 description: "The metorex example program oop/remove_class_variable.rb and its output."
 ---
 
-`tests/_examples/oop/remove_class_variable.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/remove_class_variable.rb).
+`tests/_examples/oop/remove_class_variable.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/remove_class_variable.rb){target=_blank rel=noopener}.
 
 ```metorex
 module Vars

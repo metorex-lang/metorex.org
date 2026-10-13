@@ -4,7 +4,7 @@ slug: io-select-waits-for-another-process
 description: "The metorex example program io/select_waits_for_another_process.rb and its output."
 ---
 
-`tests/_examples/io/select_waits_for_another_process.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/io/select_waits_for_another_process.rb).
+`tests/_examples/io/select_waits_for_another_process.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/io/select_waits_for_another_process.rb){target=_blank rel=noopener}.
 
 ```metorex
 require "etc"

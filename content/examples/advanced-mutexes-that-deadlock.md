@@ -4,7 +4,7 @@ slug: advanced-mutexes-that-deadlock
 description: "The metorex example program advanced/mutexes_that_deadlock.rb and its output."
 ---
 
-`tests/_examples/advanced/mutexes_that_deadlock.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/mutexes_that_deadlock.rb).
+`tests/_examples/advanced/mutexes_that_deadlock.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/mutexes_that_deadlock.rb){target=_blank rel=noopener}.
 
 ```metorex
 held = Mutex.new

@@ -4,7 +4,7 @@ slug: scanning-buffered-stream-reading
 description: "The metorex example program scanning/buffered_stream/reading.rb and its output."
 ---
 
-`tests/_examples/scanning/buffered_stream/reading.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/scanning/buffered_stream/reading.rb).
+`tests/_examples/scanning/buffered_stream/reading.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/scanning/buffered_stream/reading.rb){target=_blank rel=noopener}.
 
 ```metorex
 require "stringio"

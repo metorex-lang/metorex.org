@@ -4,7 +4,7 @@ slug: rex-runner-basic-spec-calculator-spec
 description: "The metorex example program rex/runner/basic/spec/calculator_spec.rb and its output."
 ---
 
-`tests/_examples/rex/runner/basic/spec/calculator_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/runner/basic/spec/calculator_spec.rb).
+`tests/_examples/rex/runner/basic/spec/calculator_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/runner/basic/spec/calculator_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Calculator

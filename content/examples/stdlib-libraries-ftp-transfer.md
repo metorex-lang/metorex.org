@@ -4,7 +4,7 @@ slug: stdlib-libraries-ftp-transfer
 description: "The metorex example program stdlib_libraries/ftp_transfer.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/ftp_transfer.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/ftp_transfer.rb).
+`tests/_examples/stdlib_libraries/ftp_transfer.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/ftp_transfer.rb){target=_blank rel=noopener}.
 
 ```metorex
 require 'socket'

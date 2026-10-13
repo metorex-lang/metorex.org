@@ -4,7 +4,7 @@ slug: require-gem-home-gems-bundler-4-0-19-lib-bundler-vendor-net-http-persisten
 description: "The metorex example program require/gem_home/gems/bundler-4.0.19/lib/bundler/vendor/net-http-persistent/lib/net/http/persistent/timed_stack_multi.rb and its output."
 ---
 
-`tests/_examples/require/gem_home/gems/bundler-4.0.19/lib/bundler/vendor/net-http-persistent/lib/net/http/persistent/timed_stack_multi.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/gem_home/gems/bundler-4.0.19/lib/bundler/vendor/net-http-persistent/lib/net/http/persistent/timed_stack_multi.rb).
+`tests/_examples/require/gem_home/gems/bundler-4.0.19/lib/bundler/vendor/net-http-persistent/lib/net/http/persistent/timed_stack_multi.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/gem_home/gems/bundler-4.0.19/lib/bundler/vendor/net-http-persistent/lib/net/http/persistent/timed_stack_multi.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Gem::Net::HTTP::Persistent::TimedStackMulti < Bundler::ConnectionPool::TimedStack # :nodoc:

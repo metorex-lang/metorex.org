@@ -4,7 +4,7 @@ slug: array-methods-strided-slices
 description: "The metorex example program array_methods/strided_slices.rb and its output."
 ---
 
-`tests/_examples/array_methods/strided_slices.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/array_methods/strided_slices.rb).
+`tests/_examples/array_methods/strided_slices.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/array_methods/strided_slices.rb){target=_blank rel=noopener}.
 
 ```metorex
 # An arithmetic sequence subscript takes every nth element of a run, reading

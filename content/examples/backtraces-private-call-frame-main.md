@@ -4,7 +4,7 @@ slug: backtraces-private-call-frame-main
 description: "The metorex example program backtraces/private_call_frame/main.rb and its output."
 ---
 
-`tests/_examples/backtraces/private_call_frame/main.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/backtraces/private_call_frame/main.rb).
+`tests/_examples/backtraces/private_call_frame/main.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/backtraces/private_call_frame/main.rb){target=_blank rel=noopener}.
 
 ```metorex
 require_relative "library"

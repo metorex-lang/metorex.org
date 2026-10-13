@@ -4,7 +4,7 @@ slug: rex-primitives-source-lines
 description: "The metorex example program rex/primitives/source_lines.rb and its output."
 ---
 
-`tests/_examples/rex/primitives/source_lines.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/primitives/source_lines.rb).
+`tests/_examples/rex/primitives/source_lines.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/primitives/source_lines.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A failure report quotes the whole statement its line falls in, which

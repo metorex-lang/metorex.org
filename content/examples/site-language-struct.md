@@ -4,7 +4,7 @@ slug: site-language-struct
 description: "The metorex example program site/language_struct.rb and its output."
 ---
 
-`tests/_examples/site/language_struct.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/site/language_struct.rb).
+`tests/_examples/site/language_struct.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/site/language_struct.rb){target=_blank rel=noopener}.
 
 ```metorex
 Point = Struct.new(:x, :y) do

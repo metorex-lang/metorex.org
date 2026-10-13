@@ -4,7 +4,7 @@ slug: rex-expectations-syntax-spec-syntax-spec
 description: "The metorex example program rex/expectations/syntax/spec/syntax_spec.rb and its output."
 ---
 
-`tests/_examples/rex/expectations/syntax/spec/syntax_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/expectations/syntax/spec/syntax_spec.rb).
+`tests/_examples/rex/expectations/syntax/spec/syntax_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/expectations/syntax/spec/syntax_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 RSpec::Matchers.define :have_total do |expected|

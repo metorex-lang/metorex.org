@@ -4,7 +4,7 @@ slug: syntax-numbered-and-shorthand
 description: "The metorex example program syntax/numbered_and_shorthand.rb and its output."
 ---
 
-`tests/_examples/syntax/numbered_and_shorthand.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/numbered_and_shorthand.rb).
+`tests/_examples/syntax/numbered_and_shorthand.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/numbered_and_shorthand.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A block that names no parameters reads what it was handed as `_1` and `_2`,

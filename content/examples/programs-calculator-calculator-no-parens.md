@@ -4,7 +4,7 @@ slug: programs-calculator-calculator-no-parens
 description: "The metorex example program programs/calculator/calculator_no_parens.rb and its output."
 ---
 
-`tests/_examples/programs/calculator/calculator_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/programs/calculator/calculator_no_parens.rb).
+`tests/_examples/programs/calculator/calculator_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/programs/calculator/calculator_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Calculator without parentheses (where possible)

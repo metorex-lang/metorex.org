@@ -4,7 +4,7 @@ slug: oop-writer-methods-parens
 description: "The metorex example program oop/writer_methods_parens.rb and its output."
 ---
 
-`tests/_examples/oop/writer_methods_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/writer_methods_parens.rb).
+`tests/_examples/oop/writer_methods_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/writer_methods_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A writer method can name its parameter without parentheses. The `=` has to

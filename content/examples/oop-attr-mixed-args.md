@@ -4,7 +4,7 @@ slug: oop-attr-mixed-args
 description: "The metorex example program oop/attr/mixed_args.rb and its output."
 ---
 
-`tests/_examples/oop/attr/mixed_args.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/attr/mixed_args.rb).
+`tests/_examples/oop/attr/mixed_args.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/attr/mixed_args.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Mixed

@@ -4,7 +4,7 @@ slug: filesystem-name-matching
 description: "The metorex example program filesystem/name_matching.rb and its output."
 ---
 
-`tests/_examples/filesystem/name_matching.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/name_matching.rb).
+`tests/_examples/filesystem/name_matching.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/name_matching.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `Dir.glob` reads a pattern against a directory tree: `*` and `?` within one

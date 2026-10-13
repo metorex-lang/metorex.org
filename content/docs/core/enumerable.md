@@ -68,4 +68,4 @@ ruby/spec describes 61 methods in `core/enumerable`, and Metorex implements 61 o
 - **`Enumerable#uniq`**: implemented, parameters `[[:block, :block]]`. With no block, returns a new array containing only unique elements; the array has no two elements `e0` and `e1` such that <code>e0.eql?(e1)</code>: [An example calling it](/examples/enumerable-empty-cycles).
 - **`Enumerable#zip`**: implemented, parameters `[[:rest, :others]]`. With no block given, returns a new array `new_array` of size self.size whose elements are arrays. [An example calling it](/examples/enumerable-lazy-value-packing).
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

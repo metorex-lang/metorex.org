@@ -4,7 +4,7 @@ slug: rex-metadata-shared-spec-support-collection-examples
 description: "The metorex example program rex/metadata/shared/spec/support/collection_examples.rb and its output."
 ---
 
-`tests/_examples/rex/metadata/shared/spec/support/collection_examples.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/metadata/shared/spec/support/collection_examples.rb).
+`tests/_examples/rex/metadata/shared/spec/support/collection_examples.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/metadata/shared/spec/support/collection_examples.rb){target=_blank rel=noopener}.
 
 ```metorex
 RSpec.shared_examples "a collection" do |size|

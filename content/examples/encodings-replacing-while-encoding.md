@@ -4,7 +4,7 @@ slug: encodings-replacing-while-encoding
 description: "The metorex example program encodings/replacing_while_encoding.rb and its output."
 ---
 
-`tests/_examples/encodings/replacing_while_encoding.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/replacing_while_encoding.rb).
+`tests/_examples/encodings/replacing_while_encoding.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/replacing_while_encoding.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `invalid: :replace` stands a replacement in for each run of bytes the source

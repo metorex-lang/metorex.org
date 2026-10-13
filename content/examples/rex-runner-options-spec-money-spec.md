@@ -4,7 +4,7 @@ slug: rex-runner-options-spec-money-spec
 description: "The metorex example program rex/runner/options/spec/money_spec.rb and its output."
 ---
 
-`tests/_examples/rex/runner/options/spec/money_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/runner/options/spec/money_spec.rb).
+`tests/_examples/rex/runner/options/spec/money_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/runner/options/spec/money_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 describe Money do

@@ -4,7 +4,7 @@ slug: stdlib-string-dump-parens
 description: "The metorex example program stdlib/string/dump_parens.rb and its output."
 ---
 
-`tests/_examples/stdlib/string/dump_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/string/dump_parens.rb).
+`tests/_examples/stdlib/string/dump_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/string/dump_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 puts("plain".dump)

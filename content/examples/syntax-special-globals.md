@@ -4,7 +4,7 @@ slug: syntax-special-globals
 description: "The metorex example program syntax/special_globals.rb and its output."
 ---
 
-`tests/_examples/syntax/special_globals.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/special_globals.rb).
+`tests/_examples/syntax/special_globals.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/special_globals.rb){target=_blank rel=noopener}.
 
 ```metorex
 # What assigning a special global checks and stores, the aliases the

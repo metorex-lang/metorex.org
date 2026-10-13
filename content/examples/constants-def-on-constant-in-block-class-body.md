@@ -4,7 +4,7 @@ slug: constants-def-on-constant-in-block-class-body
 description: "The metorex example program constants/def_on_constant_in_block_class_body.rb and its output."
 ---
 
-`tests/_examples/constants/def_on_constant_in_block_class_body.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/constants/def_on_constant_in_block_class_body.rb).
+`tests/_examples/constants/def_on_constant_in_block_class_body.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/constants/def_on_constant_in_block_class_body.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Nest; end

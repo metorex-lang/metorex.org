@@ -4,7 +4,7 @@ slug: rescue-raise-instance-without-cause
 description: "The metorex example program rescue/raise_instance_without_cause.rb and its output."
 ---
 
-`tests/_examples/rescue/raise_instance_without_cause.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rescue/raise_instance_without_cause.rb).
+`tests/_examples/rescue/raise_instance_without_cause.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rescue/raise_instance_without_cause.rb){target=_blank rel=noopener}.
 
 ```metorex
 def reraise_plain

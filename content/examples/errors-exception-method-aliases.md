@@ -4,7 +4,7 @@ slug: errors-exception-method-aliases
 description: "The metorex example program errors/exception_method_aliases.rb and its output."
 ---
 
-`tests/_examples/errors/exception_method_aliases.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/exception_method_aliases.rb).
+`tests/_examples/errors/exception_method_aliases.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/exception_method_aliases.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A subclass of an exception class can give the class's own methods another

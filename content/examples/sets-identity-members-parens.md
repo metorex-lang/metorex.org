@@ -4,7 +4,7 @@ slug: sets-identity-members-parens
 description: "The metorex example program sets/identity_members_parens.rb and its output."
 ---
 
-`tests/_examples/sets/identity_members_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/sets/identity_members_parens.rb).
+`tests/_examples/sets/identity_members_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/sets/identity_members_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A set told to compare by identity keeps two equal strings apart, since they

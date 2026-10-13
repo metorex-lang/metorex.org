@@ -4,7 +4,7 @@ slug: builtins-operators-coverage-no-parens
 description: "The metorex example program builtins/operators_coverage_no_parens.rb and its output."
 ---
 
-`tests/_examples/builtins/operators_coverage_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/operators_coverage_no_parens.rb).
+`tests/_examples/builtins/operators_coverage_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/operators_coverage_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Integer arithmetic past the word width stays exact (no parens where possible)

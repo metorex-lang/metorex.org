@@ -4,7 +4,7 @@ slug: syntax-escape-runs-bytes-parens
 description: "The metorex example program syntax/escape_runs/bytes_parens.rb and its output."
 ---
 
-`tests/_examples/syntax/escape_runs/bytes_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/escape_runs/bytes_parens.rb).
+`tests/_examples/syntax/escape_runs/bytes_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/escape_runs/bytes_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A run of numeric escapes names bytes, and bytes that spell a character in

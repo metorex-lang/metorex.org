@@ -4,7 +4,7 @@ slug: runtime-backtick-command
 description: "The metorex example program runtime/backtick_command.rb and its output."
 ---
 
-`tests/_examples/runtime/backtick_command.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/backtick_command.rb).
+`tests/_examples/runtime/backtick_command.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/backtick_command.rb){target=_blank rel=noopener}.
 
 ```metorex
 target = "world"

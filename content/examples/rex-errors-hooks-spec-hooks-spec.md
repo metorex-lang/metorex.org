@@ -4,7 +4,7 @@ slug: rex-errors-hooks-spec-hooks-spec
 description: "The metorex example program rex/errors/hooks/spec/hooks_spec.rb and its output."
 ---
 
-`tests/_examples/rex/errors/hooks/spec/hooks_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/errors/hooks/spec/hooks_spec.rb).
+`tests/_examples/rex/errors/hooks/spec/hooks_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/errors/hooks/spec/hooks_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 describe "a before(:context) hook that raises" do

@@ -4,7 +4,7 @@ slug: runtime-spawn-with-options-no-parens
 description: "The metorex example program runtime/spawn_with_options_no_parens.rb and its output."
 ---
 
-`tests/_examples/runtime/spawn_with_options_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/spawn_with_options_no_parens.rb).
+`tests/_examples/runtime/spawn_with_options_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/spawn_with_options_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Process.spawn reads its options Hash the way Ruby does.

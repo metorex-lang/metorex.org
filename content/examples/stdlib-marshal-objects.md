@@ -4,7 +4,7 @@ slug: stdlib-marshal-objects
 description: "The metorex example program stdlib/marshal_objects.rb and its output."
 ---
 
-`tests/_examples/stdlib/marshal_objects.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/marshal_objects.rb).
+`tests/_examples/stdlib/marshal_objects.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/marshal_objects.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Marshal writes objects by their class and instance variables, and refuses

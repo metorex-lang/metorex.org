@@ -4,7 +4,7 @@ slug: metaprogramming-class-exec
 description: "The metorex example program metaprogramming/class_exec.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/class_exec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/class_exec.rb).
+`tests/_examples/metaprogramming/class_exec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/class_exec.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Module#class_exec / module_exec — block evaluated in the receiver's context,

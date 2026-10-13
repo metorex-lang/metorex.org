@@ -4,7 +4,7 @@ slug: control-flow-case-expr-block
 description: "The metorex example program control_flow/case_expr_block.rb and its output."
 ---
 
-`tests/_examples/control_flow/case_expr_block.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/case_expr_block.rb).
+`tests/_examples/control_flow/case_expr_block.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/case_expr_block.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Case expression with block syntax (multiline)

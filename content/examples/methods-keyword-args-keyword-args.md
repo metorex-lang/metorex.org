@@ -4,7 +4,7 @@ slug: methods-keyword-args-keyword-args
 description: "The metorex example program methods/keyword_args/keyword_args.rb and its output."
 ---
 
-`tests/_examples/methods/keyword_args/keyword_args.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/keyword_args/keyword_args.rb).
+`tests/_examples/methods/keyword_args/keyword_args.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/keyword_args/keyword_args.rb){target=_blank rel=noopener}.
 
 ```metorex
 def greet(name:, greeting: "Hello")

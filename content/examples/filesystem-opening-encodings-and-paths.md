@@ -4,7 +4,7 @@ slug: filesystem-opening-encodings-and-paths
 description: "The metorex example program filesystem/opening_encodings_and_paths.rb and its output."
 ---
 
-`tests/_examples/filesystem/opening_encodings_and_paths.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/opening_encodings_and_paths.rb).
+`tests/_examples/filesystem/opening_encodings_and_paths.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/opening_encodings_and_paths.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A mode naming `-` as the internal encoding, or the external one again,

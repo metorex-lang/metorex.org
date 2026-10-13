@@ -4,7 +4,7 @@ slug: control-flow-kernel-loop
 description: "The metorex example program control_flow/kernel_loop.rb and its output."
 ---
 
-`tests/_examples/control_flow/kernel_loop.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/kernel_loop.rb).
+`tests/_examples/control_flow/kernel_loop.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/kernel_loop.rb){target=_blank rel=noopener}.
 
 ```metorex
 count = 0

@@ -4,7 +4,7 @@ slug: rex-site-ledger-lib-ledger
 description: "The metorex example program rex/site/ledger/lib/ledger.rb and its output."
 ---
 
-`tests/_examples/rex/site/ledger/lib/ledger.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/site/ledger/lib/ledger.rb).
+`tests/_examples/rex/site/ledger/lib/ledger.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/site/ledger/lib/ledger.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Ledger

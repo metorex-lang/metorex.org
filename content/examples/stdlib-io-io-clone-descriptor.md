@@ -4,7 +4,7 @@ slug: stdlib-io-io-clone-descriptor
 description: "The metorex example program stdlib/io/io_clone_descriptor.rb and its output."
 ---
 
-`tests/_examples/stdlib/io/io_clone_descriptor.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/io/io_clone_descriptor.rb).
+`tests/_examples/stdlib/io/io_clone_descriptor.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/io/io_clone_descriptor.rb){target=_blank rel=noopener}.
 
 ```metorex
 copy = $stdout.clone

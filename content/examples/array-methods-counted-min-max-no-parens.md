@@ -4,7 +4,7 @@ slug: array-methods-counted-min-max-no-parens
 description: "The metorex example program array_methods/counted_min_max_no_parens.rb and its output."
 ---
 
-`tests/_examples/array_methods/counted_min_max_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/array_methods/counted_min_max_no_parens.rb).
+`tests/_examples/array_methods/counted_min_max_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/array_methods/counted_min_max_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `min` and `max` take a count and answer that many values, in order.

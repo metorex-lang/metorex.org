@@ -4,7 +4,7 @@ slug: filesystem-io-writing-edges
 description: "The metorex example program filesystem/io_writing_edges.rb and its output."
 ---
 
-`tests/_examples/filesystem/io_writing_edges.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/io_writing_edges.rb).
+`tests/_examples/filesystem/io_writing_edges.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/io_writing_edges.rb){target=_blank rel=noopener}.
 
 ```metorex
 require "tmpdir"

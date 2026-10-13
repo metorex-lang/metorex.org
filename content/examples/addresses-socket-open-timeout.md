@@ -4,7 +4,7 @@ slug: addresses-socket-open-timeout
 description: "The metorex example program addresses/socket_open_timeout.rb and its output."
 ---
 
-`tests/_examples/addresses/socket_open_timeout.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/addresses/socket_open_timeout.rb).
+`tests/_examples/addresses/socket_open_timeout.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/addresses/socket_open_timeout.rb){target=_blank rel=noopener}.
 
 ```metorex
 require "socket"

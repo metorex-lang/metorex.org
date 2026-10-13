@@ -4,7 +4,7 @@ slug: errors-key-error-named-arguments
 description: "The metorex example program errors/key_error/named_arguments.rb and its output."
 ---
 
-`tests/_examples/errors/key_error/named_arguments.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/key_error/named_arguments.rb).
+`tests/_examples/errors/key_error/named_arguments.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/key_error/named_arguments.rb){target=_blank rel=noopener}.
 
 ```metorex
 error = KeyError.new receiver: "lookup source", key: :b

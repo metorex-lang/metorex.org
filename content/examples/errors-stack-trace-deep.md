@@ -4,7 +4,7 @@ slug: errors-stack-trace-deep
 description: "The metorex example program errors/stack_trace_deep.rb and its output."
 ---
 
-`tests/_examples/errors/stack_trace_deep.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/stack_trace_deep.rb).
+`tests/_examples/errors/stack_trace_deep.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/stack_trace_deep.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Deep stack trace example

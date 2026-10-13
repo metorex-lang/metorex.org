@@ -4,7 +4,7 @@ slug: tabular-data-comma-separated-no-parens
 description: "The metorex example program tabular_data/comma_separated_no_parens.rb and its output."
 ---
 
-`tests/_examples/tabular_data/comma_separated_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/tabular_data/comma_separated_no_parens.rb).
+`tests/_examples/tabular_data/comma_separated_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/tabular_data/comma_separated_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Comma separated values are read into rows of fields, where an empty field

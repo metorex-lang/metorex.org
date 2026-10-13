@@ -4,7 +4,7 @@ slug: stdlib-libraries-x509-names-no-parens
 description: "The metorex example program stdlib_libraries/x509_names_no_parens.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/x509_names_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/x509_names_no_parens.rb).
+`tests/_examples/stdlib_libraries/x509_names_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/x509_names_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # An X.509 distinguished name: a list of attributes, each with the ASN.1

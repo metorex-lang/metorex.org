@@ -4,7 +4,7 @@ slug: functions-splat-class-parens
 description: "The metorex example program functions/splat_class_parens.rb and its output."
 ---
 
-`tests/_examples/functions/splat_class_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/splat_class_parens.rb).
+`tests/_examples/functions/splat_class_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/splat_class_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Logger

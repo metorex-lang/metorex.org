@@ -4,7 +4,7 @@ slug: stdlib-libraries-ripper-events
 description: "The metorex example program stdlib_libraries/ripper_events.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/ripper_events.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/ripper_events.rb).
+`tests/_examples/stdlib_libraries/ripper_events.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/ripper_events.rb){target=_blank rel=noopener}.
 
 ```metorex
 require 'ripper'

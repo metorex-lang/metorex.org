@@ -4,7 +4,7 @@ slug: stdlib-timeout-busy-code-no-parens
 description: "The metorex example program stdlib/timeout_busy_code_no_parens.rb and its output."
 ---
 
-`tests/_examples/stdlib/timeout_busy_code_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/timeout_busy_code_no_parens.rb).
+`tests/_examples/stdlib/timeout_busy_code_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/timeout_busy_code_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Timeout.timeout raises into its block wherever the block stands, so a

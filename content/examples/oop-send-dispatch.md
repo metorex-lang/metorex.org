@@ -4,7 +4,7 @@ slug: oop-send-dispatch
 description: "The metorex example program oop/send/dispatch.rb and its output."
 ---
 
-`tests/_examples/oop/send/dispatch.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/send/dispatch.rb).
+`tests/_examples/oop/send/dispatch.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/send/dispatch.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `send` and `__send__` name the method with a Symbol or a String, and say so

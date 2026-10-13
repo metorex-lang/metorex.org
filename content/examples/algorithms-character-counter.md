@@ -4,7 +4,7 @@ slug: algorithms-character-counter
 description: "The metorex example program algorithms/character_counter.rb and its output."
 ---
 
-`tests/_examples/algorithms/character_counter.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/algorithms/character_counter.rb).
+`tests/_examples/algorithms/character_counter.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/algorithms/character_counter.rb){target=_blank rel=noopener}.
 
 ```metorex
 text = "banana"

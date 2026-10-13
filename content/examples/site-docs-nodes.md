@@ -4,7 +4,7 @@ slug: site-docs-nodes
 description: "The metorex example program site/docs_nodes.rb and its output."
 ---
 
-`tests/_examples/site/docs_nodes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/site/docs_nodes.rb).
+`tests/_examples/site/docs_nodes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/site/docs_nodes.rb){target=_blank rel=noopener}.
 
 ```metorex
 node = parse("total = items.sum(:price) if ready").first

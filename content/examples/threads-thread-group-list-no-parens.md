@@ -4,7 +4,7 @@ slug: threads-thread-group-list-no-parens
 description: "The metorex example program threads/thread_group_list_no_parens.rb and its output."
 ---
 
-`tests/_examples/threads/thread_group_list_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/thread_group_list_no_parens.rb).
+`tests/_examples/threads/thread_group_list_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/thread_group_list_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A ThreadGroup lists the living threads in it: the main thread and the

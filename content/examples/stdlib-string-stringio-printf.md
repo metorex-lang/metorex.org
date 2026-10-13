@@ -4,7 +4,7 @@ slug: stdlib-string-stringio-printf
 description: "The metorex example program stdlib/string/stringio_printf.rb and its output."
 ---
 
-`tests/_examples/stdlib/string/stringio_printf.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/string/stringio_printf.rb).
+`tests/_examples/stdlib/string/stringio_printf.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/string/stringio_printf.rb){target=_blank rel=noopener}.
 
 ```metorex
 require "stringio"

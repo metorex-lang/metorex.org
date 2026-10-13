@@ -4,7 +4,7 @@ slug: basics-string-bytes
 description: "The metorex example program basics/string_bytes.rb and its output."
 ---
 
-`tests/_examples/basics/string_bytes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/string_bytes.rb).
+`tests/_examples/basics/string_bytes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/string_bytes.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A String reports its bytes as well as its characters.

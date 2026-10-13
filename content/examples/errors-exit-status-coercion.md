@@ -4,7 +4,7 @@ slug: errors-exit-status-coercion
 description: "The metorex example program errors/exit_status_coercion.rb and its output."
 ---
 
-`tests/_examples/errors/exit_status_coercion.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/exit_status_coercion.rb).
+`tests/_examples/errors/exit_status_coercion.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/exit_status_coercion.rb){target=_blank rel=noopener}.
 
 ```metorex
 def status_for(value)

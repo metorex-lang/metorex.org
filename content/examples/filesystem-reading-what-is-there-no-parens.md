@@ -4,7 +4,7 @@ slug: filesystem-reading-what-is-there-no-parens
 description: "The metorex example program filesystem/reading_what_is_there_no_parens.rb and its output."
 ---
 
-`tests/_examples/filesystem/reading_what_is_there_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/reading_what_is_there_no_parens.rb).
+`tests/_examples/filesystem/reading_what_is_there_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/reading_what_is_there_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # readpartial and read_nonblock hand back what is already there, including

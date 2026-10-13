@@ -4,7 +4,7 @@ slug: metaprogramming-instance-eval-source-strings
 description: "The metorex example program metaprogramming/instance_eval_source/strings.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/instance_eval_source/strings.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/instance_eval_source/strings.rb).
+`tests/_examples/metaprogramming/instance_eval_source/strings.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/instance_eval_source/strings.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `instance_eval` takes source as well as a block. Either runs with `self`

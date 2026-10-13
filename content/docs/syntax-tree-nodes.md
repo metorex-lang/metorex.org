@@ -1,7 +1,7 @@
 ---
 title: Syntax tree nodes
 slug: syntax-tree-nodes
-description: Every node type parse and Method#body answer, with the keys each one carries.
+description: Every node type parse and Method#body answer, with the keys each one has.
 order: 2
 ---
 
@@ -85,4 +85,4 @@ A statement or expression with no type below answers `{"type" => "Unknown"}`, as
 | `Break` | none |
 | `Continue` | none, for `next` |
 
-The sample on this page is `tests/_examples/site/docs_nodes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex), where the test suite checks its output.
+The sample on this page is `tests/_examples/site/docs_nodes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex){target=_blank rel=noopener}, where the test suite checks its output.

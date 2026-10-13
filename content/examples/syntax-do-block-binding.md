@@ -4,7 +4,7 @@ slug: syntax-do-block-binding
 description: "The metorex example program syntax/do_block_binding.rb and its output."
 ---
 
-`tests/_examples/syntax/do_block_binding.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/do_block_binding.rb).
+`tests/_examples/syntax/do_block_binding.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/do_block_binding.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A `do ... end` block belongs to the outermost command, where a `{ }` block

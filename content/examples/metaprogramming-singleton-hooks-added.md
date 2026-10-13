@@ -4,7 +4,7 @@ slug: metaprogramming-singleton-hooks-added
 description: "The metorex example program metaprogramming/singleton_hooks/added.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/singleton_hooks/added.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/singleton_hooks/added.rb).
+`tests/_examples/metaprogramming/singleton_hooks/added.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/singleton_hooks/added.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `singleton_method_added` fires for every way a singleton method arrives:

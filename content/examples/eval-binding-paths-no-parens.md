@@ -4,7 +4,7 @@ slug: eval-binding-paths-no-parens
 description: "The metorex example program eval/binding_paths_no_parens.rb and its output."
 ---
 
-`tests/_examples/eval/binding_paths_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/eval/binding_paths_no_parens.rb).
+`tests/_examples/eval/binding_paths_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/eval/binding_paths_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A binding and the code eval'd through it name the script by the path it

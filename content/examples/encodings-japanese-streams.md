@@ -4,7 +4,7 @@ slug: encodings-japanese-streams
 description: "The metorex example program encodings/japanese_streams.rb and its output."
 ---
 
-`tests/_examples/encodings/japanese_streams.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/japanese_streams.rb).
+`tests/_examples/encodings/japanese_streams.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/japanese_streams.rb){target=_blank rel=noopener}.
 
 ```metorex
 # ISO-2022-JP writes its Japanese runs between escapes rather than tagging

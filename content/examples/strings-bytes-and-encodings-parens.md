@@ -4,7 +4,7 @@ slug: strings-bytes-and-encodings-parens
 description: "The metorex example program strings/bytes_and_encodings_parens.rb and its output."
 ---
 
-`tests/_examples/strings/bytes_and_encodings_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/bytes_and_encodings_parens.rb).
+`tests/_examples/strings/bytes_and_encodings_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/bytes_and_encodings_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Appending to a string that holds nothing but ASCII takes the other

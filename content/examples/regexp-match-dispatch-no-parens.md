@@ -4,7 +4,7 @@ slug: regexp-match-dispatch-no-parens
 description: "The metorex example program regexp/match_dispatch_no_parens.rb and its output."
 ---
 
-`tests/_examples/regexp/match_dispatch_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/regexp/match_dispatch_no_parens.rb).
+`tests/_examples/regexp/match_dispatch_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/regexp/match_dispatch_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A string matched against another string refuses outright, and one matched

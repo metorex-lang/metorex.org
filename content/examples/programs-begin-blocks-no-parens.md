@@ -4,7 +4,7 @@ slug: programs-begin-blocks-no-parens
 description: "The metorex example program programs/begin_blocks_no_parens.rb and its output."
 ---
 
-`tests/_examples/programs/begin_blocks_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/programs/begin_blocks_no_parens.rb).
+`tests/_examples/programs/begin_blocks_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/programs/begin_blocks_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Every BEGIN body runs before the rest of the file it was written in, in the

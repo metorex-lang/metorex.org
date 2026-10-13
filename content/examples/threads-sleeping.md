@@ -4,7 +4,7 @@ slug: threads-sleeping
 description: "The metorex example program threads/sleeping.rb and its output."
 ---
 
-`tests/_examples/threads/sleeping.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/sleeping.rb).
+`tests/_examples/threads/sleeping.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/sleeping.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `sleep` waits for as long as it is told. A length may be named by anything

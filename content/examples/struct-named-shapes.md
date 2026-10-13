@@ -4,7 +4,7 @@ slug: struct-named-shapes
 description: "The metorex example program struct/named_shapes.rb and its output."
 ---
 
-`tests/_examples/struct/named_shapes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/struct/named_shapes.rb).
+`tests/_examples/struct/named_shapes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/struct/named_shapes.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `Struct.new` names a constant when its first argument is a String, refuses a

@@ -40,4 +40,4 @@ ruby/spec describes 28 methods in `core/filetest`, and Metorex implements 27 of 
 - **`FileTest.writable_real?`**: implemented, parameters `[[:req, :path]]`. Returns `true` if the named file is writable by the real user and group id of this process. [An example calling it](/examples/filesystem-asking-about-a-file).
 - **`FileTest.zero?`**: implemented, parameters `[[:req, :path]]`. Returns `true` if the named file exists and has a zero size. [An example calling it](/examples/filesystem-asking-about-a-file).
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

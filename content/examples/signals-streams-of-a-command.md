@@ -4,7 +4,7 @@ slug: signals-streams-of-a-command
 description: "The metorex example program signals/streams_of_a_command.rb and its output."
 ---
 
-`tests/_examples/signals/streams_of_a_command.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/signals/streams_of_a_command.rb).
+`tests/_examples/signals/streams_of_a_command.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/signals/streams_of_a_command.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A command run with its error stream pointed at its output writes both into

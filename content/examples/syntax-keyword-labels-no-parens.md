@@ -4,7 +4,7 @@ slug: syntax-keyword-labels-no-parens
 description: "The metorex example program syntax/keyword_labels_no_parens.rb and its output."
 ---
 
-`tests/_examples/syntax/keyword_labels_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/keyword_labels_no_parens.rb).
+`tests/_examples/syntax/keyword_labels_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/keyword_labels_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A keyword written as a label is a name like any other.

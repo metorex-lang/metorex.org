@@ -93,4 +93,4 @@ ruby/spec describes 45 methods in `core/exception`, and Metorex implements 45 of
 
 - **`UncaughtThrowError#tag`**: implemented, parameters `[]`. Return the tag object which was called for. [An example calling it](/examples/dsl-html-builder).
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

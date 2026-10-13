@@ -5,7 +5,7 @@ description: Where Metorex answers differently from MRI 4.0.6, each shown with a
 layout: page
 ---
 
-Metorex runs the ruby/spec suite with no failures, so a program that sticks to what the suite checks behaves the same under both. The places below are where Metorex answers differently on purpose. Each sample was run under Metorex and under MRI 4.0.6, and both outputs are shown.
+Metorex runs the ruby/spec suite with no failures, so a program that uses only what the suite checks behaves the same under both. The places below are where Metorex answers differently on purpose. Each sample was run under Metorex and under MRI 4.0.6, and both outputs are shown.
 
 ## The version description
 
@@ -154,7 +154,7 @@ nil
 
 ## Naming RSpec
 
-Rex, the spec framework Metorex carries, loads the first time a program names `RSpec`, and the examples the program defined run as it ends. Under MRI the program has to require `rspec/autorun` from the RSpec gems first.
+Rex, the spec framework built into Metorex, loads the first time a program names `RSpec`, and the examples the program defined run as it ends. Under MRI the program has to require `rspec/autorun` from the RSpec gems first.
 
 ```metorex
 RSpec.describe "a ledger" do
@@ -180,4 +180,4 @@ RSpec.describe "a ledger" do
 ^^^^^
 ```
 
-The samples other than the last are `tests/_examples/site/differences_*.rb` in the [metorex repository](https://github.com/metorex-lang/metorex), where the test suite checks the Metorex output.
+The samples other than the last are `tests/_examples/site/differences_*.rb` in the [metorex repository](https://github.com/metorex-lang/metorex){target=_blank rel=noopener}, where the test suite checks the Metorex output.

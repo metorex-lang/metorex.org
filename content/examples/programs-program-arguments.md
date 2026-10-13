@@ -4,7 +4,7 @@ slug: programs-program-arguments
 description: "The metorex example program programs/program_arguments.rb and its output."
 ---
 
-`tests/_examples/programs/program_arguments.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/programs/program_arguments.rb).
+`tests/_examples/programs/program_arguments.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/programs/program_arguments.rb){target=_blank rel=noopener}.
 
 ```metorex
 # The interpreter reads its own flags up to `--` or the program's name, and

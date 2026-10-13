@@ -4,7 +4,7 @@ slug: oop-alias-keyword
 description: "The metorex example program oop/alias_keyword.rb and its output."
 ---
 
-`tests/_examples/oop/alias_keyword.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/alias_keyword.rb).
+`tests/_examples/oop/alias_keyword.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/alias_keyword.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `alias` keyword — creates a method alias inside a class/module body.

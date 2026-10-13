@@ -4,7 +4,7 @@ slug: array-methods-fill-and-hash-no-parens
 description: "The metorex example program array_methods/fill_and_hash_no_parens.rb and its output."
 ---
 
-`tests/_examples/array_methods/fill_and_hash_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/array_methods/fill_and_hash_no_parens.rb).
+`tests/_examples/array_methods/fill_and_hash_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/array_methods/fill_and_hash_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Array#fill writes over a stretch: everything, from an index on, a run of a

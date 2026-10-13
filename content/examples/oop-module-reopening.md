@@ -4,7 +4,7 @@ slug: oop-module-reopening
 description: "The metorex example program oop/module_reopening.rb and its output."
 ---
 
-`tests/_examples/oop/module_reopening.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/module_reopening.rb).
+`tests/_examples/oop/module_reopening.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/module_reopening.rb){target=_blank rel=noopener}.
 
 ```metorex
 # The `module` keyword opens a module of its own when the name stands for

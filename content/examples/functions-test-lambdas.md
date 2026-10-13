@@ -4,7 +4,7 @@ slug: functions-test-lambdas
 description: "The metorex example program functions/test_lambdas.rb and its output."
 ---
 
-`tests/_examples/functions/test_lambdas.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/test_lambdas.rb).
+`tests/_examples/functions/test_lambdas.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/test_lambdas.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Lambda parsing tests

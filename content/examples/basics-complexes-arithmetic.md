@@ -4,7 +4,7 @@ slug: basics-complexes-arithmetic
 description: "The metorex example program basics/complexes/arithmetic.rb and its output."
 ---
 
-`tests/_examples/basics/complexes/arithmetic.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/complexes/arithmetic.rb).
+`tests/_examples/basics/complexes/arithmetic.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/complexes/arithmetic.rb){target=_blank rel=noopener}.
 
 ```metorex
 # The four operations compose the two parts of each operand.

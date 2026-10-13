@@ -4,7 +4,7 @@ slug: syntax-splat-assignment
 description: "The metorex example program syntax/splat_assignment.rb and its output."
 ---
 
-`tests/_examples/syntax/splat_assignment.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/splat_assignment.rb).
+`tests/_examples/syntax/splat_assignment.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/splat_assignment.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A splat in a multiple assignment takes whatever the named targets leave.

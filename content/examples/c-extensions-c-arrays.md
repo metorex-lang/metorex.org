@@ -4,7 +4,7 @@ slug: c-extensions-c-arrays
 description: "The metorex example program c_extensions/c_arrays.rb and its output."
 ---
 
-`tests/_examples/c_extensions/c_arrays.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/c_extensions/c_arrays.rb).
+`tests/_examples/c_extensions/c_arrays.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/c_extensions/c_arrays.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A C extension building Arrays, reading and writing their elements, and

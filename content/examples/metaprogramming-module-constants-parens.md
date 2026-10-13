@@ -4,7 +4,7 @@ slug: metaprogramming-module-constants-parens
 description: "The metorex example program metaprogramming/module_constants_parens.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/module_constants_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/module_constants_parens.rb).
+`tests/_examples/metaprogramming/module_constants_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/module_constants_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Module#constants — written with parentheses. Covers own constants,

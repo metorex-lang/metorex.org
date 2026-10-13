@@ -4,7 +4,7 @@ slug: builtins-kernel-open
 description: "The metorex example program builtins/kernel_open.rb and its output."
 ---
 
-`tests/_examples/builtins/kernel_open.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/kernel_open.rb).
+`tests/_examples/builtins/kernel_open.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/kernel_open.rb){target=_blank rel=noopener}.
 
 ```metorex
 path = "/tmp/metorex_kernel_open_#{Process.pid}.txt"

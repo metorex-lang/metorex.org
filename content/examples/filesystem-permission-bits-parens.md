@@ -4,7 +4,7 @@ slug: filesystem-permission-bits-parens
 description: "The metorex example program filesystem/permission_bits_parens.rb and its output."
 ---
 
-`tests/_examples/filesystem/permission_bits_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/permission_bits_parens.rb).
+`tests/_examples/filesystem/permission_bits_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/permission_bits_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `chmod` sets the permission bits through a name or through an open handle,

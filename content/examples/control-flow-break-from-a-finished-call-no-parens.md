@@ -4,7 +4,7 @@ slug: control-flow-break-from-a-finished-call-no-parens
 description: "The metorex example program control_flow/break_from_a_finished_call_no_parens.rb and its output."
 ---
 
-`tests/_examples/control_flow/break_from_a_finished_call_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/break_from_a_finished_call_no_parens.rb).
+`tests/_examples/control_flow/break_from_a_finished_call_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/break_from_a_finished_call_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `break` returns from the call its block was attached to. Once that call

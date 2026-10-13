@@ -4,7 +4,7 @@ slug: metaprogramming-bytecode-define-method
 description: "The metorex example program metaprogramming/bytecode_define_method.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/bytecode_define_method.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/bytecode_define_method.rb).
+`tests/_examples/metaprogramming/bytecode_define_method.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/bytecode_define_method.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Example: define_method for runtime method definition

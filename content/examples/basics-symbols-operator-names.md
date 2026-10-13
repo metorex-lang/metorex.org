@@ -4,7 +4,7 @@ slug: basics-symbols-operator-names
 description: "The metorex example program basics/symbols/operator_names.rb and its output."
 ---
 
-`tests/_examples/basics/symbols/operator_names.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/symbols/operator_names.rb).
+`tests/_examples/basics/symbols/operator_names.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/symbols/operator_names.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A symbol can name any operator method, which is how `send` reaches one.

@@ -4,7 +4,7 @@ slug: site-beyond-assertions
 description: "The metorex example program site/beyond_assertions.rb and its output."
 ---
 
-`tests/_examples/site/beyond_assertions.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/site/beyond_assertions.rb).
+`tests/_examples/site/beyond_assertions.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/site/beyond_assertions.rb){target=_blank rel=noopener}.
 
 ```metorex
 assert(3.between?(1, 5))

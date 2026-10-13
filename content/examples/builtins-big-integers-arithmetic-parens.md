@@ -4,7 +4,7 @@ slug: builtins-big-integers-arithmetic-parens
 description: "The metorex example program builtins/big_integers/arithmetic_parens.rb and its output."
 ---
 
-`tests/_examples/builtins/big_integers/arithmetic_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/big_integers/arithmetic_parens.rb).
+`tests/_examples/builtins/big_integers/arithmetic_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/big_integers/arithmetic_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # An Integer grows past the machine word rather than saturating or turning

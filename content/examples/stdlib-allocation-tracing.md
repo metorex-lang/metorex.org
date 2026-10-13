@@ -4,7 +4,7 @@ slug: stdlib-allocation-tracing
 description: "The metorex example program stdlib/allocation_tracing.rb and its output."
 ---
 
-`tests/_examples/stdlib/allocation_tracing.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/allocation_tracing.rb).
+`tests/_examples/stdlib/allocation_tracing.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/allocation_tracing.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Where ObjectSpace says an object was made while allocation tracing is on:

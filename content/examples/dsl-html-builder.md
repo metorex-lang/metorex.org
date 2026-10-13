@@ -4,7 +4,7 @@ slug: dsl-html-builder
 description: "The metorex example program dsl/html_builder.rb and its output."
 ---
 
-`tests/_examples/dsl/html_builder.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/dsl/html_builder.rb).
+`tests/_examples/dsl/html_builder.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/dsl/html_builder.rb){target=_blank rel=noopener}.
 
 ```metorex
 # HTML Builder DSL

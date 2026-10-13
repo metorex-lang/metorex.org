@@ -4,7 +4,7 @@ slug: metaprogramming-caller-entries
 description: "The metorex example program metaprogramming/caller_entries.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/caller_entries.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/caller_entries.rb).
+`tests/_examples/metaprogramming/caller_entries.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/caller_entries.rb){target=_blank rel=noopener}.
 
 ```metorex
 def innermost

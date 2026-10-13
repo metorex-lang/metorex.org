@@ -4,7 +4,7 @@ slug: stdlib-libraries-log-rotation
 description: "The metorex example program stdlib_libraries/log_rotation.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/log_rotation.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/log_rotation.rb).
+`tests/_examples/stdlib_libraries/log_rotation.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/log_rotation.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A logger given a named shift age rotates on the calendar, moving the file

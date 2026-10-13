@@ -4,7 +4,7 @@ slug: introspection-tracepoint-call-in-block-no-parens
 description: "The metorex example program introspection/tracepoint_call_in_block_no_parens.rb and its output."
 ---
 
-`tests/_examples/introspection/tracepoint_call_in_block_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/tracepoint_call_in_block_no_parens.rb).
+`tests/_examples/introspection/tracepoint_call_in_block_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/tracepoint_call_in_block_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A :call event names the method, file, and line of a method defined and

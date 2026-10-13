@@ -4,7 +4,7 @@ slug: signals-signame-parens
 description: "The metorex example program signals/signame_parens.rb and its output."
 ---
 
-`tests/_examples/signals/signame_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/signals/signame_parens.rb).
+`tests/_examples/signals/signame_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/signals/signame_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `Signal.signame` answers the name a number goes by, and nil for a number no

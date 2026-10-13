@@ -4,7 +4,7 @@ slug: encodings-japanese-text-parens
 description: "The metorex example program encodings/japanese_text_parens.rb and its output."
 ---
 
-`tests/_examples/encodings/japanese_text_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/japanese_text_parens.rb).
+`tests/_examples/encodings/japanese_text_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/japanese_text_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # EUC-JP spells a character in two bytes, or three for the ones that sit in

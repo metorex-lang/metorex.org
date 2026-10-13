@@ -4,7 +4,7 @@ slug: basics-warn-categories
 description: "The metorex example program basics/warn/categories.rb and its output."
 ---
 
-`tests/_examples/basics/warn/categories.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/warn/categories.rb).
+`tests/_examples/basics/warn/categories.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/warn/categories.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `Warning.categories` lists every category `Warning[]` accepts.

@@ -4,7 +4,7 @@ slug: rescue-retry-in-method-rescue
 description: "The metorex example program rescue/retry_in_method_rescue.rb and its output."
 ---
 
-`tests/_examples/rescue/retry_in_method_rescue.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rescue/retry_in_method_rescue.rb).
+`tests/_examples/rescue/retry_in_method_rescue.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rescue/retry_in_method_rescue.rb){target=_blank rel=noopener}.
 
 ```metorex
 def load_once(attempts)

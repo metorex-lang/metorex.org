@@ -4,7 +4,7 @@ slug: signals-trapped-from-outside
 description: "The metorex example program signals/trapped_from_outside.rb and its output."
 ---
 
-`tests/_examples/signals/trapped_from_outside.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/signals/trapped_from_outside.rb).
+`tests/_examples/signals/trapped_from_outside.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/signals/trapped_from_outside.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A signal another process sends runs the handler Signal.trap installed.

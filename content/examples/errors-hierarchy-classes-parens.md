@@ -4,7 +4,7 @@ slug: errors-hierarchy-classes-parens
 description: "The metorex example program errors/hierarchy/classes_parens.rb and its output."
 ---
 
-`tests/_examples/errors/hierarchy/classes_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/hierarchy/classes_parens.rb).
+`tests/_examples/errors/hierarchy/classes_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/hierarchy/classes_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # The built-in exception hierarchy, rooted at Object the way every class is.

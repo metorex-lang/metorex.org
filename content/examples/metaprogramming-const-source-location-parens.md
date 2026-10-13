@@ -4,7 +4,7 @@ slug: metaprogramming-const-source-location-parens
 description: "The metorex example program metaprogramming/const_source_location_parens.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/const_source_location_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/const_source_location_parens.rb).
+`tests/_examples/metaprogramming/const_source_location_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/const_source_location_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Module#const_source_location — written with parentheses. Locations are recorded for class/module keywords, constant

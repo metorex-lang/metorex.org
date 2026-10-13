@@ -4,7 +4,7 @@ slug: stdlib-bundled-gems
 description: "The metorex example program stdlib/bundled_gems.rb and its output."
 ---
 
-`tests/_examples/stdlib/bundled_gems.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/bundled_gems.rb).
+`tests/_examples/stdlib/bundled_gems.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/bundled_gems.rb){target=_blank rel=noopener}.
 
 ```metorex
 require("mutex_m")

@@ -4,7 +4,7 @@ slug: builtins-pointer-packing-parens
 description: "The metorex example program builtins/pointer_packing_parens.rb and its output."
 ---
 
-`tests/_examples/builtins/pointer_packing_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/pointer_packing_parens.rb).
+`tests/_examples/builtins/pointer_packing_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/pointer_packing_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `pack` with 'P' or 'p' writes where a string stands rather than what it

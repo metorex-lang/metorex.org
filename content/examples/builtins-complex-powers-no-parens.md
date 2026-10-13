@@ -4,7 +4,7 @@ slug: builtins-complex-powers-no-parens
 description: "The metorex example program builtins/complex_powers_no_parens.rb and its output."
 ---
 
-`tests/_examples/builtins/complex_powers_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/complex_powers_no_parens.rb).
+`tests/_examples/builtins/complex_powers_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/complex_powers_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A complex number raised to a power that is not a whole number, worked in

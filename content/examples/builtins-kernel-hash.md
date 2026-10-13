@@ -4,7 +4,7 @@ slug: builtins-kernel-hash
 description: "The metorex example program builtins/kernel_hash.rb and its output."
 ---
 
-`tests/_examples/builtins/kernel_hash.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/kernel_hash.rb).
+`tests/_examples/builtins/kernel_hash.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/kernel_hash.rb){target=_blank rel=noopener}.
 
 ```metorex
 puts Hash(nil).size

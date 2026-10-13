@@ -4,7 +4,7 @@ slug: filesystem-binary-paths
 description: "The metorex example program filesystem/binary_paths.rb and its output."
 ---
 
-`tests/_examples/filesystem/binary_paths.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/binary_paths.rb).
+`tests/_examples/filesystem/binary_paths.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/binary_paths.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A path tagged binary names the file its bytes spell, whichever method it is

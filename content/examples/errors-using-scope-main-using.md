@@ -4,7 +4,7 @@ slug: errors-using-scope-main-using
 description: "The metorex example program errors/using_scope/main_using.rb and its output."
 ---
 
-`tests/_examples/errors/using_scope/main_using.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/using_scope/main_using.rb).
+`tests/_examples/errors/using_scope/main_using.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/using_scope/main_using.rb){target=_blank rel=noopener}.
 
 ```metorex
 MAIN = self

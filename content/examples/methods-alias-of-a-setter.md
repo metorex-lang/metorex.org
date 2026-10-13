@@ -4,7 +4,7 @@ slug: methods-alias-of-a-setter
 description: "The metorex example program methods/alias_of_a_setter.rb and its output."
 ---
 
-`tests/_examples/methods/alias_of_a_setter.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/alias_of_a_setter.rb).
+`tests/_examples/methods/alias_of_a_setter.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/alias_of_a_setter.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `alias` takes a setter's name with its `=`, written bare or as a symbol.

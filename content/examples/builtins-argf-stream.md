@@ -4,7 +4,7 @@ slug: builtins-argf-stream
 description: "The metorex example program builtins/argf_stream.rb and its output."
 ---
 
-`tests/_examples/builtins/argf_stream.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/argf_stream.rb).
+`tests/_examples/builtins/argf_stream.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/argf_stream.rb){target=_blank rel=noopener}.
 
 ```metorex
 # ARGF reads a list of files as though they were one.

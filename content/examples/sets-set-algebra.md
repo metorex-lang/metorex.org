@@ -4,7 +4,7 @@ slug: sets-set-algebra
 description: "The metorex example program sets/set_algebra.rb and its output."
 ---
 
-`tests/_examples/sets/set_algebra.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/sets/set_algebra.rb).
+`tests/_examples/sets/set_algebra.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/sets/set_algebra.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A Set keeps its elements in the order they were added, and holds any value

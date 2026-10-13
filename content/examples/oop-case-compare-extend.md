@@ -4,7 +4,7 @@ slug: oop-case-compare-extend
 description: "The metorex example program oop/case_compare_extend.rb and its output."
 ---
 
-`tests/_examples/oop/case_compare_extend.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/case_compare_extend.rb).
+`tests/_examples/oop/case_compare_extend.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/case_compare_extend.rb){target=_blank rel=noopener}.
 
 ```metorex
 module Basic

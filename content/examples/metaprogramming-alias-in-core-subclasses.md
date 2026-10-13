@@ -4,7 +4,7 @@ slug: metaprogramming-alias-in-core-subclasses
 description: "The metorex example program metaprogramming/alias_in_core_subclasses.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/alias_in_core_subclasses.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/alias_in_core_subclasses.rb).
+`tests/_examples/metaprogramming/alias_in_core_subclasses.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/alias_in_core_subclasses.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A class below a core class gives a second name to a method the core class

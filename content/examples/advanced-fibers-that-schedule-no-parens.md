@@ -4,7 +4,7 @@ slug: advanced-fibers-that-schedule-no-parens
 description: "The metorex example program advanced/fibers_that_schedule_no_parens.rb and its output."
 ---
 
-`tests/_examples/advanced/fibers_that_schedule_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/fibers_that_schedule_no_parens.rb).
+`tests/_examples/advanced/fibers_that_schedule_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/fibers_that_schedule_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # The same as `fibers_that_schedule.rb`, written without parentheses.

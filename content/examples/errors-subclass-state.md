@@ -4,7 +4,7 @@ slug: errors-subclass-state
 description: "The metorex example program errors/subclass/state.rb and its output."
 ---
 
-`tests/_examples/errors/subclass/state.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/subclass/state.rb).
+`tests/_examples/errors/subclass/state.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/subclass/state.rb){target=_blank rel=noopener}.
 
 ```metorex
 # An exception subclass runs its own `initialize` and carries the instance

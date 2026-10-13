@@ -4,7 +4,7 @@ slug: errors-highlight-keyword
 description: "The metorex example program errors/highlight_keyword.rb and its output."
 ---
 
-`tests/_examples/errors/highlight_keyword.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/highlight_keyword.rb).
+`tests/_examples/errors/highlight_keyword.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/highlight_keyword.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `highlight:` takes true, false, or nil and nothing else.

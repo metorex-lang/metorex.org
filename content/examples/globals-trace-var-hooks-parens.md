@@ -4,7 +4,7 @@ slug: globals-trace-var-hooks-parens
 description: "The metorex example program globals/trace_var/hooks_parens.rb and its output."
 ---
 
-`tests/_examples/globals/trace_var/hooks_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/globals/trace_var/hooks_parens.rb).
+`tests/_examples/globals/trace_var/hooks_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/globals/trace_var/hooks_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Kernel#trace_var runs a hook whenever the named global is assigned.

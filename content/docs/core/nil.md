@@ -24,4 +24,4 @@ ruby/spec describes 17 methods in `core/nil`, and Metorex implements 17 of them.
 - **`NilClass#to_s`**: implemented, parameters `[]`. Returns an empty String: [An example calling it](/examples/addresses-internet-addresses).
 - **`NilClass#|`**: implemented, parameters `[[:req]]`. Returns `false` if `object` is `nil` or `false`, `true` otherwise:
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

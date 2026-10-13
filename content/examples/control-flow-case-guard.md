@@ -4,7 +4,7 @@ slug: control-flow-case-guard
 description: "The metorex example program control_flow/case_guard.rb and its output."
 ---
 
-`tests/_examples/control_flow/case_guard.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/case_guard.rb).
+`tests/_examples/control_flow/case_guard.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/case_guard.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Guard clauses in case/when statements

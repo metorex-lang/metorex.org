@@ -4,7 +4,7 @@ slug: cli-flags-show-features-parens
 description: "The metorex example program cli_flags/show_features_parens.rb and its output."
 ---
 
-`tests/_examples/cli_flags/show_features_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/cli_flags/show_features_parens.rb).
+`tests/_examples/cli_flags/show_features_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/cli_flags/show_features_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # What `--enable` and `--disable` left behind, and how loud the run is.

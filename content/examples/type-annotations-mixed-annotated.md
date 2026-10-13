@@ -4,7 +4,7 @@ slug: type-annotations-mixed-annotated
 description: "The metorex example program type_annotations/mixed_annotated.rb and its output."
 ---
 
-`tests/_examples/type_annotations/mixed_annotated.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/type_annotations/mixed_annotated.rb).
+`tests/_examples/type_annotations/mixed_annotated.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/type_annotations/mixed_annotated.rb){target=_blank rel=noopener}.
 
 ```metorex
 x = 100  # int

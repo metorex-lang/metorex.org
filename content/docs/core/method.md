@@ -35,4 +35,4 @@ ruby/spec describes 28 methods in `core/method`, and Metorex implements 23 of th
 - **`Method#to_s`**: implemented, parameters `[]`. Returns a human-readable description of the underlying method. [An example calling it](/examples/array-methods-in-place-and-walks).
 - **`Method#unbind`**: implemented, parameters `[]`. Dissociates *meth* from its current receiver. [An example calling it](/examples/introspection-value-class-methods).
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

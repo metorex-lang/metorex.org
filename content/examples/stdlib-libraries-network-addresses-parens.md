@@ -4,7 +4,7 @@ slug: stdlib-libraries-network-addresses-parens
 description: "The metorex example program stdlib_libraries/network_addresses_parens.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/network_addresses_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/network_addresses_parens.rb).
+`tests/_examples/stdlib_libraries/network_addresses_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/network_addresses_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Network addresses and the connections made to them.

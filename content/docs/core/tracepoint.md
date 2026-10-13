@@ -26,4 +26,4 @@ ruby/spec describes 19 methods in `core/tracepoint`, and Metorex implements 19 o
 - **`TracePoint#self`**: implemented, parameters `[]`. Returns the trace object during the event.
 - **`TracePoint.trace`**: implemented, parameters `[[:rest, :events], [:block, :block]]`. A convenience method for TracePoint.new that activates the trace automatically.
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

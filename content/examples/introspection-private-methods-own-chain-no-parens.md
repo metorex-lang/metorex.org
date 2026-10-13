@@ -4,7 +4,7 @@ slug: introspection-private-methods-own-chain-no-parens
 description: "The metorex example program introspection/private_methods_own_chain_no_parens.rb and its output."
 ---
 
-`tests/_examples/introspection/private_methods_own_chain_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/private_methods_own_chain_no_parens.rb).
+`tests/_examples/introspection/private_methods_own_chain_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/private_methods_own_chain_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Without ancestors, a class's private methods include those of its

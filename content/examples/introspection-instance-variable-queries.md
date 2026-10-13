@@ -4,7 +4,7 @@ slug: introspection-instance-variable-queries
 description: "The metorex example program introspection/instance_variable_queries.rb and its output."
 ---
 
-`tests/_examples/introspection/instance_variable_queries.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/instance_variable_queries.rb).
+`tests/_examples/introspection/instance_variable_queries.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/instance_variable_queries.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Greeter

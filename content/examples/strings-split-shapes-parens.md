@@ -4,7 +4,7 @@ slug: strings-split-shapes-parens
 description: "The metorex example program strings/split_shapes_parens.rb and its output."
 ---
 
-`tests/_examples/strings/split_shapes_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/split_shapes_parens.rb).
+`tests/_examples/strings/split_shapes_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/split_shapes_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `split` cuts a string on whitespace, on a run of text, or on a pattern.

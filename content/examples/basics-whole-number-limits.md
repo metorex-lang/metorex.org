@@ -4,7 +4,7 @@ slug: basics-whole-number-limits
 description: "The metorex example program basics/whole_number_limits.rb and its output."
 ---
 
-`tests/_examples/basics/whole_number_limits.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/whole_number_limits.rb).
+`tests/_examples/basics/whole_number_limits.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/whole_number_limits.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A shift reads its count through `to_int`, and a count too wide for a machine

@@ -4,7 +4,7 @@ slug: metaprogramming-class-exec-splat-parameter
 description: "The metorex example program metaprogramming/class_exec_splat_parameter.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/class_exec_splat_parameter.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/class_exec_splat_parameter.rb).
+`tests/_examples/metaprogramming/class_exec_splat_parameter.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/class_exec_splat_parameter.rb){target=_blank rel=noopener}.
 
 ```metorex
 body = proc do |*options|

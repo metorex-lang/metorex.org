@@ -4,7 +4,7 @@ slug: oop-prepend-private-visibility
 description: "The metorex example program oop/prepend_private_visibility.rb and its output."
 ---
 
-`tests/_examples/oop/prepend_private_visibility.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/prepend_private_visibility.rb).
+`tests/_examples/oop/prepend_private_visibility.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/prepend_private_visibility.rb){target=_blank rel=noopener}.
 
 ```metorex
 module Wrapper

@@ -4,7 +4,7 @@ slug: encodings-utf16-interpolation
 description: "The metorex example program encodings/utf16_interpolation.rb and its output."
 ---
 
-`tests/_examples/encodings/utf16_interpolation.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/utf16_interpolation.rb).
+`tests/_examples/encodings/utf16_interpolation.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/utf16_interpolation.rb){target=_blank rel=noopener}.
 
 ```metorex
 plain = "items".encode("UTF-16LE")

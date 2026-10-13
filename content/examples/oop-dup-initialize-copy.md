@@ -4,7 +4,7 @@ slug: oop-dup-initialize-copy
 description: "The metorex example program oop/dup_initialize_copy.rb and its output."
 ---
 
-`tests/_examples/oop/dup_initialize_copy.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/dup_initialize_copy.rb).
+`tests/_examples/oop/dup_initialize_copy.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/dup_initialize_copy.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Ledger

@@ -4,7 +4,7 @@ slug: advanced-queues-that-deadlock
 description: "The metorex example program advanced/queues_that_deadlock.rb and its output."
 ---
 
-`tests/_examples/advanced/queues_that_deadlock.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/queues_that_deadlock.rb).
+`tests/_examples/advanced/queues_that_deadlock.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/queues_that_deadlock.rb){target=_blank rel=noopener}.
 
 ```metorex
 empty = Queue.new

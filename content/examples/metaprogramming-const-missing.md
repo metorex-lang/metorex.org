@@ -4,7 +4,7 @@ slug: metaprogramming-const-missing
 description: "The metorex example program metaprogramming/const_missing.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/const_missing.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/const_missing.rb).
+`tests/_examples/metaprogramming/const_missing.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/const_missing.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Module#const_missing — written without parentheses where possible.

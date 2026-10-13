@@ -41,4 +41,4 @@ ruby/spec describes 34 methods in `core/range`, and Metorex implements 33 of the
 - **`Range#to_s`**: implemented, parameters `[]`. Returns a string representation of `self`, including <code>begin.to_s</code> and <code>end.to_s</code>: [An example calling it](/examples/symbols-and-ranges-names-and-walks).
 - **`Range#to_set`**: implemented, parameters `[[:rest, :args], [:block, :block]]`. Returns a set containing the elements in `self`, if a finite collection; raises an exception otherwise. [An example calling it](/examples/callables-blocks-and-methods).
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

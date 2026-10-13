@@ -4,7 +4,7 @@ slug: runtime-error-reporting-parens
 description: "The metorex example program runtime/error_reporting_parens.rb and its output."
 ---
 
-`tests/_examples/runtime/error_reporting_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/error_reporting_parens.rb).
+`tests/_examples/runtime/error_reporting_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/error_reporting_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Errors raised at run time and rescued, with the messages they carry.

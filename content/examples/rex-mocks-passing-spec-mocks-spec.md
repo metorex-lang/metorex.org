@@ -4,7 +4,7 @@ slug: rex-mocks-passing-spec-mocks-spec
 description: "The metorex example program rex/mocks/passing/spec/mocks_spec.rb and its output."
 ---
 
-`tests/_examples/rex/mocks/passing/spec/mocks_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/mocks/passing/spec/mocks_spec.rb).
+`tests/_examples/rex/mocks/passing/spec/mocks_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/mocks/passing/spec/mocks_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Gateway

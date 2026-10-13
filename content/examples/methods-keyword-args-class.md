@@ -4,7 +4,7 @@ slug: methods-keyword-args-class
 description: "The metorex example program methods/keyword_args/class.rb and its output."
 ---
 
-`tests/_examples/methods/keyword_args/class.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/keyword_args/class.rb).
+`tests/_examples/methods/keyword_args/class.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/keyword_args/class.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Person

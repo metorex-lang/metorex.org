@@ -5,7 +5,7 @@ description: The metorex command, its spec subcommand, and every flag it takes, 
 layout: page
 ---
 
-`metorex` runs a Ruby program: a file, code given with `-e`, or a program piped to standard input. With none of those and a terminal attached, it starts the REPL. The examples below are files under `tests/_examples/cli_flags` in the [metorex repository](https://github.com/metorex-lang/metorex), run from that directory, and the test suite checks each output.
+`metorex` runs a Ruby program: a file, code given with `-e`, or a program piped to standard input. With none of those and a terminal attached, it starts the REPL. The examples below are files under `tests/_examples/cli_flags` in the [metorex repository](https://github.com/metorex-lang/metorex){target=_blank rel=noopener}, run from that directory, and the test suite checks each output.
 
 ## metorex --help
 
@@ -32,7 +32,7 @@ The words after the file name go to the program in `ARGV`.
 
 ## metorex spec
 
-`metorex spec` runs a spec suite with [Rex](/rex), the spec framework Metorex carries. It takes RSpec's options, which `metorex spec --help` lists, and Rex's own.
+`metorex spec` runs a spec suite with [Rex](/rex), the spec framework built into Metorex. It takes RSpec's options, which `metorex spec --help` lists, and Rex's own.
 
 ```sh
 metorex spec

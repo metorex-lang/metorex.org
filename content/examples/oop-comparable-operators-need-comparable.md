@@ -4,7 +4,7 @@ slug: oop-comparable-operators-need-comparable
 description: "The metorex example program oop/comparable/operators_need_comparable.rb and its output."
 ---
 
-`tests/_examples/oop/comparable/operators_need_comparable.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/comparable/operators_need_comparable.rb).
+`tests/_examples/oop/comparable/operators_need_comparable.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/comparable/operators_need_comparable.rb){target=_blank rel=noopener}.
 
 ```metorex
 # The ordering operators come from Comparable, built on `<=>`. An object

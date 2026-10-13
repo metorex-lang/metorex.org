@@ -4,7 +4,7 @@ slug: advanced-dynamic-method-definition
 description: "The metorex example program advanced/dynamic_method_definition.rb and its output."
 ---
 
-`tests/_examples/advanced/dynamic_method_definition.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/dynamic_method_definition.rb).
+`tests/_examples/advanced/dynamic_method_definition.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/dynamic_method_definition.rb){target=_blank rel=noopener}.
 
 ```metorex
 MyClass.define_method(:greet) do

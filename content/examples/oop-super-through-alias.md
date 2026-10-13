@@ -4,7 +4,7 @@ slug: oop-super-through-alias
 description: "The metorex example program oop/super_through_alias.rb and its output."
 ---
 
-`tests/_examples/oop/super_through_alias.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/super_through_alias.rb).
+`tests/_examples/oop/super_through_alias.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/super_through_alias.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `super` dispatched through an aliased method — the super call walks the

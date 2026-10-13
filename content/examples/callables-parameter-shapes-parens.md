@@ -4,7 +4,7 @@ slug: callables-parameter-shapes-parens
 description: "The metorex example program callables/parameter_shapes_parens.rb and its output."
 ---
 
-`tests/_examples/callables/parameter_shapes_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/parameter_shapes_parens.rb).
+`tests/_examples/callables/parameter_shapes_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/parameter_shapes_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A parameter written with no name of its own reports the mark it was written

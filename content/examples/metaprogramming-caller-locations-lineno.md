@@ -4,7 +4,7 @@ slug: metaprogramming-caller-locations-lineno
 description: "The metorex example program metaprogramming/caller_locations_lineno.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/caller_locations_lineno.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/caller_locations_lineno.rb).
+`tests/_examples/metaprogramming/caller_locations_lineno.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/caller_locations_lineno.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Kernel#caller_locations — written without parentheses where possible.

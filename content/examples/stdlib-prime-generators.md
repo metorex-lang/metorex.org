@@ -4,7 +4,7 @@ slug: stdlib-prime-generators
 description: "The metorex example program stdlib/prime_generators.rb and its output."
 ---
 
-`tests/_examples/stdlib/prime_generators.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/prime_generators.rb).
+`tests/_examples/stdlib/prime_generators.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/prime_generators.rb){target=_blank rel=noopener}.
 
 ```metorex
 # The primes come from a generator the caller may choose. Without a block a

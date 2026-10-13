@@ -4,7 +4,7 @@ slug: backtraces-block-file-test
 description: "The metorex example program backtraces/block_file_test.rb and its output."
 ---
 
-`tests/_examples/backtraces/block_file_test.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/backtraces/block_file_test.rb).
+`tests/_examples/backtraces/block_file_test.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/backtraces/block_file_test.rb){target=_blank rel=noopener}.
 
 ```metorex
 require_relative "block_file_runner"

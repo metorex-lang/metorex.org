@@ -1,11 +1,11 @@
 ---
 title: Code as objects
 slug: meta
-description: Metorex hands a method's body or a block's statements to your program as syntax tree nodes, and parses source strings into the same nodes.
+description: Metorex returns a method's body or a block's statements to your program as syntax tree nodes, and parses source strings into the same nodes.
 layout: page
 ---
 
-The **Met**a **O**bject **R**untime **Ex**ecution in the name means a program can read its own code. Metorex hands a method's body, a block's statements, or a parsed string to the program as syntax tree nodes. Each node is a hash with a `"type"` key and the fields for that type.
+The **Met**a **O**bject **R**untime **Ex**ecution in the name means a program can read its own code. Metorex returns a method's body, a block's statements, or a parsed string to the program as syntax tree nodes. Each node is a hash with a `"type"` key and the fields for that type.
 
 ## A method's body
 
@@ -99,4 +99,4 @@ p tree.first["right"]
 {"type" => "BinaryOp", "op" => "*", "left" => {"type" => "IntLiteral", "value" => 2}, "right" => {"type" => "IntLiteral", "value" => 3}}
 ```
 
-The samples on this page are `tests/_examples/site/meta.rb`, `meta_block.rb`, and `meta_parse.rb` in the [metorex repository](https://github.com/metorex-lang/metorex), where the test suite checks their output.
+The samples on this page are `tests/_examples/site/meta.rb`, `meta_block.rb`, and `meta_parse.rb` in the [metorex repository](https://github.com/metorex-lang/metorex){target=_blank rel=noopener}, where the test suite checks their output.

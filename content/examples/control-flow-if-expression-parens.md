@@ -4,7 +4,7 @@ slug: control-flow-if-expression-parens
 description: "The metorex example program control_flow/if_expression_parens.rb and its output."
 ---
 
-`tests/_examples/control_flow/if_expression_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/if_expression_parens.rb).
+`tests/_examples/control_flow/if_expression_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/if_expression_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # if/unless as expressions (with parentheses)

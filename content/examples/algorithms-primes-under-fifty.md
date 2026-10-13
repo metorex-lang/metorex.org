@@ -4,7 +4,7 @@ slug: algorithms-primes-under-fifty
 description: "The metorex example program algorithms/primes_under_fifty.rb and its output."
 ---
 
-`tests/_examples/algorithms/primes_under_fifty.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/algorithms/primes_under_fifty.rb).
+`tests/_examples/algorithms/primes_under_fifty.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/algorithms/primes_under_fifty.rb){target=_blank rel=noopener}.
 
 ```metorex
 limit = 50

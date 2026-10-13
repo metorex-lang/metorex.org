@@ -4,7 +4,7 @@ slug: coverage-branch-arms
 description: "The metorex example program coverage/branch_arms.rb and its output."
 ---
 
-`tests/_examples/coverage/branch_arms.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/coverage/branch_arms.rb).
+`tests/_examples/coverage/branch_arms.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/coverage/branch_arms.rb){target=_blank rel=noopener}.
 
 ```metorex
 require "coverage"

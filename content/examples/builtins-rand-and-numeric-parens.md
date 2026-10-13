@@ -4,7 +4,7 @@ slug: builtins-rand-and-numeric-parens
 description: "The metorex example program builtins/rand_and_numeric_parens.rb and its output."
 ---
 
-`tests/_examples/builtins/rand_and_numeric_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/rand_and_numeric_parens.rb).
+`tests/_examples/builtins/rand_and_numeric_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/rand_and_numeric_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 srand(12345)

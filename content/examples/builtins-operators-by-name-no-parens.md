@@ -4,7 +4,7 @@ slug: builtins-operators-by-name-no-parens
 description: "The metorex example program builtins/operators_by_name_no_parens.rb and its output."
 ---
 
-`tests/_examples/builtins/operators_by_name_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/operators_by_name_no_parens.rb).
+`tests/_examples/builtins/operators_by_name_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/operators_by_name_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # An operator called by name raises what Ruby raises for the pair: a number

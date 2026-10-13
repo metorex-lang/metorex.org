@@ -4,7 +4,7 @@ slug: encodings-newline-conversions-parens
 description: "The metorex example program encodings/newline_conversions_parens.rb and its output."
 ---
 
-`tests/_examples/encodings/newline_conversions_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/newline_conversions_parens.rb).
+`tests/_examples/encodings/newline_conversions_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/newline_conversions_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `encode` rewrites line endings when asked. `universal_newline:` reads CR LF

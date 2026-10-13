@@ -4,7 +4,7 @@ slug: symbols-and-ranges-stepped-walks
 description: "The metorex example program symbols_and_ranges/stepped_walks.rb and its output."
 ---
 
-`tests/_examples/symbols_and_ranges/stepped_walks.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/symbols_and_ranges/stepped_walks.rb).
+`tests/_examples/symbols_and_ranges/stepped_walks.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/symbols_and_ranges/stepped_walks.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A range over numbers counts its way along, and answers an arithmetic

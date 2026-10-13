@@ -4,7 +4,7 @@ slug: stdlib-dir-reading-a-directory
 description: "The metorex example program stdlib/dir/reading_a_directory.rb and its output."
 ---
 
-`tests/_examples/stdlib/dir/reading_a_directory.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/dir/reading_a_directory.rb).
+`tests/_examples/stdlib/dir/reading_a_directory.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/dir/reading_a_directory.rb){target=_blank rel=noopener}.
 
 ```metorex
 # The questions Dir answers about a directory without opening it.

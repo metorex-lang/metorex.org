@@ -4,7 +4,7 @@ slug: oop-class-reopen
 description: "The metorex example program oop/class/reopen.rb and its output."
 ---
 
-`tests/_examples/oop/class/reopen.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/class/reopen.rb).
+`tests/_examples/oop/class/reopen.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/class/reopen.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Foo

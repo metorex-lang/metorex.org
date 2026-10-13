@@ -4,7 +4,7 @@ slug: introspection-locals-assigned-later-no-parens
 description: "The metorex example program introspection/locals_assigned_later_no_parens.rb and its output."
 ---
 
-`tests/_examples/introspection/locals_assigned_later_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/locals_assigned_later_no_parens.rb).
+`tests/_examples/introspection/locals_assigned_later_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/locals_assigned_later_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `local_variables` lists every local of a scope, the ones assigned further

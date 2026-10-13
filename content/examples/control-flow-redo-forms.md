@@ -4,7 +4,7 @@ slug: control-flow-redo-forms
 description: "The metorex example program control_flow/redo_forms.rb and its output."
 ---
 
-`tests/_examples/control_flow/redo_forms.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/redo_forms.rb).
+`tests/_examples/control_flow/redo_forms.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/redo_forms.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Where `redo` restarts: the body of the closest block or loop, without

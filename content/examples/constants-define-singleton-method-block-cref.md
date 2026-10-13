@@ -4,7 +4,7 @@ slug: constants-define-singleton-method-block-cref
 description: "The metorex example program constants/define_singleton_method_block_cref.rb and its output."
 ---
 
-`tests/_examples/constants/define_singleton_method_block_cref.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/constants/define_singleton_method_block_cref.rb).
+`tests/_examples/constants/define_singleton_method_block_cref.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/constants/define_singleton_method_block_cref.rb){target=_blank rel=noopener}.
 
 ```metorex
 module Outer

@@ -4,7 +4,7 @@ slug: methods-bound-call-inside-rescue
 description: "The metorex example program methods/bound_call_inside_rescue.rb and its output."
 ---
 
-`tests/_examples/methods/bound_call_inside_rescue.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/bound_call_inside_rescue.rb).
+`tests/_examples/methods/bound_call_inside_rescue.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/bound_call_inside_rescue.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Ledger

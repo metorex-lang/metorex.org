@@ -4,7 +4,7 @@ slug: strings-byte-sets
 description: "The metorex example program strings/byte_sets.rb and its output."
 ---
 
-`tests/_examples/strings/byte_sets.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/byte_sets.rb).
+`tests/_examples/strings/byte_sets.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/byte_sets.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A run of bytes spliced into an ASCII literal keeps its encoding, and a

@@ -4,7 +4,7 @@ slug: stdlib-marshal-wrapped-values
 description: "The metorex example program stdlib/marshal_wrapped_values.rb and its output."
 ---
 
-`tests/_examples/stdlib/marshal_wrapped_values.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/marshal_wrapped_values.rb).
+`tests/_examples/stdlib/marshal_wrapped_values.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/marshal_wrapped_values.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Marshal writes a String, Regexp, Array or Hash with what it carries: its

@@ -4,7 +4,7 @@ slug: oop-body-locals-and-collection-variables
 description: "The metorex example program oop/body_locals_and_collection_variables.rb and its output."
 ---
 
-`tests/_examples/oop/body_locals_and_collection_variables.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/body_locals_and_collection_variables.rb).
+`tests/_examples/oop/body_locals_and_collection_variables.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/body_locals_and_collection_variables.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Settings

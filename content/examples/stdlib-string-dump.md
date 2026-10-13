@@ -4,7 +4,7 @@ slug: stdlib-string-dump
 description: "The metorex example program stdlib/string/dump.rb and its output."
 ---
 
-`tests/_examples/stdlib/string/dump.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/string/dump.rb).
+`tests/_examples/stdlib/string/dump.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/string/dump.rb){target=_blank rel=noopener}.
 
 ```metorex
 puts "plain".dump

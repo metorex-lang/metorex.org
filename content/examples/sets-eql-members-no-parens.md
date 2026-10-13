@@ -4,7 +4,7 @@ slug: sets-eql-members-no-parens
 description: "The metorex example program sets/eql_members_no_parens.rb and its output."
 ---
 
-`tests/_examples/sets/eql_members_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/sets/eql_members_no_parens.rb).
+`tests/_examples/sets/eql_members_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/sets/eql_members_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 require "set"

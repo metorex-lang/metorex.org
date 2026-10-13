@@ -4,7 +4,7 @@ slug: threads-interrupting-a-locking-fiber-no-parens
 description: "The metorex example program threads/interrupting_a_locking_fiber_no_parens.rb and its output."
 ---
 
-`tests/_examples/threads/interrupting_a_locking_fiber_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/interrupting_a_locking_fiber_no_parens.rb).
+`tests/_examples/threads/interrupting_a_locking_fiber_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/interrupting_a_locking_fiber_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A thread raising into another that loops on a lock inside a fiber reaches it.

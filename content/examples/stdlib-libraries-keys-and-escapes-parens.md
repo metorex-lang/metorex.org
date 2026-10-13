@@ -4,7 +4,7 @@ slug: stdlib-libraries-keys-and-escapes-parens
 description: "The metorex example program stdlib_libraries/keys_and_escapes_parens.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/keys_and_escapes_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/keys_and_escapes_parens.rb).
+`tests/_examples/stdlib_libraries/keys_and_escapes_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/keys_and_escapes_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Digests keyed with a secret, keys derived from a password, and escaping

@@ -4,7 +4,7 @@ slug: builtins-random-source-generator
 description: "The metorex example program builtins/random_source/generator.rb and its output."
 ---
 
-`tests/_examples/builtins/random_source/generator.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/random_source/generator.rb).
+`tests/_examples/builtins/random_source/generator.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/random_source/generator.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A seeded generator answers the same numbers Ruby's own does, since both

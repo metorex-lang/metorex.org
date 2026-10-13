@@ -4,7 +4,7 @@ slug: builtins-line-loop-options
 description: "The metorex example program builtins/line_loop_options.rb and its output."
 ---
 
-`tests/_examples/builtins/line_loop_options.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/line_loop_options.rb).
+`tests/_examples/builtins/line_loop_options.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/line_loop_options.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `Array#join` joins a nested array with the same separator, however deeply

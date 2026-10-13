@@ -4,7 +4,7 @@ slug: metaprogramming-define-method
 description: "The metorex example program metaprogramming/define_method.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/define_method.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/define_method.rb).
+`tests/_examples/metaprogramming/define_method.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/define_method.rb){target=_blank rel=noopener}.
 
 ```metorex
 # define_method - dynamically define methods on a class

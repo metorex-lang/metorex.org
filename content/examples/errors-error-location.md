@@ -4,7 +4,7 @@ slug: errors-error-location
 description: "The metorex example program errors/error_location.rb and its output."
 ---
 
-`tests/_examples/errors/error_location.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/error_location.rb).
+`tests/_examples/errors/error_location.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/error_location.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Error location tracking example

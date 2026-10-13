@@ -4,7 +4,7 @@ slug: functions-lambda-parenless-arg
 description: "The metorex example program functions/lambda_parenless_arg.rb and its output."
 ---
 
-`tests/_examples/functions/lambda_parenless_arg.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/lambda_parenless_arg.rb).
+`tests/_examples/functions/lambda_parenless_arg.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/lambda_parenless_arg.rb){target=_blank rel=noopener}.
 
 ```metorex
 def guard(condition)

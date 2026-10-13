@@ -4,7 +4,7 @@ slug: syntax-locals-by-scope-no-parens
 description: "The metorex example program syntax/locals_by_scope_no_parens.rb and its output."
 ---
 
-`tests/_examples/syntax/locals_by_scope_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/locals_by_scope_no_parens.rb).
+`tests/_examples/syntax/locals_by_scope_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/locals_by_scope_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Whether `name [1]` indexes a local or calls a method with an array depends

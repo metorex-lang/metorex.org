@@ -4,7 +4,7 @@ slug: errors-errno-classes-parens
 description: "The metorex example program errors/errno/classes_parens.rb and its output."
 ---
 
-`tests/_examples/errors/errno/classes_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/errno/classes_parens.rb).
+`tests/_examples/errors/errno/classes_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/errno/classes_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Every `Errno::EXXX` is a subclass of SystemCallError carrying the platform's

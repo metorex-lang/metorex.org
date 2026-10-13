@@ -4,7 +4,7 @@ slug: oop-attr-protected-attr
 description: "The metorex example program oop/attr/protected_attr.rb and its output."
 ---
 
-`tests/_examples/oop/attr/protected_attr.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/attr/protected_attr.rb).
+`tests/_examples/oop/attr/protected_attr.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/attr/protected_attr.rb){target=_blank rel=noopener}.
 
 ```metorex
 c = Class.new do

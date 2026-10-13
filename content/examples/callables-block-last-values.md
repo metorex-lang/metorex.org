@@ -4,7 +4,7 @@ slug: callables-block-last-values
 description: "The metorex example program callables/block_last_values.rb and its output."
 ---
 
-`tests/_examples/callables/block_last_values.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/block_last_values.rb).
+`tests/_examples/callables/block_last_values.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/block_last_values.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A block answers the value of its last statement, and a last statement that

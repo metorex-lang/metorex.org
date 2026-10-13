@@ -96,4 +96,4 @@ ruby/spec describes 89 methods in `core/module`, and Metorex implements 87 of th
 - **`Module.used_refinements`**: implemented, parameters `[[:req, :args]]`. Returns an array of all modules used in the current scope. [An example calling it](/examples/oop-used-refinements).
 - **`Module#using`**: implemented, parameters `[[:req]]`. Import class refinements from *module* into the current class or module definition.
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

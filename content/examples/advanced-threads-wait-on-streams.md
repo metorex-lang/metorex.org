@@ -4,7 +4,7 @@ slug: advanced-threads-wait-on-streams
 description: "The metorex example program advanced/threads_wait_on_streams.rb and its output."
 ---
 
-`tests/_examples/advanced/threads_wait_on_streams.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/threads_wait_on_streams.rb).
+`tests/_examples/advanced/threads_wait_on_streams.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/threads_wait_on_streams.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Each call below waits on a pipe that a thread writes to later, and a counter

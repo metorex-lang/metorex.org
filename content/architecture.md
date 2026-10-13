@@ -5,7 +5,7 @@ description: The path a Ruby program takes through Metorex, from source text to 
 layout: page
 ---
 
-Metorex reads a program in three stages: a lexer turns the text into tokens, a parser turns the tokens into a syntax tree, and an interpreter walks the tree and runs it. Nothing is compiled to instructions. Each path below is in the `src/` directory of the [metorex repository](https://github.com/metorex-lang/metorex).
+Metorex reads a program in three stages: a lexer turns the text into tokens, a parser turns the tokens into a syntax tree, and an interpreter walks the tree and runs it. Nothing is compiled to instructions. Each path below is in the `src/` directory of the [metorex repository](https://github.com/metorex-lang/metorex){target=_blank rel=noopener}.
 
 ## Starting a run
 
@@ -27,7 +27,7 @@ The interpreter is the `VirtualMachine` struct in `src/vm/core.rs`. A new one re
 
 - `src/vm/program.rs` runs a file's top level.
 - `src/vm/statement` runs statements, and `src/vm/control_structures.rs`, `src/vm/begin_rescue.rs`, and `src/vm/pattern_matching` run the statements that branch, rescue, and match.
-- `src/vm/eval` evaluates expressions. `eval/dispatch.rs` matches on the expression's type and hands each to a module such as `calls.rs`, `identifier.rs`, or `yield_expr.rs`.
+- `src/vm/eval` evaluates expressions. `eval/dispatch.rs` matches on the expression's type and calls the module for that type, such as `calls.rs`, `identifier.rs`, or `yield_expr.rs`.
 - `src/vm/method_lookup.rs` finds the method a call names along the receiver's ancestors, and `src/vm/method_invocation.rs`, `src/vm/method_execution.rs`, and `src/vm/block_execution` run it.
 - `src/vm/native_methods` holds the core methods written in Rust, and `src/vm/native_functions` the functions the Ruby-written parts call into, including the native versions of parts of Rex in `fast_paths.rs`.
 

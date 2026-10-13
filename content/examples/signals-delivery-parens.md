@@ -4,7 +4,7 @@ slug: signals-delivery-parens
 description: "The metorex example program signals/delivery_parens.rb and its output."
 ---
 
-`tests/_examples/signals/delivery_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/signals/delivery_parens.rb).
+`tests/_examples/signals/delivery_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/signals/delivery_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 puts(Signal.list["INT"] == 2)

@@ -4,7 +4,7 @@ slug: methods-assignment-and-conditions-no-parens
 description: "The metorex example program methods/assignment_and_conditions_no_parens.rb and its output."
 ---
 
-`tests/_examples/methods/assignment_and_conditions_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/assignment_and_conditions_no_parens.rb).
+`tests/_examples/methods/assignment_and_conditions_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/assignment_and_conditions_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Counter

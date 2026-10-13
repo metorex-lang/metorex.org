@@ -4,7 +4,7 @@ slug: errors-no-method-error-args-parens
 description: "The metorex example program errors/no_method_error/args_parens.rb and its output."
 ---
 
-`tests/_examples/errors/no_method_error/args_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/no_method_error/args_parens.rb).
+`tests/_examples/errors/no_method_error/args_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/no_method_error/args_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 built = NoMethodError.new("msg", "name", ["args"])

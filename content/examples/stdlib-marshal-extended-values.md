@@ -4,7 +4,7 @@ slug: stdlib-marshal-extended-values
 description: "The metorex example program stdlib/marshal_extended_values.rb and its output."
 ---
 
-`tests/_examples/stdlib/marshal_extended_values.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/marshal_extended_values.rb).
+`tests/_examples/stdlib/marshal_extended_values.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/marshal_extended_values.rb){target=_blank rel=noopener}.
 
 ```metorex
 module Audited

@@ -4,7 +4,7 @@ slug: builtins-encoding-converter-paths-parens
 description: "The metorex example program builtins/encoding_converter/paths_parens.rb and its output."
 ---
 
-`tests/_examples/builtins/encoding_converter/paths_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/encoding_converter/paths_parens.rb).
+`tests/_examples/builtins/encoding_converter/paths_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/encoding_converter/paths_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A converter names the two encodings it works between and the steps it takes

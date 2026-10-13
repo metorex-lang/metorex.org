@@ -4,7 +4,7 @@ slug: oop-module-superclass-undefined-parens
 description: "The metorex example program oop/module_superclass/undefined_parens.rb and its output."
 ---
 
-`tests/_examples/oop/module_superclass/undefined_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/module_superclass/undefined_parens.rb).
+`tests/_examples/oop/module_superclass/undefined_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/module_superclass/undefined_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A module has no superclass and does not answer `superclass`, while every

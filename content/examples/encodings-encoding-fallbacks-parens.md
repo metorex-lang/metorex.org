@@ -4,7 +4,7 @@ slug: encodings-encoding-fallbacks-parens
 description: "The metorex example program encodings/encoding_fallbacks_parens.rb and its output."
 ---
 
-`tests/_examples/encodings/encoding_fallbacks_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/encoding_fallbacks_parens.rb).
+`tests/_examples/encodings/encoding_fallbacks_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/encoding_fallbacks_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `fallback:` is asked what to write for each character the destination

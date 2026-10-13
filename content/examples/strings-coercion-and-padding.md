@@ -4,7 +4,7 @@ slug: strings-coercion-and-padding
 description: "The metorex example program strings/coercion_and_padding.rb and its output."
 ---
 
-`tests/_examples/strings/coercion_and_padding.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/coercion_and_padding.rb).
+`tests/_examples/strings/coercion_and_padding.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/coercion_and_padding.rb){target=_blank rel=noopener}.
 
 ```metorex
 # String#+, #ljust, and #rjust read anything that spells itself as text

@@ -4,7 +4,7 @@ slug: rex-config-warnings-spec-warnings-spec
 description: "The metorex example program rex/config/warnings/spec/warnings_spec.rb and its output."
 ---
 
-`tests/_examples/rex/config/warnings/spec/warnings_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/config/warnings/spec/warnings_spec.rb).
+`tests/_examples/rex/config/warnings/spec/warnings_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/config/warnings/spec/warnings_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 RSpec.configure { |config| config.raise_on_warning = true }

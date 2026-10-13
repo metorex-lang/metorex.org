@@ -4,7 +4,7 @@ slug: builtins-byte-views-reading
 description: "The metorex example program builtins/byte_views/reading.rb and its output."
 ---
 
-`tests/_examples/builtins/byte_views/reading.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/byte_views/reading.rb).
+`tests/_examples/builtins/byte_views/reading.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/byte_views/reading.rb){target=_blank rel=noopener}.
 
 ```metorex
 require "stringio"

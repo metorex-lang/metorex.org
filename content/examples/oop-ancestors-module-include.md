@@ -4,7 +4,7 @@ slug: oop-ancestors-module-include
 description: "The metorex example program oop/ancestors_module_include.rb and its output."
 ---
 
-`tests/_examples/oop/ancestors_module_include.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/ancestors_module_include.rb).
+`tests/_examples/oop/ancestors_module_include.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/ancestors_module_include.rb){target=_blank rel=noopener}.
 
 ```metorex
 module Basic

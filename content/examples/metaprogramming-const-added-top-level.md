@@ -4,7 +4,7 @@ slug: metaprogramming-const-added-top-level
 description: "The metorex example program metaprogramming/const_added_top_level.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/const_added_top_level.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/const_added_top_level.rb).
+`tests/_examples/metaprogramming/const_added_top_level.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/const_added_top_level.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Module

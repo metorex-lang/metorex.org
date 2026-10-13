@@ -46,4 +46,4 @@ metorex 4.0.6 (ruby-compatible) [arm64-darwin]
 | :-- | :-- | :-- |
 | 0.1.0 | 4.0.6 | 3.13 |
 
-The sample on this page is `tests/_examples/site/versions.rb` in the [metorex repository](https://github.com/metorex-lang/metorex), where the test suite checks its output under both versions.
+The sample on this page is `tests/_examples/site/versions.rb` in the [metorex repository](https://github.com/metorex-lang/metorex){target=_blank rel=noopener}, where the test suite checks its output under both versions.

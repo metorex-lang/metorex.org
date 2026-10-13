@@ -4,7 +4,7 @@ slug: procs-kernel-proc
 description: "The metorex example program procs/kernel_proc.rb and its output."
 ---
 
-`tests/_examples/procs/kernel_proc.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/procs/kernel_proc.rb).
+`tests/_examples/procs/kernel_proc.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/procs/kernel_proc.rb){target=_blank rel=noopener}.
 
 ```metorex
 plain = proc { 42 }

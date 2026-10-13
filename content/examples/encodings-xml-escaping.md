@@ -4,7 +4,7 @@ slug: encodings-xml-escaping
 description: "The metorex example program encodings/xml_escaping.rb and its output."
 ---
 
-`tests/_examples/encodings/xml_escaping.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/xml_escaping.rb).
+`tests/_examples/encodings/xml_escaping.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/xml_escaping.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `xml: :text` escapes the characters XML content cannot hold as they are,

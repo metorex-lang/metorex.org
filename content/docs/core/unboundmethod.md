@@ -28,4 +28,4 @@ ruby/spec describes 21 methods in `core/unboundmethod`, and Metorex implements 1
 - **`UnboundMethod#syntax_tree`**: not implemented.
 - **`UnboundMethod#to_s`**: implemented, parameters `[]`. Returns a human-readable description of the underlying method. [An example calling it](/examples/addresses-internet-addresses).
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

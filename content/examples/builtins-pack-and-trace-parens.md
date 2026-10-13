@@ -4,7 +4,7 @@ slug: builtins-pack-and-trace-parens
 description: "The metorex example program builtins/pack_and_trace_parens.rb and its output."
 ---
 
-`tests/_examples/builtins/pack_and_trace_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/pack_and_trace_parens.rb).
+`tests/_examples/builtins/pack_and_trace_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/pack_and_trace_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # The directive machine `pack` writes with and `unpack` reads back.

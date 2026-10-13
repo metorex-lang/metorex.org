@@ -4,7 +4,7 @@ slug: stdlib-libraries-waiting-on-a-stream-no-parens
 description: "The metorex example program stdlib_libraries/waiting_on_a_stream_no_parens.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/waiting_on_a_stream_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/waiting_on_a_stream_no_parens.rb).
+`tests/_examples/stdlib_libraries/waiting_on_a_stream_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/waiting_on_a_stream_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # The same as `waiting_on_a_stream.rb`, written without parentheses.

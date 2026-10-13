@@ -4,7 +4,7 @@ slug: filesystem-argf-streams-parens
 description: "The metorex example program filesystem/argf_streams_parens.rb and its output."
 ---
 
-`tests/_examples/filesystem/argf_streams_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/argf_streams_parens.rb).
+`tests/_examples/filesystem/argf_streams_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/argf_streams_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A stream over a list of names reads the files as though they were one. It

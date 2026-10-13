@@ -4,7 +4,7 @@ slug: runtime-types
 description: "The metorex example program runtime/types.rb and its output."
 ---
 
-`tests/_examples/runtime/types.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/types.rb).
+`tests/_examples/runtime/types.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/types.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Type System Examples

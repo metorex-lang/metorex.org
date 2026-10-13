@@ -4,7 +4,7 @@ slug: ractors-passing-messages
 description: "The metorex example program ractors/passing_messages.rb and its output."
 ---
 
-`tests/_examples/ractors/passing_messages.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/ractors/passing_messages.rb).
+`tests/_examples/ractors/passing_messages.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/ractors/passing_messages.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A Ractor receives what is sent to a port it made. Its default port takes

@@ -4,7 +4,7 @@ slug: data-structures-hash-ordering
 description: "The metorex example program data_structures/hash_ordering.rb and its output."
 ---
 
-`tests/_examples/data_structures/hash_ordering.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/data_structures/hash_ordering.rb).
+`tests/_examples/data_structures/hash_ordering.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/data_structures/hash_ordering.rb){target=_blank rel=noopener}.
 
 ```metorex
 recipe = { "name" => "stew", "servings" => 4, "vegetarian" => false }

@@ -4,7 +4,7 @@ slug: ruby-vm-syntax-tree-literals
 description: "The metorex example program ruby_vm/syntax_tree_literals.rb and its output."
 ---
 
-`tests/_examples/ruby_vm/syntax_tree_literals.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/ruby_vm/syntax_tree_literals.rb).
+`tests/_examples/ruby_vm/syntax_tree_literals.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/ruby_vm/syntax_tree_literals.rb){target=_blank rel=noopener}.
 
 ```metorex
 # RubyVM::AbstractSyntaxTree parses a program into the nodes MRI's parser

@@ -4,7 +4,7 @@ slug: require-diamond
 description: "The metorex example program require/diamond.rb and its output."
 ---
 
-`tests/_examples/require/diamond.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/diamond.rb).
+`tests/_examples/require/diamond.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/diamond.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Test diamond dependency: both B and C require D

@@ -4,7 +4,7 @@ slug: addresses-ancillary-data-no-parens
 description: "The metorex example program addresses/ancillary_data_no_parens.rb and its output."
 ---
 
-`tests/_examples/addresses/ancillary_data_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/addresses/ancillary_data_no_parens.rb).
+`tests/_examples/addresses/ancillary_data_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/addresses/ancillary_data_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 require "socket"

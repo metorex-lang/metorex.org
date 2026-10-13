@@ -4,7 +4,7 @@ slug: eval-eval-scope-and-returns
 description: "The metorex example program eval/eval_scope_and_returns.rb and its output."
 ---
 
-`tests/_examples/eval/eval_scope_and_returns.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/eval/eval_scope_and_returns.rb).
+`tests/_examples/eval/eval_scope_and_returns.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/eval/eval_scope_and_returns.rb){target=_blank rel=noopener}.
 
 ```metorex
 # What eval does with the scope around it: the class a definition lands in,

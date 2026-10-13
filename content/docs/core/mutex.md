@@ -14,4 +14,4 @@ ruby/spec describes 7 methods in `core/mutex`, and Metorex implements 7 of them.
 - **`Mutex#try_lock`**: implemented, parameters `[[:rest, :args]]`. Attempts to obtain the lock and returns immediately. [An example calling it](/examples/c-extensions-c-mutexes).
 - **`Mutex#unlock`**: implemented, parameters `[[:rest, :args]]`. Releases the lock. [An example calling it](/examples/advanced-threads-that-deadlock).
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

@@ -4,7 +4,7 @@ slug: filesystem-written-encodings-parens
 description: "The metorex example program filesystem/written_encodings_parens.rb and its output."
 ---
 
-`tests/_examples/filesystem/written_encodings_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/written_encodings_parens.rb).
+`tests/_examples/filesystem/written_encodings_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/written_encodings_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A write puts the bytes the string is made of on the stream, so text outside

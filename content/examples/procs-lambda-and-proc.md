@@ -4,7 +4,7 @@ slug: procs-lambda-and-proc
 description: "The metorex example program procs/lambda_and_proc.rb and its output."
 ---
 
-`tests/_examples/procs/lambda_and_proc.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/procs/lambda_and_proc.rb).
+`tests/_examples/procs/lambda_and_proc.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/procs/lambda_and_proc.rb){target=_blank rel=noopener}.
 
 ```metorex
 strict = lambda { |a, b| a + b }

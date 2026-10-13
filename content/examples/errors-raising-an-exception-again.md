@@ -4,7 +4,7 @@ slug: errors-raising-an-exception-again
 description: "The metorex example program errors/raising_an_exception_again.rb and its output."
 ---
 
-`tests/_examples/errors/raising_an_exception_again.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/raising_an_exception_again.rb).
+`tests/_examples/errors/raising_an_exception_again.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/raising_an_exception_again.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `raise error, message` asks the exception for a copy carrying the new

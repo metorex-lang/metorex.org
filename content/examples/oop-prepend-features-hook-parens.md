@@ -4,7 +4,7 @@ slug: oop-prepend-features-hook-parens
 description: "The metorex example program oop/prepend_features_hook_parens.rb and its output."
 ---
 
-`tests/_examples/oop/prepend_features_hook_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/prepend_features_hook_parens.rb).
+`tests/_examples/oop/prepend_features_hook_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/prepend_features_hook_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 $events = []

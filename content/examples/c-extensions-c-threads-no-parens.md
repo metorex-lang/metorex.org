@@ -4,7 +4,7 @@ slug: c-extensions-c-threads-no-parens
 description: "The metorex example program c_extensions/c_threads_no_parens.rb and its output."
 ---
 
-`tests/_examples/c_extensions/c_threads_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/c_extensions/c_threads_no_parens.rb).
+`tests/_examples/c_extensions/c_threads_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/c_extensions/c_threads_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A C extension working with threads: the thread running now and its

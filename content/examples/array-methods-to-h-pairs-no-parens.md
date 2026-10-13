@@ -4,7 +4,7 @@ slug: array-methods-to-h-pairs-no-parens
 description: "The metorex example program array_methods/to_h_pairs_no_parens.rb and its output."
 ---
 
-`tests/_examples/array_methods/to_h_pairs_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/array_methods/to_h_pairs_no_parens.rb).
+`tests/_examples/array_methods/to_h_pairs_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/array_methods/to_h_pairs_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Array#to_h names the index of the element it refused, and it walks the array

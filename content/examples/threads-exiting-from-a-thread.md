@@ -4,7 +4,7 @@ slug: threads-exiting-from-a-thread
 description: "The metorex example program threads/exiting_from_a_thread.rb and its output."
 ---
 
-`tests/_examples/threads/exiting_from_a_thread.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/exiting_from_a_thread.rb).
+`tests/_examples/threads/exiting_from_a_thread.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/exiting_from_a_thread.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A thread that ends the program hands the word to the main thread rather than

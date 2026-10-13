@@ -4,7 +4,7 @@ slug: linear-algebra-matrix-aliases-no-parens
 description: "The metorex example program linear_algebra/matrix_aliases_no_parens.rb and its output."
 ---
 
-`tests/_examples/linear_algebra/matrix_aliases_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/linear_algebra/matrix_aliases_no_parens.rb).
+`tests/_examples/linear_algebra/matrix_aliases_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/linear_algebra/matrix_aliases_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 require "matrix"

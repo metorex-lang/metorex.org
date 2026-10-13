@@ -38,4 +38,4 @@ ruby/spec describes 31 methods in `core/matchdata`, and Metorex implements 29 of
 - **`MatchData#to_s`**: implemented, parameters `[]`. Returns the matched string: [An example calling it](/examples/addresses-internet-addresses).
 - **`MatchData#values_at`**: implemented, parameters `[[:rest, :keys]]`. Returns match and captures at the given `indexes`, which may include any mixture of: [An example calling it](/examples/array-methods-set-operations-and-lookup).
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

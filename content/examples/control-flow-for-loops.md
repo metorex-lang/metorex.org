@@ -4,7 +4,7 @@ slug: control-flow-for-loops
 description: "The metorex example program control_flow/for_loops.rb and its output."
 ---
 
-`tests/_examples/control_flow/for_loops.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/for_loops.rb).
+`tests/_examples/control_flow/for_loops.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/for_loops.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A `for` loop runs in the scope holding it, so the names it and its body bind

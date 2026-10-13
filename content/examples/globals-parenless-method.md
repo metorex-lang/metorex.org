@@ -4,7 +4,7 @@ slug: globals-parenless-method
 description: "The metorex example program globals/parenless_method.rb and its output."
 ---
 
-`tests/_examples/globals/parenless_method.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/globals/parenless_method.rb).
+`tests/_examples/globals/parenless_method.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/globals/parenless_method.rb){target=_blank rel=noopener}.
 
 ```metorex
 a = [1, 2]

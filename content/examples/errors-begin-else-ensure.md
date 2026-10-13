@@ -4,7 +4,7 @@ slug: errors-begin-else-ensure
 description: "The metorex example program errors/begin_else_ensure.rb and its output."
 ---
 
-`tests/_examples/errors/begin_else_ensure.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/begin_else_ensure.rb).
+`tests/_examples/errors/begin_else_ensure.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/begin_else_ensure.rb){target=_blank rel=noopener}.
 
 ```metorex
 begin

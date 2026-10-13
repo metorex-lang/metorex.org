@@ -4,7 +4,7 @@ slug: scanning-buffered-stream-reading-parens
 description: "The metorex example program scanning/buffered_stream/reading_parens.rb and its output."
 ---
 
-`tests/_examples/scanning/buffered_stream/reading_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/scanning/buffered_stream/reading_parens.rb).
+`tests/_examples/scanning/buffered_stream/reading_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/scanning/buffered_stream/reading_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 require "stringio"

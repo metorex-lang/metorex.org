@@ -4,7 +4,7 @@ slug: basics-heredoc-bare-parens
 description: "The metorex example program basics/heredoc_bare_parens.rb and its output."
 ---
 
-`tests/_examples/basics/heredoc_bare_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/heredoc_bare_parens.rb).
+`tests/_examples/basics/heredoc_bare_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/heredoc_bare_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 plain = <<TEXT

@@ -4,7 +4,7 @@ slug: basics-embedded-documents-parens
 description: "The metorex example program basics/embedded_documents_parens.rb and its output."
 ---
 
-`tests/_examples/basics/embedded_documents_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/embedded_documents_parens.rb).
+`tests/_examples/basics/embedded_documents_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/embedded_documents_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 =begin

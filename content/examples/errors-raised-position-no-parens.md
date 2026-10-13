@@ -4,7 +4,7 @@ slug: errors-raised-position-no-parens
 description: "The metorex example program errors/raised_position_no_parens.rb and its output."
 ---
 
-`tests/_examples/errors/raised_position_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/raised_position_no_parens.rb).
+`tests/_examples/errors/raised_position_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/raised_position_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # An exception the interpreter raises carries the stack it was raised on,

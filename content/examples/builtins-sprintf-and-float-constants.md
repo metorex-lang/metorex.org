@@ -4,7 +4,7 @@ slug: builtins-sprintf-and-float-constants
 description: "The metorex example program builtins/sprintf_and_float_constants.rb and its output."
 ---
 
-`tests/_examples/builtins/sprintf_and_float_constants.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/sprintf_and_float_constants.rb).
+`tests/_examples/builtins/sprintf_and_float_constants.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/sprintf_and_float_constants.rb){target=_blank rel=noopener}.
 
 ```metorex
 puts sprintf("%s and %s", "one", "two")

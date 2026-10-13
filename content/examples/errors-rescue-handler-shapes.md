@@ -4,7 +4,7 @@ slug: errors-rescue-handler-shapes
 description: "The metorex example program errors/rescue_handler_shapes.rb and its output."
 ---
 
-`tests/_examples/errors/rescue_handler_shapes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/rescue_handler_shapes.rb).
+`tests/_examples/errors/rescue_handler_shapes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/rescue_handler_shapes.rb){target=_blank rel=noopener}.
 
 ```metorex
 handled = [ArgumentError, TypeError]

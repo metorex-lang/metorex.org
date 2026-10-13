@@ -4,7 +4,7 @@ slug: advanced-case-in-coverage
 description: "The metorex example program advanced/case_in_coverage.rb and its output."
 ---
 
-`tests/_examples/advanced/case_in_coverage.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/case_in_coverage.rb).
+`tests/_examples/advanced/case_in_coverage.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/case_in_coverage.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Test case/in pattern matching in various contexts

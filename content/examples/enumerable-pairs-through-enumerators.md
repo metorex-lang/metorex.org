@@ -4,7 +4,7 @@ slug: enumerable-pairs-through-enumerators
 description: "The metorex example program enumerable/pairs_through_enumerators.rb and its output."
 ---
 
-`tests/_examples/enumerable/pairs_through_enumerators.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/enumerable/pairs_through_enumerators.rb).
+`tests/_examples/enumerable/pairs_through_enumerators.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/enumerable/pairs_through_enumerators.rb){target=_blank rel=noopener}.
 
 ```metorex
 # An enumerator over pairs, such as `each_with_index` makes, yields each pair

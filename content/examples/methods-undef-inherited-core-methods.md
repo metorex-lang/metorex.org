@@ -4,7 +4,7 @@ slug: methods-undef-inherited-core-methods
 description: "The metorex example program methods/undef_inherited_core_methods.rb and its output."
 ---
 
-`tests/_examples/methods/undef_inherited_core_methods.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/undef_inherited_core_methods.rb).
+`tests/_examples/methods/undef_inherited_core_methods.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/undef_inherited_core_methods.rb){target=_blank rel=noopener}.
 
 ```metorex
 class BlankSlate

@@ -4,7 +4,7 @@ slug: oop-module-reopen-instance-methods
 description: "The metorex example program oop/module_reopen_instance_methods.rb and its output."
 ---
 
-`tests/_examples/oop/module_reopen_instance_methods.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/module_reopen_instance_methods.rb).
+`tests/_examples/oop/module_reopen_instance_methods.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/module_reopen_instance_methods.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Module

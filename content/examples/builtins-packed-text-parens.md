@@ -4,7 +4,7 @@ slug: builtins-packed-text-parens
 description: "The metorex example program builtins/packed_text_parens.rb and its output."
 ---
 
-`tests/_examples/builtins/packed_text_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/packed_text_parens.rb).
+`tests/_examples/builtins/packed_text_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/packed_text_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `pack("U")` writes a code point in UTF-8, carrying on past the range Unicode

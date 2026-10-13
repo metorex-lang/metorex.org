@@ -4,7 +4,7 @@ slug: require-installed-gems-versions-no-parens
 description: "The metorex example program require/installed_gems_versions_no_parens.rb and its output."
 ---
 
-`tests/_examples/require/installed_gems_versions_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/installed_gems_versions_no_parens.rb).
+`tests/_examples/require/installed_gems_versions_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/installed_gems_versions_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `gem` activates the version a requirement asks for, and refuses another

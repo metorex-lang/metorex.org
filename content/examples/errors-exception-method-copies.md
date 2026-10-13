@@ -4,7 +4,7 @@ slug: errors-exception-method-copies
 description: "The metorex example program errors/exception_method/copies.rb and its output."
 ---
 
-`tests/_examples/errors/exception_method/copies.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/exception_method/copies.rb).
+`tests/_examples/errors/exception_method/copies.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/exception_method/copies.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `Exception#exception` answers self with no argument, and otherwise a copy

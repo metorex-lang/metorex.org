@@ -4,7 +4,7 @@ slug: enumerable-lazy-enum-for
 description: "The metorex example program enumerable/lazy_enum_for.rb and its output."
 ---
 
-`tests/_examples/enumerable/lazy_enum_for.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/enumerable/lazy_enum_for.rb).
+`tests/_examples/enumerable/lazy_enum_for.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/enumerable/lazy_enum_for.rb){target=_blank rel=noopener}.
 
 ```metorex
 infinite = (0..Float::INFINITY).lazy

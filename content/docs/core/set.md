@@ -72,4 +72,4 @@ ruby/spec describes 60 methods in `core/set`, and Metorex implements 59 of them.
 - **`Set#union`**: implemented, parameters `[[:req]]`. Returns a new set built by merging the set and the elements of the given enumerable object. [An example calling it](/examples/sets-identity-operands).
 - **`Set#|`**: implemented, parameters `[[:req]]`. Returns a new set built by merging the set and the elements of the given enumerable object.
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

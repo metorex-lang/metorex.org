@@ -4,7 +4,7 @@ slug: metaprogramming-method-missing-method-missing
 description: "The metorex example program metaprogramming/method_missing/method_missing.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/method_missing/method_missing.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/method_missing/method_missing.rb).
+`tests/_examples/metaprogramming/method_missing/method_missing.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/method_missing/method_missing.rb){target=_blank rel=noopener}.
 
 ```metorex
 # method_missing: Intercept calls to undefined methods

@@ -4,7 +4,7 @@ slug: rex-formatters-outcomes-spec-outcomes-spec
 description: "The metorex example program rex/formatters/outcomes/spec/outcomes_spec.rb and its output."
 ---
 
-`tests/_examples/rex/formatters/outcomes/spec/outcomes_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/formatters/outcomes/spec/outcomes_spec.rb).
+`tests/_examples/rex/formatters/outcomes/spec/outcomes_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/formatters/outcomes/spec/outcomes_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 describe "a cart" do

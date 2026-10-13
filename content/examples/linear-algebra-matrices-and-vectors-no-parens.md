@@ -4,7 +4,7 @@ slug: linear-algebra-matrices-and-vectors-no-parens
 description: "The metorex example program linear_algebra/matrices_and_vectors_no_parens.rb and its output."
 ---
 
-`tests/_examples/linear_algebra/matrices_and_vectors_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/linear_algebra/matrices_and_vectors_no_parens.rb).
+`tests/_examples/linear_algebra/matrices_and_vectors_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/linear_algebra/matrices_and_vectors_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Rectangular arrays of numbers and the arithmetic over them.

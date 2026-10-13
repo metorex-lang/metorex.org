@@ -4,7 +4,7 @@ slug: oop-module-append-features-hook
 description: "The metorex example program oop/module/append_features_hook.rb and its output."
 ---
 
-`tests/_examples/oop/module/append_features_hook.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/module/append_features_hook.rb).
+`tests/_examples/oop/module/append_features_hook.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/module/append_features_hook.rb){target=_blank rel=noopener}.
 
 ```metorex
 m = Module.new do

@@ -4,7 +4,7 @@ slug: errors-io-wait-constants-parens
 description: "The metorex example program errors/io_wait/constants_parens.rb and its output."
 ---
 
-`tests/_examples/errors/io_wait/constants_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/io_wait/constants_parens.rb).
+`tests/_examples/errors/io_wait/constants_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/io_wait/constants_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 puts(IO::EAGAINWaitReadable.superclass)

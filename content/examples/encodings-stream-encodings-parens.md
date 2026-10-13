@@ -4,7 +4,7 @@ slug: encodings-stream-encodings-parens
 description: "The metorex example program encodings/stream_encodings_parens.rb and its output."
 ---
 
-`tests/_examples/encodings/stream_encodings_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/stream_encodings_parens.rb).
+`tests/_examples/encodings/stream_encodings_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/stream_encodings_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A stream told which encoding it reads in hands back whole characters of that

@@ -4,7 +4,7 @@ slug: errors-script-errors-past-bare-rescue-no-parens
 description: "The metorex example program errors/script_errors_past_bare_rescue_no_parens.rb and its output."
 ---
 
-`tests/_examples/errors/script_errors_past_bare_rescue_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/script_errors_past_bare_rescue_no_parens.rb).
+`tests/_examples/errors/script_errors_past_bare_rescue_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/script_errors_past_bare_rescue_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A bare `rescue` and the `rescue` modifier catch StandardError and what

@@ -4,7 +4,7 @@ slug: control-flow-case-expr-inline
 description: "The metorex example program control_flow/case_expr_inline.rb and its output."
 ---
 
-`tests/_examples/control_flow/case_expr_inline.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/case_expr_inline.rb).
+`tests/_examples/control_flow/case_expr_inline.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/case_expr_inline.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Case expression with inline syntax (then keyword)

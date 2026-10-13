@@ -4,7 +4,7 @@ slug: oop-case-equality
 description: "The metorex example program oop/case_equality.rb and its output."
 ---
 
-`tests/_examples/oop/case_equality.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/case_equality.rb).
+`tests/_examples/oop/case_equality.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/case_equality.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Tag

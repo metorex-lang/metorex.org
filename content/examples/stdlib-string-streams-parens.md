@@ -4,7 +4,7 @@ slug: stdlib-string-streams-parens
 description: "The metorex example program stdlib/string_streams_parens.rb and its output."
 ---
 
-`tests/_examples/stdlib/string_streams_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/string_streams_parens.rb).
+`tests/_examples/stdlib/string_streams_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/string_streams_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A StringIO is opened over a buffer in a mode written as a string or as the

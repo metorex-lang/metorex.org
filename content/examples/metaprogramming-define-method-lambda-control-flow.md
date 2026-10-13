@@ -4,7 +4,7 @@ slug: metaprogramming-define-method-lambda-control-flow
 description: "The metorex example program metaprogramming/define_method_lambda_control_flow.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/define_method_lambda_control_flow.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/define_method_lambda_control_flow.rb).
+`tests/_examples/metaprogramming/define_method_lambda_control_flow.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/define_method_lambda_control_flow.rb){target=_blank rel=noopener}.
 
 ```metorex
 puts Class.new { define_method(:foo) { return 42 } }.new.foo.inspect

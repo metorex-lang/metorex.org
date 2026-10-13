@@ -4,7 +4,7 @@ slug: builtins-file-handle-reads
 description: "The metorex example program builtins/file_handle_reads.rb and its output."
 ---
 
-`tests/_examples/builtins/file_handle_reads.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/file_handle_reads.rb).
+`tests/_examples/builtins/file_handle_reads.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/file_handle_reads.rb){target=_blank rel=noopener}.
 
 ```metorex
 # An open handle reads a character at a time, moves about, and reports where

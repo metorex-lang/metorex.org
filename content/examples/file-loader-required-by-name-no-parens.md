@@ -4,7 +4,7 @@ slug: file-loader-required-by-name-no-parens
 description: "The metorex example program file_loader/required_by_name_no_parens.rb and its output."
 ---
 
-`tests/_examples/file_loader/required_by_name_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/file_loader/required_by_name_no_parens.rb).
+`tests/_examples/file_loader/required_by_name_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/file_loader/required_by_name_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # The same run written without parentheses where they can be left off.

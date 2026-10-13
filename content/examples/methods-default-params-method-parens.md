@@ -4,7 +4,7 @@ slug: methods-default-params-method-parens
 description: "The metorex example program methods/default_params/method_parens.rb and its output."
 ---
 
-`tests/_examples/methods/default_params/method_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/default_params/method_parens.rb).
+`tests/_examples/methods/default_params/method_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/default_params/method_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Greeter

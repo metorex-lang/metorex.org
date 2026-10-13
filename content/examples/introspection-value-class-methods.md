@@ -4,7 +4,7 @@ slug: introspection-value-class-methods
 description: "The metorex example program introspection/value_class_methods.rb and its output."
 ---
 
-`tests/_examples/introspection/value_class_methods.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/value_class_methods.rb).
+`tests/_examples/introspection/value_class_methods.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/value_class_methods.rb){target=_blank rel=noopener}.
 
 ```metorex
 # nil, true and false report the methods of their own classes, and each of

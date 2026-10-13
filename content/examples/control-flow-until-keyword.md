@@ -4,7 +4,7 @@ slug: control-flow-until-keyword
 description: "The metorex example program control_flow/until_keyword.rb and its output."
 ---
 
-`tests/_examples/control_flow/until_keyword.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/until_keyword.rb).
+`tests/_examples/control_flow/until_keyword.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/until_keyword.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `until` keyword — loops while condition is false.

@@ -4,7 +4,7 @@ slug: basics-heredoc-details
 description: "The metorex example program basics/heredoc_details.rb and its output."
 ---
 
-`tests/_examples/basics/heredoc_details.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/heredoc_details.rb).
+`tests/_examples/basics/heredoc_details.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/heredoc_details.rb){target=_blank rel=noopener}.
 
 ```metorex
 # -*- encoding: us-ascii -*-

@@ -4,7 +4,7 @@ slug: parser-trailing-binary-ampersand
 description: "The metorex example program parser/trailing_binary_ampersand.rb and its output."
 ---
 
-`tests/_examples/parser/trailing_binary_ampersand.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/parser/trailing_binary_ampersand.rb).
+`tests/_examples/parser/trailing_binary_ampersand.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/parser/trailing_binary_ampersand.rb){target=_blank rel=noopener}.
 
 ```metorex
 a = 6 &

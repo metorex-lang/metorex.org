@@ -4,7 +4,7 @@ slug: require-scope-sharing
 description: "The metorex example program require/scope_sharing.rb and its output."
 ---
 
-`tests/_examples/require/scope_sharing.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/scope_sharing.rb).
+`tests/_examples/require/scope_sharing.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/scope_sharing.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Constants, methods, and classes from a required file are reachable, and its

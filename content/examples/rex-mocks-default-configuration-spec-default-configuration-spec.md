@@ -4,7 +4,7 @@ slug: rex-mocks-default-configuration-spec-default-configuration-spec
 description: "The metorex example program rex/mocks/default_configuration/spec/default_configuration_spec.rb and its output."
 ---
 
-`tests/_examples/rex/mocks/default_configuration/spec/default_configuration_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/mocks/default_configuration/spec/default_configuration_spec.rb).
+`tests/_examples/rex/mocks/default_configuration/spec/default_configuration_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/mocks/default_configuration/spec/default_configuration_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 RSpec.describe "the mocks configuration a suite leaves alone" do

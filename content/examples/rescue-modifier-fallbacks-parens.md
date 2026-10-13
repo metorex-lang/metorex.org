@@ -4,7 +4,7 @@ slug: rescue-modifier-fallbacks-parens
 description: "The metorex example program rescue/modifier/fallbacks_parens.rb and its output."
 ---
 
-`tests/_examples/rescue/modifier/fallbacks_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rescue/modifier/fallbacks_parens.rb).
+`tests/_examples/rescue/modifier/fallbacks_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rescue/modifier/fallbacks_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `expr rescue fallback` answers the fallback when expr raises a

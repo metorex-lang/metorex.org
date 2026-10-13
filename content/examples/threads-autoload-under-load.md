@@ -4,7 +4,7 @@ slug: threads-autoload-under-load
 description: "The metorex example program threads/autoload_under_load.rb and its output."
 ---
 
-`tests/_examples/threads/autoload_under_load.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/autoload_under_load.rb).
+`tests/_examples/threads/autoload_under_load.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/autoload_under_load.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Several threads asking for the same autoloaded name at once. The one that

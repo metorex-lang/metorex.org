@@ -4,7 +4,7 @@ slug: control-flow-case-type-mixed
 description: "The metorex example program control_flow/case_type_mixed.rb and its output."
 ---
 
-`tests/_examples/control_flow/case_type_mixed.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/case_type_mixed.rb).
+`tests/_examples/control_flow/case_type_mixed.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/case_type_mixed.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Mixed patterns: combining type patterns with other patterns

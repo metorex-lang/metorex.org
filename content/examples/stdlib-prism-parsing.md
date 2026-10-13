@@ -4,7 +4,7 @@ slug: stdlib-prism-parsing
 description: "The metorex example program stdlib/prism_parsing.rb and its output."
 ---
 
-`tests/_examples/stdlib/prism_parsing.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/prism_parsing.rb).
+`tests/_examples/stdlib/prism_parsing.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/prism_parsing.rb){target=_blank rel=noopener}.
 
 ```metorex
 require("prism")

@@ -4,7 +4,7 @@ slug: oop-autoload-fixture-shipping-rates
 description: "The metorex example program oop/autoload_fixture/shipping_rates.rb and its output."
 ---
 
-`tests/_examples/oop/autoload_fixture/shipping_rates.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/autoload_fixture/shipping_rates.rb).
+`tests/_examples/oop/autoload_fixture/shipping_rates.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/autoload_fixture/shipping_rates.rb){target=_blank rel=noopener}.
 
 ```metorex
 module Shipping

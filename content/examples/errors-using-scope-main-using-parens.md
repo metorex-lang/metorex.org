@@ -4,7 +4,7 @@ slug: errors-using-scope-main-using-parens
 description: "The metorex example program errors/using_scope/main_using_parens.rb and its output."
 ---
 
-`tests/_examples/errors/using_scope/main_using_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/using_scope/main_using_parens.rb).
+`tests/_examples/errors/using_scope/main_using_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/using_scope/main_using_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 MAIN = self

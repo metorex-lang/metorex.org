@@ -4,7 +4,7 @@ slug: syntax-grouped-assignment
 description: "The metorex example program syntax/grouped_assignment.rb and its output."
 ---
 
-`tests/_examples/syntax/grouped_assignment.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/grouped_assignment.rb).
+`tests/_examples/syntax/grouped_assignment.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/grouped_assignment.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A multiple assignment written inside a group answers its right-hand side.

@@ -4,7 +4,7 @@ slug: builtins-defined-forms-no-parens
 description: "The metorex example program builtins/defined_forms_no_parens.rb and its output."
 ---
 
-`tests/_examples/builtins/defined_forms_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/defined_forms_no_parens.rb).
+`tests/_examples/builtins/defined_forms_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/defined_forms_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # What `defined?` reports for each form, as a frozen string. A method call

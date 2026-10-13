@@ -4,7 +4,7 @@ slug: builtins-kernel-complex
 description: "The metorex example program builtins/kernel_complex.rb and its output."
 ---
 
-`tests/_examples/builtins/kernel_complex.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/kernel_complex.rb).
+`tests/_examples/builtins/kernel_complex.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/kernel_complex.rb){target=_blank rel=noopener}.
 
 ```metorex
 c = Complex(3, 4)

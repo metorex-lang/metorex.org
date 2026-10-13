@@ -4,7 +4,7 @@ slug: oop-scope-resolution-scope-resolution
 description: "The metorex example program oop/scope_resolution/scope_resolution.rb and its output."
 ---
 
-`tests/_examples/oop/scope_resolution/scope_resolution.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/scope_resolution/scope_resolution.rb).
+`tests/_examples/oop/scope_resolution/scope_resolution.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/scope_resolution/scope_resolution.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Scope resolution with ::

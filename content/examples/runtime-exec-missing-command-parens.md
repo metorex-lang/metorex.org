@@ -4,7 +4,7 @@ slug: runtime-exec-missing-command-parens
 description: "The metorex example program runtime/exec_missing_command_parens.rb and its output."
 ---
 
-`tests/_examples/runtime/exec_missing_command_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/exec_missing_command_parens.rb).
+`tests/_examples/runtime/exec_missing_command_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/exec_missing_command_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 puts(Kernel.private_instance_methods.include?(:exec))

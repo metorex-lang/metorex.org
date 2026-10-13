@@ -4,7 +4,7 @@ slug: type-annotations-collection-types
 description: "The metorex example program type_annotations/collection_types.rb and its output."
 ---
 
-`tests/_examples/type_annotations/collection_types.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/type_annotations/collection_types.rb).
+`tests/_examples/type_annotations/collection_types.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/type_annotations/collection_types.rb){target=_blank rel=noopener}.
 
 ```metorex
 numbers = [1, 2, 3, 4, 5]  # list

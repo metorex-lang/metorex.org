@@ -5,7 +5,7 @@ description: Metorex beside CRuby on the scripts in the metorex benchmarks direc
 layout: page
 ---
 
-Metorex runs the syntax tree rather than compiling it to instructions, and it is slower than CRuby. The table below gives the numbers for the scripts in the `benchmarks/` directory of the [metorex repository](https://github.com/metorex-lang/metorex).
+Metorex runs the syntax tree rather than compiling it to instructions, and it is slower than CRuby. The table below gives the numbers for the scripts in the `benchmarks/` directory of the [metorex repository](https://github.com/metorex-lang/metorex){target=_blank rel=noopener}.
 
 ## Results
 

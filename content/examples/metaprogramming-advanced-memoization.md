@@ -4,7 +4,7 @@ slug: metaprogramming-advanced-memoization
 description: "The metorex example program metaprogramming/advanced/memoization.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/advanced/memoization.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/advanced/memoization.rb).
+`tests/_examples/metaprogramming/advanced/memoization.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/advanced/memoization.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Memoization: Cache function results to avoid redundant computation

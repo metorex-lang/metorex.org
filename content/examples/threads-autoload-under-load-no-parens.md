@@ -4,7 +4,7 @@ slug: threads-autoload-under-load-no-parens
 description: "The metorex example program threads/autoload_under_load_no_parens.rb and its output."
 ---
 
-`tests/_examples/threads/autoload_under_load_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/autoload_under_load_no_parens.rb).
+`tests/_examples/threads/autoload_under_load_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/autoload_under_load_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # The same run written without parentheses where they can be left off.

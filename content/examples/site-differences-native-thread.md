@@ -4,7 +4,7 @@ slug: site-differences-native-thread
 description: "The metorex example program site/differences_native_thread.rb and its output."
 ---
 
-`tests/_examples/site/differences_native_thread.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/site/differences_native_thread.rb).
+`tests/_examples/site/differences_native_thread.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/site/differences_native_thread.rb){target=_blank rel=noopener}.
 
 ```metorex
 waiting = Thread.new { sleep 0.2 }

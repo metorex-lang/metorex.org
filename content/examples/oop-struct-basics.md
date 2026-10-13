@@ -4,7 +4,7 @@ slug: oop-struct-basics
 description: "The metorex example program oop/struct_basics.rb and its output."
 ---
 
-`tests/_examples/oop/struct_basics.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/struct_basics.rb).
+`tests/_examples/oop/struct_basics.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/struct_basics.rb){target=_blank rel=noopener}.
 
 ```metorex
 Point = Struct.new(:x, :y)

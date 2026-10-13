@@ -4,7 +4,7 @@ slug: control-flow-case-type-basic
 description: "The metorex example program control_flow/case_type_basic.rb and its output."
 ---
 
-`tests/_examples/control_flow/case_type_basic.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/case_type_basic.rb).
+`tests/_examples/control_flow/case_type_basic.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/case_type_basic.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Basic type pattern matching

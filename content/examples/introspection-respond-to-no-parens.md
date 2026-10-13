@@ -4,7 +4,7 @@ slug: introspection-respond-to-no-parens
 description: "The metorex example program introspection/respond_to_no_parens.rb and its output."
 ---
 
-`tests/_examples/introspection/respond_to_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/respond_to_no_parens.rb).
+`tests/_examples/introspection/respond_to_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/respond_to_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Vault

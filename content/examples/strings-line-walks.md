@@ -4,7 +4,7 @@ slug: strings-line-walks
 description: "The metorex example program strings/line_walks.rb and its output."
 ---
 
-`tests/_examples/strings/line_walks.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/line_walks.rb).
+`tests/_examples/strings/line_walks.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/line_walks.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `each_line` and `lines` cut a string on a separator. The separator defaults

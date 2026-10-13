@@ -4,7 +4,7 @@ slug: rex-performance-let-slots-spec-redefined-spec
 description: "The metorex example program rex/performance/let_slots/spec/redefined_spec.rb and its output."
 ---
 
-`tests/_examples/rex/performance/let_slots/spec/redefined_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/performance/let_slots/spec/redefined_spec.rb).
+`tests/_examples/rex/performance/let_slots/spec/redefined_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/performance/let_slots/spec/redefined_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 $lookups = 0

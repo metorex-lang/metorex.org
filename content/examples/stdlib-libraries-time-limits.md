@@ -4,7 +4,7 @@ slug: stdlib-libraries-time-limits
 description: "The metorex example program stdlib_libraries/time_limits.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/time_limits.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/time_limits.rb).
+`tests/_examples/stdlib_libraries/time_limits.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/time_limits.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A block given a limit on how long it may run, and the collector's settings.

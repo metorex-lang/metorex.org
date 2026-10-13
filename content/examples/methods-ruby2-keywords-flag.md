@@ -4,7 +4,7 @@ slug: methods-ruby2-keywords-flag
 description: "The metorex example program methods/ruby2_keywords_flag.rb and its output."
 ---
 
-`tests/_examples/methods/ruby2_keywords_flag.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/ruby2_keywords_flag.rb).
+`tests/_examples/methods/ruby2_keywords_flag.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/ruby2_keywords_flag.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Forwarder

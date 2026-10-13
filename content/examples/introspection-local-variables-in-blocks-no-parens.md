@@ -4,7 +4,7 @@ slug: introspection-local-variables-in-blocks-no-parens
 description: "The metorex example program introspection/local_variables_in_blocks_no_parens.rb and its output."
 ---
 
-`tests/_examples/introspection/local_variables_in_blocks_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/local_variables_in_blocks_no_parens.rb).
+`tests/_examples/introspection/local_variables_in_blocks_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/local_variables_in_blocks_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Inside a block, `local_variables` lists the block's own locals and then

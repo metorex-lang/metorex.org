@@ -4,7 +4,7 @@ slug: stdlib-string-character-sets-no-parens
 description: "The metorex example program stdlib/string/character_sets_no_parens.rb and its output."
 ---
 
-`tests/_examples/stdlib/string/character_sets_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/string/character_sets_no_parens.rb).
+`tests/_examples/stdlib/string/character_sets_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/string/character_sets_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # The methods that read a set of characters the way `tr` writes one: a range

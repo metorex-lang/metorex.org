@@ -4,7 +4,7 @@ slug: metaprogramming-core-method-aliases
 description: "The metorex example program metaprogramming/core_method_aliases.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/core_method_aliases.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/core_method_aliases.rb).
+`tests/_examples/metaprogramming/core_method_aliases.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/core_method_aliases.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Ruby's core defines some methods twice under two names. A Method or an

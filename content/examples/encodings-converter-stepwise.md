@@ -4,7 +4,7 @@ slug: encodings-converter-stepwise
 description: "The metorex example program encodings/converter_stepwise.rb and its output."
 ---
 
-`tests/_examples/encodings/converter_stepwise.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/converter_stepwise.rb).
+`tests/_examples/encodings/converter_stepwise.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/converter_stepwise.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A converter carries what it can through primitive_convert and reports how

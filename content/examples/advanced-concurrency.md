@@ -4,7 +4,7 @@ slug: advanced-concurrency
 description: "The metorex example program advanced/concurrency.rb and its output."
 ---
 
-`tests/_examples/advanced/concurrency.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/concurrency.rb).
+`tests/_examples/advanced/concurrency.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/concurrency.rb){target=_blank rel=noopener}.
 
 ```metorex
 channel = Channel.new

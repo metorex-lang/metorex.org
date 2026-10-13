@@ -4,7 +4,7 @@ slug: encodings-shift-jis-text
 description: "The metorex example program encodings/shift_jis_text.rb and its output."
 ---
 
-`tests/_examples/encodings/shift_jis_text.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/shift_jis_text.rb).
+`tests/_examples/encodings/shift_jis_text.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/shift_jis_text.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Shift_JIS spells the Japanese scripts with pairs of bytes, and the

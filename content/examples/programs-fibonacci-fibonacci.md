@@ -4,7 +4,7 @@ slug: programs-fibonacci-fibonacci
 description: "The metorex example program programs/fibonacci/fibonacci.rb and its output."
 ---
 
-`tests/_examples/programs/fibonacci/fibonacci.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/programs/fibonacci/fibonacci.rb).
+`tests/_examples/programs/fibonacci/fibonacci.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/programs/fibonacci/fibonacci.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Fibonacci sequence using both iterative and recursive approaches

@@ -4,7 +4,7 @@ slug: methods-default-that-redefines-no-parens
 description: "The metorex example program methods/default_that_redefines_no_parens.rb and its output."
 ---
 
-`tests/_examples/methods/default_that_redefines_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/default_that_redefines_no_parens.rb).
+`tests/_examples/methods/default_that_redefines_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/default_that_redefines_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A default value is evaluated each time the method is called without the

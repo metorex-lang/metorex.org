@@ -4,7 +4,7 @@ slug: globals-special-globals
 description: "The metorex example program globals/special_globals.rb and its output."
 ---
 
-`tests/_examples/globals/special_globals.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/globals/special_globals.rb).
+`tests/_examples/globals/special_globals.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/globals/special_globals.rb){target=_blank rel=noopener}.
 
 ```metorex
 # The load path counts what was put on it, including anything RUBYLIB named,

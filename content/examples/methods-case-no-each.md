@@ -4,7 +4,7 @@ slug: methods-case-no-each
 description: "The metorex example program methods/case/no_each.rb and its output."
 ---
 
-`tests/_examples/methods/case/no_each.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/case/no_each.rb).
+`tests/_examples/methods/case/no_each.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/case/no_each.rb){target=_blank rel=noopener}.
 
 ```metorex
 def test

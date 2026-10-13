@@ -4,7 +4,7 @@ slug: oop-class-self-new
 description: "The metorex example program oop/class/self_new.rb and its output."
 ---
 
-`tests/_examples/oop/class/self_new.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/class/self_new.rb).
+`tests/_examples/oop/class/self_new.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/class/self_new.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Foo

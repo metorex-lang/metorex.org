@@ -4,7 +4,7 @@ slug: basics-warn-messages-parens
 description: "The metorex example program basics/warn/messages_parens.rb and its output."
 ---
 
-`tests/_examples/basics/warn/messages_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/warn/messages_parens.rb).
+`tests/_examples/basics/warn/messages_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/warn/messages_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Kernel#warn writes through $stderr, honoring $VERBOSE and its keywords.

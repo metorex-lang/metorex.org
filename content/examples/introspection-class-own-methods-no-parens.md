@@ -4,7 +4,7 @@ slug: introspection-class-own-methods-no-parens
 description: "The metorex example program introspection/class_own_methods_no_parens.rb and its output."
 ---
 
-`tests/_examples/introspection/class_own_methods_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/class_own_methods_no_parens.rb).
+`tests/_examples/introspection/class_own_methods_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/class_own_methods_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Every class answers the methods Class defines, which Class lists as its

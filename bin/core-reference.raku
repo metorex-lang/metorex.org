@@ -110,6 +110,11 @@ sub notes(--> Hash) {
     NOTES.IO.lines.grep({ .trim && !.starts-with('#') }).map({ .split("\t", 2) }).map({ .[0] => .[1] }).Hash
 }
 
+# Markdown links in `text` to other sites, marked to open in a new window.
+sub offsite-links-open-apart(Str $text --> Str) {
+    $text.subst(/ ('](' 'http' 's'? '://' <-[)\s]>* ')') <!before '{'> /, { "$0\{target=_blank rel=noopener\}" }, :g)
+}
+
 # `text` as Markdown inline code, fenced past any backticks in it.
 sub code(Str $text --> Str) {
     my $marks = '`' x (max(0, |$text.comb(/ '`'+ /).map(*.chars)) + 1);
@@ -133,7 +138,7 @@ sub entry(Described $method, %answer, %summary, %calls, %notes --> Str) {
     my ($found, $parameters) = %answer{$method.key}.split("\t", 2);
     my $state = $found eq 'yes' ?? "implemented, parameters {code($parameters)}." !! 'not implemented.';
     my $line = "- **{code($method.key)}**: $state";
-    $line ~= " {%summary{$method.key}}" if %summary{$method.key};
+    $line ~= " {offsite-links-open-apart(%summary{$method.key})}" if %summary{$method.key};
     with example-for($method, %calls) { $line ~= " [An example calling it](/examples/{example-slug($_)})." }
     $line ~= "\n\n  Metorex: {%notes{$method.key}}" if %notes{$method.key};
     $line
@@ -151,7 +156,7 @@ sub page(Str $directory, Str $title, @methods, %answer, %summary, %calls, %notes
         @lines.push: entry($_, %answer, %summary, %calls, %notes) for @methods.grep(*.owner eq $owner);
         @lines.push: '';
     }
-    @lines.push: 'The method summaries are the first sentences of Ruby\'s own documentation for each method, read from MRI 4.0.6\'s ri data. Ruby\'s documentation is distributed under [Ruby\'s license](https://www.ruby-lang.org/en/about/license.txt).';
+    @lines.push: 'The method summaries are the first sentences of Ruby\'s own documentation for each method, read from MRI 4.0.6\'s ri data. Ruby\'s documentation is distributed under [Ruby\'s license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.';
     @lines.join("\n") ~ "\n"
 }
 

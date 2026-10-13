@@ -4,7 +4,7 @@ slug: control-flow-for-loops-no-parens
 description: "The metorex example program control_flow/for_loops_no_parens.rb and its output."
 ---
 
-`tests/_examples/control_flow/for_loops_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/for_loops_no_parens.rb).
+`tests/_examples/control_flow/for_loops_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/for_loops_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A `for` loop runs in the scope holding it, so the names it and its body bind

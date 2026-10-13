@@ -4,7 +4,7 @@ slug: errors-syntax-error-syntax-suggest-reports
 description: "The metorex example program errors/syntax_error/syntax_suggest_reports.rb and its output."
 ---
 
-`tests/_examples/errors/syntax_error/syntax_suggest_reports.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/syntax_error/syntax_suggest_reports.rb).
+`tests/_examples/errors/syntax_error/syntax_suggest_reports.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/syntax_error/syntax_suggest_reports.rb){target=_blank rel=noopener}.
 
 ```metorex
 require "stringio"

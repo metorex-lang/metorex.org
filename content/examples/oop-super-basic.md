@@ -4,7 +4,7 @@ slug: oop-super-basic
 description: "The metorex example program oop/super/basic.rb and its output."
 ---
 
-`tests/_examples/oop/super/basic.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/super/basic.rb).
+`tests/_examples/oop/super/basic.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/super/basic.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Animal

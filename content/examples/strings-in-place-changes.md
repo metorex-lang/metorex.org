@@ -4,7 +4,7 @@ slug: strings-in-place-changes
 description: "The metorex example program strings/in_place/changes.rb and its output."
 ---
 
-`tests/_examples/strings/in_place/changes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/in_place/changes.rb).
+`tests/_examples/strings/in_place/changes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/in_place/changes.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A String changes what it holds, and every reference to it sees the change.

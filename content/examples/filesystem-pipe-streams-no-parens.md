@@ -4,7 +4,7 @@ slug: filesystem-pipe-streams-no-parens
 description: "The metorex example program filesystem/pipe_streams_no_parens.rb and its output."
 ---
 
-`tests/_examples/filesystem/pipe_streams_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/pipe_streams_no_parens.rb).
+`tests/_examples/filesystem/pipe_streams_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/pipe_streams_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 reader, writer = IO.pipe

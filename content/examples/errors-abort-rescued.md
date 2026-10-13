@@ -4,7 +4,7 @@ slug: errors-abort-rescued
 description: "The metorex example program errors/abort_rescued.rb and its output."
 ---
 
-`tests/_examples/errors/abort_rescued.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/abort_rescued.rb).
+`tests/_examples/errors/abort_rescued.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/abort_rescued.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Stopper

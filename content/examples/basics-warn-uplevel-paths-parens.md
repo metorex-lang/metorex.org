@@ -4,7 +4,7 @@ slug: basics-warn-uplevel-paths-parens
 description: "The metorex example program basics/warn/uplevel_paths_parens.rb and its output."
 ---
 
-`tests/_examples/basics/warn/uplevel_paths_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/warn/uplevel_paths_parens.rb).
+`tests/_examples/basics/warn/uplevel_paths_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/warn/uplevel_paths_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A warning with `uplevel:` names the file the way it was given to ruby.

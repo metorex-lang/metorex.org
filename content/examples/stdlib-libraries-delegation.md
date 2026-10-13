@@ -4,7 +4,7 @@ slug: stdlib-libraries-delegation
 description: "The metorex example program stdlib_libraries/delegation.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/delegation.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/delegation.rb).
+`tests/_examples/stdlib_libraries/delegation.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/delegation.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Delegation. A delegator stands in front of another object and passes on

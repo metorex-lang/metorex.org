@@ -4,7 +4,7 @@ slug: introspection-native-methods-answered
 description: "The metorex example program introspection/native_methods_answered.rb and its output."
 ---
 
-`tests/_examples/introspection/native_methods_answered.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/native_methods_answered.rb).
+`tests/_examples/introspection/native_methods_answered.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/native_methods_answered.rb){target=_blank rel=noopener}.
 
 ```metorex
 # The methods core classes answer natively are reported the way any other

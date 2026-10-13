@@ -4,7 +4,7 @@ slug: metaprogramming-inside-a-singleton-class-no-parens
 description: "The metorex example program metaprogramming/inside_a_singleton_class_no_parens.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/inside_a_singleton_class_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/inside_a_singleton_class_no_parens.rb).
+`tests/_examples/metaprogramming/inside_a_singleton_class_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/inside_a_singleton_class_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `class << x` runs its body with the object's singleton class as self, so a

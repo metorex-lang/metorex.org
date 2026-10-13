@@ -4,7 +4,7 @@ slug: errors-name-and-method-messages
 description: "The metorex example program errors/name_and_method_messages.rb and its output."
 ---
 
-`tests/_examples/errors/name_and_method_messages.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/name_and_method_messages.rb).
+`tests/_examples/errors/name_and_method_messages.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/name_and_method_messages.rb){target=_blank rel=noopener}.
 
 ```metorex
 # What Ruby says of a name nothing defines, and of a method a receiver has

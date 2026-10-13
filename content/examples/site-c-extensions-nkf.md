@@ -4,7 +4,7 @@ slug: site-c-extensions-nkf
 description: "The metorex example program site/c_extensions_nkf.rb and its output."
 ---
 
-`tests/_examples/site/c_extensions_nkf.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/site/c_extensions_nkf.rb).
+`tests/_examples/site/c_extensions_nkf.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/site/c_extensions_nkf.rb){target=_blank rel=noopener}.
 
 ```metorex
 require "nkf"

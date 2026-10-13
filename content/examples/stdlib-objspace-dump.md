@@ -4,7 +4,7 @@ slug: stdlib-objspace-dump
 description: "The metorex example program stdlib/objspace_dump.rb and its output."
 ---
 
-`tests/_examples/stdlib/objspace_dump.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/objspace_dump.rb).
+`tests/_examples/stdlib/objspace_dump.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/objspace_dump.rb){target=_blank rel=noopener}.
 
 ```metorex
 require "objspace"

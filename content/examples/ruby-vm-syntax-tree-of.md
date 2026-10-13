@@ -4,7 +4,7 @@ slug: ruby-vm-syntax-tree-of
 description: "The metorex example program ruby_vm/syntax_tree_of.rb and its output."
 ---
 
-`tests/_examples/ruby_vm/syntax_tree_of.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/ruby_vm/syntax_tree_of.rb).
+`tests/_examples/ruby_vm/syntax_tree_of.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/ruby_vm/syntax_tree_of.rb){target=_blank rel=noopener}.
 
 ```metorex
 # RubyVM::AbstractSyntaxTree.of reads again the file a Proc, a Method or a

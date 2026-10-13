@@ -4,7 +4,7 @@ slug: rex-matchers-passing-spec-passing-spec
 description: "The metorex example program rex/matchers/passing/spec/passing_spec.rb and its output."
 ---
 
-`tests/_examples/rex/matchers/passing/spec/passing_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/matchers/passing/spec/passing_spec.rb).
+`tests/_examples/rex/matchers/passing/spec/passing_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/matchers/passing/spec/passing_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 Order = Struct.new(:id, :total, :items) do

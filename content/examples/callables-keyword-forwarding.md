@@ -4,7 +4,7 @@ slug: callables-keyword-forwarding
 description: "The metorex example program callables/keyword_forwarding.rb and its output."
 ---
 
-`tests/_examples/callables/keyword_forwarding.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/keyword_forwarding.rb).
+`tests/_examples/callables/keyword_forwarding.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/keyword_forwarding.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `ruby2_keywords` keeps the keyword hash a splat gathered marked, so the

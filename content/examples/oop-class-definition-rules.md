@@ -4,7 +4,7 @@ slug: oop-class-definition-rules
 description: "The metorex example program oop/class_definition_rules.rb and its output."
 ---
 
-`tests/_examples/oop/class_definition_rules.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/class_definition_rules.rb).
+`tests/_examples/oop/class_definition_rules.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/class_definition_rules.rb){target=_blank rel=noopener}.
 
 ```metorex
 PORT_NUMBER = 8080

@@ -4,7 +4,7 @@ slug: runtime-stdout-redirect
 description: "The metorex example program runtime/stdout_redirect.rb and its output."
 ---
 
-`tests/_examples/runtime/stdout_redirect.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/stdout_redirect.rb).
+`tests/_examples/runtime/stdout_redirect.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/stdout_redirect.rb){target=_blank rel=noopener}.
 
 ```metorex
 path = "/tmp/metorex_stdout_redirect_#{Process.pid}.txt"

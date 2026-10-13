@@ -4,7 +4,7 @@ slug: errors-handled-then-outer
 description: "The metorex example program errors/handled_then_outer.rb and its output."
 ---
 
-`tests/_examples/errors/handled_then_outer.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/handled_then_outer.rb).
+`tests/_examples/errors/handled_then_outer.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/handled_then_outer.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `$!` names the exception being handled. A rescue clause inside a handler

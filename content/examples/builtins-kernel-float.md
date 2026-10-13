@@ -4,7 +4,7 @@ slug: builtins-kernel-float
 description: "The metorex example program builtins/kernel_float.rb and its output."
 ---
 
-`tests/_examples/builtins/kernel_float.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/kernel_float.rb).
+`tests/_examples/builtins/kernel_float.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/kernel_float.rb){target=_blank rel=noopener}.
 
 ```metorex
 puts Float(1)

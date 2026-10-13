@@ -4,7 +4,7 @@ slug: rex-ordering-bisect-spec-settings-spec
 description: "The metorex example program rex/ordering/bisect/spec/settings_spec.rb and its output."
 ---
 
-`tests/_examples/rex/ordering/bisect/spec/settings_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/ordering/bisect/spec/settings_spec.rb).
+`tests/_examples/rex/ordering/bisect/spec/settings_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/ordering/bisect/spec/settings_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 SETTINGS = { currency: "USD" }

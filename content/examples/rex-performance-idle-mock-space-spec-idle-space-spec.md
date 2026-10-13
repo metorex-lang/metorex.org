@@ -4,7 +4,7 @@ slug: rex-performance-idle-mock-space-spec-idle-space-spec
 description: "The metorex example program rex/performance/idle_mock_space/spec/idle_space_spec.rb and its output."
 ---
 
-`tests/_examples/rex/performance/idle_mock_space/spec/idle_space_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/performance/idle_mock_space/spec/idle_space_spec.rb).
+`tests/_examples/rex/performance/idle_mock_space/spec/idle_space_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/performance/idle_mock_space/spec/idle_space_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 RSpec.configure { |config| config.order = :defined }

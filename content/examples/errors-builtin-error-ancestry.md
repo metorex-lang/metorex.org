@@ -4,7 +4,7 @@ slug: errors-builtin-error-ancestry
 description: "The metorex example program errors/builtin_error_ancestry.rb and its output."
 ---
 
-`tests/_examples/errors/builtin_error_ancestry.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/builtin_error_ancestry.rb).
+`tests/_examples/errors/builtin_error_ancestry.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/builtin_error_ancestry.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Ruby defines no ValueError, and every built-in error class reaches the

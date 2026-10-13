@@ -4,7 +4,7 @@ slug: advanced-block-as-arg
 description: "The metorex example program advanced/block_as_arg.rb and its output."
 ---
 
-`tests/_examples/advanced/block_as_arg.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/block_as_arg.rb).
+`tests/_examples/advanced/block_as_arg.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/block_as_arg.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Test passing a block as an argument using & syntax

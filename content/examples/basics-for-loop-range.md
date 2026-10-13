@@ -4,7 +4,7 @@ slug: basics-for-loop-range
 description: "The metorex example program basics/for_loop_range.rb and its output."
 ---
 
-`tests/_examples/basics/for_loop_range.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/for_loop_range.rb).
+`tests/_examples/basics/for_loop_range.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/for_loop_range.rb){target=_blank rel=noopener}.
 
 ```metorex
 # For loop over a range

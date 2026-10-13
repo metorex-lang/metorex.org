@@ -4,7 +4,7 @@ slug: stdlib-marshal-round-trip
 description: "The metorex example program stdlib/marshal_round_trip.rb and its output."
 ---
 
-`tests/_examples/stdlib/marshal_round_trip.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/marshal_round_trip.rb).
+`tests/_examples/stdlib/marshal_round_trip.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/marshal_round_trip.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `Marshal.dump` writes an object as the bytes Ruby's marshal format spells

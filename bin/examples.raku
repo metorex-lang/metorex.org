@@ -58,7 +58,7 @@ sub json-string(Str $text --> Str) {
 sub page(Str $path, $source, $output --> Str) {
     my @lines = '---', "title: {json-string($path)}", "slug: {slug($path)}",
         "description: {json-string("The metorex example program $path and its output.")}", '---', '',
-        "`{EXAMPLES}/$path` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/{EXAMPLES}/$path).", '';
+        "`{EXAMPLES}/$path` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/{EXAMPLES}/$path)\{target=_blank rel=noopener\}.", '';
     @lines.push: $source.defined ?? fenced($source, 'metorex') !! 'The file is not UTF-8 text, so it is not shown.';
     if $output.defined {
         @lines.push: '', 'Output:', '', ($output eq '' ?? 'The program prints nothing.' !! fenced($output));

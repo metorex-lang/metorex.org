@@ -4,7 +4,7 @@ slug: introspection-protected-methods
 description: "The metorex example program introspection/protected_methods.rb and its output."
 ---
 
-`tests/_examples/introspection/protected_methods.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/protected_methods.rb).
+`tests/_examples/introspection/protected_methods.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/protected_methods.rb){target=_blank rel=noopener}.
 
 ```metorex
 module Helpers

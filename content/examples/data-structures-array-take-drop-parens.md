@@ -4,7 +4,7 @@ slug: data-structures-array-take-drop-parens
 description: "The metorex example program data_structures/array_take_drop_parens.rb and its output."
 ---
 
-`tests/_examples/data_structures/array_take_drop_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/data_structures/array_take_drop_parens.rb).
+`tests/_examples/data_structures/array_take_drop_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/data_structures/array_take_drop_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 numbers = [1, 2, 3, 4]

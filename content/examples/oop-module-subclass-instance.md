@@ -4,7 +4,7 @@ slug: oop-module-subclass-instance
 description: "The metorex example program oop/module_subclass_instance.rb and its output."
 ---
 
-`tests/_examples/oop/module_subclass_instance.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/module_subclass_instance.rb).
+`tests/_examples/oop/module_subclass_instance.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/module_subclass_instance.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Namespace < Module

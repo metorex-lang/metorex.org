@@ -4,7 +4,7 @@ slug: oop-reopened-object
 description: "The metorex example program oop/reopened_object.rb and its output."
 ---
 
-`tests/_examples/oop/reopened_object.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/reopened_object.rb).
+`tests/_examples/oop/reopened_object.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/reopened_object.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A method written in `class Object` reaches an object made by `Object.new`,

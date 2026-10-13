@@ -24,4 +24,4 @@ ruby/spec describes 17 methods in `core/sizedqueue`, and Metorex implements 17 o
 - **`SizedQueue#shift`**: implemented, parameters `[[:rest, :args]]`. Retrieves data from the queue. [An example calling it](/examples/array-methods-set-operations-and-lookup).
 - **`SizedQueue#size`**: implemented, parameters `[]`. [An example calling it](/examples/advanced-threads-wait-on-processes-and-sockets).
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

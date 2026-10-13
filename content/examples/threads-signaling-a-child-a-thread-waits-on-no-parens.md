@@ -4,7 +4,7 @@ slug: threads-signaling-a-child-a-thread-waits-on-no-parens
 description: "The metorex example program threads/signaling_a_child_a_thread_waits_on_no_parens.rb and its output."
 ---
 
-`tests/_examples/threads/signaling_a_child_a_thread_waits_on_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/signaling_a_child_a_thread_waits_on_no_parens.rb).
+`tests/_examples/threads/signaling_a_child_a_thread_waits_on_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/signaling_a_child_a_thread_waits_on_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A thread reading from a child lets the main thread signal that child.

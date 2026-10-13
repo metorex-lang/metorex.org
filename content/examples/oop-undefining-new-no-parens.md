@@ -4,7 +4,7 @@ slug: oop-undefining-new-no-parens
 description: "The metorex example program oop/undefining_new_no_parens.rb and its output."
 ---
 
-`tests/_examples/oop/undefining_new_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/undefining_new_no_parens.rb).
+`tests/_examples/oop/undefining_new_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/undefining_new_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A class can take `new` away from itself in its singleton class, after which

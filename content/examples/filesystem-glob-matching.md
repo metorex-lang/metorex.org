@@ -4,7 +4,7 @@ slug: filesystem-glob-matching
 description: "The metorex example program filesystem/glob_matching.rb and its output."
 ---
 
-`tests/_examples/filesystem/glob_matching.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/glob_matching.rb).
+`tests/_examples/filesystem/glob_matching.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/glob_matching.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `File.fnmatch` compares a name against a glob pattern without looking at the

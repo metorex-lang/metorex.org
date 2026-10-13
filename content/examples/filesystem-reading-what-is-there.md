@@ -4,7 +4,7 @@ slug: filesystem-reading-what-is-there
 description: "The metorex example program filesystem/reading_what_is_there.rb and its output."
 ---
 
-`tests/_examples/filesystem/reading_what_is_there.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/reading_what_is_there.rb).
+`tests/_examples/filesystem/reading_what_is_there.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/reading_what_is_there.rb){target=_blank rel=noopener}.
 
 ```metorex
 # readpartial and read_nonblock hand back what is already there, including

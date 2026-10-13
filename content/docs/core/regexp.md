@@ -34,4 +34,4 @@ ruby/spec describes 27 methods in `core/regexp`, and Metorex implements 27 of th
 - **`Regexp.union`**: implemented, parameters `[[:req, :args]]`. Returns a new regexp that is the union of the given patterns: [An example calling it](/examples/regexp-matching).
 - **`Regexp#~`**: implemented, parameters `[]`. Equivalent to <code><i>rxp</i> =~ $_</code>:
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

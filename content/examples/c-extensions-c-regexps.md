@@ -4,7 +4,7 @@ slug: c-extensions-c-regexps
 description: "The metorex example program c_extensions/c_regexps.rb and its output."
 ---
 
-`tests/_examples/c_extensions/c_regexps.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/c_extensions/c_regexps.rb).
+`tests/_examples/c_extensions/c_regexps.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/c_extensions/c_regexps.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A C extension making Regexps, matching with them, reading matches and

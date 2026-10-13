@@ -4,7 +4,7 @@ slug: methods-each-implicit-return-after
 description: "The metorex example program methods/each/implicit_return_after.rb and its output."
 ---
 
-`tests/_examples/methods/each/implicit_return_after.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/each/implicit_return_after.rb).
+`tests/_examples/methods/each/implicit_return_after.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/each/implicit_return_after.rb){target=_blank rel=noopener}.
 
 ```metorex
 def files(patterns)

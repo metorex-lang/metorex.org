@@ -4,7 +4,7 @@ slug: require-source-file-lib-caller-sites
 description: "The metorex example program require/source_file_lib/caller_sites.rb and its output."
 ---
 
-`tests/_examples/require/source_file_lib/caller_sites.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/source_file_lib/caller_sites.rb).
+`tests/_examples/require/source_file_lib/caller_sites.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/source_file_lib/caller_sites.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Ledger

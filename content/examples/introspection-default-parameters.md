@@ -4,7 +4,7 @@ slug: introspection-default-parameters
 description: "The metorex example program introspection/default_parameters.rb and its output."
 ---
 
-`tests/_examples/introspection/default_parameters.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/default_parameters.rb).
+`tests/_examples/introspection/default_parameters.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/default_parameters.rb){target=_blank rel=noopener}.
 
 ```metorex
 def no_defaults(a, b)

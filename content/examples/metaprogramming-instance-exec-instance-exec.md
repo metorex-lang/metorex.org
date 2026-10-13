@@ -4,7 +4,7 @@ slug: metaprogramming-instance-exec-instance-exec
 description: "The metorex example program metaprogramming/instance_exec/instance_exec.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/instance_exec/instance_exec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/instance_exec/instance_exec.rb).
+`tests/_examples/metaprogramming/instance_exec/instance_exec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/instance_exec/instance_exec.rb){target=_blank rel=noopener}.
 
 ```metorex
 # instance_exec example

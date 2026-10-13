@@ -4,7 +4,7 @@ slug: basics-puts-array
 description: "The metorex example program basics/puts_array.rb and its output."
 ---
 
-`tests/_examples/basics/puts_array.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/puts_array.rb).
+`tests/_examples/basics/puts_array.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/puts_array.rb){target=_blank rel=noopener}.
 
 ```metorex
 letters = ["a", "b"]

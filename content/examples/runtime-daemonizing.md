@@ -4,7 +4,7 @@ slug: runtime-daemonizing
 description: "The metorex example program runtime/daemonizing.rb and its output."
 ---
 
-`tests/_examples/runtime/daemonizing.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/daemonizing.rb).
+`tests/_examples/runtime/daemonizing.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/daemonizing.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Process.daemon leaves the process that called it, and carries on as a

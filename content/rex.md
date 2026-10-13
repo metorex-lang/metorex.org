@@ -1,7 +1,7 @@
 ---
 title: Rex
 slug: rex
-description: Rex is the spec framework Metorex carries. It runs suites written for RSpec 3.13 with no gems installed, and prints what RSpec prints.
+description: Rex is the spec framework built into Metorex. It runs suites written for RSpec 3.13 with no gems installed, and prints what RSpec prints.
 layout: page
 ---
 
@@ -134,4 +134,4 @@ The RSpec libraries' own suites run under `metorex spec`, one spec file to a pro
 | rspec-expectations | 2231 | 2455 |
 | rspec-mocks | 1376 | 1806 |
 
-diff-lcs's suite passes all 322 of its examples, with documentation output identical to RSpec's byte for byte. The suite and both outputs above are `tests/_examples/rex/site/ledger` in the [metorex repository](https://github.com/metorex-lang/metorex), where the test suite checks them.
+diff-lcs's suite passes all 322 of its examples, with documentation output identical to RSpec's byte for byte. The suite and both outputs above are `tests/_examples/rex/site/ledger` in the [metorex repository](https://github.com/metorex-lang/metorex){target=_blank rel=noopener}, where the test suite checks them.

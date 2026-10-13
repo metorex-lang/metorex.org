@@ -4,7 +4,7 @@ slug: eval-syntax-error-reports-no-parens
 description: "The metorex example program eval/syntax_error_reports_no_parens.rb and its output."
 ---
 
-`tests/_examples/eval/syntax_error_reports_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/eval/syntax_error_reports_no_parens.rb).
+`tests/_examples/eval/syntax_error_reports_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/eval/syntax_error_reports_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Code `eval` refuses raises a SyntaxError laid out as prism lays it out:

@@ -4,7 +4,7 @@ slug: encodings-normalized-text
 description: "The metorex example program encodings/normalized_text.rb and its output."
 ---
 
-`tests/_examples/encodings/normalized_text.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/normalized_text.rb).
+`tests/_examples/encodings/normalized_text.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/normalized_text.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Unicode names four forms a run of text may be written in: two that keep

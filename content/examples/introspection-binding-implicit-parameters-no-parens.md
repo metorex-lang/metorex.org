@@ -4,7 +4,7 @@ slug: introspection-binding-implicit-parameters-no-parens
 description: "The metorex example program introspection/binding_implicit_parameters_no_parens.rb and its output."
 ---
 
-`tests/_examples/introspection/binding_implicit_parameters_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/binding_implicit_parameters_no_parens.rb).
+`tests/_examples/introspection/binding_implicit_parameters_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/binding_implicit_parameters_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A Binding taken in a block reports the implicit parameters that block

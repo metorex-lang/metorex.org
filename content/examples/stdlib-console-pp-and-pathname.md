@@ -4,7 +4,7 @@ slug: stdlib-console-pp-and-pathname
 description: "The metorex example program stdlib/console_pp_and_pathname.rb and its output."
 ---
 
-`tests/_examples/stdlib/console_pp_and_pathname.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/console_pp_and_pathname.rb).
+`tests/_examples/stdlib/console_pp_and_pathname.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/console_pp_and_pathname.rb){target=_blank rel=noopener}.
 
 ```metorex
 require("io/console")

@@ -4,7 +4,7 @@ slug: rex-performance-flattened-hooks-spec-flattened-spec
 description: "The metorex example program rex/performance/flattened_hooks/spec/flattened_spec.rb and its output."
 ---
 
-`tests/_examples/rex/performance/flattened_hooks/spec/flattened_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/performance/flattened_hooks/spec/flattened_spec.rb).
+`tests/_examples/rex/performance/flattened_hooks/spec/flattened_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/performance/flattened_hooks/spec/flattened_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 RSpec.describe "hooks around an example" do

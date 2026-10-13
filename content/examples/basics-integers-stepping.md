@@ -4,7 +4,7 @@ slug: basics-integers-stepping
 description: "The metorex example program basics/integers/stepping.rb and its output."
 ---
 
-`tests/_examples/basics/integers/stepping.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/integers/stepping.rb).
+`tests/_examples/basics/integers/stepping.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/integers/stepping.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A step named by keyword walks the same ground as one given by position.

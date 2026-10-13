@@ -4,7 +4,7 @@ slug: stdlib-hash-shorthand
 description: "The metorex example program stdlib/hash/shorthand.rb and its output."
 ---
 
-`tests/_examples/stdlib/hash/shorthand.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/hash/shorthand.rb).
+`tests/_examples/stdlib/hash/shorthand.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/hash/shorthand.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Hash shorthand syntax: {key: value}

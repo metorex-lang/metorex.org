@@ -4,7 +4,7 @@ slug: strings-symbol-slices-and-bytes-no-parens
 description: "The metorex example program strings/symbol_slices_and_bytes_no_parens.rb and its output."
 ---
 
-`tests/_examples/strings/symbol_slices_and_bytes_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/symbol_slices_and_bytes_no_parens.rb).
+`tests/_examples/strings/symbol_slices_and_bytes_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/symbol_slices_and_bytes_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Symbol#[] reads the name the way a String does: a Float index is read

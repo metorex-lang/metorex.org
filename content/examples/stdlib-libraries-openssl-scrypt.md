@@ -4,7 +4,7 @@ slug: stdlib-libraries-openssl-scrypt
 description: "The metorex example program stdlib_libraries/openssl_scrypt.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/openssl_scrypt.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/openssl_scrypt.rb).
+`tests/_examples/stdlib_libraries/openssl_scrypt.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/openssl_scrypt.rb){target=_blank rel=noopener}.
 
 ```metorex
 # scrypt derives a key from a password through a table of earlier states,

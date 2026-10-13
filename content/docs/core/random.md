@@ -18,4 +18,4 @@ ruby/spec describes 11 methods in `core/random`, and Metorex implements 11 of th
 - **`Random.srand`**: implemented, parameters `[[:opt, :number]]`. Seeds the system pseudo-random number generator, with `number`.
 - **`Random.urandom`**: implemented, parameters `[[:req, :count]]`. Returns a string, using platform providing features. [An example calling it](/examples/builtins-random-source-generator).
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

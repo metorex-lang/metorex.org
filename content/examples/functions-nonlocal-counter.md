@@ -4,7 +4,7 @@ slug: functions-nonlocal-counter
 description: "The metorex example program functions/nonlocal_counter.rb and its output."
 ---
 
-`tests/_examples/functions/nonlocal_counter.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/nonlocal_counter.rb).
+`tests/_examples/functions/nonlocal_counter.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/nonlocal_counter.rb){target=_blank rel=noopener}.
 
 ```metorex
 def make_counter

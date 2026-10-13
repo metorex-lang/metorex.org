@@ -4,7 +4,7 @@ slug: encodings-encoding-names-no-parens
 description: "The metorex example program encodings/encoding_names_no_parens.rb and its output."
 ---
 
-`tests/_examples/encodings/encoding_names_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/encoding_names_no_parens.rb).
+`tests/_examples/encodings/encoding_names_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/encoding_names_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Each encoding answers the names Ruby gives it: its own, then the aliases

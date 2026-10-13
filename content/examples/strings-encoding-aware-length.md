@@ -4,7 +4,7 @@ slug: strings-encoding-aware-length
 description: "The metorex example program strings/encoding_aware_length.rb and its output."
 ---
 
-`tests/_examples/strings/encoding_aware_length.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/encoding_aware_length.rb).
+`tests/_examples/strings/encoding_aware_length.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/encoding_aware_length.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A string counts its characters the way the encoding it is tagged with reads

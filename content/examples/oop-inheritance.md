@@ -4,7 +4,7 @@ slug: oop-inheritance
 description: "The metorex example program oop/inheritance.rb and its output."
 ---
 
-`tests/_examples/oop/inheritance.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/inheritance.rb).
+`tests/_examples/oop/inheritance.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/inheritance.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Animal

@@ -4,7 +4,7 @@ slug: oop-comparable-comparable-parens
 description: "The metorex example program oop/comparable/comparable_parens.rb and its output."
 ---
 
-`tests/_examples/oop/comparable/comparable_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/comparable/comparable_parens.rb).
+`tests/_examples/oop/comparable/comparable_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/comparable/comparable_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Comparable module with spaceship operator (parens)

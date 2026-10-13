@@ -4,7 +4,7 @@ slug: threads-locking-from-two-fibers-no-parens
 description: "The metorex example program threads/locking_from_two_fibers_no_parens.rb and its output."
 ---
 
-`tests/_examples/threads/locking_from_two_fibers_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/locking_from_two_fibers_no_parens.rb).
+`tests/_examples/threads/locking_from_two_fibers_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/locking_from_two_fibers_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A lock another fiber of the same thread holds cannot be waited for.

@@ -4,7 +4,7 @@ slug: programs-system-with-environment
 description: "The metorex example program programs/system_with_environment.rb and its output."
 ---
 
-`tests/_examples/programs/system_with_environment.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/programs/system_with_environment.rb).
+`tests/_examples/programs/system_with_environment.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/programs/system_with_environment.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A Hash before the command names what the child's environment adds, or takes

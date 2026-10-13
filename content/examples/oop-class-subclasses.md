@@ -4,7 +4,7 @@ slug: oop-class-subclasses
 description: "The metorex example program oop/class_subclasses.rb and its output."
 ---
 
-`tests/_examples/oop/class_subclasses.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/class_subclasses.rb).
+`tests/_examples/oop/class_subclasses.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/class_subclasses.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `Class#subclasses` — returns the direct subclasses of a class.

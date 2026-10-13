@@ -4,7 +4,7 @@ slug: strings-byte-splices-parens
 description: "The metorex example program strings/byte_splices_parens.rb and its output."
 ---
 
-`tests/_examples/strings/byte_splices_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/byte_splices_parens.rb).
+`tests/_examples/strings/byte_splices_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/byte_splices_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `bytesplice` replaces a run of bytes in place, counting positions in bytes

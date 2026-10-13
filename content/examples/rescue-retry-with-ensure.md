@@ -4,7 +4,7 @@ slug: rescue-retry-with-ensure
 description: "The metorex example program rescue/retry_with_ensure.rb and its output."
 ---
 
-`tests/_examples/rescue/retry_with_ensure.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rescue/retry_with_ensure.rb).
+`tests/_examples/rescue/retry_with_ensure.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rescue/retry_with_ensure.rb){target=_blank rel=noopener}.
 
 ```metorex
 attempts = 0

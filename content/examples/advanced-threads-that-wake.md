@@ -4,7 +4,7 @@ slug: advanced-threads-that-wake
 description: "The metorex example program advanced/threads_that_wake.rb and its output."
 ---
 
-`tests/_examples/advanced/threads_that_wake.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/threads_that_wake.rb).
+`tests/_examples/advanced/threads_that_wake.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/threads_that_wake.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A thread reports what it is doing, and a thread that waits on a condition

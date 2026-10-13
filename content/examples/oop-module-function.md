@@ -4,7 +4,7 @@ slug: oop-module-function
 description: "The metorex example program oop/module_function.rb and its output."
 ---
 
-`tests/_examples/oop/module_function.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/module_function.rb).
+`tests/_examples/oop/module_function.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/module_function.rb){target=_blank rel=noopener}.
 
 ```metorex
 module Helpers

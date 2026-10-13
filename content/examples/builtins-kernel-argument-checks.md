@@ -4,7 +4,7 @@ slug: builtins-kernel-argument-checks
 description: "The metorex example program builtins/kernel_argument_checks.rb and its output."
 ---
 
-`tests/_examples/builtins/kernel_argument_checks.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/kernel_argument_checks.rb).
+`tests/_examples/builtins/kernel_argument_checks.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/kernel_argument_checks.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `exception:` takes true or false and nothing else.

@@ -4,7 +4,7 @@ slug: builtins-numbers-written-out-no-parens
 description: "The metorex example program builtins/numbers_written_out_no_parens.rb and its output."
 ---
 
-`tests/_examples/builtins/numbers_written_out_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/numbers_written_out_no_parens.rb).
+`tests/_examples/builtins/numbers_written_out_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/numbers_written_out_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A Float writes itself with a decimal point, and one whose point sits far

@@ -4,7 +4,7 @@ slug: oop-ancestors-parent-class
 description: "The metorex example program oop/ancestors_parent_class.rb and its output."
 ---
 
-`tests/_examples/oop/ancestors_parent_class.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/ancestors_parent_class.rb).
+`tests/_examples/oop/ancestors_parent_class.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/ancestors_parent_class.rb){target=_blank rel=noopener}.
 
 ```metorex
 class AParent

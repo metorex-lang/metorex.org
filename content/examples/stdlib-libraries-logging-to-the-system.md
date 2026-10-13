@@ -4,7 +4,7 @@ slug: stdlib-libraries-logging-to-the-system
 description: "The metorex example program stdlib_libraries/logging_to_the_system.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/logging_to_the_system.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/logging_to_the_system.rb).
+`tests/_examples/stdlib_libraries/logging_to_the_system.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/logging_to_the_system.rb){target=_blank rel=noopener}.
 
 ```metorex
 # The system log, and a binding as a scope a program can reach into.

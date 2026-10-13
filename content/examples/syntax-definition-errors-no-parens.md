@@ -4,7 +4,7 @@ slug: syntax-definition-errors-no-parens
 description: "The metorex example program syntax/definition_errors_no_parens.rb and its output."
 ---
 
-`tests/_examples/syntax/definition_errors_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/definition_errors_no_parens.rb).
+`tests/_examples/syntax/definition_errors_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/definition_errors_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A `for` loop takes a parenthesized group apart, and names nothing of its

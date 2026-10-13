@@ -4,7 +4,7 @@ slug: stdlib-io-io-parens
 description: "The metorex example program stdlib/io/io_parens.rb and its output."
 ---
 
-`tests/_examples/stdlib/io/io_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/io/io_parens.rb).
+`tests/_examples/stdlib/io/io_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/io/io_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # IO and print functions demonstration (with parentheses)

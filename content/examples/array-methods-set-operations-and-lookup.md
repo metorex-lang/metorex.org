@@ -4,7 +4,7 @@ slug: array-methods-set-operations-and-lookup
 description: "The metorex example program array_methods/set_operations_and_lookup.rb and its output."
 ---
 
-`tests/_examples/array_methods/set_operations_and_lookup.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/array_methods/set_operations_and_lookup.rb).
+`tests/_examples/array_methods/set_operations_and_lookup.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/array_methods/set_operations_and_lookup.rb){target=_blank rel=noopener}.
 
 ```metorex
 letters = [:a, :b, :b, :c]

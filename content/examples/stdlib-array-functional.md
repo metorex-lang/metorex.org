@@ -4,7 +4,7 @@ slug: stdlib-array-functional
 description: "The metorex example program stdlib/array/functional.rb and its output."
 ---
 
-`tests/_examples/stdlib/array/functional.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/array/functional.rb).
+`tests/_examples/stdlib/array/functional.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/array/functional.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Array functional methods: any?, all?, none?, select, partition, inject/reduce

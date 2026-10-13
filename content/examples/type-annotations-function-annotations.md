@@ -4,7 +4,7 @@ slug: type-annotations-function-annotations
 description: "The metorex example program type_annotations/function_annotations.rb and its output."
 ---
 
-`tests/_examples/type_annotations/function_annotations.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/type_annotations/function_annotations.rb).
+`tests/_examples/type_annotations/function_annotations.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/type_annotations/function_annotations.rb){target=_blank rel=noopener}.
 
 ```metorex
 def greet(name, age)  # str, int -> str

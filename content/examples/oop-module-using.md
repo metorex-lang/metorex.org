@@ -4,7 +4,7 @@ slug: oop-module-using
 description: "The metorex example program oop/module_using.rb and its output."
 ---
 
-`tests/_examples/oop/module_using.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/module_using.rb).
+`tests/_examples/oop/module_using.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/module_using.rb){target=_blank rel=noopener}.
 
 ```metorex
 Target = Class.new do

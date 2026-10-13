@@ -4,7 +4,7 @@ slug: sets-membership-and-allocation-no-parens
 description: "The metorex example program sets/membership_and_allocation_no_parens.rb and its output."
 ---
 
-`tests/_examples/sets/membership_and_allocation_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/sets/membership_and_allocation_no_parens.rb).
+`tests/_examples/sets/membership_and_allocation_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/sets/membership_and_allocation_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Set membership asks the element's hash and eql?, so two objects that agree

@@ -4,7 +4,7 @@ slug: introspection-count-objects
 description: "The metorex example program introspection/count_objects.rb and its output."
 ---
 
-`tests/_examples/introspection/count_objects.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/count_objects.rb).
+`tests/_examples/introspection/count_objects.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/count_objects.rb){target=_blank rel=noopener}.
 
 ```metorex
 counted = ObjectSpace.count_objects

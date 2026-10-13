@@ -4,7 +4,7 @@ slug: basics-float-division
 description: "The metorex example program basics/float_division.rb and its output."
 ---
 
-`tests/_examples/basics/float_division.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/float_division.rb).
+`tests/_examples/basics/float_division.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/float_division.rb){target=_blank rel=noopener}.
 
 ```metorex
 puts 1 / 0.0

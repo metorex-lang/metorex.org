@@ -4,7 +4,7 @@ slug: syntax-assignment-order
 description: "The metorex example program syntax/assignment_order.rb and its output."
 ---
 
-`tests/_examples/syntax/assignment_order.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/assignment_order.rb).
+`tests/_examples/syntax/assignment_order.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/assignment_order.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Assignment evaluates the receiver, subscripts, and namespace of each target

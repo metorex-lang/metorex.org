@@ -4,7 +4,7 @@ slug: metaprogramming-method-added-chain
 description: "The metorex example program metaprogramming/method_added_chain.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/method_added_chain.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/method_added_chain.rb).
+`tests/_examples/metaprogramming/method_added_chain.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/method_added_chain.rb){target=_blank rel=noopener}.
 
 ```metorex
 module Tracking

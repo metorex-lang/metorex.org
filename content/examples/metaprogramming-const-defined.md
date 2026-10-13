@@ -4,7 +4,7 @@ slug: metaprogramming-const-defined
 description: "The metorex example program metaprogramming/const_defined.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/const_defined.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/const_defined.rb).
+`tests/_examples/metaprogramming/const_defined.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/const_defined.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Module#const_defined? — written without parentheses where possible.

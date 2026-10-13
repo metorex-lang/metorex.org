@@ -4,7 +4,7 @@ slug: stdlib-hash-hashes
 description: "The metorex example program stdlib/hash/hashes.rb and its output."
 ---
 
-`tests/_examples/stdlib/hash/hashes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/hash/hashes.rb).
+`tests/_examples/stdlib/hash/hashes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/hash/hashes.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Hash/Dict methods demonstration

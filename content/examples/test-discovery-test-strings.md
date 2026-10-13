@@ -4,7 +4,7 @@ slug: test-discovery-test-strings
 description: "The metorex example program test_discovery/test_strings.rb and its output."
 ---
 
-`tests/_examples/test_discovery/test_strings.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/test_discovery/test_strings.rb).
+`tests/_examples/test_discovery/test_strings.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/test_discovery/test_strings.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Test file: test_strings.rb

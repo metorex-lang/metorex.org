@@ -4,7 +4,7 @@ slug: basics-kernel-p
 description: "The metorex example program basics/kernel_p.rb and its output."
 ---
 
-`tests/_examples/basics/kernel_p.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/kernel_p.rb).
+`tests/_examples/basics/kernel_p.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/kernel_p.rb){target=_blank rel=noopener}.
 
 ```metorex
 p "abcde"

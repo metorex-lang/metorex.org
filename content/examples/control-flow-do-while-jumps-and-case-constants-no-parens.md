@@ -4,7 +4,7 @@ slug: control-flow-do-while-jumps-and-case-constants-no-parens
 description: "The metorex example program control_flow/do_while_jumps_and_case_constants_no_parens.rb and its output."
 ---
 
-`tests/_examples/control_flow/do_while_jumps_and_case_constants_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/do_while_jumps_and_case_constants_no_parens.rb).
+`tests/_examples/control_flow/do_while_jumps_and_case_constants_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/do_while_jumps_and_case_constants_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 def first_large values

@@ -4,7 +4,7 @@ slug: control-flow-jump-assignments
 description: "The metorex example program control_flow/jump_assignments.rb and its output."
 ---
 
-`tests/_examples/control_flow/jump_assignments.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/jump_assignments.rb).
+`tests/_examples/control_flow/jump_assignments.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/jump_assignments.rb){target=_blank rel=noopener}.
 
 ```metorex
 # The value a `break`, `next` or `return` carries can be an assignment, and

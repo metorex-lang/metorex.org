@@ -4,7 +4,7 @@ slug: basics-array-delete
 description: "The metorex example program basics/array_delete.rb and its output."
 ---
 
-`tests/_examples/basics/array_delete.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/array_delete.rb).
+`tests/_examples/basics/array_delete.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/array_delete.rb){target=_blank rel=noopener}.
 
 ```metorex
 a = [1, 2, 3, 2, 4]

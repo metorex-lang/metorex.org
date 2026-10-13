@@ -4,7 +4,7 @@ slug: oop-test-iter
 description: "The metorex example program oop/test/iter.rb and its output."
 ---
 
-`tests/_examples/oop/test/iter.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/test/iter.rb).
+`tests/_examples/oop/test/iter.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/test/iter.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Counter

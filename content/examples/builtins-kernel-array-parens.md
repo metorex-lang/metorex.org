@@ -4,7 +4,7 @@ slug: builtins-kernel-array-parens
 description: "The metorex example program builtins/kernel_array_parens.rb and its output."
 ---
 
-`tests/_examples/builtins/kernel_array_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/kernel_array_parens.rb).
+`tests/_examples/builtins/kernel_array_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/kernel_array_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 p(Array(nil))

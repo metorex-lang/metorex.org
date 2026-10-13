@@ -4,7 +4,7 @@ slug: enumerable-walking-over-again
 description: "The metorex example program enumerable/walking_over_again.rb and its output."
 ---
 
-`tests/_examples/enumerable/walking_over_again.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/enumerable/walking_over_again.rb).
+`tests/_examples/enumerable/walking_over_again.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/enumerable/walking_over_again.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `cycle` walks the elements over and over. A count says how many rounds,

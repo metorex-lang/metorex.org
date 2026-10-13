@@ -4,7 +4,7 @@ slug: oop-clone-singleton-super
 description: "The metorex example program oop/clone_singleton_super.rb and its output."
 ---
 
-`tests/_examples/oop/clone_singleton_super.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/clone_singleton_super.rb).
+`tests/_examples/oop/clone_singleton_super.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/clone_singleton_super.rb){target=_blank rel=noopener}.
 
 ```metorex
 module Counting

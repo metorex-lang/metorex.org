@@ -4,7 +4,7 @@ slug: errors-uncaught-throw
 description: "The metorex example program errors/uncaught_throw.rb and its output."
 ---
 
-`tests/_examples/errors/uncaught_throw.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/uncaught_throw.rb).
+`tests/_examples/errors/uncaught_throw.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/uncaught_throw.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `UncaughtThrowError#tag` and `#value` report the throw that found no catch.

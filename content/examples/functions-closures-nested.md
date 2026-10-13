@@ -4,7 +4,7 @@ slug: functions-closures-nested
 description: "The metorex example program functions/closures_nested.rb and its output."
 ---
 
-`tests/_examples/functions/closures_nested.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/closures_nested.rb).
+`tests/_examples/functions/closures_nested.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/closures_nested.rb){target=_blank rel=noopener}.
 
 ```metorex
 def make_multiplier(factor)

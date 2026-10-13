@@ -4,7 +4,7 @@ slug: control-flow-flip-flop
 description: "The metorex example program control_flow/flip_flop.rb and its output."
 ---
 
-`tests/_examples/control_flow/flip_flop.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/flip_flop.rb).
+`tests/_examples/control_flow/flip_flop.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/flip_flop.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A range written where a condition goes is not a range. It turns on when its

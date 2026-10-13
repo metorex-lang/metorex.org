@@ -4,7 +4,7 @@ slug: coverage-conditional-lines-subject
 description: "The metorex example program coverage/conditional_lines_subject.rb and its output."
 ---
 
-`tests/_examples/coverage/conditional_lines_subject.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/coverage/conditional_lines_subject.rb).
+`tests/_examples/coverage/conditional_lines_subject.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/coverage/conditional_lines_subject.rb){target=_blank rel=noopener}.
 
 ```metorex
 def grade(score)

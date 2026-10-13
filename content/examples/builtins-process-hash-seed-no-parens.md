@@ -4,7 +4,7 @@ slug: builtins-process-hash-seed-no-parens
 description: "The metorex example program builtins/process_hash_seed_no_parens.rb and its output."
 ---
 
-`tests/_examples/builtins/process_hash_seed_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/process_hash_seed_no_parens.rb).
+`tests/_examples/builtins/process_hash_seed_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/process_hash_seed_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A value's hash is the same every time this process asks, and a different

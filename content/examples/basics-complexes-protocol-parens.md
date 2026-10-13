@@ -4,7 +4,7 @@ slug: basics-complexes-protocol-parens
 description: "The metorex example program basics/complexes/protocol_parens.rb and its output."
 ---
 
-`tests/_examples/basics/complexes/protocol_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/complexes/protocol_parens.rb).
+`tests/_examples/basics/complexes/protocol_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/complexes/protocol_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `Complex::I` is the imaginary unit every other Complex is measured against.

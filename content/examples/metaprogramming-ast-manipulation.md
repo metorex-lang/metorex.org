@@ -4,7 +4,7 @@ slug: metaprogramming-ast-manipulation
 description: "The metorex example program metaprogramming/ast/manipulation.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/ast/manipulation.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/ast/manipulation.rb).
+`tests/_examples/metaprogramming/ast/manipulation.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/ast/manipulation.rb){target=_blank rel=noopener}.
 
 ```metorex
 # AST Manipulation

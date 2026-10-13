@@ -4,7 +4,7 @@ slug: oop-autoload-shadows-a-top-level-constant
 description: "The metorex example program oop/autoload_shadows_a_top_level_constant.rb and its output."
 ---
 
-`tests/_examples/oop/autoload_shadows_a_top_level_constant.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/autoload_shadows_a_top_level_constant.rb).
+`tests/_examples/oop/autoload_shadows_a_top_level_constant.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/autoload_shadows_a_top_level_constant.rb){target=_blank rel=noopener}.
 
 ```metorex
 $LOAD_PATH.unshift(File.join(__dir__, "autoload_fixture"))

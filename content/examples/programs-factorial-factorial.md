@@ -4,7 +4,7 @@ slug: programs-factorial-factorial
 description: "The metorex example program programs/factorial/factorial.rb and its output."
 ---
 
-`tests/_examples/programs/factorial/factorial.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/programs/factorial/factorial.rb).
+`tests/_examples/programs/factorial/factorial.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/programs/factorial/factorial.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Factorial: iterative and recursive implementations

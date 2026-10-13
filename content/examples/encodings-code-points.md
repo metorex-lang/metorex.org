@@ -4,7 +4,7 @@ slug: encodings-code-points
 description: "The metorex example program encodings/code_points.rb and its output."
 ---
 
-`tests/_examples/encodings/code_points.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/code_points.rb).
+`tests/_examples/encodings/code_points.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/code_points.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `chr` names a character by its code. Written with no encoding, a code in the

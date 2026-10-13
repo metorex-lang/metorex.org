@@ -4,7 +4,7 @@ slug: basics-not-match-operator
 description: "The metorex example program basics/not_match_operator.rb and its output."
 ---
 
-`tests/_examples/basics/not_match_operator.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/not_match_operator.rb).
+`tests/_examples/basics/not_match_operator.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/not_match_operator.rb){target=_blank rel=noopener}.
 
 ```metorex
 puts ("hello" !~ /ell/).inspect

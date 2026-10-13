@@ -4,7 +4,7 @@ slug: oop-basic-syntax
 description: "The metorex example program oop/basic_syntax.rb and its output."
 ---
 
-`tests/_examples/oop/basic_syntax.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/basic_syntax.rb).
+`tests/_examples/oop/basic_syntax.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/basic_syntax.rb){target=_blank rel=noopener}.
 
 ```metorex
 def setup_runtime

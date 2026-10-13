@@ -4,7 +4,7 @@ slug: functions-chained-defaults-parens
 description: "The metorex example program functions/chained_defaults_parens.rb and its output."
 ---
 
-`tests/_examples/functions/chained_defaults_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/chained_defaults_parens.rb).
+`tests/_examples/functions/chained_defaults_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/chained_defaults_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # One default may set several parameters at once, and a later parameter reads

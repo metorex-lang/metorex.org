@@ -4,7 +4,7 @@ slug: rex-formatters-profile-ranking-spec-ranking-spec
 description: "The metorex example program rex/formatters/profile_ranking/spec/ranking_spec.rb and its output."
 ---
 
-`tests/_examples/rex/formatters/profile_ranking/spec/ranking_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/formatters/profile_ranking/spec/ranking_spec.rb).
+`tests/_examples/rex/formatters/profile_ranking/spec/ranking_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/formatters/profile_ranking/spec/ranking_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Each read of RSpec's clock moves it on by the time the running example

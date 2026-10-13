@@ -4,7 +4,7 @@ slug: algorithms-filter-even-numbers
 description: "The metorex example program algorithms/filter_even_numbers.rb and its output."
 ---
 
-`tests/_examples/algorithms/filter_even_numbers.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/algorithms/filter_even_numbers.rb).
+`tests/_examples/algorithms/filter_even_numbers.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/algorithms/filter_even_numbers.rb){target=_blank rel=noopener}.
 
 ```metorex
 numbers = [1, 2, 3, 4, 5, 6]

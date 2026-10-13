@@ -4,7 +4,7 @@ slug: globals-output-stream-names
 description: "The metorex example program globals/output_stream_names.rb and its output."
 ---
 
-`tests/_examples/globals/output_stream_names.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/globals/output_stream_names.rb).
+`tests/_examples/globals/output_stream_names.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/globals/output_stream_names.rb){target=_blank rel=noopener}.
 
 ```metorex
 require("stringio")

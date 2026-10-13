@@ -4,7 +4,7 @@ slug: builtins-defined-keyword
 description: "The metorex example program builtins/defined_keyword.rb and its output."
 ---
 
-`tests/_examples/builtins/defined_keyword.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/defined_keyword.rb).
+`tests/_examples/builtins/defined_keyword.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/defined_keyword.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Local variable

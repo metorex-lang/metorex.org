@@ -4,7 +4,7 @@ slug: functions-keywords-from-a-hash-no-parens
 description: "The metorex example program functions/keywords_from_a_hash_no_parens.rb and its output."
 ---
 
-`tests/_examples/functions/keywords_from_a_hash_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/keywords_from_a_hash_no_parens.rb).
+`tests/_examples/functions/keywords_from_a_hash_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/keywords_from_a_hash_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A call may spread a hash into the keywords and name more of them beside it.

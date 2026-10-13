@@ -4,7 +4,7 @@ slug: oop-refinement-names-target
 description: "The metorex example program oop/refinement_names/target.rb and its output."
 ---
 
-`tests/_examples/oop/refinement_names/target.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/refinement_names/target.rb).
+`tests/_examples/oop/refinement_names/target.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/refinement_names/target.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A refinement is a module of its own kind, and it names the class it refines.

@@ -4,7 +4,7 @@ slug: hash-methods-keys-and-merging
 description: "The metorex example program hash_methods/keys_and_merging.rb and its output."
 ---
 
-`tests/_examples/hash_methods/keys_and_merging.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/hash_methods/keys_and_merging.rb).
+`tests/_examples/hash_methods/keys_and_merging.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/hash_methods/keys_and_merging.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Key

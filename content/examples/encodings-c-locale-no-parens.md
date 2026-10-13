@@ -4,7 +4,7 @@ slug: encodings-c-locale-no-parens
 description: "The metorex example program encodings/c_locale_no_parens.rb and its output."
 ---
 
-`tests/_examples/encodings/c_locale_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/c_locale_no_parens.rb).
+`tests/_examples/encodings/c_locale_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/c_locale_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # encoding: utf-8

@@ -4,7 +4,7 @@ slug: strings-frozen-adjacent-literals-no-parens
 description: "The metorex example program strings/frozen_adjacent_literals_no_parens.rb and its output."
 ---
 
-`tests/_examples/strings/frozen_adjacent_literals_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/frozen_adjacent_literals_no_parens.rb).
+`tests/_examples/strings/frozen_adjacent_literals_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/frozen_adjacent_literals_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # frozen_string_literal: true

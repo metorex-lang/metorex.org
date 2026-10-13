@@ -4,7 +4,7 @@ slug: control-flow-ternary
 description: "The metorex example program control_flow/ternary.rb and its output."
 ---
 
-`tests/_examples/control_flow/ternary.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/ternary.rb).
+`tests/_examples/control_flow/ternary.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/ternary.rb){target=_blank rel=noopener}.
 
 ```metorex
 x = true ? "yes" : "no"

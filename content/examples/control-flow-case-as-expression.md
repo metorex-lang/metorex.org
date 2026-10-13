@@ -4,7 +4,7 @@ slug: control-flow-case-as-expression
 description: "The metorex example program control_flow/case_as_expression.rb and its output."
 ---
 
-`tests/_examples/control_flow/case_as_expression.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/case_as_expression.rb).
+`tests/_examples/control_flow/case_as_expression.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/case_as_expression.rb){target=_blank rel=noopener}.
 
 ```metorex
 x = case 2

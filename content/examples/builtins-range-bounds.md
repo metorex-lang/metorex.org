@@ -4,7 +4,7 @@ slug: builtins-range-bounds
 description: "The metorex example program builtins/range_bounds.rb and its output."
 ---
 
-`tests/_examples/builtins/range_bounds.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/range_bounds.rb).
+`tests/_examples/builtins/range_bounds.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/range_bounds.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A range answers by comparing against its ends, and a range of names is read

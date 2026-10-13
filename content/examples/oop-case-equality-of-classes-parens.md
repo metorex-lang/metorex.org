@@ -4,7 +4,7 @@ slug: oop-case-equality-of-classes-parens
 description: "The metorex example program oop/case_equality_of_classes_parens.rb and its output."
 ---
 
-`tests/_examples/oop/case_equality_of_classes_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/case_equality_of_classes_parens.rb).
+`tests/_examples/oop/case_equality_of_classes_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/case_equality_of_classes_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 module M; end

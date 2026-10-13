@@ -4,7 +4,7 @@ slug: object-space-gc-answers-object-methods-no-parens
 description: "The metorex example program object_space/gc_answers_object_methods_no_parens.rb and its output."
 ---
 
-`tests/_examples/object_space/gc_answers_object_methods_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/object_space/gc_answers_object_methods_no_parens.rb).
+`tests/_examples/object_space/gc_answers_object_methods_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/object_space/gc_answers_object_methods_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A method the program defines on Object is one GC and ObjectSpace answer

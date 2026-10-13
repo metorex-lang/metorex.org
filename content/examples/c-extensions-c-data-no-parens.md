@@ -4,7 +4,7 @@ slug: c-extensions-c-data-no-parens
 description: "The metorex example program c_extensions/c_data_no_parens.rb and its output."
 ---
 
-`tests/_examples/c_extensions/c_data_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/c_extensions/c_data_no_parens.rb).
+`tests/_examples/c_extensions/c_data_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/c_extensions/c_data_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A C extension wrapping C pointers in objects: typed by an rb_data_type_t

@@ -4,7 +4,7 @@ slug: rex-dsl-groups-spec-groups-spec
 description: "The metorex example program rex/dsl/groups/spec/groups_spec.rb and its output."
 ---
 
-`tests/_examples/rex/dsl/groups/spec/groups_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/dsl/groups/spec/groups_spec.rb).
+`tests/_examples/rex/dsl/groups/spec/groups_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/dsl/groups/spec/groups_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 module Billing

@@ -4,7 +4,7 @@ slug: errors-key-error-named-arguments-parens
 description: "The metorex example program errors/key_error/named_arguments_parens.rb and its output."
 ---
 
-`tests/_examples/errors/key_error/named_arguments_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/key_error/named_arguments_parens.rb).
+`tests/_examples/errors/key_error/named_arguments_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/key_error/named_arguments_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 error = KeyError.new(receiver: "lookup source", key: :b)

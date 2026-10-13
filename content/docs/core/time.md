@@ -80,4 +80,4 @@ ruby/spec describes 68 methods in `core/time`, and Metorex implements 68 of them
 - **`Time#year`**: implemented, parameters `[]`. Returns the integer year for `self`: [An example calling it](/examples/dates-calendar-days).
 - **`Time#zone`**: implemented, parameters `[]`. Returns the string name of the time zone for `self`: [An example calling it](/examples/dates-clock-and-calendar).
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

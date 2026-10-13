@@ -4,7 +4,7 @@ slug: errors-custom-exceptions
 description: "The metorex example program errors/custom_exceptions.rb and its output."
 ---
 
-`tests/_examples/errors/custom_exceptions.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/custom_exceptions.rb).
+`tests/_examples/errors/custom_exceptions.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/custom_exceptions.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Custom Exception Classes Example

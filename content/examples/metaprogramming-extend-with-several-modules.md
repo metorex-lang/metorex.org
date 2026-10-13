@@ -4,7 +4,7 @@ slug: metaprogramming-extend-with-several-modules
 description: "The metorex example program metaprogramming/extend_with_several_modules.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/extend_with_several_modules.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/extend_with_several_modules.rb).
+`tests/_examples/metaprogramming/extend_with_several_modules.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/extend_with_several_modules.rb){target=_blank rel=noopener}.
 
 ```metorex
 # extend takes several modules and puts the first one named nearest the

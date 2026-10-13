@@ -4,7 +4,7 @@ slug: c-extensions-c-hashes
 description: "The metorex example program c_extensions/c_hashes.rb and its output."
 ---
 
-`tests/_examples/c_extensions/c_hashes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/c_extensions/c_hashes.rb).
+`tests/_examples/c_extensions/c_hashes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/c_extensions/c_hashes.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A C extension working with hashes: making, converting, reading with and

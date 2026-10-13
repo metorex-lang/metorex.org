@@ -4,7 +4,7 @@ slug: strings-short-interpolation-and-escapes-parens
 description: "The metorex example program strings/short_interpolation_and_escapes_parens.rb and its output."
 ---
 
-`tests/_examples/strings/short_interpolation_and_escapes_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/short_interpolation_and_escapes_parens.rb).
+`tests/_examples/strings/short_interpolation_and_escapes_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/short_interpolation_and_escapes_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `#@name`, `#@@name`, and `#$name` interpolate without braces, and a `#`

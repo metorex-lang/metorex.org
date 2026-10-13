@@ -4,7 +4,7 @@ slug: introspection-instance-variable-set-names
 description: "The metorex example program introspection/instance_variable_set_names.rb and its output."
 ---
 
-`tests/_examples/introspection/instance_variable_set_names.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/instance_variable_set_names.rb).
+`tests/_examples/introspection/instance_variable_set_names.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/instance_variable_set_names.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Greeter

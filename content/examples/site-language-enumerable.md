@@ -4,7 +4,7 @@ slug: site-language-enumerable
 description: "The metorex example program site/language_enumerable.rb and its output."
 ---
 
-`tests/_examples/site/language_enumerable.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/site/language_enumerable.rb).
+`tests/_examples/site/language_enumerable.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/site/language_enumerable.rb){target=_blank rel=noopener}.
 
 ```metorex
 orders = [

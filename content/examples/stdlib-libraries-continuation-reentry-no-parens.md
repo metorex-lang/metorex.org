@@ -4,7 +4,7 @@ slug: stdlib-libraries-continuation-reentry-no-parens
 description: "The metorex example program stdlib_libraries/continuation_reentry_no_parens.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/continuation_reentry_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/continuation_reentry_no_parens.rb).
+`tests/_examples/stdlib_libraries/continuation_reentry_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/continuation_reentry_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A continuation called after its callcc block has returned goes back to

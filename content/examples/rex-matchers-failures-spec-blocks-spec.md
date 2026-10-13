@@ -4,7 +4,7 @@ slug: rex-matchers-failures-spec-blocks-spec
 description: "The metorex example program rex/matchers/failures/spec/blocks_spec.rb and its output."
 ---
 
-`tests/_examples/rex/matchers/failures/spec/blocks_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/matchers/failures/spec/blocks_spec.rb).
+`tests/_examples/rex/matchers/failures/spec/blocks_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/matchers/failures/spec/blocks_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 describe "block matchers" do

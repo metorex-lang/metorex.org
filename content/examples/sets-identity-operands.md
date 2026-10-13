@@ -4,7 +4,7 @@ slug: sets-identity-operands
 description: "The metorex example program sets/identity_operands.rb and its output."
 ---
 
-`tests/_examples/sets/identity_operands.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/sets/identity_operands.rb).
+`tests/_examples/sets/identity_operands.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/sets/identity_operands.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A Set comparing by identity keeps that through the operators that build a

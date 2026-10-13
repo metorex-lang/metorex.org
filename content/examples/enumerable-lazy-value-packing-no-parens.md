@@ -4,7 +4,7 @@ slug: enumerable-lazy-value-packing-no-parens
 description: "The metorex example program enumerable/lazy_value_packing_no_parens.rb and its output."
 ---
 
-`tests/_examples/enumerable/lazy_value_packing_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/enumerable/lazy_value_packing_no_parens.rb).
+`tests/_examples/enumerable/lazy_value_packing_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/enumerable/lazy_value_packing_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A lazy step hands on what the source yields as one value: several values

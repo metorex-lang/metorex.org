@@ -4,7 +4,7 @@ slug: scanning-byte-positions-cursor-parens
 description: "The metorex example program scanning/byte_positions/cursor_parens.rb and its output."
 ---
 
-`tests/_examples/scanning/byte_positions/cursor_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/scanning/byte_positions/cursor_parens.rb).
+`tests/_examples/scanning/byte_positions/cursor_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/scanning/byte_positions/cursor_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 require "strscan"

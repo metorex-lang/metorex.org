@@ -4,7 +4,7 @@ slug: metaprogramming-advanced-method-delegation
 description: "The metorex example program metaprogramming/advanced/method/delegation.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/advanced/method/delegation.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/advanced/method/delegation.rb).
+`tests/_examples/metaprogramming/advanced/method/delegation.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/advanced/method/delegation.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Method Delegation: Forward method calls to another object

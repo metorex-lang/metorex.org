@@ -4,7 +4,7 @@ slug: c-extensions-c-objects
 description: "The metorex example program c_extensions/c_objects.rb and its output."
 ---
 
-`tests/_examples/c_extensions/c_objects.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/c_extensions/c_objects.rb).
+`tests/_examples/c_extensions/c_objects.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/c_extensions/c_objects.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A C extension allocating, copying, inspecting and converting objects,

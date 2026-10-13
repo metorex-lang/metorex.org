@@ -4,7 +4,7 @@ slug: errors-full-message-rendering
 description: "The metorex example program errors/full_message/rendering.rb and its output."
 ---
 
-`tests/_examples/errors/full_message/rendering.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/full_message/rendering.rb).
+`tests/_examples/errors/full_message/rendering.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/full_message/rendering.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A backtrace entry reads `file:line:in 'label'`. `full_message` renders the

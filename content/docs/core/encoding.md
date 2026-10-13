@@ -64,4 +64,4 @@ ruby/spec describes 46 methods in `core/encoding`, and Metorex implements 45 of 
 - **`Encoding::UndefinedConversionError#source_encoding`**: implemented, parameters `[]`. Returns the source encoding as an encoding object. [An example calling it](/examples/builtins-encoding-converter-paths).
 - **`Encoding::UndefinedConversionError#source_encoding_name`**: implemented, parameters `[]`. Returns the source encoding name as a string. [An example calling it](/examples/builtins-encoding-converter-converting).
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

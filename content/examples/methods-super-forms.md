@@ -4,7 +4,7 @@ slug: methods-super-forms
 description: "The metorex example program methods/super_forms.rb and its output."
 ---
 
-`tests/_examples/methods/super_forms.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/super_forms.rb).
+`tests/_examples/methods/super_forms.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/super_forms.rb){target=_blank rel=noopener}.
 
 ```metorex
 # What `super` reaches and what it hands on: a bare `super` passes the

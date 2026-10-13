@@ -4,7 +4,7 @@ slug: array-methods-splat-coercion
 description: "The metorex example program array_methods/splat_coercion.rb and its output."
 ---
 
-`tests/_examples/array_methods/splat_coercion.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/array_methods/splat_coercion.rb).
+`tests/_examples/array_methods/splat_coercion.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/array_methods/splat_coercion.rb){target=_blank rel=noopener}.
 
 ```metorex
 spreadable = Object.new

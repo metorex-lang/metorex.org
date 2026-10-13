@@ -4,7 +4,7 @@ slug: filesystem-asking-about-a-file
 description: "The metorex example program filesystem/asking_about_a_file.rb and its output."
 ---
 
-`tests/_examples/filesystem/asking_about_a_file.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/asking_about_a_file.rb).
+`tests/_examples/filesystem/asking_about_a_file.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/asking_about_a_file.rb){target=_blank rel=noopener}.
 
 ```metorex
 # The same questions asked through FileTest rather than File, and the ways a

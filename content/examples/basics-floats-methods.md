@@ -4,7 +4,7 @@ slug: basics-floats-methods
 description: "The metorex example program basics/floats/methods.rb and its output."
 ---
 
-`tests/_examples/basics/floats/methods.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/floats/methods.rb).
+`tests/_examples/basics/floats/methods.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/floats/methods.rb){target=_blank rel=noopener}.
 
 ```metorex
 # The sign predicates, and the magnitude `abs` also answers.

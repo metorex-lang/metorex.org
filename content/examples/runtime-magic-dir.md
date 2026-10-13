@@ -4,7 +4,7 @@ slug: runtime-magic-dir
 description: "The metorex example program runtime/magic_dir.rb and its output."
 ---
 
-`tests/_examples/runtime/magic_dir.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/magic_dir.rb).
+`tests/_examples/runtime/magic_dir.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/magic_dir.rb){target=_blank rel=noopener}.
 
 ```metorex
 puts __dir__.end_with? "tests/_examples/runtime"

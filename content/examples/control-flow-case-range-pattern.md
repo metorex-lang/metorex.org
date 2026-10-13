@@ -4,7 +4,7 @@ slug: control-flow-case-range-pattern
 description: "The metorex example program control_flow/case_range_pattern.rb and its output."
 ---
 
-`tests/_examples/control_flow/case_range_pattern.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/case_range_pattern.rb).
+`tests/_examples/control_flow/case_range_pattern.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/case_range_pattern.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Range patterns in case/when

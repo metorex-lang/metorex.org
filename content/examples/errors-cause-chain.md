@@ -4,7 +4,7 @@ slug: errors-cause-chain
 description: "The metorex example program errors/cause/chain.rb and its output."
 ---
 
-`tests/_examples/errors/cause/chain.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/cause/chain.rb).
+`tests/_examples/errors/cause/chain.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/cause/chain.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `Exception#cause` is the exception a rescue clause was handling when this

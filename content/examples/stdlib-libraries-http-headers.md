@@ -4,7 +4,7 @@ slug: stdlib-libraries-http-headers
 description: "The metorex example program stdlib_libraries/http_headers.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/http_headers.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/http_headers.rb).
+`tests/_examples/stdlib_libraries/http_headers.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/http_headers.rb){target=_blank rel=noopener}.
 
 ```metorex
 require 'net/http'

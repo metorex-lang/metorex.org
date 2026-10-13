@@ -4,7 +4,7 @@ slug: rex-mocks-verified-partials-spec-core-class-methods-spec
 description: "The metorex example program rex/mocks/verified_partials/spec/core_class_methods_spec.rb and its output."
 ---
 
-`tests/_examples/rex/mocks/verified_partials/spec/core_class_methods_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/mocks/verified_partials/spec/core_class_methods_spec.rb).
+`tests/_examples/rex/mocks/verified_partials/spec/core_class_methods_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/mocks/verified_partials/spec/core_class_methods_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 RSpec.describe "partial doubles of core class methods" do

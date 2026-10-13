@@ -15,4 +15,4 @@ ruby/spec describes 8 methods in `core/refinement`, and Metorex implements 7 of 
 - **`Refinement#refined_class`**: not implemented. [An example calling it](/examples/oop-refinement-names-target).
 - **`Refinement#target`**: implemented, parameters `[]`. Return the class or module refined by the receiver. [An example calling it](/examples/oop-refinement-names-target).
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

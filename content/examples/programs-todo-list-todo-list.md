@@ -4,7 +4,7 @@ slug: programs-todo-list-todo-list
 description: "The metorex example program programs/todo_list/todo_list.rb and its output."
 ---
 
-`tests/_examples/programs/todo_list/todo_list.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/programs/todo_list/todo_list.rb).
+`tests/_examples/programs/todo_list/todo_list.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/programs/todo_list/todo_list.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Todo List: A simple task management application

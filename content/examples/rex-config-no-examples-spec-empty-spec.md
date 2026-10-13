@@ -4,7 +4,7 @@ slug: rex-config-no-examples-spec-empty-spec
 description: "The metorex example program rex/config/no_examples/spec/empty_spec.rb and its output."
 ---
 
-`tests/_examples/rex/config/no_examples/spec/empty_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/config/no_examples/spec/empty_spec.rb).
+`tests/_examples/rex/config/no_examples/spec/empty_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/config/no_examples/spec/empty_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 RSpec.configure { |config| config.fail_if_no_examples = true }

@@ -4,7 +4,7 @@ slug: stdlib-sets-sets-parens
 description: "The metorex example program stdlib/sets/sets_parens.rb and its output."
 ---
 
-`tests/_examples/stdlib/sets/sets_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/sets/sets_parens.rb).
+`tests/_examples/stdlib/sets/sets_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/sets/sets_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Set methods demonstration (with parentheses)

@@ -4,7 +4,7 @@ slug: threads-raising-into-threads
 description: "The metorex example program threads/raising_into_threads.rb and its output."
 ---
 
-`tests/_examples/threads/raising_into_threads.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/raising_into_threads.rb).
+`tests/_examples/threads/raising_into_threads.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/raising_into_threads.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `Thread#raise` builds the exception the way `raise` does, in the thread that

@@ -46,4 +46,4 @@ ruby/spec describes 39 methods in `core/dir`, and Metorex implements 36 of them.
 - **`Dir#to_path`**: implemented, parameters `[]`. Returns the `dirpath` string that was used to create `self` (or `nil` if created by method Dir.for_fd): [An example calling it](/examples/filesystem-walking-a-directory).
 - **`Dir.unlink`**: implemented, parameters `[[:req, :args]]`. Removes the directory at `dirpath` from the underlying file system: [An example calling it](/examples/stdlib-dir-reading-a-directory).
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

@@ -4,7 +4,7 @@ slug: programs-calculator-calculator
 description: "The metorex example program programs/calculator/calculator.rb and its output."
 ---
 
-`tests/_examples/programs/calculator/calculator.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/programs/calculator/calculator.rb).
+`tests/_examples/programs/calculator/calculator.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/programs/calculator/calculator.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Calculator: A class-based calculator with basic arithmetic operations

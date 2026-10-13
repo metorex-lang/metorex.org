@@ -4,7 +4,7 @@ slug: builtins-defined-forms
 description: "The metorex example program builtins/defined_forms.rb and its output."
 ---
 
-`tests/_examples/builtins/defined_forms.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/defined_forms.rb).
+`tests/_examples/builtins/defined_forms.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/defined_forms.rb){target=_blank rel=noopener}.
 
 ```metorex
 # What `defined?` reports for each form, as a frozen string. A method call

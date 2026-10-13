@@ -4,7 +4,7 @@ slug: advanced-threads-that-stop-together
 description: "The metorex example program advanced/threads_that_stop_together.rb and its output."
 ---
 
-`tests/_examples/advanced/threads_that_stop_together.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/threads_that_stop_together.rb).
+`tests/_examples/advanced/threads_that_stop_together.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/threads_that_stop_together.rb){target=_blank rel=noopener}.
 
 ```metorex
 stopped = Thread.new { Thread.stop }

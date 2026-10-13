@@ -4,7 +4,7 @@ slug: rex-config-accessors-spec-accessors-spec
 description: "The metorex example program rex/config/accessors/spec/accessors_spec.rb and its output."
 ---
 
-`tests/_examples/rex/config/accessors/spec/accessors_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/config/accessors/spec/accessors_spec.rb).
+`tests/_examples/rex/config/accessors/spec/accessors_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/config/accessors/spec/accessors_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 SETTINGS = ["backtrace_exclusion_patterns", "backtrace_inclusion_patterns", "bisect_runner", "color", "color_mode", "default_color", "default_formatter", "default_path", "deprecation_stream", "detail_color", "disable_monkey_patching", "drb", "drb_port", "dry_run", "error_exit_code", "error_stream", "example_status_persistence_file_path", "exclude_pattern", "exclusion_filter", "fail_fast", "fail_if_no_examples", "failure_color", "failure_exit_code", "filter", "fixed_color", "full_cause_backtrace", "full_description", "inclusion_filter", "libs", "max_displayed_failure_line_count", "mock_framework", "output_stream", "pattern", "pending_color", "pending_failure_output", "profile_examples", "project_source_dirs", "requires", "run_all_when_everything_filtered", "seed", "shared_context_metadata_behavior", "silence_filter_announcements", "success_color", "threadsafe", "tty"]

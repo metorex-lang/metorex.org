@@ -4,7 +4,7 @@ slug: methods-optional-before-required-binding
 description: "The metorex example program methods/optional_before_required/binding.rb and its output."
 ---
 
-`tests/_examples/methods/optional_before_required/binding.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/optional_before_required/binding.rb).
+`tests/_examples/methods/optional_before_required/binding.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/optional_before_required/binding.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A required parameter after an optional one binds from the end of the

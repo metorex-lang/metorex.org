@@ -1,7 +1,7 @@
 ---
 title: C extensions
 slug: c-extensions
-description: Metorex loads C extensions written for MRI through the rb_* C API it exports, and carries nkf's extension compiled in.
+description: Metorex loads C extensions written for MRI through the rb_* C API it exports, and has nkf's extension compiled in.
 layout: page
 ---
 
@@ -28,7 +28,7 @@ p NKF.nkf("-w --hiragana", "カタカナ")
 "かたかな"
 ```
 
-This sample is `tests/_examples/site/c_extensions_nkf.rb` in the [metorex repository](https://github.com/metorex-lang/metorex), where the test suite checks its output.
+This sample is `tests/_examples/site/c_extensions_nkf.rb` in the [metorex repository](https://github.com/metorex-lang/metorex){target=_blank rel=noopener}, where the test suite checks its output.
 
 ## The functions metorex exports
 

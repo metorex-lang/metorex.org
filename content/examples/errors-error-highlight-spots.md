@@ -4,7 +4,7 @@ slug: errors-error-highlight-spots
 description: "The metorex example program errors/error_highlight_spots.rb and its output."
 ---
 
-`tests/_examples/errors/error_highlight_spots.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/error_highlight_spots.rb).
+`tests/_examples/errors/error_highlight_spots.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/error_highlight_spots.rb){target=_blank rel=noopener}.
 
 ```metorex
 def report

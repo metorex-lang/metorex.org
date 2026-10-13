@@ -4,7 +4,7 @@ slug: metaprogramming-top-level-define-method
 description: "The metorex example program metaprogramming/top_level_define_method.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/top_level_define_method.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/top_level_define_method.rb).
+`tests/_examples/metaprogramming/top_level_define_method.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/top_level_define_method.rb){target=_blank rel=noopener}.
 
 ```metorex
 eval("define_method(:boom) { :bam }", TOPLEVEL_BINDING)

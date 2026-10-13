@@ -4,7 +4,7 @@ slug: errors-name-error-names
 description: "The metorex example program errors/name_error/names.rb and its output."
 ---
 
-`tests/_examples/errors/name_error/names.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/name_error/names.rb).
+`tests/_examples/errors/name_error/names.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/name_error/names.rb){target=_blank rel=noopener}.
 
 ```metorex
 def report

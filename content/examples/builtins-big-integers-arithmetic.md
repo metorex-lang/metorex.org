@@ -4,7 +4,7 @@ slug: builtins-big-integers-arithmetic
 description: "The metorex example program builtins/big_integers/arithmetic.rb and its output."
 ---
 
-`tests/_examples/builtins/big_integers/arithmetic.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/big_integers/arithmetic.rb).
+`tests/_examples/builtins/big_integers/arithmetic.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/big_integers/arithmetic.rb){target=_blank rel=noopener}.
 
 ```metorex
 # An Integer grows past the machine word rather than saturating or turning

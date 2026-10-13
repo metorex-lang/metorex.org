@@ -4,7 +4,7 @@ slug: methods-module-respond-to-missing-is-for-instances
 description: "The metorex example program methods/module_respond_to_missing_is_for_instances.rb and its output."
 ---
 
-`tests/_examples/methods/module_respond_to_missing_is_for_instances.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/module_respond_to_missing_is_for_instances.rb).
+`tests/_examples/methods/module_respond_to_missing_is_for_instances.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/module_respond_to_missing_is_for_instances.rb){target=_blank rel=noopener}.
 
 ```metorex
 module Finder

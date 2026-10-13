@@ -4,7 +4,7 @@ slug: oop-unbound-method
 description: "The metorex example program oop/unbound_method.rb and its output."
 ---
 
-`tests/_examples/oop/unbound_method.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/unbound_method.rb).
+`tests/_examples/oop/unbound_method.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/unbound_method.rb){target=_blank rel=noopener}.
 
 ```metorex
 module Greeter

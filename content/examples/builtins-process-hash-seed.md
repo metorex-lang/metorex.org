@@ -4,7 +4,7 @@ slug: builtins-process-hash-seed
 description: "The metorex example program builtins/process_hash_seed.rb and its output."
 ---
 
-`tests/_examples/builtins/process_hash_seed.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/process_hash_seed.rb).
+`tests/_examples/builtins/process_hash_seed.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/process_hash_seed.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A value's hash is the same every time this process asks, and a different

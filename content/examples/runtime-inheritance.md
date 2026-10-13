@@ -4,7 +4,7 @@ slug: runtime-inheritance
 description: "The metorex example program runtime/inheritance.rb and its output."
 ---
 
-`tests/_examples/runtime/inheritance.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/inheritance.rb).
+`tests/_examples/runtime/inheritance.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/inheritance.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Inheritance Example

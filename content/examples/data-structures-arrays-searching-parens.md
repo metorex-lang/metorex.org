@@ -4,7 +4,7 @@ slug: data-structures-arrays-searching-parens
 description: "The metorex example program data_structures/arrays/searching_parens.rb and its output."
 ---
 
-`tests/_examples/data_structures/arrays/searching_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/data_structures/arrays/searching_parens.rb).
+`tests/_examples/data_structures/arrays/searching_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/data_structures/arrays/searching_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # The search methods ask each element whether it is `==` to what they were

@@ -4,7 +4,7 @@ slug: enumerable-products-and-ends-no-parens
 description: "The metorex example program enumerable/products_and_ends_no_parens.rb and its output."
 ---
 
-`tests/_examples/enumerable/products_and_ends_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/enumerable/products_and_ends_no_parens.rb).
+`tests/_examples/enumerable/products_and_ends_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/enumerable/products_and_ends_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Every combination of several walks, the two ends of a range at once, and a

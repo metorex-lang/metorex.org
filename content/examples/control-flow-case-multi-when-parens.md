@@ -4,7 +4,7 @@ slug: control-flow-case-multi-when-parens
 description: "The metorex example program control_flow/case_multi_when_parens.rb and its output."
 ---
 
-`tests/_examples/control_flow/case_multi_when_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/case_multi_when_parens.rb).
+`tests/_examples/control_flow/case_multi_when_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/case_multi_when_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 def classify(n)

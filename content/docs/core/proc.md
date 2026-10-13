@@ -33,4 +33,4 @@ ruby/spec describes 26 methods in `core/proc`, and Metorex implements 23 of them
 - **`Proc#to_s`**: implemented, parameters `[]`. Returns the unique identifier for this proc, along with an indication of where the proc was defined. [An example calling it](/examples/addresses-internet-addresses).
 - **`Proc#yield`**: implemented, parameters `[[:rest]]`. Invokes the block, setting the block's parameters to the arguments using something close to method calling semantics. [An example calling it](/examples/builtins-loop-enumerator).
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

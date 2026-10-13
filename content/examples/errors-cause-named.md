@@ -4,7 +4,7 @@ slug: errors-cause-named
 description: "The metorex example program errors/cause/named.rb and its output."
 ---
 
-`tests/_examples/errors/cause/named.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/cause/named.rb).
+`tests/_examples/errors/cause/named.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/cause/named.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `raise` takes a `cause:` naming what the new error follows. It settles the

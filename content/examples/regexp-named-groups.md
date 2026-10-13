@@ -4,7 +4,7 @@ slug: regexp-named-groups
 description: "The metorex example program regexp/named_groups.rb and its output."
 ---
 
-`tests/_examples/regexp/named_groups.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/regexp/named_groups.rb).
+`tests/_examples/regexp/named_groups.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/regexp/named_groups.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A pattern may write the same group name more than once, and the match

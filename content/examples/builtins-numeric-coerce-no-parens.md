@@ -4,7 +4,7 @@ slug: builtins-numeric-coerce-no-parens
 description: "The metorex example program builtins/numeric_coerce_no_parens.rb and its output."
 ---
 
-`tests/_examples/builtins/numeric_coerce_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/numeric_coerce_no_parens.rb).
+`tests/_examples/builtins/numeric_coerce_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/numeric_coerce_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Numeric#coerce pairs two values of the same class as they are, and turns

@@ -4,7 +4,7 @@ slug: scanning-reading-a-string-no-parens
 description: "The metorex example program scanning/reading_a_string_no_parens.rb and its output."
 ---
 
-`tests/_examples/scanning/reading_a_string_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/scanning/reading_a_string_no_parens.rb).
+`tests/_examples/scanning/reading_a_string_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/scanning/reading_a_string_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A StringScanner walks a string with a cursor, matching patterns at the

@@ -4,7 +4,7 @@ slug: ruby-vm-syntax-tree-locations
 description: "The metorex example program ruby_vm/syntax_tree_locations.rb and its output."
 ---
 
-`tests/_examples/ruby_vm/syntax_tree_locations.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/ruby_vm/syntax_tree_locations.rb).
+`tests/_examples/ruby_vm/syntax_tree_locations.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/ruby_vm/syntax_tree_locations.rb){target=_blank rel=noopener}.
 
 ```metorex
 # RubyVM::AbstractSyntaxTree::Node#locations answers where a node is written,

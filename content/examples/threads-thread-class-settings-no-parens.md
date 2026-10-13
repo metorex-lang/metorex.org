@@ -4,7 +4,7 @@ slug: threads-thread-class-settings-no-parens
 description: "The metorex example program threads/thread_class_settings_no_parens.rb and its output."
 ---
 
-`tests/_examples/threads/thread_class_settings_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/thread_class_settings_no_parens.rb).
+`tests/_examples/threads/thread_class_settings_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/thread_class_settings_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `Thread.report_on_exception=` is remembered and read back, a thread shows

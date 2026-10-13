@@ -4,7 +4,7 @@ slug: stdlib-string-format-extended-parens
 description: "The metorex example program stdlib/string/format_extended_parens.rb and its output."
 ---
 
-`tests/_examples/stdlib/string/format_extended_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/string/format_extended_parens.rb).
+`tests/_examples/stdlib/string/format_extended_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/string/format_extended_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Format specifier: %i (alias for %d)

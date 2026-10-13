@@ -4,7 +4,7 @@ slug: introspection-annotations
 description: "The metorex example program introspection/annotations.rb and its output."
 ---
 
-`tests/_examples/introspection/annotations.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/annotations.rb).
+`tests/_examples/introspection/annotations.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/annotations.rb){target=_blank rel=noopener}.
 
 ```metorex
 def add(x, y)  # int, int -> int

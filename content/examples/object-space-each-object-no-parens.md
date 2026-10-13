@@ -4,7 +4,7 @@ slug: object-space-each-object-no-parens
 description: "The metorex example program object_space/each_object_no_parens.rb and its output."
 ---
 
-`tests/_examples/object_space/each_object_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/object_space/each_object_no_parens.rb).
+`tests/_examples/object_space/each_object_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/object_space/each_object_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # ObjectSpace.each_object walks the objects still alive.

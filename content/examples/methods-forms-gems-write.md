@@ -4,7 +4,7 @@ slug: methods-forms-gems-write
 description: "The metorex example program methods/forms_gems_write.rb and its output."
 ---
 
-`tests/_examples/methods/forms_gems_write.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/forms_gems_write.rb).
+`tests/_examples/methods/forms_gems_write.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/forms_gems_write.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Forms installed gems write: an exception's `initialize` reaching its

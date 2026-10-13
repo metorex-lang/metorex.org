@@ -4,7 +4,7 @@ slug: signals-kill-from-thread-no-parens
 description: "The metorex example program signals/kill_from_thread_no_parens.rb and its output."
 ---
 
-`tests/_examples/signals/kill_from_thread_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/signals/kill_from_thread_no_parens.rb).
+`tests/_examples/signals/kill_from_thread_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/signals/kill_from_thread_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A signal a thread sends this process is handled on the main thread.

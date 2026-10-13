@@ -4,7 +4,7 @@ slug: basics-integers-division-parens
 description: "The metorex example program basics/integers/division_parens.rb and its output."
 ---
 
-`tests/_examples/basics/integers/division_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/integers/division_parens.rb).
+`tests/_examples/basics/integers/division_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/integers/division_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Dividing two integers answers an integer, rounded toward negative infinity,

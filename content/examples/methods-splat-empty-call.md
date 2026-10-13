@@ -4,7 +4,7 @@ slug: methods-splat-empty-call
 description: "The metorex example program methods/splat_empty_call.rb and its output."
 ---
 
-`tests/_examples/methods/splat_empty_call.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/splat_empty_call.rb).
+`tests/_examples/methods/splat_empty_call.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/splat_empty_call.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Target

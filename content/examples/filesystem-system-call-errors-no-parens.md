@@ -4,7 +4,7 @@ slug: filesystem-system-call-errors-no-parens
 description: "The metorex example program filesystem/system_call_errors_no_parens.rb and its output."
 ---
 
-`tests/_examples/filesystem/system_call_errors_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/system_call_errors_no_parens.rb).
+`tests/_examples/filesystem/system_call_errors_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/system_call_errors_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A failed system call raises the Errno class its error number names, with

@@ -4,7 +4,7 @@ slug: errors-conversions-refused
 description: "The metorex example program errors/conversions_refused.rb and its output."
 ---
 
-`tests/_examples/errors/conversions_refused.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/conversions_refused.rb).
+`tests/_examples/errors/conversions_refused.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/conversions_refused.rb){target=_blank rel=noopener}.
 
 ```metorex
 # nil, true, false and a String answer to_f and to_r, yet a number is not

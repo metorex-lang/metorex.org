@@ -4,7 +4,7 @@ slug: stdlib-error-paths-test
 description: "The metorex example program stdlib/error_paths_test.rb and its output."
 ---
 
-`tests/_examples/stdlib/error_paths_test.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/error_paths_test.rb).
+`tests/_examples/stdlib/error_paths_test.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/error_paths_test.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Test coverage for stdlib methods

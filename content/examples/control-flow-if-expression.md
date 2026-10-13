@@ -4,7 +4,7 @@ slug: control-flow-if-expression
 description: "The metorex example program control_flow/if_expression.rb and its output."
 ---
 
-`tests/_examples/control_flow/if_expression.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/if_expression.rb).
+`tests/_examples/control_flow/if_expression.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/if_expression.rb){target=_blank rel=noopener}.
 
 ```metorex
 # if/unless as expressions (assign result of if...end)

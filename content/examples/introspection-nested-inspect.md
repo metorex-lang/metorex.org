@@ -4,7 +4,7 @@ slug: introspection-nested-inspect
 description: "The metorex example program introspection/nested_inspect.rb and its output."
 ---
 
-`tests/_examples/introspection/nested_inspect.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/nested_inspect.rb).
+`tests/_examples/introspection/nested_inspect.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/nested_inspect.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Address

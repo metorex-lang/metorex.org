@@ -4,7 +4,7 @@ slug: array-methods-difference-of-structs
 description: "The metorex example program array_methods/difference_of_structs.rb and its output."
 ---
 
-`tests/_examples/array_methods/difference_of_structs.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/array_methods/difference_of_structs.rb).
+`tests/_examples/array_methods/difference_of_structs.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/array_methods/difference_of_structs.rb){target=_blank rel=noopener}.
 
 ```metorex
 Hook = Struct.new(:block, :options)

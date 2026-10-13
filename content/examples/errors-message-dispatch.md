@@ -4,7 +4,7 @@ slug: errors-message-dispatch
 description: "The metorex example program errors/message/dispatch.rb and its output."
 ---
 
-`tests/_examples/errors/message/dispatch.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/message/dispatch.rb).
+`tests/_examples/errors/message/dispatch.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/message/dispatch.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Described < StandardError

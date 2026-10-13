@@ -4,7 +4,7 @@ slug: callables-method-composition-parens
 description: "The metorex example program callables/method_composition_parens.rb and its output."
 ---
 
-`tests/_examples/callables/method_composition_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/method_composition_parens.rb).
+`tests/_examples/callables/method_composition_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/method_composition_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A Method composes with any callable: `>>` runs the method first and is

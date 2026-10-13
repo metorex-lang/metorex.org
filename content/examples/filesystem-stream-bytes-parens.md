@@ -4,7 +4,7 @@ slug: filesystem-stream-bytes-parens
 description: "The metorex example program filesystem/stream_bytes_parens.rb and its output."
 ---
 
-`tests/_examples/filesystem/stream_bytes_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/stream_bytes_parens.rb).
+`tests/_examples/filesystem/stream_bytes_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/stream_bytes_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A stream is read a byte and a character at a time, what is put back is read

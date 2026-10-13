@@ -4,7 +4,7 @@ slug: advanced-dsl-example
 description: "The metorex example program advanced/dsl_example.rb and its output."
 ---
 
-`tests/_examples/advanced/dsl_example.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/dsl_example.rb).
+`tests/_examples/advanced/dsl_example.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/dsl_example.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Calculator

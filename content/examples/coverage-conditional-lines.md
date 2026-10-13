@@ -4,7 +4,7 @@ slug: coverage-conditional-lines
 description: "The metorex example program coverage/conditional_lines.rb and its output."
 ---
 
-`tests/_examples/coverage/conditional_lines.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/coverage/conditional_lines.rb).
+`tests/_examples/coverage/conditional_lines.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/coverage/conditional_lines.rb){target=_blank rel=noopener}.
 
 ```metorex
 require "coverage"

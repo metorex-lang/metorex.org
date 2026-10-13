@@ -4,7 +4,7 @@ slug: filesystem-fifo-between-threads
 description: "The metorex example program filesystem/fifo_between_threads.rb and its output."
 ---
 
-`tests/_examples/filesystem/fifo_between_threads.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/fifo_between_threads.rb).
+`tests/_examples/filesystem/fifo_between_threads.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/fifo_between_threads.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Opening a FIFO waits for the other end to be opened, which another thread

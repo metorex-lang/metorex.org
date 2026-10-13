@@ -4,7 +4,7 @@ slug: advanced-parenless-splat
 description: "The metorex example program advanced/parenless_splat.rb and its output."
 ---
 
-`tests/_examples/advanced/parenless_splat.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/parenless_splat.rb).
+`tests/_examples/advanced/parenless_splat.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/parenless_splat.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Test paren-less call with splat as non-first arg

@@ -4,7 +4,7 @@ slug: stdlib-bigdecimal-arithmetic-no-parens
 description: "The metorex example program stdlib/bigdecimal_arithmetic_no_parens.rb and its output."
 ---
 
-`tests/_examples/stdlib/bigdecimal_arithmetic_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/bigdecimal_arithmetic_no_parens.rb).
+`tests/_examples/stdlib/bigdecimal_arithmetic_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/bigdecimal_arithmetic_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # How BigDecimal divides, reads text and Floats, and takes logarithms: a

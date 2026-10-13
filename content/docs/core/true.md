@@ -15,4 +15,4 @@ ruby/spec describes 8 methods in `core/true`, and Metorex implements 8 of them. 
 - **`TrueClass#to_s`**: implemented, parameters `[]`. Returns string <code>'true'</code>: [An example calling it](/examples/addresses-internet-addresses).
 - **`TrueClass#|`**: implemented, parameters `[[:req]]`. Returns `true`:
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

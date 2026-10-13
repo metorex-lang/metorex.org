@@ -4,7 +4,7 @@ slug: algorithms-matrix-transpose-comprehensive
 description: "The metorex example program algorithms/matrix_transpose_comprehensive.rb and its output."
 ---
 
-`tests/_examples/algorithms/matrix_transpose_comprehensive.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/algorithms/matrix_transpose_comprehensive.rb).
+`tests/_examples/algorithms/matrix_transpose_comprehensive.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/algorithms/matrix_transpose_comprehensive.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Test transpose with various cases

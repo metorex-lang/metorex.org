@@ -4,7 +4,7 @@ slug: introspection-local-variables-in-blocks
 description: "The metorex example program introspection/local_variables_in_blocks.rb and its output."
 ---
 
-`tests/_examples/introspection/local_variables_in_blocks.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/local_variables_in_blocks.rb).
+`tests/_examples/introspection/local_variables_in_blocks.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/local_variables_in_blocks.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Inside a block, `local_variables` lists the block's own locals and then

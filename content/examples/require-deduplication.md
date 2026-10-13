@@ -4,7 +4,7 @@ slug: require-deduplication
 description: "The metorex example program require/deduplication.rb and its output."
 ---
 
-`tests/_examples/require/deduplication.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/deduplication.rb).
+`tests/_examples/require/deduplication.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/deduplication.rb){target=_blank rel=noopener}.
 
 ```metorex
 require_relative("lib/counter")

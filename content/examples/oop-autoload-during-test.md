@@ -4,7 +4,7 @@ slug: oop-autoload-during-test
 description: "The metorex example program oop/autoload_during_test.rb and its output."
 ---
 
-`tests/_examples/oop/autoload_during_test.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/autoload_during_test.rb).
+`tests/_examples/oop/autoload_during_test.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/autoload_during_test.rb){target=_blank rel=noopener}.
 
 ```metorex
 module Outer

@@ -4,7 +4,7 @@ slug: control-flow-case-type-custom-class
 description: "The metorex example program control_flow/case_type_custom_class.rb and its output."
 ---
 
-`tests/_examples/control_flow/case_type_custom_class.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/case_type_custom_class.rb).
+`tests/_examples/control_flow/case_type_custom_class.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/case_type_custom_class.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Type pattern matching with custom classes

@@ -4,7 +4,7 @@ slug: metaprogramming-singleton-class-macros
 description: "The metorex example program metaprogramming/singleton_class_macros.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/singleton_class_macros.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/singleton_class_macros.rb).
+`tests/_examples/metaprogramming/singleton_class_macros.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/singleton_class_macros.rb){target=_blank rel=noopener}.
 
 ```metorex
 module Macros

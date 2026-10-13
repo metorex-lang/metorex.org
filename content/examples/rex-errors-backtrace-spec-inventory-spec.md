@@ -4,7 +4,7 @@ slug: rex-errors-backtrace-spec-inventory-spec
 description: "The metorex example program rex/errors/backtrace/spec/inventory_spec.rb and its output."
 ---
 
-`tests/_examples/rex/errors/backtrace/spec/inventory_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/errors/backtrace/spec/inventory_spec.rb).
+`tests/_examples/rex/errors/backtrace/spec/inventory_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/errors/backtrace/spec/inventory_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 require_relative "../lib/inventory"

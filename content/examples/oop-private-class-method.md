@@ -4,7 +4,7 @@ slug: oop-private-class-method
 description: "The metorex example program oop/private_class_method.rb and its output."
 ---
 
-`tests/_examples/oop/private_class_method.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/private_class_method.rb).
+`tests/_examples/oop/private_class_method.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/private_class_method.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Parent

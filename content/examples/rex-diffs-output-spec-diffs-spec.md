@@ -4,7 +4,7 @@ slug: rex-diffs-output-spec-diffs-spec
 description: "The metorex example program rex/diffs/output/spec/diffs_spec.rb and its output."
 ---
 
-`tests/_examples/rex/diffs/output/spec/diffs_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/diffs/output/spec/diffs_spec.rb).
+`tests/_examples/rex/diffs/output/spec/diffs_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/diffs/output/spec/diffs_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 Point = Struct.new(:x, :y)

@@ -4,7 +4,7 @@ slug: syntax-local-binding-forms
 description: "The metorex example program syntax/local_binding_forms.rb and its output."
 ---
 
-`tests/_examples/syntax/local_binding_forms.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/local_binding_forms.rb).
+`tests/_examples/syntax/local_binding_forms.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/local_binding_forms.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Each form that binds a local makes `name [1]` index that local from then

@@ -4,7 +4,7 @@ slug: filesystem-working-directory
 description: "The metorex example program filesystem/working_directory.rb and its output."
 ---
 
-`tests/_examples/filesystem/working_directory.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/working_directory.rb).
+`tests/_examples/filesystem/working_directory.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/working_directory.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `Dir.chdir` names the directory the program works from, taking the name

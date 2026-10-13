@@ -4,7 +4,7 @@ slug: basics-complexes-protocol
 description: "The metorex example program basics/complexes/protocol.rb and its output."
 ---
 
-`tests/_examples/basics/complexes/protocol.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/complexes/protocol.rb).
+`tests/_examples/basics/complexes/protocol.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/complexes/protocol.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `Complex::I` is the imaginary unit every other Complex is measured against.

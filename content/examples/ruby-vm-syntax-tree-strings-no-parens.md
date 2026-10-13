@@ -4,7 +4,7 @@ slug: ruby-vm-syntax-tree-strings-no-parens
 description: "The metorex example program ruby_vm/syntax_tree_strings_no_parens.rb and its output."
 ---
 
-`tests/_examples/ruby_vm/syntax_tree_strings_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/ruby_vm/syntax_tree_strings_no_parens.rb).
+`tests/_examples/ruby_vm/syntax_tree_strings_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/ruby_vm/syntax_tree_strings_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # RubyVM::AbstractSyntaxTree names each string, symbol, regexp, word list

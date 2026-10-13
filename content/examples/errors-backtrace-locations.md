@@ -4,7 +4,7 @@ slug: errors-backtrace-locations
 description: "The metorex example program errors/backtrace/locations.rb and its output."
 ---
 
-`tests/_examples/errors/backtrace/locations.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/backtrace/locations.rb).
+`tests/_examples/errors/backtrace/locations.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/backtrace/locations.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `Exception#backtrace_locations` answers Thread::Backtrace::Location objects,

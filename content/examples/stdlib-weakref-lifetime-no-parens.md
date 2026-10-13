@@ -4,7 +4,7 @@ slug: stdlib-weakref-lifetime-no-parens
 description: "The metorex example program stdlib/weakref_lifetime_no_parens.rb and its output."
 ---
 
-`tests/_examples/stdlib/weakref_lifetime_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/weakref_lifetime_no_parens.rb).
+`tests/_examples/stdlib/weakref_lifetime_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/weakref_lifetime_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A WeakRef reaches its object while something else holds it, and raises

@@ -4,7 +4,7 @@ slug: callables-yield-alias
 description: "The metorex example program callables/yield_alias.rb and its output."
 ---
 
-`tests/_examples/callables/yield_alias.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/yield_alias.rb).
+`tests/_examples/callables/yield_alias.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/yield_alias.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `Proc#yield` calls the proc the way `call` and `[]` do, taking the same

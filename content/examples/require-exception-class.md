@@ -4,7 +4,7 @@ slug: require-exception-class
 description: "The metorex example program require/exception_class.rb and its output."
 ---
 
-`tests/_examples/require/exception_class.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/exception_class.rb).
+`tests/_examples/require/exception_class.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/exception_class.rb){target=_blank rel=noopener}.
 
 ```metorex
 begin

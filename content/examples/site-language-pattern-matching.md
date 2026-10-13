@@ -4,7 +4,7 @@ slug: site-language-pattern-matching
 description: "The metorex example program site/language_pattern_matching.rb and its output."
 ---
 
-`tests/_examples/site/language_pattern_matching.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/site/language_pattern_matching.rb).
+`tests/_examples/site/language_pattern_matching.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/site/language_pattern_matching.rb){target=_blank rel=noopener}.
 
 ```metorex
 def describe(response)

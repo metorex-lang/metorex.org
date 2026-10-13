@@ -4,7 +4,7 @@ slug: programs-oop-patterns-oop-patterns
 description: "The metorex example program programs/oop_patterns/oop_patterns.rb and its output."
 ---
 
-`tests/_examples/programs/oop_patterns/oop_patterns.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/programs/oop_patterns/oop_patterns.rb).
+`tests/_examples/programs/oop_patterns/oop_patterns.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/programs/oop_patterns/oop_patterns.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Object-Oriented Design Patterns

@@ -4,7 +4,7 @@ slug: array-methods-sort-by-enumerator
 description: "The metorex example program array_methods/sort_by_enumerator.rb and its output."
 ---
 
-`tests/_examples/array_methods/sort_by_enumerator.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/array_methods/sort_by_enumerator.rb).
+`tests/_examples/array_methods/sort_by_enumerator.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/array_methods/sort_by_enumerator.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Without a block, sort_by answers an Enumerator, so `with_index` can hand

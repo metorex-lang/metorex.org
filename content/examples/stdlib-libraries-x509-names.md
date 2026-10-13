@@ -4,7 +4,7 @@ slug: stdlib-libraries-x509-names
 description: "The metorex example program stdlib_libraries/x509_names.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/x509_names.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/x509_names.rb).
+`tests/_examples/stdlib_libraries/x509_names.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/x509_names.rb){target=_blank rel=noopener}.
 
 ```metorex
 # An X.509 distinguished name: a list of attributes, each with the ASN.1

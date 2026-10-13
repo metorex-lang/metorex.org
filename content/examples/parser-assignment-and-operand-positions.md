@@ -4,7 +4,7 @@ slug: parser-assignment-and-operand-positions
 description: "The metorex example program parser/assignment_and_operand_positions.rb and its output."
 ---
 
-`tests/_examples/parser/assignment_and_operand_positions.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/parser/assignment_and_operand_positions.rb).
+`tests/_examples/parser/assignment_and_operand_positions.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/parser/assignment_and_operand_positions.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Holder

@@ -4,7 +4,7 @@ slug: filesystem-file-handle-kinds
 description: "The metorex example program filesystem/file_handle_kinds.rb and its output."
 ---
 
-`tests/_examples/filesystem/file_handle_kinds.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/file_handle_kinds.rb).
+`tests/_examples/filesystem/file_handle_kinds.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/file_handle_kinds.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A file handle is an IO, whichever way that is asked.

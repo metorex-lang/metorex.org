@@ -4,7 +4,7 @@ slug: scanning-repeated-matches
 description: "The metorex example program scanning/repeated_matches.rb and its output."
 ---
 
-`tests/_examples/scanning/repeated_matches.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/scanning/repeated_matches.rb).
+`tests/_examples/scanning/repeated_matches.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/scanning/repeated_matches.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `scan` walks every match in a string, handing the groups to a block as one

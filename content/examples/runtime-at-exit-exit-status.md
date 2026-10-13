@@ -4,7 +4,7 @@ slug: runtime-at-exit-exit-status
 description: "The metorex example program runtime/at_exit_exit_status.rb and its output."
 ---
 
-`tests/_examples/runtime/at_exit_exit_status.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/at_exit_exit_status.rb).
+`tests/_examples/runtime/at_exit_exit_status.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/at_exit_exit_status.rb){target=_blank rel=noopener}.
 
 ```metorex
 at_exit { puts "last handler" }

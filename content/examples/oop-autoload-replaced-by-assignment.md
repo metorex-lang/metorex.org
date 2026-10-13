@@ -4,7 +4,7 @@ slug: oop-autoload-replaced-by-assignment
 description: "The metorex example program oop/autoload_replaced_by_assignment.rb and its output."
 ---
 
-`tests/_examples/oop/autoload_replaced_by_assignment.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/autoload_replaced_by_assignment.rb).
+`tests/_examples/oop/autoload_replaced_by_assignment.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/autoload_replaced_by_assignment.rb){target=_blank rel=noopener}.
 
 ```metorex
 autoload :Ledger, "ledger_never_loaded"

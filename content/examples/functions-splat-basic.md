@@ -4,7 +4,7 @@ slug: functions-splat-basic
 description: "The metorex example program functions/splat_basic.rb and its output."
 ---
 
-`tests/_examples/functions/splat_basic.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/splat_basic.rb).
+`tests/_examples/functions/splat_basic.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/splat_basic.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Variadic parameter collects remaining args

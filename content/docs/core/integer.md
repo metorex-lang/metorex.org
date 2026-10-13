@@ -77,4 +77,4 @@ ruby/spec describes 70 methods in `core/integer`, and Metorex implements 69 of t
 - **`Integer#|`**: implemented, parameters `[[:req]]`. Bitwise OR; each bit in the result is 1 if either corresponding bit in `self` or `other` is 1, 0 otherwise:
 - **`Integer#~`**: implemented, parameters `[[:rest, :args]]`. One's complement: returns the value of `self` with each bit inverted.
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

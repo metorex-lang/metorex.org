@@ -4,7 +4,7 @@ slug: builtins-rational
 description: "The metorex example program builtins/rational.rb and its output."
 ---
 
-`tests/_examples/builtins/rational.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/rational.rb).
+`tests/_examples/builtins/rational.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/rational.rb){target=_blank rel=noopener}.
 
 ```metorex
 half = Rational(1, 2)

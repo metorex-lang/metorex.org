@@ -4,7 +4,7 @@ slug: programs-fizzbuzz-fizzbuzz-no-parens
 description: "The metorex example program programs/fizzbuzz/fizzbuzz_no_parens.rb and its output."
 ---
 
-`tests/_examples/programs/fizzbuzz/fizzbuzz_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/programs/fizzbuzz/fizzbuzz_no_parens.rb).
+`tests/_examples/programs/fizzbuzz/fizzbuzz_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/programs/fizzbuzz/fizzbuzz_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # FizzBuzz without parentheses

@@ -39,4 +39,4 @@ ruby/spec describes 27 methods in `core/struct`, and Metorex implements 25 of th
 - **`StructClass#keyword_init?`**: not implemented. [An example calling it](/examples/struct-member-methods).
 - **`StructClass#members`**: not implemented. [An example calling it](/examples/c-extensions-c-structs).
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

@@ -4,7 +4,7 @@ slug: regexp-backtracking-engine-no-parens
 description: "The metorex example program regexp/backtracking_engine_no_parens.rb and its output."
 ---
 
-`tests/_examples/regexp/backtracking_engine_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/regexp/backtracking_engine_no_parens.rb).
+`tests/_examples/regexp/backtracking_engine_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/regexp/backtracking_engine_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A pattern gives back what it read when a piece further on cannot carry on,

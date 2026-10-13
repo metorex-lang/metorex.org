@@ -69,7 +69,7 @@ sub feature-name(Str $ruby, Str $gem --> Str) {
 
 sub cell(Str $outcome --> Str) {
     given $outcome {
-        when /^ carried / { 'Loads, carried in the binary' }
+        when /^ carried / { 'Loads, built into the binary' }
         when /^ disk /    { 'Loads, from disk' }
         when /^ startup / { 'Loads, loaded at startup' }
         default        { 'Does not load: ' ~ .subst(/^ 'error '/, '').subst('|', '\|', :g) }

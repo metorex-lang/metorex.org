@@ -4,7 +4,7 @@ slug: builtins-environment-lookup-coercion-parens
 description: "The metorex example program builtins/environment_lookup/coercion_parens.rb and its output."
 ---
 
-`tests/_examples/builtins/environment_lookup/coercion_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/environment_lookup/coercion_parens.rb).
+`tests/_examples/builtins/environment_lookup/coercion_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/environment_lookup/coercion_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # The environment is looked up by text, so anything that reads as a String

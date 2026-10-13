@@ -4,7 +4,7 @@ slug: oop-freeze-singleton-class
 description: "The metorex example program oop/freeze_singleton_class.rb and its output."
 ---
 
-`tests/_examples/oop/freeze_singleton_class.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/freeze_singleton_class.rb).
+`tests/_examples/oop/freeze_singleton_class.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/freeze_singleton_class.rb){target=_blank rel=noopener}.
 
 ```metorex
 target = Object.new

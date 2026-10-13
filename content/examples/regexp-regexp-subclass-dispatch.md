@@ -4,7 +4,7 @@ slug: regexp-regexp-subclass-dispatch
 description: "The metorex example program regexp/regexp_subclass_dispatch.rb and its output."
 ---
 
-`tests/_examples/regexp/regexp_subclass_dispatch.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/regexp/regexp_subclass_dispatch.rb).
+`tests/_examples/regexp/regexp_subclass_dispatch.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/regexp/regexp_subclass_dispatch.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A Regexp subclass's own methods answer before Regexp's, and `super`

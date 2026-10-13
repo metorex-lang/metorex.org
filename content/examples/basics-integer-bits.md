@@ -4,7 +4,7 @@ slug: basics-integer-bits
 description: "The metorex example program basics/integer_bits.rb and its output."
 ---
 
-`tests/_examples/basics/integer_bits.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/integer_bits.rb).
+`tests/_examples/basics/integer_bits.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/integer_bits.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A subscript on an Integer reads the bits of its two's-complement form: one

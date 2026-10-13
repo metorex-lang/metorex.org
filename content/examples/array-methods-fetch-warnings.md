@@ -4,7 +4,7 @@ slug: array-methods-fetch-warnings
 description: "The metorex example program array_methods/fetch_warnings.rb and its output."
 ---
 
-`tests/_examples/array_methods/fetch_warnings.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/array_methods/fetch_warnings.rb).
+`tests/_examples/array_methods/fetch_warnings.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/array_methods/fetch_warnings.rb){target=_blank rel=noopener}.
 
 ```metorex
 module Warning

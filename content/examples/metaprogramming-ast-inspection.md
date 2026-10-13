@@ -4,7 +4,7 @@ slug: metaprogramming-ast-inspection
 description: "The metorex example program metaprogramming/ast/inspection.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/ast/inspection.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/ast/inspection.rb).
+`tests/_examples/metaprogramming/ast/inspection.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/ast/inspection.rb){target=_blank rel=noopener}.
 
 ```metorex
 # AST Inspection API - inspect method bodies at runtime

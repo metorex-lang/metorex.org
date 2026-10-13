@@ -4,7 +4,7 @@ slug: strings-getbyte-positions
 description: "The metorex example program strings/getbyte_positions.rb and its output."
 ---
 
-`tests/_examples/strings/getbyte_positions.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/getbyte_positions.rb).
+`tests/_examples/strings/getbyte_positions.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/getbyte_positions.rb){target=_blank rel=noopener}.
 
 ```metorex
 plain = "rate"

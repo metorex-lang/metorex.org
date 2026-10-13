@@ -4,7 +4,7 @@ slug: cli-flags-lib-greet
 description: "The metorex example program cli_flags/lib/greet.rb and its output."
 ---
 
-`tests/_examples/cli_flags/lib/greet.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/cli_flags/lib/greet.rb).
+`tests/_examples/cli_flags/lib/greet.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/cli_flags/lib/greet.rb){target=_blank rel=noopener}.
 
 ```metorex
 def greet(name)

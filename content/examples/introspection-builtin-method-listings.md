@@ -4,7 +4,7 @@ slug: introspection-builtin-method-listings
 description: "The metorex example program introspection/builtin_method_listings.rb and its output."
 ---
 
-`tests/_examples/introspection/builtin_method_listings.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/builtin_method_listings.rb).
+`tests/_examples/introspection/builtin_method_listings.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/builtin_method_listings.rb){target=_blank rel=noopener}.
 
 ```metorex
 # The method listings of a built-in value or class name the methods Ruby's

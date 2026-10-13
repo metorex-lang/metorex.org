@@ -94,4 +94,4 @@ ruby/spec describes 73 methods in `core/enumerator`, and Metorex implements 73 o
 - **`Enumerator::Product#rewind`**: implemented, parameters `[]`. Rewinds the product enumerator by calling the "rewind" method on each enumerable in reverse order. [An example calling it](/examples/builtins-argf-stream).
 - **`Enumerator::Product#size`**: implemented, parameters `[]`. Returns the total size of the enumerator product calculated by multiplying the sizes of enumerables in the product. [An example calling it](/examples/advanced-threads-wait-on-processes-and-sockets).
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

@@ -4,7 +4,7 @@ slug: strings-ordering-and-case
 description: "The metorex example program strings/ordering_and_case.rb and its output."
 ---
 
-`tests/_examples/strings/ordering_and_case.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/ordering_and_case.rb).
+`tests/_examples/strings/ordering_and_case.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/ordering_and_case.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A String orders against anything that reads as one, then against anything

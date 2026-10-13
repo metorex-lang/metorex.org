@@ -4,7 +4,7 @@ slug: errors-ensure-return-drops-error
 description: "The metorex example program errors/ensure_return_drops_error.rb and its output."
 ---
 
-`tests/_examples/errors/ensure_return_drops_error.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/ensure_return_drops_error.rb).
+`tests/_examples/errors/ensure_return_drops_error.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/ensure_return_drops_error.rb){target=_blank rel=noopener}.
 
 ```metorex
 # An ensure clause that leaves by `return` drops the exception in flight, so

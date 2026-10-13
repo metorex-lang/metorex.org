@@ -4,7 +4,7 @@ slug: oop-singleton-method-singleton-method
 description: "The metorex example program oop/singleton_method/singleton_method.rb and its output."
 ---
 
-`tests/_examples/oop/singleton_method/singleton_method.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/singleton_method/singleton_method.rb).
+`tests/_examples/oop/singleton_method/singleton_method.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/singleton_method/singleton_method.rb){target=_blank rel=noopener}.
 
 ```metorex
 obj = Object.new

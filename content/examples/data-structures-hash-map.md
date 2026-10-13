@@ -4,7 +4,7 @@ slug: data-structures-hash-map
 description: "The metorex example program data_structures/hash_map.rb and its output."
 ---
 
-`tests/_examples/data_structures/hash_map.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/data_structures/hash_map.rb).
+`tests/_examples/data_structures/hash_map.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/data_structures/hash_map.rb){target=_blank rel=noopener}.
 
 ```metorex
 prices = {apple: 2, pear: 3}

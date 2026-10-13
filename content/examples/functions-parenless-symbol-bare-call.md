@@ -4,7 +4,7 @@ slug: functions-parenless-symbol-bare-call
 description: "The metorex example program functions/parenless_symbol_bare_call.rb and its output."
 ---
 
-`tests/_examples/functions/parenless_symbol_bare_call.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/parenless_symbol_bare_call.rb).
+`tests/_examples/functions/parenless_symbol_bare_call.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/parenless_symbol_bare_call.rb){target=_blank rel=noopener}.
 
 ```metorex
 def register(event, handler)

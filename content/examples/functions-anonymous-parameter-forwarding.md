@@ -4,7 +4,7 @@ slug: functions-anonymous-parameter-forwarding
 description: "The metorex example program functions/anonymous_parameter_forwarding.rb and its output."
 ---
 
-`tests/_examples/functions/anonymous_parameter_forwarding.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/anonymous_parameter_forwarding.rb).
+`tests/_examples/functions/anonymous_parameter_forwarding.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/anonymous_parameter_forwarding.rb){target=_blank rel=noopener}.
 
 ```metorex
 def target(*args, **options, &given)

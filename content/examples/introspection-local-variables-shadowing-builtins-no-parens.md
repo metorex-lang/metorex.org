@@ -4,7 +4,7 @@ slug: introspection-local-variables-shadowing-builtins-no-parens
 description: "The metorex example program introspection/local_variables_shadowing_builtins_no_parens.rb and its output."
 ---
 
-`tests/_examples/introspection/local_variables_shadowing_builtins_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/local_variables_shadowing_builtins_no_parens.rb).
+`tests/_examples/introspection/local_variables_shadowing_builtins_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/local_variables_shadowing_builtins_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A local named after a builtin method is a local like any other: it is

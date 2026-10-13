@@ -4,7 +4,7 @@ slug: encodings-missing-converters
 description: "The metorex example program encodings/missing_converters.rb and its output."
 ---
 
-`tests/_examples/encodings/missing_converters.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/missing_converters.rb).
+`tests/_examples/encodings/missing_converters.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/missing_converters.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Some encodings have no converter to or from anything else. Text that is all

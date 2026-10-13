@@ -4,7 +4,7 @@ slug: oop-super-forms-parens
 description: "The metorex example program oop/super_forms_parens.rb and its output."
 ---
 
-`tests/_examples/oop/super_forms_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/super_forms_parens.rb).
+`tests/_examples/oop/super_forms_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/super_forms_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A superclass can be named from the top level with a leading `::`, and a

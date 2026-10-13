@@ -118,7 +118,7 @@ ruby/spec describes 121 methods in `core/array`, and Metorex implements 121 of t
 - **`Array#to_ary`**: implemented, parameters `[]`. Returns `self`. [An example calling it](/examples/array-methods-conversion-and-draws).
 - **`Array#to_h`**: implemented, parameters `[[:block, :block]]`. Returns a new hash formed from `self`. [An example calling it](/examples/array-methods-to-h-pairs).
 - **`Array#to_s`**: implemented, parameters `[]`. Returns the new string formed by calling method <code>#inspect</code> on each array element: [An example calling it](/examples/array-methods-in-place-and-walks).
-- **`Array#transpose`**: implemented, parameters `[]`. Returns a new array that is `self` as a [transposed matrix](https://en.wikipedia.org/wiki/Transpose): [An example calling it](/examples/array-methods-set-operations-and-lookup).
+- **`Array#transpose`**: implemented, parameters `[]`. Returns a new array that is `self` as a [transposed matrix](https://en.wikipedia.org/wiki/Transpose){target=_blank rel=noopener}: [An example calling it](/examples/array-methods-set-operations-and-lookup).
 - **`Array.try_convert`**: implemented, parameters `[[:req, :held]]`. Attempts to return an array, based on the given `object`. [An example calling it](/examples/array-methods-conversion-and-draws).
 - **`Array#union`**: implemented, parameters `[[:rest]]`. Returns a new array that is the union of the elements of `self` and all given arrays `other_arrays`; items are compared using <code>eql?</code>: [An example calling it](/examples/array-methods-set-operations-and-lookup).
 - **`Array#uniq`**: implemented, parameters `[[:block, :block]]`. Returns a new array containing those elements from `self` that are not duplicates, the first occurrence always being retained. [An example calling it](/examples/array-methods-difference-of-structs).
@@ -128,4 +128,4 @@ ruby/spec describes 121 methods in `core/array`, and Metorex implements 121 of t
 - **`Array#zip`**: implemented, parameters `[[:rest, :others]]`. With no block given, combines `self` with the collection of `other_arrays`; returns a new array of sub-arrays: [An example calling it](/examples/array-methods-set-operations-and-lookup).
 - **`Array#|`**: implemented, parameters `[[:req]]`. Returns the union of `self` and `other_array`; duplicates are removed; order is preserved; items are compared using <code>eql?</code>:
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

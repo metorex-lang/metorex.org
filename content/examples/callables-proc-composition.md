@@ -4,7 +4,7 @@ slug: callables-proc-composition
 description: "The metorex example program callables/proc_composition.rb and its output."
 ---
 
-`tests/_examples/callables/proc_composition.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/proc_composition.rb).
+`tests/_examples/callables/proc_composition.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/proc_composition.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Proc#>> reads left to right and Proc#<< reads right to left. The composition

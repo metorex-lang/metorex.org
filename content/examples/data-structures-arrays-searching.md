@@ -4,7 +4,7 @@ slug: data-structures-arrays-searching
 description: "The metorex example program data_structures/arrays/searching.rb and its output."
 ---
 
-`tests/_examples/data_structures/arrays/searching.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/data_structures/arrays/searching.rb).
+`tests/_examples/data_structures/arrays/searching.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/data_structures/arrays/searching.rb){target=_blank rel=noopener}.
 
 ```metorex
 # The search methods ask each element whether it is `==` to what they were

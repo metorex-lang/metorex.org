@@ -4,7 +4,7 @@ slug: programs-spawn-failures
 description: "The metorex example program programs/spawn_failures.rb and its output."
 ---
 
-`tests/_examples/programs/spawn_failures.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/programs/spawn_failures.rb).
+`tests/_examples/programs/spawn_failures.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/programs/spawn_failures.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A command that cannot be started raises, and `$?` reports the 127 its

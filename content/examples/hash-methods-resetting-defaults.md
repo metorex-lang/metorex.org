@@ -4,7 +4,7 @@ slug: hash-methods-resetting-defaults
 description: "The metorex example program hash_methods/resetting_defaults.rb and its output."
 ---
 
-`tests/_examples/hash_methods/resetting_defaults.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/hash_methods/resetting_defaults.rb).
+`tests/_examples/hash_methods/resetting_defaults.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/hash_methods/resetting_defaults.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `initialize` is the hook behind `Hash.new`, and calling it again sets a new

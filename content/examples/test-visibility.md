@@ -4,7 +4,7 @@ slug: test-visibility
 description: "The metorex example program test_visibility.rb and its output."
 ---
 
-`tests/_examples/test_visibility.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/test_visibility.rb).
+`tests/_examples/test_visibility.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/test_visibility.rb){target=_blank rel=noopener}.
 
 ```metorex
 p Class.allocate

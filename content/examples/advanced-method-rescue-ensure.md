@@ -4,7 +4,7 @@ slug: advanced-method-rescue-ensure
 description: "The metorex example program advanced/method_rescue_ensure.rb and its output."
 ---
 
-`tests/_examples/advanced/method_rescue_ensure.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/method_rescue_ensure.rb).
+`tests/_examples/advanced/method_rescue_ensure.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/method_rescue_ensure.rb){target=_blank rel=noopener}.
 
 ```metorex
 def with_rescue

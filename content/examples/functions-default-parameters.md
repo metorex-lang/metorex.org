@@ -4,7 +4,7 @@ slug: functions-default-parameters
 description: "The metorex example program functions/default_parameters.rb and its output."
 ---
 
-`tests/_examples/functions/default_parameters.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/default_parameters.rb).
+`tests/_examples/functions/default_parameters.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/default_parameters.rb){target=_blank rel=noopener}.
 
 ```metorex
 def greet(name, greeting="Hello", punctuation="!")

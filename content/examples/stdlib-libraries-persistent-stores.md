@@ -4,7 +4,7 @@ slug: stdlib-libraries-persistent-stores
 description: "The metorex example program stdlib_libraries/persistent_stores.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/persistent_stores.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/persistent_stores.rb).
+`tests/_examples/stdlib_libraries/persistent_stores.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/persistent_stores.rb){target=_blank rel=noopener}.
 
 ```metorex
 # PStore keeps a Hash of objects in a file, read and written in

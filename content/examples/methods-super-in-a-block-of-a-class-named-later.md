@@ -4,7 +4,7 @@ slug: methods-super-in-a-block-of-a-class-named-later
 description: "The metorex example program methods/super_in_a_block_of_a_class_named_later.rb and its output."
 ---
 
-`tests/_examples/methods/super_in_a_block_of_a_class_named_later.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/super_in_a_block_of_a_class_named_later.rb).
+`tests/_examples/methods/super_in_a_block_of_a_class_named_later.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/super_in_a_block_of_a_class_named_later.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Reentrant

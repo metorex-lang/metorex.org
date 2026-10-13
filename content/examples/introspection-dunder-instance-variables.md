@@ -4,7 +4,7 @@ slug: introspection-dunder-instance-variables
 description: "The metorex example program introspection/dunder_instance_variables.rb and its output."
 ---
 
-`tests/_examples/introspection/dunder_instance_variables.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/dunder_instance_variables.rb).
+`tests/_examples/introspection/dunder_instance_variables.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/dunder_instance_variables.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Ledger

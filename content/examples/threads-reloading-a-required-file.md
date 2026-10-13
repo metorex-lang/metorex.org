@@ -4,7 +4,7 @@ slug: threads-reloading-a-required-file
 description: "The metorex example program threads/reloading_a_required_file.rb and its output."
 ---
 
-`tests/_examples/threads/reloading_a_required_file.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/reloading_a_required_file.rb).
+`tests/_examples/threads/reloading_a_required_file.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/reloading_a_required_file.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A file taken back out of the list of what has been loaded is loaded again,

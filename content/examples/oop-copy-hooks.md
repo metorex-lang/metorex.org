@@ -4,7 +4,7 @@ slug: oop-copy-hooks
 description: "The metorex example program oop/copy_hooks.rb and its output."
 ---
 
-`tests/_examples/oop/copy_hooks.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/copy_hooks.rb).
+`tests/_examples/oop/copy_hooks.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/copy_hooks.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Tracker

@@ -4,7 +4,7 @@ slug: stdlib-libraries-x509-certificates
 description: "The metorex example program stdlib_libraries/x509_certificates.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/x509_certificates.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/x509_certificates.rb).
+`tests/_examples/stdlib_libraries/x509_certificates.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/x509_certificates.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A certificate authority signs its own certificate and then one for a

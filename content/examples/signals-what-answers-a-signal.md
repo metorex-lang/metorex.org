@@ -4,7 +4,7 @@ slug: signals-what-answers-a-signal
 description: "The metorex example program signals/what_answers_a_signal.rb and its output."
 ---
 
-`tests/_examples/signals/what_answers_a_signal.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/signals/what_answers_a_signal.rb).
+`tests/_examples/signals/what_answers_a_signal.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/signals/what_answers_a_signal.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `Signal.trap` says what answers a signal. It takes anything that answers to

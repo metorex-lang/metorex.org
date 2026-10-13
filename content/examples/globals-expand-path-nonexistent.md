@@ -4,7 +4,7 @@ slug: globals-expand-path-nonexistent
 description: "The metorex example program globals/expand_path/nonexistent.rb and its output."
 ---
 
-`tests/_examples/globals/expand_path/nonexistent.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/globals/expand_path/nonexistent.rb).
+`tests/_examples/globals/expand_path/nonexistent.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/globals/expand_path/nonexistent.rb){target=_blank rel=noopener}.
 
 ```metorex
 # File.expand_path with non-existent path (manual normalization)

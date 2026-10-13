@@ -4,7 +4,7 @@ slug: syntax-constant-names
 description: "The metorex example program syntax/constant_names.rb and its output."
 ---
 
-`tests/_examples/syntax/constant_names.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/constant_names.rb).
+`tests/_examples/syntax/constant_names.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/constant_names.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A constant name may hold characters outside ASCII, and may open with an

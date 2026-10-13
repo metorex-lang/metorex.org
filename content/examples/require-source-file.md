@@ -4,7 +4,7 @@ slug: require-source-file
 description: "The metorex example program require/source_file.rb and its output."
 ---
 
-`tests/_examples/require/source_file.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/source_file.rb).
+`tests/_examples/require/source_file.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/source_file.rb){target=_blank rel=noopener}.
 
 ```metorex
 require_relative "source_file_lib/reporter"

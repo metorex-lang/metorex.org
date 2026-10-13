@@ -4,7 +4,7 @@ slug: array-methods-sort-by-array-keys
 description: "The metorex example program array_methods/sort_by_array_keys.rb and its output."
 ---
 
-`tests/_examples/array_methods/sort_by_array_keys.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/array_methods/sort_by_array_keys.rb).
+`tests/_examples/array_methods/sort_by_array_keys.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/array_methods/sort_by_array_keys.rb){target=_blank rel=noopener}.
 
 ```metorex
 positions = [[2, 10], [1, 12], [1, 3], [2, 1]]

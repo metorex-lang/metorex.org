@@ -4,7 +4,7 @@ slug: stdlib-libraries-io-wait-forms-no-parens
 description: "The metorex example program stdlib_libraries/io_wait_forms_no_parens.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/io_wait_forms_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/io_wait_forms_no_parens.rb).
+`tests/_examples/stdlib_libraries/io_wait_forms_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/io_wait_forms_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # IO#wait with an event mask answers the events that came ready, and with a

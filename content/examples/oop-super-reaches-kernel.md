@@ -4,7 +4,7 @@ slug: oop-super-reaches-kernel
 description: "The metorex example program oop/super_reaches_kernel.rb and its output."
 ---
 
-`tests/_examples/oop/super_reaches_kernel.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/super_reaches_kernel.rb).
+`tests/_examples/oop/super_reaches_kernel.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/super_reaches_kernel.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Loader

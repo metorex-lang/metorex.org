@@ -4,7 +4,7 @@ slug: errors-implicit-integer-conversion
 description: "The metorex example program errors/implicit_integer_conversion.rb and its output."
 ---
 
-`tests/_examples/errors/implicit_integer_conversion.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/implicit_integer_conversion.rb).
+`tests/_examples/errors/implicit_integer_conversion.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/implicit_integer_conversion.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A value that cannot stand in for an Integer is refused with a TypeError

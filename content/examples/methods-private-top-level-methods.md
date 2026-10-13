@@ -4,7 +4,7 @@ slug: methods-private-top-level-methods
 description: "The metorex example program methods/private_top_level_methods.rb and its output."
 ---
 
-`tests/_examples/methods/private_top_level_methods.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/private_top_level_methods.rb).
+`tests/_examples/methods/private_top_level_methods.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/private_top_level_methods.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A method defined at the top level is a private method of Object, so every

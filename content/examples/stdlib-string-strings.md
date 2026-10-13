@@ -4,7 +4,7 @@ slug: stdlib-string-strings
 description: "The metorex example program stdlib/string/strings.rb and its output."
 ---
 
-`tests/_examples/stdlib/string/strings.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/string/strings.rb).
+`tests/_examples/stdlib/string/strings.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/string/strings.rb){target=_blank rel=noopener}.
 
 ```metorex
 s = "hello world"

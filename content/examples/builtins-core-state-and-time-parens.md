@@ -4,7 +4,7 @@ slug: builtins-core-state-and-time-parens
 description: "The metorex example program builtins/core_state_and_time_parens.rb and its output."
 ---
 
-`tests/_examples/builtins/core_state_and_time_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/core_state_and_time_parens.rb).
+`tests/_examples/builtins/core_state_and_time_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/core_state_and_time_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Switches the core classes keep, and the timestamp forms Time reads.

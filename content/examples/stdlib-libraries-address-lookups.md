@@ -4,7 +4,7 @@ slug: stdlib-libraries-address-lookups
 description: "The metorex example program stdlib_libraries/address_lookups.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/address_lookups.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/address_lookups.rb).
+`tests/_examples/stdlib_libraries/address_lookups.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/address_lookups.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A lookup answers the addresses in the order the resolver gives them, one

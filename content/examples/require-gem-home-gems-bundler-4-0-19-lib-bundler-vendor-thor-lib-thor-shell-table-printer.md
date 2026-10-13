@@ -4,7 +4,7 @@ slug: require-gem-home-gems-bundler-4-0-19-lib-bundler-vendor-thor-lib-thor-shel
 description: "The metorex example program require/gem_home/gems/bundler-4.0.19/lib/bundler/vendor/thor/lib/thor/shell/table_printer.rb and its output."
 ---
 
-`tests/_examples/require/gem_home/gems/bundler-4.0.19/lib/bundler/vendor/thor/lib/thor/shell/table_printer.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/gem_home/gems/bundler-4.0.19/lib/bundler/vendor/thor/lib/thor/shell/table_printer.rb).
+`tests/_examples/require/gem_home/gems/bundler-4.0.19/lib/bundler/vendor/thor/lib/thor/shell/table_printer.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/gem_home/gems/bundler-4.0.19/lib/bundler/vendor/thor/lib/thor/shell/table_printer.rb){target=_blank rel=noopener}.
 
 ```metorex
 require_relative "column_printer"

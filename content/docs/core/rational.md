@@ -38,4 +38,4 @@ ruby/spec describes 31 methods in `core/rational`, and Metorex implements 31 of 
 - **`Rational#truncate`**: implemented, parameters `[[:opt, :digits]]`. Returns `rat` truncated (toward zero) to a precision of `ndigits` decimal digits (default: 0). [An example calling it](/examples/basics-floats-methods).
 - **`Rational#zero?`**: implemented, parameters `[]`. Returns `true` if `zero` has a zero value, `false` otherwise. [An example calling it](/examples/advanced-threads-take-turns).
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

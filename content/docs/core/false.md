@@ -15,4 +15,4 @@ ruby/spec describes 8 methods in `core/false`, and Metorex implements 8 of them.
 - **`FalseClass#to_s`**: implemented, parameters `[]`. The string representation of `false` is "false". [An example calling it](/examples/addresses-internet-addresses).
 - **`FalseClass#|`**: implemented, parameters `[[:req]]`. Returns `false` if `object` is `nil` or `false`, `true` otherwise:
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

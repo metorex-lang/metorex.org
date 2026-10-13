@@ -4,7 +4,7 @@ slug: errors-backtrace-names-as-given-no-parens
 description: "The metorex example program errors/backtrace/names_as_given_no_parens.rb and its output."
 ---
 
-`tests/_examples/errors/backtrace/names_as_given_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/backtrace/names_as_given_no_parens.rb).
+`tests/_examples/errors/backtrace/names_as_given_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/backtrace/names_as_given_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A backtrace names the program file the way the command line gave it, and

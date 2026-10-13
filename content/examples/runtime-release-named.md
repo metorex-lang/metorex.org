@@ -4,7 +4,7 @@ slug: runtime-release-named
 description: "The metorex example program runtime/release_named.rb and its output."
 ---
 
-`tests/_examples/runtime/release_named.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/release_named.rb).
+`tests/_examples/runtime/release_named.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/release_named.rb){target=_blank rel=noopener}.
 
 ```metorex
 # The release metorex reports is the MRI release it follows.

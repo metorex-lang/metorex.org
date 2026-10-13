@@ -4,7 +4,7 @@ slug: basics-readline-and-readlines
 description: "The metorex example program basics/readline_and_readlines.rb and its output."
 ---
 
-`tests/_examples/basics/readline_and_readlines.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/readline_and_readlines.rb).
+`tests/_examples/basics/readline_and_readlines.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/readline_and_readlines.rb){target=_blank rel=noopener}.
 
 ```metorex
 puts Kernel.private_instance_methods(false).include?(:gets)

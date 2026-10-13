@@ -4,7 +4,7 @@ slug: stdlib-string-format-keywords
 description: "The metorex example program stdlib/string/format_keywords.rb and its output."
 ---
 
-`tests/_examples/stdlib/string/format_keywords.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/string/format_keywords.rb).
+`tests/_examples/stdlib/string/format_keywords.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/string/format_keywords.rb){target=_blank rel=noopener}.
 
 ```metorex
 puts format("%s and %s", "a", "b")

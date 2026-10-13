@@ -4,7 +4,7 @@ slug: sets-grouping-and-flattening
 description: "The metorex example program sets/grouping_and_flattening.rb and its output."
 ---
 
-`tests/_examples/sets/grouping_and_flattening.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/sets/grouping_and_flattening.rb).
+`tests/_examples/sets/grouping_and_flattening.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/sets/grouping_and_flattening.rb){target=_blank rel=noopener}.
 
 ```metorex
 # The ways a set can be cut into subsets, and the way it opens up the sets

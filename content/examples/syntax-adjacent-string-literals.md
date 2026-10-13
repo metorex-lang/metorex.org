@@ -4,7 +4,7 @@ slug: syntax-adjacent-string-literals
 description: "The metorex example program syntax/adjacent_string_literals.rb and its output."
 ---
 
-`tests/_examples/syntax/adjacent_string_literals.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/adjacent_string_literals.rb).
+`tests/_examples/syntax/adjacent_string_literals.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/adjacent_string_literals.rb){target=_blank rel=noopener}.
 
 ```metorex
 # String literals written next to each other are one string, with any

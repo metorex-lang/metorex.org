@@ -4,7 +4,7 @@ slug: stdlib-regex-literals
 description: "The metorex example program stdlib/regex/literals.rb and its output."
 ---
 
-`tests/_examples/stdlib/regex/literals.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/regex/literals.rb).
+`tests/_examples/stdlib/regex/literals.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/regex/literals.rb){target=_blank rel=noopener}.
 
 ```metorex
 r = /hello/

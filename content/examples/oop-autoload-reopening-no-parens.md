@@ -4,7 +4,7 @@ slug: oop-autoload-reopening-no-parens
 description: "The metorex example program oop/autoload_reopening_no_parens.rb and its output."
 ---
 
-`tests/_examples/oop/autoload_reopening_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/autoload_reopening_no_parens.rb).
+`tests/_examples/oop/autoload_reopening_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/autoload_reopening_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 $LOAD_PATH.unshift File.join(__dir__, "autoload_fixture")

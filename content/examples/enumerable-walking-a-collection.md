@@ -4,7 +4,7 @@ slug: enumerable-walking-a-collection
 description: "The metorex example program enumerable/walking_a_collection.rb and its output."
 ---
 
-`tests/_examples/enumerable/walking_a_collection.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/enumerable/walking_a_collection.rb).
+`tests/_examples/enumerable/walking_a_collection.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/enumerable/walking_a_collection.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Enumerable written over each: a class supplies each, and the module supplies

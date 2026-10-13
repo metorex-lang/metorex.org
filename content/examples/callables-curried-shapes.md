@@ -4,7 +4,7 @@ slug: callables-curried-shapes
 description: "The metorex example program callables/curried_shapes.rb and its output."
 ---
 
-`tests/_examples/callables/curried_shapes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/curried_shapes.rb).
+`tests/_examples/callables/curried_shapes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/curried_shapes.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A curried callable stands for the library's own: it names no arguments of

@@ -4,7 +4,7 @@ slug: runtime-popen-options-parens
 description: "The metorex example program runtime/popen_options_parens.rb and its output."
 ---
 
-`tests/_examples/runtime/popen_options_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/popen_options_parens.rb).
+`tests/_examples/runtime/popen_options_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/popen_options_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `IO.popen` takes the child's environment in a Hash in front, how it is run

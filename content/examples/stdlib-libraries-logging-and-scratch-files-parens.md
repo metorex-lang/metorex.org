@@ -4,7 +4,7 @@ slug: stdlib-libraries-logging-and-scratch-files-parens
 description: "The metorex example program stdlib_libraries/logging_and_scratch_files_parens.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/logging_and_scratch_files_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/logging_and_scratch_files_parens.rb).
+`tests/_examples/stdlib_libraries/logging_and_scratch_files_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/logging_and_scratch_files_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A log with a severity on each message, a monitor that guards a section of

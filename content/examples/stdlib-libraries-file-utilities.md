@@ -4,7 +4,7 @@ slug: stdlib-libraries-file-utilities
 description: "The metorex example program stdlib_libraries/file_utilities.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/file_utilities.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/file_utilities.rb).
+`tests/_examples/stdlib_libraries/file_utilities.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/file_utilities.rb){target=_blank rel=noopener}.
 
 ```metorex
 # FileUtils carries every command MRI's does, each a module function a class

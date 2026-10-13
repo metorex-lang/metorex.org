@@ -4,7 +4,7 @@ slug: threads-busy-threads-share-turns
 description: "The metorex example program threads/busy_threads_share_turns.rb and its output."
 ---
 
-`tests/_examples/threads/busy_threads_share_turns.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/busy_threads_share_turns.rb).
+`tests/_examples/threads/busy_threads_share_turns.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/busy_threads_share_turns.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A thread that never waits on anything still hands the turn over after a

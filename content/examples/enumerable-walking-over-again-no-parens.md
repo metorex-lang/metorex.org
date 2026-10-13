@@ -4,7 +4,7 @@ slug: enumerable-walking-over-again-no-parens
 description: "The metorex example program enumerable/walking_over_again_no_parens.rb and its output."
 ---
 
-`tests/_examples/enumerable/walking_over_again_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/enumerable/walking_over_again_no_parens.rb).
+`tests/_examples/enumerable/walking_over_again_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/enumerable/walking_over_again_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `cycle` walks the elements over and over. A count says how many rounds,

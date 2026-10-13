@@ -4,7 +4,7 @@ slug: site-differences-description
 description: "The metorex example program site/differences_description.rb and its output."
 ---
 
-`tests/_examples/site/differences_description.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/site/differences_description.rb).
+`tests/_examples/site/differences_description.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/site/differences_description.rb){target=_blank rel=noopener}.
 
 ```metorex
 puts RUBY_DESCRIPTION

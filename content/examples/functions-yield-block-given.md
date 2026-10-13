@@ -4,7 +4,7 @@ slug: functions-yield-block-given
 description: "The metorex example program functions/yield_block_given.rb and its output."
 ---
 
-`tests/_examples/functions/yield_block_given.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/yield_block_given.rb).
+`tests/_examples/functions/yield_block_given.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/yield_block_given.rb){target=_blank rel=noopener}.
 
 ```metorex
 def maybe_yield(x)

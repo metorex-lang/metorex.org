@@ -4,7 +4,7 @@ slug: introspection-method-owners
 description: "The metorex example program introspection/method_owners.rb and its output."
 ---
 
-`tests/_examples/introspection/method_owners.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/method_owners.rb).
+`tests/_examples/introspection/method_owners.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/method_owners.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A Method names the class that holds it, whichever singleton class the

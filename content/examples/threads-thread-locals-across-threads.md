@@ -4,7 +4,7 @@ slug: threads-thread-locals-across-threads
 description: "The metorex example program threads/thread_locals_across_threads.rb and its output."
 ---
 
-`tests/_examples/threads/thread_locals_across_threads.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/thread_locals_across_threads.rb).
+`tests/_examples/threads/thread_locals_across_threads.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/thread_locals_across_threads.rb){target=_blank rel=noopener}.
 
 ```metorex
 # One thread reads what another has put in its own store, which is what a

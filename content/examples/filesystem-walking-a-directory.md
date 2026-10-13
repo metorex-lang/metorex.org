@@ -4,7 +4,7 @@ slug: filesystem-walking-a-directory
 description: "The metorex example program filesystem/walking_a_directory.rb and its output."
 ---
 
-`tests/_examples/filesystem/walking_a_directory.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/walking_a_directory.rb).
+`tests/_examples/filesystem/walking_a_directory.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/walking_a_directory.rb){target=_blank rel=noopener}.
 
 ```metorex
 # An open directory is walked one name at a time, and the position it is left

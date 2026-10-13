@@ -4,7 +4,7 @@ slug: oop-remove-const
 description: "The metorex example program oop/remove_const.rb and its output."
 ---
 
-`tests/_examples/oop/remove_const.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/remove_const.rb).
+`tests/_examples/oop/remove_const.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/remove_const.rb){target=_blank rel=noopener}.
 
 ```metorex
 module Holder

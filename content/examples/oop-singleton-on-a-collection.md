@@ -4,7 +4,7 @@ slug: oop-singleton-on-a-collection
 description: "The metorex example program oop/singleton_on_a_collection.rb and its output."
 ---
 
-`tests/_examples/oop/singleton_on_a_collection.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/singleton_on_a_collection.rb).
+`tests/_examples/oop/singleton_on_a_collection.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/singleton_on_a_collection.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A collection is held by reference, so each one carries methods of its own.

@@ -4,7 +4,7 @@ slug: control-flow-case-multi-value
 description: "The metorex example program control_flow/case_multi_value.rb and its output."
 ---
 
-`tests/_examples/control_flow/case_multi_value.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/case_multi_value.rb).
+`tests/_examples/control_flow/case_multi_value.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/case_multi_value.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Case with multiple values in when clauses

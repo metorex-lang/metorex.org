@@ -4,7 +4,7 @@ slug: methods-endless-definitions
 description: "The metorex example program methods/endless_definitions.rb and its output."
 ---
 
-`tests/_examples/methods/endless_definitions.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/endless_definitions.rb).
+`tests/_examples/methods/endless_definitions.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/endless_definitions.rb){target=_blank rel=noopener}.
 
 ```metorex
 def doubled(value) = value * 2

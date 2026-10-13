@@ -144,4 +144,4 @@ ruby/spec describes 129 methods in `core/file`, and Metorex implements 123 of th
 - **`File::Stat#writable_real?`**: implemented, parameters `[]`. Returns `true` if *stat* is writable by the real user id of this process. [An example calling it](/examples/filesystem-asking-about-a-file).
 - **`File::Stat#zero?`**: implemented, parameters `[]`. Returns `true` if *stat* is a zero-length file; `false` otherwise. [An example calling it](/examples/advanced-threads-take-turns).
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

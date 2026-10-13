@@ -4,7 +4,7 @@ slug: metaprogramming-method-missing-visibility
 description: "The metorex example program metaprogramming/method_missing/visibility.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/method_missing/visibility.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/method_missing/visibility.rb).
+`tests/_examples/metaprogramming/method_missing/visibility.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/method_missing/visibility.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A call that visibility refuses still reaches a user-defined

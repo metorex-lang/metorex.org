@@ -4,7 +4,7 @@ slug: syntax-refused-forms-no-parens
 description: "The metorex example program syntax/refused_forms_no_parens.rb and its output."
 ---
 
-`tests/_examples/syntax/refused_forms_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/refused_forms_no_parens.rb).
+`tests/_examples/syntax/refused_forms_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/refused_forms_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Forms Ruby's grammar does not accept raise SyntaxError when the code is

@@ -4,7 +4,7 @@ slug: programs-data-pipeline-data-pipeline-no-parens
 description: "The metorex example program programs/data_pipeline/data_pipeline_no_parens.rb and its output."
 ---
 
-`tests/_examples/programs/data_pipeline/data_pipeline_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/programs/data_pipeline/data_pipeline_no_parens.rb).
+`tests/_examples/programs/data_pipeline/data_pipeline_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/programs/data_pipeline/data_pipeline_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Data Processing Pipeline without parentheses (where possible)

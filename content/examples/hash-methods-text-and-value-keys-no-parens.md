@@ -4,7 +4,7 @@ slug: hash-methods-text-and-value-keys-no-parens
 description: "The metorex example program hash_methods/text_and_value_keys_no_parens.rb and its output."
 ---
 
-`tests/_examples/hash_methods/text_and_value_keys_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/hash_methods/text_and_value_keys_no_parens.rb).
+`tests/_examples/hash_methods/text_and_value_keys_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/hash_methods/text_and_value_keys_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A String key that reads as a number, a boolean or nil is a key of its own,

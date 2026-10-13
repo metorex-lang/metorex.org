@@ -4,7 +4,7 @@ slug: addresses-streams-over-a-path
 description: "The metorex example program addresses/streams_over_a_path.rb and its output."
 ---
 
-`tests/_examples/addresses/streams_over_a_path.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/addresses/streams_over_a_path.rb).
+`tests/_examples/addresses/streams_over_a_path.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/addresses/streams_over_a_path.rb){target=_blank rel=noopener}.
 
 ```metorex
 require 'socket'

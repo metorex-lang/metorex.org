@@ -4,7 +4,7 @@ slug: syntax-keyword-symbols-in-when
 description: "The metorex example program syntax/keyword_symbols_in_when.rb and its output."
 ---
 
-`tests/_examples/syntax/keyword_symbols_in_when.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/keyword_symbols_in_when.rb).
+`tests/_examples/syntax/keyword_symbols_in_when.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/keyword_symbols_in_when.rb){target=_blank rel=noopener}.
 
 ```metorex
 def kind(event)

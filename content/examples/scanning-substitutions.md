@@ -4,7 +4,7 @@ slug: scanning-substitutions
 description: "The metorex example program scanning/substitutions.rb and its output."
 ---
 
-`tests/_examples/scanning/substitutions.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/scanning/substitutions.rb).
+`tests/_examples/scanning/substitutions.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/scanning/substitutions.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `sub` puts something in place of the first match and `gsub` in place of

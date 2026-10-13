@@ -4,7 +4,7 @@ slug: control-flow-case-expression-patterns
 description: "The metorex example program control_flow/case_expression_patterns.rb and its output."
 ---
 
-`tests/_examples/control_flow/case_expression_patterns.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/case_expression_patterns.rb).
+`tests/_examples/control_flow/case_expression_patterns.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/case_expression_patterns.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Case expression with various pattern types

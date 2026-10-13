@@ -4,7 +4,7 @@ slug: builtins-kernel-pp-parens
 description: "The metorex example program builtins/kernel_pp_parens.rb and its output."
 ---
 
-`tests/_examples/builtins/kernel_pp_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/kernel_pp_parens.rb).
+`tests/_examples/builtins/kernel_pp_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/kernel_pp_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 pp([1, 2, 3])

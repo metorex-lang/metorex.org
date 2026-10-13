@@ -4,7 +4,7 @@ slug: metaprogramming-class-modification-class-modification
 description: "The metorex example program metaprogramming/class_modification/class_modification.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/class_modification/class_modification.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/class_modification/class_modification.rb).
+`tests/_examples/metaprogramming/class_modification/class_modification.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/class_modification/class_modification.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Runtime Class Modification

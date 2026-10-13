@@ -4,7 +4,7 @@ slug: require-gem-home-gems-bundler-4-0-19-lib-bundler-vendor-securerandom-lib-s
 description: "The metorex example program require/gem_home/gems/bundler-4.0.19/lib/bundler/vendor/securerandom/lib/securerandom.rb and its output."
 ---
 
-`tests/_examples/require/gem_home/gems/bundler-4.0.19/lib/bundler/vendor/securerandom/lib/securerandom.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/gem_home/gems/bundler-4.0.19/lib/bundler/vendor/securerandom/lib/securerandom.rb).
+`tests/_examples/require/gem_home/gems/bundler-4.0.19/lib/bundler/vendor/securerandom/lib/securerandom.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/gem_home/gems/bundler-4.0.19/lib/bundler/vendor/securerandom/lib/securerandom.rb){target=_blank rel=noopener}.
 
 ```metorex
 # -*- coding: us-ascii -*-

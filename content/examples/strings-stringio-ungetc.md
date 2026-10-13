@@ -4,7 +4,7 @@ slug: strings-stringio-ungetc
 description: "The metorex example program strings/stringio_ungetc.rb and its output."
 ---
 
-`tests/_examples/strings/stringio_ungetc.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/stringio_ungetc.rb).
+`tests/_examples/strings/stringio_ungetc.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/stringio_ungetc.rb){target=_blank rel=noopener}.
 
 ```metorex
 require "stringio"

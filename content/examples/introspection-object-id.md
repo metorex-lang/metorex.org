@@ -4,7 +4,7 @@ slug: introspection-object-id
 description: "The metorex example program introspection/object_id.rb and its output."
 ---
 
-`tests/_examples/introspection/object_id.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/object_id.rb).
+`tests/_examples/introspection/object_id.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/object_id.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Widget

@@ -4,7 +4,7 @@ slug: advanced-type-annotations
 description: "The metorex example program advanced/type_annotations.rb and its output."
 ---
 
-`tests/_examples/advanced/type_annotations.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/type_annotations.rb).
+`tests/_examples/advanced/type_annotations.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/type_annotations.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Type annotations example

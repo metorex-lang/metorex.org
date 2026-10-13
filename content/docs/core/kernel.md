@@ -148,8 +148,8 @@ ruby/spec describes 189 methods in `core/kernel`, and Metorex implements 173 of 
 - **`Kernel.require_relative`**: implemented, parameters `[[:req]]`. Ruby tries to load the library named *string* relative to the directory containing the requiring file.
 - **`Kernel#respond_to?`**: implemented, parameters `[[:rest]]`. [An example calling it](/examples/basics-complexes-protocol).
 - **`Kernel#respond_to_missing?`**: implemented, parameters `[[:req], [:req]]`. [An example calling it](/examples/introspection-respond-to-missing).
-- **`Kernel#select`**: implemented, parameters `[[:opt, :readers], [:opt, :writers], [:opt, :errored], [:opt, :timeout]]`. Invokes system call [select(2)](https://linux.die.net/man/2/select), which monitors multiple file descriptors, waiting until one or more of the file descriptors becomes ready for some class of I/O operation. [An example calling it](/examples/addresses-uniform-resources).
-- **`Kernel.select`**: implemented, parameters `[[:opt, :readers], [:opt, :writers], [:opt, :errored], [:opt, :timeout]]`. Invokes system call [select(2)](https://linux.die.net/man/2/select), which monitors multiple file descriptors, waiting until one or more of the file descriptors becomes ready for some class of I/O operation.
+- **`Kernel#select`**: implemented, parameters `[[:opt, :readers], [:opt, :writers], [:opt, :errored], [:opt, :timeout]]`. Invokes system call [select(2)](https://linux.die.net/man/2/select){target=_blank rel=noopener}, which monitors multiple file descriptors, waiting until one or more of the file descriptors becomes ready for some class of I/O operation. [An example calling it](/examples/addresses-uniform-resources).
+- **`Kernel.select`**: implemented, parameters `[[:opt, :readers], [:opt, :writers], [:opt, :errored], [:opt, :timeout]]`. Invokes system call [select(2)](https://linux.die.net/man/2/select){target=_blank rel=noopener}, which monitors multiple file descriptors, waiting until one or more of the file descriptors becomes ready for some class of I/O operation.
 - **`Kernel#send`**: implemented, parameters `[[:rest]]`. [An example calling it](/examples/addresses-sockets-of-every-kind).
 - **`Kernel#set_trace_func`**: implemented, parameters `[[:req, :callable]]`. Establishes *proc* as the handler for tracing, or disables tracing if the parameter is `nil`.
 - **`Kernel.set_trace_func`**: implemented, parameters `[[:req, :callable]]`. Establishes *proc* as the handler for tracing, or disables tracing if the parameter is `nil`.
@@ -168,8 +168,8 @@ ruby/spec describes 189 methods in `core/kernel`, and Metorex implements 173 of 
 - **`Kernel.sub`**: not implemented. Equivalent to <code>$_.sub(<i>args</i>)</code>, except that <code>$_</code> will be updated if substitution occurs.
 - **`Kernel#sub!`**: not implemented. [An example calling it](/examples/require-gem-home-gems-bundler-4-0-19-lib-bundler-env).
 - **`Kernel.sub!`**: not implemented.
-- **`Kernel#syscall`**: implemented, parameters `[[:rest, :args]]`. Invokes Posix system call [syscall(2)](https://linux.die.net/man/2/syscall), which calls a specified function.
-- **`Kernel.syscall`**: implemented, parameters `[[:rest, :args]]`. Invokes Posix system call [syscall(2)](https://linux.die.net/man/2/syscall), which calls a specified function.
+- **`Kernel#syscall`**: implemented, parameters `[[:rest, :args]]`. Invokes Posix system call [syscall(2)](https://linux.die.net/man/2/syscall){target=_blank rel=noopener}, which calls a specified function.
+- **`Kernel.syscall`**: implemented, parameters `[[:rest, :args]]`. Invokes Posix system call [syscall(2)](https://linux.die.net/man/2/syscall){target=_blank rel=noopener}, which calls a specified function.
 - **`Kernel#system`**: implemented, parameters `[[:rest]]`. Creates a new child process by doing one of the following in that process: [An example calling it](/examples/require-gem-home-gems-bundler-4-0-19-lib-bundler).
 - **`Kernel.system`**: implemented, parameters `[[:rest]]`. Creates a new child process by doing one of the following in that process: [An example calling it](/examples/require-gem-home-gems-bundler-4-0-19-lib-bundler).
 - **`Kernel#taint`**: not implemented.
@@ -196,4 +196,4 @@ ruby/spec describes 189 methods in `core/kernel`, and Metorex implements 173 of 
 - **`Kernel.warn`**: implemented, parameters `[[:rest, :messages]]`. If warnings have been disabled (for example with the <code>-W0</code> flag), does nothing. [An example calling it](/examples/rex-mocks-verified-partials-spec-core-class-methods-spec).
 - **`Kernel#yield_self`**: implemented, parameters `[[:rest, :args]]`. Yields self to the block and returns the result of the block. [An example calling it](/examples/basics-then-yield-self-tap).
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

@@ -4,7 +4,7 @@ slug: regexp-built-patterns
 description: "The metorex example program regexp/built_patterns.rb and its output."
 ---
 
-`tests/_examples/regexp/built_patterns.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/regexp/built_patterns.rb).
+`tests/_examples/regexp/built_patterns.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/regexp/built_patterns.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `Regexp.new` reads flags written as a number or as the letters a literal

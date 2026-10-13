@@ -4,7 +4,7 @@ slug: metaprogramming-const-added-hook
 description: "The metorex example program metaprogramming/const_added_hook.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/const_added_hook.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/const_added_hook.rb).
+`tests/_examples/metaprogramming/const_added_hook.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/const_added_hook.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Tracker

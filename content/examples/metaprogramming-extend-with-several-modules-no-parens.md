@@ -4,7 +4,7 @@ slug: metaprogramming-extend-with-several-modules-no-parens
 description: "The metorex example program metaprogramming/extend_with_several_modules_no_parens.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/extend_with_several_modules_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/extend_with_several_modules_no_parens.rb).
+`tests/_examples/metaprogramming/extend_with_several_modules_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/extend_with_several_modules_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # extend takes several modules and puts the first one named nearest the

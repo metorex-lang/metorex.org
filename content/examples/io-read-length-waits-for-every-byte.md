@@ -4,7 +4,7 @@ slug: io-read-length-waits-for-every-byte
 description: "The metorex example program io/read_length_waits_for_every_byte.rb and its output."
 ---
 
-`tests/_examples/io/read_length_waits_for_every_byte.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/io/read_length_waits_for_every_byte.rb).
+`tests/_examples/io/read_length_waits_for_every_byte.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/io/read_length_waits_for_every_byte.rb){target=_blank rel=noopener}.
 
 ```metorex
 reader, writer = IO.pipe

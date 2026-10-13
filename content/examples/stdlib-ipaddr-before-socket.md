@@ -4,7 +4,7 @@ slug: stdlib-ipaddr-before-socket
 description: "The metorex example program stdlib/ipaddr_before_socket.rb and its output."
 ---
 
-`tests/_examples/stdlib/ipaddr_before_socket.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/ipaddr_before_socket.rb).
+`tests/_examples/stdlib/ipaddr_before_socket.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/ipaddr_before_socket.rb){target=_blank rel=noopener}.
 
 ```metorex
 # ipaddr loads the socket library for the address families it names, so

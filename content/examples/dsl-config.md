@@ -4,7 +4,7 @@ slug: dsl-config
 description: "The metorex example program dsl/config.rb and its output."
 ---
 
-`tests/_examples/dsl/config.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/dsl/config.rb).
+`tests/_examples/dsl/config.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/dsl/config.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Configuration language DSL

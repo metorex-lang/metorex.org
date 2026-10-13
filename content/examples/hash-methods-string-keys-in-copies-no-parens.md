@@ -4,7 +4,7 @@ slug: hash-methods-string-keys-in-copies-no-parens
 description: "The metorex example program hash_methods/string_keys_in_copies_no_parens.rb and its output."
 ---
 
-`tests/_examples/hash_methods/string_keys_in_copies_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/hash_methods/string_keys_in_copies_no_parens.rb).
+`tests/_examples/hash_methods/string_keys_in_copies_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/hash_methods/string_keys_in_copies_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A copy of a hash with String keys keeps its own keys: adding to the copy

@@ -10,4 +10,4 @@ ruby/spec describes 3 methods in `core/marshal`, and Metorex implements 3 of the
 - **`Marshal.load`**: implemented, parameters `[[:req, :source], [:opt, :handler], [:key, :freeze]]`. Returns the result of converting the serialized data in source into a Ruby object (possibly with associated subordinate objects). [An example calling it](/examples/require-gem-home-gems-bundler-4-0-19-lib-bundler).
 - **`Marshal.restore`**: implemented, parameters `[[:req, :source], [:opt, :handler], [:key, :freeze]]`. Returns the result of converting the serialized data in source into a Ruby object (possibly with associated subordinate objects).
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

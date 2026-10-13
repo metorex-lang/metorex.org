@@ -4,7 +4,7 @@ slug: threads-killing-a-blocked-reader-no-parens
 description: "The metorex example program threads/killing_a_blocked_reader_no_parens.rb and its output."
 ---
 
-`tests/_examples/threads/killing_a_blocked_reader_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/killing_a_blocked_reader_no_parens.rb).
+`tests/_examples/threads/killing_a_blocked_reader_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/killing_a_blocked_reader_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A thread waiting to read a pipe or a socket is asleep, and killing it ends

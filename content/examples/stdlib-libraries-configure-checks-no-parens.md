@@ -4,7 +4,7 @@ slug: stdlib-libraries-configure-checks-no-parens
 description: "The metorex example program stdlib_libraries/configure_checks_no_parens.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/configure_checks_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/configure_checks_no_parens.rb).
+`tests/_examples/stdlib_libraries/configure_checks_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/configure_checks_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # mkmf's checks compile a small program to learn whether a header, library,

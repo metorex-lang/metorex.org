@@ -4,7 +4,7 @@ slug: builtins-numeric-edges-no-parens
 description: "The metorex example program builtins/numeric_edges_no_parens.rb and its output."
 ---
 
-`tests/_examples/builtins/numeric_edges_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/numeric_edges_no_parens.rb).
+`tests/_examples/builtins/numeric_edges_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/numeric_edges_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A large Integer equals a Float only when the Float holds that exact value.

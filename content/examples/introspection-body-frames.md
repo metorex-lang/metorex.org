@@ -4,7 +4,7 @@ slug: introspection-body-frames
 description: "The metorex example program introspection/body_frames.rb and its output."
 ---
 
-`tests/_examples/introspection/body_frames.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/body_frames.rb).
+`tests/_examples/introspection/body_frames.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/body_frames.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A class or module body names itself in a backtrace by the class or module

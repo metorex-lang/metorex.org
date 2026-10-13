@@ -4,7 +4,7 @@ slug: dates-zone-names-utc
 description: "The metorex example program dates/zone_names/utc.rb and its output."
 ---
 
-`tests/_examples/dates/zone_names/utc.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/dates/zone_names/utc.rb).
+`tests/_examples/dates/zone_names/utc.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/dates/zone_names/utc.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A zone written as UTC, as Z, or as a negative zero offset names UTC itself,

@@ -4,7 +4,7 @@ slug: symbols-and-ranges-range-cover-and-include-no-parens
 description: "The metorex example program symbols_and_ranges/range_cover_and_include_no_parens.rb and its output."
 ---
 
-`tests/_examples/symbols_and_ranges/range_cover_and_include_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/symbols_and_ranges/range_cover_and_include_no_parens.rb).
+`tests/_examples/symbols_and_ranges/range_cover_and_include_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/symbols_and_ranges/range_cover_and_include_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `cover?` with a Range asks whether every value of it falls inside.

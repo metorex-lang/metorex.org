@@ -4,7 +4,7 @@ slug: rex-errors-deprecations-raise-spec-raise-spec
 description: "The metorex example program rex/errors/deprecations_raise/spec/raise_spec.rb and its output."
 ---
 
-`tests/_examples/rex/errors/deprecations_raise/spec/raise_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/errors/deprecations_raise/spec/raise_spec.rb).
+`tests/_examples/rex/errors/deprecations_raise/spec/raise_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/errors/deprecations_raise/spec/raise_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 RSpec.configure(&:raise_errors_for_deprecations!)

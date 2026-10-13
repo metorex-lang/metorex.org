@@ -4,7 +4,7 @@ slug: c-extensions-c-sequence-outlines-no-parens
 description: "The metorex example program c_extensions/c_sequence_outlines_no_parens.rb and its output."
 ---
 
-`tests/_examples/c_extensions/c_sequence_outlines_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/c_extensions/c_sequence_outlines_no_parens.rb).
+`tests/_examples/c_extensions/c_sequence_outlines_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/c_extensions/c_sequence_outlines_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # The sequences of compiled code, as the C functions the debug gem declares

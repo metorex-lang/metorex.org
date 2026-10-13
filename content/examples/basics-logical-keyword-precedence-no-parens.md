@@ -4,7 +4,7 @@ slug: basics-logical-keyword-precedence-no-parens
 description: "The metorex example program basics/logical_keyword_precedence_no_parens.rb and its output."
 ---
 
-`tests/_examples/basics/logical_keyword_precedence_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/logical_keyword_precedence_no_parens.rb).
+`tests/_examples/basics/logical_keyword_precedence_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/logical_keyword_precedence_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `and` and `or` bind more loosely than an assignment, so each side is

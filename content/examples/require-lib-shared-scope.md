@@ -4,7 +4,7 @@ slug: require-lib-shared-scope
 description: "The metorex example program require/lib/shared_scope.rb and its output."
 ---
 
-`tests/_examples/require/lib/shared_scope.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/lib/shared_scope.rb).
+`tests/_examples/require/lib/shared_scope.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/lib/shared_scope.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Defines a constant, a method, and a class for the scope sharing test. A

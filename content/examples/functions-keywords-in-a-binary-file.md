@@ -4,7 +4,7 @@ slug: functions-keywords-in-a-binary-file
 description: "The metorex example program functions/keywords_in_a_binary_file.rb and its output."
 ---
 
-`tests/_examples/functions/keywords_in_a_binary_file.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/keywords_in_a_binary_file.rb).
+`tests/_examples/functions/keywords_in_a_binary_file.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/keywords_in_a_binary_file.rb){target=_blank rel=noopener}.
 
 ```metorex
 # encoding: binary

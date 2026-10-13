@@ -4,7 +4,7 @@ slug: programs-system-redirects
 description: "The metorex example program programs/system_redirects.rb and its output."
 ---
 
-`tests/_examples/programs/system_redirects.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/programs/system_redirects.rb).
+`tests/_examples/programs/system_redirects.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/programs/system_redirects.rb){target=_blank rel=noopener}.
 
 ```metorex
 require "tmpdir"

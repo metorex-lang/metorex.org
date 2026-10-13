@@ -4,7 +4,7 @@ slug: metaprogramming-class-exec-captured-local-named-like-a-function
 description: "The metorex example program metaprogramming/class_exec_captured_local_named_like_a_function.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/class_exec_captured_local_named_like_a_function.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/class_exec_captured_local_named_like_a_function.rb).
+`tests/_examples/metaprogramming/class_exec_captured_local_named_like_a_function.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/class_exec_captured_local_named_like_a_function.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Group

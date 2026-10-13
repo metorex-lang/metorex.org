@@ -4,7 +4,7 @@ slug: introspection-class-own-methods
 description: "The metorex example program introspection/class_own_methods.rb and its output."
 ---
 
-`tests/_examples/introspection/class_own_methods.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/class_own_methods.rb).
+`tests/_examples/introspection/class_own_methods.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/class_own_methods.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Every class answers the methods Class defines, which Class lists as its

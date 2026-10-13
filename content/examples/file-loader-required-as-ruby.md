@@ -4,7 +4,7 @@ slug: file-loader-required-as-ruby
 description: "The metorex example program file_loader/required_as_ruby.rb and its output."
 ---
 
-`tests/_examples/file_loader/required_as_ruby.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/file_loader/required_as_ruby.rb).
+`tests/_examples/file_loader/required_as_ruby.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/file_loader/required_as_ruby.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `require_relative` reads the path it is handed the way Ruby does: it names a

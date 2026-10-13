@@ -4,7 +4,7 @@ slug: callables-method-proc-blocks
 description: "The metorex example program callables/method_proc_blocks.rb and its output."
 ---
 
-`tests/_examples/callables/method_proc_blocks.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/method_proc_blocks.rb).
+`tests/_examples/callables/method_proc_blocks.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/method_proc_blocks.rb){target=_blank rel=noopener}.
 
 ```metorex
 def entries_from(&block)

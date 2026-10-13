@@ -4,7 +4,7 @@ slug: metaprogramming-kernel-method-objects
 description: "The metorex example program metaprogramming/kernel_method_objects.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/kernel_method_objects.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/kernel_method_objects.rb).
+`tests/_examples/metaprogramming/kernel_method_objects.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/kernel_method_objects.rb){target=_blank rel=noopener}.
 
 ```metorex
 # The Kernel methods every object answers can be taken as Method objects in

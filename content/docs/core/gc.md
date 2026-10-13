@@ -33,4 +33,4 @@ ruby/spec describes 19 methods in `core/gc`, and Metorex implements 18 of them. 
 - **`GC::Profiler.result`**: implemented, parameters `[]`. [An example calling it](/examples/builtins-core-class-additions).
 - **`GC::Profiler.total_time`**: implemented, parameters `[]`.
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

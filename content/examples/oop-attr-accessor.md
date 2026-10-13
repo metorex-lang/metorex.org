@@ -4,7 +4,7 @@ slug: oop-attr-accessor
 description: "The metorex example program oop/attr/accessor.rb and its output."
 ---
 
-`tests/_examples/oop/attr/accessor.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/attr/accessor.rb).
+`tests/_examples/oop/attr/accessor.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/attr/accessor.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Person

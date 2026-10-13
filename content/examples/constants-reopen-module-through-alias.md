@@ -4,7 +4,7 @@ slug: constants-reopen-module-through-alias
 description: "The metorex example program constants/reopen_module_through_alias.rb and its output."
 ---
 
-`tests/_examples/constants/reopen_module_through_alias.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/constants/reopen_module_through_alias.rb).
+`tests/_examples/constants/reopen_module_through_alias.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/constants/reopen_module_through_alias.rb){target=_blank rel=noopener}.
 
 ```metorex
 module Framework

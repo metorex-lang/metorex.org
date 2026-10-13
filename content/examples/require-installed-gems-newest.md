@@ -4,7 +4,7 @@ slug: require-installed-gems-newest
 description: "The metorex example program require/installed_gems_newest.rb and its output."
 ---
 
-`tests/_examples/require/installed_gems_newest.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/installed_gems_newest.rb).
+`tests/_examples/require/installed_gems_newest.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/installed_gems_newest.rb){target=_blank rel=noopener}.
 
 ```metorex
 # With GEM_HOME naming a directory of installed gems, `require` finds a file

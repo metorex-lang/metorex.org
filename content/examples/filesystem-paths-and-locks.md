@@ -4,7 +4,7 @@ slug: filesystem-paths-and-locks
 description: "The metorex example program filesystem/paths_and_locks.rb and its output."
 ---
 
-`tests/_examples/filesystem/paths_and_locks.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/paths_and_locks.rb).
+`tests/_examples/filesystem/paths_and_locks.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/paths_and_locks.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `dirname` drops the last part of a path, and a level says how many parts

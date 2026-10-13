@@ -4,7 +4,7 @@ slug: callables-block-local-before-assignment-no-parens
 description: "The metorex example program callables/block_local_before_assignment_no_parens.rb and its output."
 ---
 
-`tests/_examples/callables/block_local_before_assignment_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/block_local_before_assignment_no_parens.rb).
+`tests/_examples/callables/block_local_before_assignment_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/block_local_before_assignment_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 def written_before_the_assignment

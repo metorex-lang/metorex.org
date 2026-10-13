@@ -4,7 +4,7 @@ slug: programs-fizzbuzz-fizzbuzz
 description: "The metorex example program programs/fizzbuzz/fizzbuzz.rb and its output."
 ---
 
-`tests/_examples/programs/fizzbuzz/fizzbuzz.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/programs/fizzbuzz/fizzbuzz.rb).
+`tests/_examples/programs/fizzbuzz/fizzbuzz.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/programs/fizzbuzz/fizzbuzz.rb){target=_blank rel=noopener}.
 
 ```metorex
 # FizzBuzz: Classic programming challenge

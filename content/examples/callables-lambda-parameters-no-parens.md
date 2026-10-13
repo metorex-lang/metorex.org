@@ -4,7 +4,7 @@ slug: callables-lambda-parameters-no-parens
 description: "The metorex example program callables/lambda_parameters_no_parens.rb and its output."
 ---
 
-`tests/_examples/callables/lambda_parameters_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/lambda_parameters_no_parens.rb).
+`tests/_examples/callables/lambda_parameters_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/lambda_parameters_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A lambda written without parentheses takes defaults and keyword parameters,

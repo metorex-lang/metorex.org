@@ -4,7 +4,7 @@ slug: require-load-top-level-def-parens
 description: "The metorex example program require/load_top_level_def_parens.rb and its output."
 ---
 
-`tests/_examples/require/load_top_level_def_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/load_top_level_def_parens.rb).
+`tests/_examples/require/load_top_level_def_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/load_top_level_def_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 module Loader

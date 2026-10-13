@@ -4,7 +4,7 @@ slug: control-flow-break-inside-expression
 description: "The metorex example program control_flow/break_inside_expression.rb and its output."
 ---
 
-`tests/_examples/control_flow/break_inside_expression.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/break_inside_expression.rb).
+`tests/_examples/control_flow/break_inside_expression.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/break_inside_expression.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A `break` written inside an expression in the block of a built-in

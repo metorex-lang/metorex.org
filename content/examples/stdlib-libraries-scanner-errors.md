@@ -4,7 +4,7 @@ slug: stdlib-libraries-scanner-errors
 description: "The metorex example program stdlib_libraries/scanner_errors.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/scanner_errors.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/scanner_errors.rb).
+`tests/_examples/stdlib_libraries/scanner_errors.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/scanner_errors.rb){target=_blank rel=noopener}.
 
 ```metorex
 # The scanner reports an escape or a number MRI's lexer refuses and reads

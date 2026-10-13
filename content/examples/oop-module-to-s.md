@@ -4,7 +4,7 @@ slug: oop-module-to-s
 description: "The metorex example program oop/module_to_s.rb and its output."
 ---
 
-`tests/_examples/oop/module_to_s.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/module_to_s.rb).
+`tests/_examples/oop/module_to_s.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/module_to_s.rb){target=_blank rel=noopener}.
 
 ```metorex
 module Named

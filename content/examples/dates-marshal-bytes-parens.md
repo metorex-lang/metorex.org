@@ -4,7 +4,7 @@ slug: dates-marshal-bytes-parens
 description: "The metorex example program dates/marshal_bytes_parens.rb and its output."
 ---
 
-`tests/_examples/dates/marshal_bytes_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/dates/marshal_bytes_parens.rb).
+`tests/_examples/dates/marshal_bytes_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/dates/marshal_bytes_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `Time#_dump` writes the eight bytes Marshal stores a time as: the date and

@@ -4,7 +4,7 @@ slug: introspection-singleton-method
 description: "The metorex example program introspection/singleton_method.rb and its output."
 ---
 
-`tests/_examples/introspection/singleton_method.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/singleton_method.rb).
+`tests/_examples/introspection/singleton_method.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/singleton_method.rb){target=_blank rel=noopener}.
 
 ```metorex
 widget = Object.new

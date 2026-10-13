@@ -4,7 +4,7 @@ slug: site-language-blocks
 description: "The metorex example program site/language_blocks.rb and its output."
 ---
 
-`tests/_examples/site/language_blocks.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/site/language_blocks.rb).
+`tests/_examples/site/language_blocks.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/site/language_blocks.rb){target=_blank rel=noopener}.
 
 ```metorex
 def each_pair_of(items)

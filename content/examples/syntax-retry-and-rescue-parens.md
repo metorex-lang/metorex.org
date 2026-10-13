@@ -4,7 +4,7 @@ slug: syntax-retry-and-rescue-parens
 description: "The metorex example program syntax/retry_and_rescue_parens.rb and its output."
 ---
 
-`tests/_examples/syntax/retry_and_rescue_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/retry_and_rescue_parens.rb).
+`tests/_examples/syntax/retry_and_rescue_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/retry_and_rescue_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `retry` runs the begin body again from the top. It is only written inside a

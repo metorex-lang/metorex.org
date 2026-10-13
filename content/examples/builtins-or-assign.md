@@ -4,7 +4,7 @@ slug: builtins-or-assign
 description: "The metorex example program builtins/or_assign.rb and its output."
 ---
 
-`tests/_examples/builtins/or_assign.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/or_assign.rb).
+`tests/_examples/builtins/or_assign.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/or_assign.rb){target=_blank rel=noopener}.
 
 ```metorex
 # ||=

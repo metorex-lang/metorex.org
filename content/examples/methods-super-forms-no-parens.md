@@ -4,7 +4,7 @@ slug: methods-super-forms-no-parens
 description: "The metorex example program methods/super_forms_no_parens.rb and its output."
 ---
 
-`tests/_examples/methods/super_forms_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/super_forms_no_parens.rb).
+`tests/_examples/methods/super_forms_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/super_forms_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # What `super` reaches and what it hands on: a bare `super` passes the

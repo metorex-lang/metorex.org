@@ -4,7 +4,7 @@ slug: ractors-isolating-a-ractor-no-parens
 description: "The metorex example program ractors/isolating_a_ractor_no_parens.rb and its output."
 ---
 
-`tests/_examples/ractors/isolating_a_ractor_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/ractors/isolating_a_ractor_no_parens.rb).
+`tests/_examples/ractors/isolating_a_ractor_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/ractors/isolating_a_ractor_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A Ractor other than the main one may not reach the main program's locals,

@@ -4,7 +4,7 @@ slug: encodings-code-points-parens
 description: "The metorex example program encodings/code_points_parens.rb and its output."
 ---
 
-`tests/_examples/encodings/code_points_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/code_points_parens.rb).
+`tests/_examples/encodings/code_points_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/code_points_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `chr` names a character by its code. Written with no encoding, a code in the

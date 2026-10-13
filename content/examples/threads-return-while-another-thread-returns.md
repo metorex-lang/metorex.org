@@ -4,7 +4,7 @@ slug: threads-return-while-another-thread-returns
 description: "The metorex example program threads/return_while_another_thread_returns.rb and its output."
 ---
 
-`tests/_examples/threads/return_while_another_thread_returns.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/return_while_another_thread_returns.rb).
+`tests/_examples/threads/return_while_another_thread_returns.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/return_while_another_thread_returns.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A `return` in a block reaches its method even when another thread has

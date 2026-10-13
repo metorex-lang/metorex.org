@@ -4,7 +4,7 @@ slug: ruby-vm-instruction-sequences
 description: "The metorex example program ruby_vm/instruction_sequences.rb and its output."
 ---
 
-`tests/_examples/ruby_vm/instruction_sequences.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/ruby_vm/instruction_sequences.rb).
+`tests/_examples/ruby_vm/instruction_sequences.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/ruby_vm/instruction_sequences.rb){target=_blank rel=noopener}.
 
 ```metorex
 # RubyVM::InstructionSequence compiles a program, or names the method or

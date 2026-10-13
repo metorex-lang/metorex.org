@@ -4,7 +4,7 @@ slug: errors-kernel-fail
 description: "The metorex example program errors/kernel_fail.rb and its output."
 ---
 
-`tests/_examples/errors/kernel_fail.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/kernel_fail.rb).
+`tests/_examples/errors/kernel_fail.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/kernel_fail.rb){target=_blank rel=noopener}.
 
 ```metorex
 begin

@@ -4,7 +4,7 @@ slug: advanced-exception-handling
 description: "The metorex example program advanced/exception_handling.rb and its output."
 ---
 
-`tests/_examples/advanced/exception_handling.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/exception_handling.rb).
+`tests/_examples/advanced/exception_handling.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/exception_handling.rb){target=_blank rel=noopener}.
 
 ```metorex
 

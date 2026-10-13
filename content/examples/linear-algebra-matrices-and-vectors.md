@@ -4,7 +4,7 @@ slug: linear-algebra-matrices-and-vectors
 description: "The metorex example program linear_algebra/matrices_and_vectors.rb and its output."
 ---
 
-`tests/_examples/linear_algebra/matrices_and_vectors.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/linear_algebra/matrices_and_vectors.rb).
+`tests/_examples/linear_algebra/matrices_and_vectors.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/linear_algebra/matrices_and_vectors.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Rectangular arrays of numbers and the arithmetic over them.

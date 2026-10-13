@@ -4,7 +4,7 @@ slug: runtime-io-popen
 description: "The metorex example program runtime/io_popen.rb and its output."
 ---
 
-`tests/_examples/runtime/io_popen.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/io_popen.rb).
+`tests/_examples/runtime/io_popen.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/io_popen.rb){target=_blank rel=noopener}.
 
 ```metorex
 io = IO.popen "echo hello"

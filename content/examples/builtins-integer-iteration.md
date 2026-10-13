@@ -4,7 +4,7 @@ slug: builtins-integer-iteration
 description: "The metorex example program builtins/integer_iteration.rb and its output."
 ---
 
-`tests/_examples/builtins/integer_iteration.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/integer_iteration.rb).
+`tests/_examples/builtins/integer_iteration.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/integer_iteration.rb){target=_blank rel=noopener}.
 
 ```metorex
 1.upto(3) do |n|

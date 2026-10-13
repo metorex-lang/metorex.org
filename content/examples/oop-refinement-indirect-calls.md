@@ -4,7 +4,7 @@ slug: oop-refinement-indirect-calls
 description: "The metorex example program oop/refinement_indirect_calls.rb and its output."
 ---
 
-`tests/_examples/oop/refinement_indirect_calls.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/refinement_indirect_calls.rb).
+`tests/_examples/oop/refinement_indirect_calls.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/refinement_indirect_calls.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A refinement in force covers a call written out and one reached through

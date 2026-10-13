@@ -4,7 +4,7 @@ slug: stdlib-array-extended
 description: "The metorex example program stdlib/array/extended.rb and its output."
 ---
 
-`tests/_examples/stdlib/array/extended.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/array/extended.rb).
+`tests/_examples/stdlib/array/extended.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/array/extended.rb){target=_blank rel=noopener}.
 
 ```metorex
 a = [1, 2, 3, 4, 5]

@@ -4,7 +4,7 @@ slug: stdlib-libraries-forwarding
 description: "The metorex example program stdlib_libraries/forwarding.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/forwarding.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/forwarding.rb).
+`tests/_examples/stdlib_libraries/forwarding.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/forwarding.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Forwardable hands a call on to whatever an accessor names: an instance

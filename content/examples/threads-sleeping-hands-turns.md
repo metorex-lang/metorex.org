@@ -4,7 +4,7 @@ slug: threads-sleeping-hands-turns
 description: "The metorex example program threads/sleeping_hands_turns.rb and its output."
 ---
 
-`tests/_examples/threads/sleeping_hands_turns.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/sleeping_hands_turns.rb).
+`tests/_examples/threads/sleeping_hands_turns.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/sleeping_hands_turns.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A thread that sleeps for a length lets the other threads run until the

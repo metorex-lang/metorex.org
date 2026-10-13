@@ -4,7 +4,7 @@ slug: errors-exception-message-to-s
 description: "The metorex example program errors/exception_message/to_s.rb and its output."
 ---
 
-`tests/_examples/errors/exception_message/to_s.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/exception_message/to_s.rb).
+`tests/_examples/errors/exception_message/to_s.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/exception_message/to_s.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `Exception#to_s` is the message alone, and the class name when there is no

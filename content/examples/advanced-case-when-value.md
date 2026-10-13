@@ -4,7 +4,7 @@ slug: advanced-case-when-value
 description: "The metorex example program advanced/case_when_value.rb and its output."
 ---
 
-`tests/_examples/advanced/case_when_value.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/case_when_value.rb).
+`tests/_examples/advanced/case_when_value.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/case_when_value.rb){target=_blank rel=noopener}.
 
 ```metorex
 # case/when as last statement in method body should return value via ControlFlow::Value

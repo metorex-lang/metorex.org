@@ -4,7 +4,7 @@ slug: stdlib-libraries-http-response
 description: "The metorex example program stdlib_libraries/http_response.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/http_response.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/http_response.rb).
+`tests/_examples/stdlib_libraries/http_response.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/http_response.rb){target=_blank rel=noopener}.
 
 ```metorex
 require 'net/http'

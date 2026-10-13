@@ -4,7 +4,7 @@ slug: errors-rescue-scope-bare-rescue
 description: "The metorex example program errors/rescue_scope/bare_rescue.rb and its output."
 ---
 
-`tests/_examples/errors/rescue_scope/bare_rescue.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/rescue_scope/bare_rescue.rb).
+`tests/_examples/errors/rescue_scope/bare_rescue.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/rescue_scope/bare_rescue.rb){target=_blank rel=noopener}.
 
 ```metorex
 def caught_by_bare_rescue

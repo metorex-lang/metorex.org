@@ -4,7 +4,7 @@ slug: methods-define-method-super-from-a-subclass
 description: "The metorex example program methods/define_method_super_from_a_subclass.rb and its output."
 ---
 
-`tests/_examples/methods/define_method_super_from_a_subclass.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/define_method_super_from_a_subclass.rb).
+`tests/_examples/methods/define_method_super_from_a_subclass.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/define_method_super_from_a_subclass.rb){target=_blank rel=noopener}.
 
 ```metorex
 module Definitions

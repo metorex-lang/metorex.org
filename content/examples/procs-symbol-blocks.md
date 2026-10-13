@@ -4,7 +4,7 @@ slug: procs-symbol-blocks
 description: "The metorex example program procs/symbol_blocks.rb and its output."
 ---
 
-`tests/_examples/procs/symbol_blocks.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/procs/symbol_blocks.rb).
+`tests/_examples/procs/symbol_blocks.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/procs/symbol_blocks.rb){target=_blank rel=noopener}.
 
 ```metorex
 labels = [1, 2].map(&:to_s)

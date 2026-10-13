@@ -4,7 +4,7 @@ slug: rex-ordering-custom-spec-custom-spec
 description: "The metorex example program rex/ordering/custom/spec/custom_spec.rb and its output."
 ---
 
-`tests/_examples/rex/ordering/custom/spec/custom_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/ordering/custom/spec/custom_spec.rb).
+`tests/_examples/rex/ordering/custom/spec/custom_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/ordering/custom/spec/custom_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 RSpec.configure do |config|

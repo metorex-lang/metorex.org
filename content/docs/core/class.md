@@ -16,4 +16,4 @@ ruby/spec describes 9 methods in `core/class`, and Metorex implements 8 of them.
 - **`Class#subclasses`**: implemented, parameters `[]`. Returns an array of classes where the receiver is the direct superclass of the class, excluding singleton classes. [An example calling it](/examples/oop-class-subclasses).
 - **`Class#superclass`**: implemented, parameters `[]`. Returns the superclass of *class*, or `nil`. [An example calling it](/examples/basics-readline-and-readlines).
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

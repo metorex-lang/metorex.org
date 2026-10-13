@@ -4,7 +4,7 @@ slug: basics-numeric-equality-parens
 description: "The metorex example program basics/numeric_equality_parens.rb and its output."
 ---
 
-`tests/_examples/basics/numeric_equality_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/numeric_equality_parens.rb).
+`tests/_examples/basics/numeric_equality_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/numeric_equality_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 puts(1 == 1.0)

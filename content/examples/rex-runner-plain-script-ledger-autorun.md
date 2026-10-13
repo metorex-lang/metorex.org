@@ -4,7 +4,7 @@ slug: rex-runner-plain-script-ledger-autorun
 description: "The metorex example program rex/runner/plain_script/ledger_autorun.rb and its output."
 ---
 
-`tests/_examples/rex/runner/plain_script/ledger_autorun.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/runner/plain_script/ledger_autorun.rb).
+`tests/_examples/rex/runner/plain_script/ledger_autorun.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/runner/plain_script/ledger_autorun.rb){target=_blank rel=noopener}.
 
 ```metorex
 require "rspec/autorun"

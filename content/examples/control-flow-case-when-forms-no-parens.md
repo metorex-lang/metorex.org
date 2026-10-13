@@ -4,7 +4,7 @@ slug: control-flow-case-when-forms-no-parens
 description: "The metorex example program control_flow/case_when_forms_no_parens.rb and its output."
 ---
 
-`tests/_examples/control_flow/case_when_forms_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/case_when_forms_no_parens.rb).
+`tests/_examples/control_flow/case_when_forms_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/case_when_forms_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A `when` with no subject tests each value for truth, and a splat there names

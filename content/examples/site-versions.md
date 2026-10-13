@@ -4,7 +4,7 @@ slug: site-versions
 description: "The metorex example program site/versions.rb and its output."
 ---
 
-`tests/_examples/site/versions.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/site/versions.rb).
+`tests/_examples/site/versions.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/site/versions.rb){target=_blank rel=noopener}.
 
 ```metorex
 require "rspec/core"

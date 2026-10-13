@@ -4,7 +4,7 @@ slug: syntax-safe-navigation-operators
 description: "The metorex example program syntax/safe_navigation_operators.rb and its output."
 ---
 
-`tests/_examples/syntax/safe_navigation_operators.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/safe_navigation_operators.rb).
+`tests/_examples/syntax/safe_navigation_operators.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/safe_navigation_operators.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `&.` reaches `[]`, `[]=` and `.()` written as method names, and answers

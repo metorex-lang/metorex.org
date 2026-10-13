@@ -4,7 +4,7 @@ slug: advanced-threads-keep-their-class-variables
 description: "The metorex example program advanced/threads_keep_their_class_variables.rb and its output."
 ---
 
-`tests/_examples/advanced/threads_keep_their_class_variables.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/threads_keep_their_class_variables.rb).
+`tests/_examples/advanced/threads_keep_their_class_variables.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/threads_keep_their_class_variables.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Worker

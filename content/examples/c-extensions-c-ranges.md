@@ -4,7 +4,7 @@ slug: c-extensions-c-ranges
 description: "The metorex example program c_extensions/c_ranges.rb and its output."
 ---
 
-`tests/_examples/c_extensions/c_ranges.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/c_extensions/c_ranges.rb).
+`tests/_examples/c_extensions/c_ranges.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/c_extensions/c_ranges.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A C extension making Ranges, reading their ends, turning ranges and

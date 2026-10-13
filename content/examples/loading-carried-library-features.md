@@ -4,7 +4,7 @@ slug: loading-carried-library-features
 description: "The metorex example program loading/carried_library_features.rb and its output."
 ---
 
-`tests/_examples/loading/carried_library_features.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/loading/carried_library_features.rb).
+`tests/_examples/loading/carried_library_features.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/loading/carried_library_features.rb){target=_blank rel=noopener}.
 
 ```metorex
 p require("nkf")

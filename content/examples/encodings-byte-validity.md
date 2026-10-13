@@ -4,7 +4,7 @@ slug: encodings-byte-validity
 description: "The metorex example program encodings/byte_validity.rb and its output."
 ---
 
-`tests/_examples/encodings/byte_validity.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/byte_validity.rb).
+`tests/_examples/encodings/byte_validity.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/byte_validity.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Whether a run of bytes spells characters depends on the encoding it is read

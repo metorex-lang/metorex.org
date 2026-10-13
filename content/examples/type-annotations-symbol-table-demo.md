@@ -4,7 +4,7 @@ slug: type-annotations-symbol-table-demo
 description: "The metorex example program type_annotations/symbol_table_demo.rb and its output."
 ---
 
-`tests/_examples/type_annotations/symbol_table_demo.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/type_annotations/symbol_table_demo.rb).
+`tests/_examples/type_annotations/symbol_table_demo.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/type_annotations/symbol_table_demo.rb){target=_blank rel=noopener}.
 
 ```metorex
 counter = 0  # int

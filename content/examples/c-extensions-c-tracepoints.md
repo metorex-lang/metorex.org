@@ -4,7 +4,7 @@ slug: c-extensions-c-tracepoints
 description: "The metorex example program c_extensions/c_tracepoints.rb and its output."
 ---
 
-`tests/_examples/c_extensions/c_tracepoints.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/c_extensions/c_tracepoints.rb).
+`tests/_examples/c_extensions/c_tracepoints.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/c_extensions/c_tracepoints.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A C extension making a TracePoint whose hook is a C function, and turning

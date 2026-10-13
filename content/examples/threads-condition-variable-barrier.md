@@ -4,7 +4,7 @@ slug: threads-condition-variable-barrier
 description: "The metorex example program threads/condition_variable_barrier.rb and its output."
 ---
 
-`tests/_examples/threads/condition_variable_barrier.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/condition_variable_barrier.rb).
+`tests/_examples/threads/condition_variable_barrier.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/condition_variable_barrier.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Threads meeting at a barrier: each waits until the last one arrives, and the

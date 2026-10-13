@@ -9,7 +9,7 @@ ruby/spec describes 118 methods in `core/io`, and Metorex implements 117 of them
 ## IO
 
 - **`IO#<<`**: implemented, parameters `[[:req, :text]]`. Writes the given `object` to `self`, which must be opened for writing (see Access Modes); returns `self`; if `object` is not a string, it is converted via method `to_s`:
-- **`IO#advise`**: implemented, parameters `[[:req, :kind], [:opt, :offset], [:opt, :length]]`. Invokes Posix system call [posix_fadvise(2)](https://linux.die.net/man/2/posix_fadvise), which announces an intention to access data from the current file in a particular manner. [An example calling it](/examples/filesystem-stream-bytes).
+- **`IO#advise`**: implemented, parameters `[[:req, :kind], [:opt, :offset], [:opt, :length]]`. Invokes Posix system call [posix_fadvise(2)](https://linux.die.net/man/2/posix_fadvise){target=_blank rel=noopener}, which announces an intention to access data from the current file in a particular manner. [An example calling it](/examples/filesystem-stream-bytes).
 - **`IO#autoclose=`**: implemented, parameters `[[:req, :wanted]]`. Sets auto-close flag.
 - **`IO#autoclose?`**: implemented, parameters `[]`. Returns `true` if the underlying file descriptor of *ios* will be closed at its finalization or at calling #close, otherwise `false`.
 - **`IO#binmode`**: implemented, parameters `[]`. Sets the stream's data mode as binary (see Data Mode). [An example calling it](/examples/c-extensions-c-io).
@@ -32,7 +32,7 @@ ruby/spec describes 118 methods in `core/io`, and Metorex implements 117 of them
 - **`IO#eof`**: implemented, parameters `[]`. Returns `true` if the stream is positioned at its end, `false` otherwise; see Position:
 - **`IO#eof?`**: implemented, parameters `[]`. Returns `true` if the stream is positioned at its end, `false` otherwise; see Position: [An example calling it](/examples/builtins-argf-stream).
 - **`IO#external_encoding`**: implemented, parameters `[]`. Returns the Encoding object that represents the encoding of the stream, or `nil` if the stream is in write mode and no encoding is specified. [An example calling it](/examples/c-extensions-c-io).
-- **`IO#fcntl`**: implemented, parameters `[[:req, :command], [:opt, :argument]]`. Invokes Posix system call [fcntl(2)](https://linux.die.net/man/2/fcntl), which provides a mechanism for issuing low-level commands to control or query a file-oriented I/O stream. [An example calling it](/examples/filesystem-stream-redirection).
+- **`IO#fcntl`**: implemented, parameters `[[:req, :command], [:opt, :argument]]`. Invokes Posix system call [fcntl(2)](https://linux.die.net/man/2/fcntl){target=_blank rel=noopener}, which provides a mechanism for issuing low-level commands to control or query a file-oriented I/O stream. [An example calling it](/examples/filesystem-stream-redirection).
 - **`IO#fdatasync`**: implemented, parameters `[]`. Immediately writes to disk all data buffered in the stream, via the operating system's: <code>fdatasync(2)</code>, if supported, otherwise via <code>fsync(2)</code>, if supported; otherwise raises an exception.
 - **`IO#fileno`**: implemented, parameters `[]`. Returns the integer file descriptor for the stream: [An example calling it](/examples/c-extensions-c-io).
 - **`IO#flush`**: implemented, parameters `[]`. Flushes data buffered in `self` to the operating system (but does not necessarily flush data buffered in the operating system): [An example calling it](/examples/filesystem-stream-bytes).
@@ -45,7 +45,7 @@ ruby/spec describes 118 methods in `core/io`, and Metorex implements 117 of them
 - **`IO#initialize`**: implemented, parameters `[[:req, :number], [:opt, :mode], [:rest, :extra], [:keyrest, :options]]`. [An example calling it](/examples/errors-private-kernel-calls).
 - **`IO#inspect`**: implemented, parameters `[]`. Returns a string representation of `self`: [An example calling it](/examples/c-extensions-c-encodings).
 - **`IO#internal_encoding`**: implemented, parameters `[]`. Returns the Encoding object that represents the encoding of the internal string, if conversion is specified, or `nil` otherwise. [An example calling it](/examples/c-extensions-c-io).
-- **`IO#ioctl`**: implemented, parameters `[[:req, :request], [:opt, :argument]]`. Invokes Posix system call [ioctl(2)](https://linux.die.net/man/2/ioctl), which issues a low-level command to an I/O device.
+- **`IO#ioctl`**: implemented, parameters `[[:req, :request], [:opt, :argument]]`. Invokes Posix system call [ioctl(2)](https://linux.die.net/man/2/ioctl){target=_blank rel=noopener}, which issues a low-level command to an I/O device.
 - **`IO#isatty`**: implemented, parameters `[]`. Returns `true` if the stream is associated with a terminal device (tty), `false` otherwise:
 - **`IO#lineno`**: implemented, parameters `[]`. Returns the current line number for the stream; see Line Number. [An example calling it](/examples/c-extensions-c-debug).
 - **`IO#lineno=`**: implemented, parameters `[[:req, :held]]`. Sets and returns the line number for the stream; see Line Number.
@@ -77,9 +77,9 @@ ruby/spec describes 118 methods in `core/io`, and Metorex implements 117 of them
 - **`IO#reopen`**: implemented, parameters `[[:req, :target], [:opt, :mode]]`. Reassociates the stream with another stream, which may be of a different class. [An example calling it](/examples/c-extensions-c-methods).
 - **`IO#rewind`**: implemented, parameters `[]`. Repositions the stream to its beginning, setting both the position and the line number to zero; see Position and Line Number: [An example calling it](/examples/c-extensions-c-io).
 - **`IO#seek`**: implemented, parameters `[[:req, :offset], [:opt, :whence]]`. Seeks to the position given by integer `offset` (see Position) and constant `whence`, which is one of: [An example calling it](/examples/builtins-byte-views-reading).
-- **`IO.select`**: implemented, parameters `[[:opt, :readers], [:opt, :writers], [:opt, :errored], [:opt, :timeout]]`. Invokes system call [select(2)](https://linux.die.net/man/2/select), which monitors multiple file descriptors, waiting until one or more of the file descriptors becomes ready for some class of I/O operation. [An example calling it](/examples/io-select-waits-for-another-process).
+- **`IO.select`**: implemented, parameters `[[:opt, :readers], [:opt, :writers], [:opt, :errored], [:opt, :timeout]]`. Invokes system call [select(2)](https://linux.die.net/man/2/select){target=_blank rel=noopener}, which monitors multiple file descriptors, waiting until one or more of the file descriptors becomes ready for some class of I/O operation. [An example calling it](/examples/io-select-waits-for-another-process).
 - **`IO#set_encoding`**: implemented, parameters `[[:req, :external], [:opt, :internal], [:keyrest, :options]]`. See Encodings. [An example calling it](/examples/builtins-byte-views-reading).
-- **`IO#set_encoding_by_bom`**: implemented, parameters `[]`. If the stream begins with a BOM ([byte order marker](https://en.wikipedia.org/wiki/Byte_order_mark)), consumes the BOM and sets the external encoding accordingly; returns the result encoding if found, or `nil` otherwise:
+- **`IO#set_encoding_by_bom`**: implemented, parameters `[]`. If the stream begins with a BOM ([byte order marker](https://en.wikipedia.org/wiki/Byte_order_mark){target=_blank rel=noopener}), consumes the BOM and sets the external encoding accordingly; returns the result encoding if found, or `nil` otherwise:
 - **`IO#stat`**: implemented, parameters `[]`. Returns status information for *ios* as an object of type File::Stat. [An example calling it](/examples/introspection-count-objects).
 - **`IO#sync`**: implemented, parameters `[]`. Returns the current sync mode of the stream. [An example calling it](/examples/c-extensions-c-io).
 - **`IO#sync=`**: implemented, parameters `[[:req, :wanted]]`. Sets the *sync* *mode* for the stream to the given value; returns the given value.
@@ -130,4 +130,4 @@ ruby/spec describes 118 methods in `core/io`, and Metorex implements 117 of them
 - **`IO::Buffer#|`**: implemented, parameters `[[:req, :mask]]`. Generate a new buffer the same size as the source by applying the binary OR operation to the source, using the mask, repeating as necessary.
 - **`IO::Buffer#~`**: implemented, parameters `[]`. Generate a new buffer the same size as the source by applying the binary NOT operation to the source.
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

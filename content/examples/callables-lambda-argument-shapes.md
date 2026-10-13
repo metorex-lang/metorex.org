@@ -4,7 +4,7 @@ slug: callables-lambda-argument-shapes
 description: "The metorex example program callables/lambda_argument_shapes.rb and its output."
 ---
 
-`tests/_examples/callables/lambda_argument_shapes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/lambda_argument_shapes.rb).
+`tests/_examples/callables/lambda_argument_shapes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/lambda_argument_shapes.rb){target=_blank rel=noopener}.
 
 ```metorex
 keywords = ->(named:, optional: 2, **rest) { [named, optional, rest] }

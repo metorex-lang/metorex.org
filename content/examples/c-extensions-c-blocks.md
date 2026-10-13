@@ -4,7 +4,7 @@ slug: c-extensions-c-blocks
 description: "The metorex example program c_extensions/c_blocks.rb and its output."
 ---
 
-`tests/_examples/c_extensions/c_blocks.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/c_extensions/c_blocks.rb).
+`tests/_examples/c_extensions/c_blocks.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/c_extensions/c_blocks.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A C extension yielding to the block it was called with, working with

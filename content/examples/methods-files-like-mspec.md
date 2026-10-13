@@ -4,7 +4,7 @@ slug: methods-files-like-mspec
 description: "The metorex example program methods/files/like_mspec.rb and its output."
 ---
 
-`tests/_examples/methods/files/like_mspec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/files/like_mspec.rb).
+`tests/_examples/methods/files/like_mspec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/files/like_mspec.rb){target=_blank rel=noopener}.
 
 ```metorex
 def entries(p)

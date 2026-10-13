@@ -4,7 +4,7 @@ slug: methods-setter-on-a-class-needs-a-class-method
 description: "The metorex example program methods/setter_on_a_class_needs_a_class_method.rb and its output."
 ---
 
-`tests/_examples/methods/setter_on_a_class_needs_a_class_method.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/setter_on_a_class_needs_a_class_method.rb).
+`tests/_examples/methods/setter_on_a_class_needs_a_class_method.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/setter_on_a_class_needs_a_class_method.rb){target=_blank rel=noopener}.
 
 ```metorex
 module Settings

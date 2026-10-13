@@ -4,7 +4,7 @@ slug: metaprogramming-block-param-defaults
 description: "The metorex example program metaprogramming/block_param_defaults.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/block_param_defaults.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/block_param_defaults.rb).
+`tests/_examples/metaprogramming/block_param_defaults.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/block_param_defaults.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Block parameter defaults — written without parentheses where possible.

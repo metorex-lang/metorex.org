@@ -4,7 +4,7 @@ slug: stdlib-libraries-io-wait-forms
 description: "The metorex example program stdlib_libraries/io_wait_forms.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/io_wait_forms.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/io_wait_forms.rb).
+`tests/_examples/stdlib_libraries/io_wait_forms.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/io_wait_forms.rb){target=_blank rel=noopener}.
 
 ```metorex
 # IO#wait with an event mask answers the events that came ready, and with a

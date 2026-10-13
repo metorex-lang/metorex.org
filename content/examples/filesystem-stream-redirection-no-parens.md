@@ -4,7 +4,7 @@ slug: filesystem-stream-redirection-no-parens
 description: "The metorex example program filesystem/stream_redirection_no_parens.rb and its output."
 ---
 
-`tests/_examples/filesystem/stream_redirection_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/stream_redirection_no_parens.rb).
+`tests/_examples/filesystem/stream_redirection_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/stream_redirection_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A stream points at another place without changing the number the operating

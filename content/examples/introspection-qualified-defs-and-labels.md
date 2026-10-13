@@ -4,7 +4,7 @@ slug: introspection-qualified-defs-and-labels
 description: "The metorex example program introspection/qualified_defs_and_labels.rb and its output."
 ---
 
-`tests/_examples/introspection/qualified_defs_and_labels.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/qualified_defs_and_labels.rb).
+`tests/_examples/introspection/qualified_defs_and_labels.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/qualified_defs_and_labels.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `def Named.method` names the object it says rather than the class the body

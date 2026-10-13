@@ -43,4 +43,4 @@ ruby/spec describes 28 methods in `core/objectspace`, and Metorex implements 28 
 - **`ObjectSpace::WeakMap#size`**: implemented, parameters `[]`. Returns the number of referenced objects [An example calling it](/examples/advanced-threads-wait-on-processes-and-sockets).
 - **`ObjectSpace::WeakMap#values`**: implemented, parameters `[]`. Returns a new Array containing all values in the map. [An example calling it](/examples/data-structures-hash-methods).
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

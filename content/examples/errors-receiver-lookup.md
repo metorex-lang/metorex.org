@@ -4,7 +4,7 @@ slug: errors-receiver-lookup
 description: "The metorex example program errors/receiver/lookup.rb and its output."
 ---
 
-`tests/_examples/errors/receiver/lookup.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/receiver/lookup.rb).
+`tests/_examples/errors/receiver/lookup.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/receiver/lookup.rb){target=_blank rel=noopener}.
 
 ```metorex
 def caught

@@ -4,7 +4,7 @@ slug: oop-inspect-instance-variables
 description: "The metorex example program oop/inspect_instance_variables.rb and its output."
 ---
 
-`tests/_examples/oop/inspect_instance_variables.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/inspect_instance_variables.rb).
+`tests/_examples/oop/inspect_instance_variables.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/inspect_instance_variables.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Connection

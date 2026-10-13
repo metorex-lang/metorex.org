@@ -4,7 +4,7 @@ slug: encodings-c-locale
 description: "The metorex example program encodings/c_locale.rb and its output."
 ---
 
-`tests/_examples/encodings/c_locale.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/c_locale.rb).
+`tests/_examples/encodings/c_locale.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/c_locale.rb){target=_blank rel=noopener}.
 
 ```metorex
 # encoding: utf-8

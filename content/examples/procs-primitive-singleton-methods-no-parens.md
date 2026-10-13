@@ -4,7 +4,7 @@ slug: procs-primitive-singleton-methods-no-parens
 description: "The metorex example program procs/primitive_singleton_methods_no_parens.rb and its output."
 ---
 
-`tests/_examples/procs/primitive_singleton_methods_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/procs/primitive_singleton_methods_no_parens.rb).
+`tests/_examples/procs/primitive_singleton_methods_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/procs/primitive_singleton_methods_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A singleton method belongs to the one Proc, Method, or Binding it is

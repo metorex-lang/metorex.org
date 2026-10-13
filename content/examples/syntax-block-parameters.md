@@ -4,7 +4,7 @@ slug: syntax-block-parameters
 description: "The metorex example program syntax/block_parameters.rb and its output."
 ---
 
-`tests/_examples/syntax/block_parameters.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/block_parameters.rb).
+`tests/_examples/syntax/block_parameters.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/block_parameters.rb){target=_blank rel=noopener}.
 
 ```metorex
 # How a block binds what it is handed: a lone value spread across several

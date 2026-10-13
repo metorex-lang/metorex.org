@@ -4,7 +4,7 @@ slug: dates-clock-and-calendar
 description: "The metorex example program dates/clock_and_calendar.rb and its output."
 ---
 
-`tests/_examples/dates/clock_and_calendar.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/dates/clock_and_calendar.rb).
+`tests/_examples/dates/clock_and_calendar.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/dates/clock_and_calendar.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A DateTime is a calendar day with a time of day and an offset from UTC. The

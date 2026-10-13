@@ -4,7 +4,7 @@ slug: encodings-primitive-conversions-parens
 description: "The metorex example program encodings/primitive_conversions_parens.rb and its output."
 ---
 
-`tests/_examples/encodings/primitive_conversions_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/primitive_conversions_parens.rb).
+`tests/_examples/encodings/primitive_conversions_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/primitive_conversions_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `primitive_convert` carries what it can from a source buffer into a

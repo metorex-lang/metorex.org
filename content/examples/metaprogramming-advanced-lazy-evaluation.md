@@ -4,7 +4,7 @@ slug: metaprogramming-advanced-lazy-evaluation
 description: "The metorex example program metaprogramming/advanced/lazy_evaluation.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/advanced/lazy_evaluation.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/advanced/lazy_evaluation.rb).
+`tests/_examples/metaprogramming/advanced/lazy_evaluation.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/advanced/lazy_evaluation.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Lazy Evaluation: Defer computation until the value is needed

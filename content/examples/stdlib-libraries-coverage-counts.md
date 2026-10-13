@@ -4,7 +4,7 @@ slug: stdlib-libraries-coverage-counts
 description: "The metorex example program stdlib_libraries/coverage_counts.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/coverage_counts.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/coverage_counts.rb).
+`tests/_examples/stdlib_libraries/coverage_counts.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/coverage_counts.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Coverage counts how often each line of a file loaded while it is measuring

@@ -4,7 +4,7 @@ slug: rex-mocks-verified-partials-spec-verified-partials-spec
 description: "The metorex example program rex/mocks/verified_partials/spec/verified_partials_spec.rb and its output."
 ---
 
-`tests/_examples/rex/mocks/verified_partials/spec/verified_partials_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/mocks/verified_partials/spec/verified_partials_spec.rb).
+`tests/_examples/rex/mocks/verified_partials/spec/verified_partials_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/mocks/verified_partials/spec/verified_partials_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Ledger

@@ -4,7 +4,7 @@ slug: runtime-loops
 description: "The metorex example program runtime/loops.rb and its output."
 ---
 
-`tests/_examples/runtime/loops.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/loops.rb).
+`tests/_examples/runtime/loops.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/loops.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Control Flow Examples - If/Else and While Loops

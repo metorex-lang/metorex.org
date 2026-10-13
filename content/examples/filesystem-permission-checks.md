@@ -4,7 +4,7 @@ slug: filesystem-permission-checks
 description: "The metorex example program filesystem/permission_checks.rb and its output."
 ---
 
-`tests/_examples/filesystem/permission_checks.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/permission_checks.rb).
+`tests/_examples/filesystem/permission_checks.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/permission_checks.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A file's permission bits answer `readable?`, `writable?` and `executable?`

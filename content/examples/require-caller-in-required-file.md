@@ -4,7 +4,7 @@ slug: require-caller-in-required-file
 description: "The metorex example program require/caller_in_required_file.rb and its output."
 ---
 
-`tests/_examples/require/caller_in_required_file.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/caller_in_required_file.rb).
+`tests/_examples/require/caller_in_required_file.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/caller_in_required_file.rb){target=_blank rel=noopener}.
 
 ```metorex
 # The innermost frame `caller` and `caller_locations` report names the file

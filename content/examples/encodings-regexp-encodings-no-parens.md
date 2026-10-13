@@ -4,7 +4,7 @@ slug: encodings-regexp-encodings-no-parens
 description: "The metorex example program encodings/regexp_encodings_no_parens.rb and its output."
 ---
 
-`tests/_examples/encodings/regexp_encodings_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/regexp_encodings_no_parens.rb).
+`tests/_examples/encodings/regexp_encodings_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/regexp_encodings_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # The encoding a pattern matches in: the letter written after it, the pieces

@@ -4,7 +4,7 @@ slug: introspection-what-the-space-holds-no-parens
 description: "The metorex example program introspection/what_the_space_holds_no_parens.rb and its output."
 ---
 
-`tests/_examples/introspection/what_the_space_holds_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/what_the_space_holds_no_parens.rb).
+`tests/_examples/introspection/what_the_space_holds_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/what_the_space_holds_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # What the object space can say about a program: the readings the collector

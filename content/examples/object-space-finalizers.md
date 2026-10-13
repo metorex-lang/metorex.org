@@ -4,7 +4,7 @@ slug: object-space-finalizers
 description: "The metorex example program object_space/finalizers.rb and its output."
 ---
 
-`tests/_examples/object_space/finalizers.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/object_space/finalizers.rb).
+`tests/_examples/object_space/finalizers.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/object_space/finalizers.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Finalizers run as the program ends, including one defined while they run.

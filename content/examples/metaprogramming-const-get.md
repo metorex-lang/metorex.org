@@ -4,7 +4,7 @@ slug: metaprogramming-const-get
 description: "The metorex example program metaprogramming/const_get.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/const_get.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/const_get.rb).
+`tests/_examples/metaprogramming/const_get.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/const_get.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Module#const_get — written without parentheses where possible. Covers

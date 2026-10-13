@@ -4,7 +4,7 @@ slug: errors-syntax-error-path
 description: "The metorex example program errors/syntax_error/path.rb and its output."
 ---
 
-`tests/_examples/errors/syntax_error/path.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/syntax_error/path.rb).
+`tests/_examples/errors/syntax_error/path.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/syntax_error/path.rb){target=_blank rel=noopener}.
 
 ```metorex
 p SyntaxError.new.path

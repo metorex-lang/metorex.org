@@ -4,7 +4,7 @@ slug: oop-test-method-missing
 description: "The metorex example program oop/test/method_missing.rb and its output."
 ---
 
-`tests/_examples/oop/test/method_missing.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/test/method_missing.rb).
+`tests/_examples/oop/test/method_missing.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/test/method_missing.rb){target=_blank rel=noopener}.
 
 ```metorex
 class DynamicProxy

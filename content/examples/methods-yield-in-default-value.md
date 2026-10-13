@@ -4,7 +4,7 @@ slug: methods-yield-in-default-value
 description: "The metorex example program methods/yield_in_default_value.rb and its output."
 ---
 
-`tests/_examples/methods/yield_in_default_value.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/yield_in_default_value.rb).
+`tests/_examples/methods/yield_in_default_value.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/yield_in_default_value.rb){target=_blank rel=noopener}.
 
 ```metorex
 def each_doubled(transform = proc { |value| yield value * 2 })

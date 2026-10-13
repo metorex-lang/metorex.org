@@ -4,7 +4,7 @@ slug: array-methods-in-place-and-walks-no-parens
 description: "The metorex example program array_methods/in_place_and_walks_no_parens.rb and its output."
 ---
 
-`tests/_examples/array_methods/in_place_and_walks_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/array_methods/in_place_and_walks_no_parens.rb).
+`tests/_examples/array_methods/in_place_and_walks_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/array_methods/in_place_and_walks_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 numbers = [3, 1, nil, 2]

@@ -4,7 +4,7 @@ slug: oop-equality-not-equal
 description: "The metorex example program oop/equality/not_equal.rb and its output."
 ---
 
-`tests/_examples/oop/equality/not_equal.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/equality/not_equal.rb).
+`tests/_examples/oop/equality/not_equal.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/equality/not_equal.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `!=` is the negation of `==`, so defining only `==` gives a class both.

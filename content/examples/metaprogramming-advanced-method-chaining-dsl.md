@@ -4,7 +4,7 @@ slug: metaprogramming-advanced-method-chaining-dsl
 description: "The metorex example program metaprogramming/advanced/method/chaining_dsl.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/advanced/method/chaining_dsl.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/advanced/method/chaining_dsl.rb).
+`tests/_examples/metaprogramming/advanced/method/chaining_dsl.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/advanced/method/chaining_dsl.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Method Chaining DSL: Build fluent interfaces

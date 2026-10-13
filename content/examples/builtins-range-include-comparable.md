@@ -4,7 +4,7 @@ slug: builtins-range-include-comparable
 description: "The metorex example program builtins/range_include_comparable.rb and its output."
 ---
 
-`tests/_examples/builtins/range_include_comparable.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/range_include_comparable.rb).
+`tests/_examples/builtins/range_include_comparable.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/range_include_comparable.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Version

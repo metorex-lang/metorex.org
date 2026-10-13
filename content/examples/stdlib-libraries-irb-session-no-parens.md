@@ -4,7 +4,7 @@ slug: stdlib-libraries-irb-session-no-parens
 description: "The metorex example program stdlib_libraries/irb_session_no_parens.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/irb_session_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/irb_session_no_parens.rb).
+`tests/_examples/stdlib_libraries/irb_session_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/irb_session_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `binding.irb` reads Ruby from standard input and runs it with the

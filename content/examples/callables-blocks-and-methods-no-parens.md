@@ -4,7 +4,7 @@ slug: callables-blocks-and-methods-no-parens
 description: "The metorex example program callables/blocks_and_methods_no_parens.rb and its output."
 ---
 
-`tests/_examples/callables/blocks_and_methods_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/blocks_and_methods_no_parens.rb).
+`tests/_examples/callables/blocks_and_methods_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/blocks_and_methods_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 pair = proc { |(a, b)| [a, b] }

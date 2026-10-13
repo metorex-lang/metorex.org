@@ -4,7 +4,7 @@ slug: basics-floats-numeric-protocol
 description: "The metorex example program basics/floats/numeric_protocol.rb and its output."
 ---
 
-`tests/_examples/basics/floats/numeric_protocol.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/floats/numeric_protocol.rb).
+`tests/_examples/basics/floats/numeric_protocol.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/floats/numeric_protocol.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Numeric carries the protocol every number answers, written in terms of the

@@ -4,7 +4,7 @@ slug: rescue-reraise-scope-test
 description: "The metorex example program rescue/reraise_scope_test.rb and its output."
 ---
 
-`tests/_examples/rescue/reraise_scope_test.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rescue/reraise_scope_test.rb).
+`tests/_examples/rescue/reraise_scope_test.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rescue/reraise_scope_test.rb){target=_blank rel=noopener}.
 
 ```metorex
 class MSpec

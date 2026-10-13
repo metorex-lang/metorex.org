@@ -4,7 +4,7 @@ slug: oop-attr-reader
 description: "The metorex example program oop/attr/reader.rb and its output."
 ---
 
-`tests/_examples/oop/attr/reader.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/attr/reader.rb).
+`tests/_examples/oop/attr/reader.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/attr/reader.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Person

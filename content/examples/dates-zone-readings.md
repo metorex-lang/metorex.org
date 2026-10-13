@@ -4,7 +4,7 @@ slug: dates-zone-readings
 description: "The metorex example program dates/zone_readings.rb and its output."
 ---
 
-`tests/_examples/dates/zone_readings.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/dates/zone_readings.rb).
+`tests/_examples/dates/zone_readings.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/dates/zone_readings.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A Time may be read in a zone named as an offset, as one of the military

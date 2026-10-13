@@ -4,7 +4,7 @@ slug: control-flow-logical-operators
 description: "The metorex example program control_flow/logical_operators.rb and its output."
 ---
 
-`tests/_examples/control_flow/logical_operators.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/logical_operators.rb).
+`tests/_examples/control_flow/logical_operators.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/logical_operators.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Logical operators: && and ||

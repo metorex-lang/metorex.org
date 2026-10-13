@@ -4,7 +4,7 @@ slug: require-gem-home-gems-bundler-4-0-19-lib-bundler-plugin-api-source
 description: "The metorex example program require/gem_home/gems/bundler-4.0.19/lib/bundler/plugin/api/source.rb and its output."
 ---
 
-`tests/_examples/require/gem_home/gems/bundler-4.0.19/lib/bundler/plugin/api/source.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/gem_home/gems/bundler-4.0.19/lib/bundler/plugin/api/source.rb).
+`tests/_examples/require/gem_home/gems/bundler-4.0.19/lib/bundler/plugin/api/source.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/gem_home/gems/bundler-4.0.19/lib/bundler/plugin/api/source.rb){target=_blank rel=noopener}.
 
 ```metorex
 # frozen_string_literal: true

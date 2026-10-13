@@ -4,7 +4,7 @@ slug: stdlib-libraries-http-request-exec
 description: "The metorex example program stdlib_libraries/http_request_exec.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/http_request_exec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/http_request_exec.rb).
+`tests/_examples/stdlib_libraries/http_request_exec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/http_request_exec.rb){target=_blank rel=noopener}.
 
 ```metorex
 require 'net/http'

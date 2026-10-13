@@ -4,7 +4,7 @@ slug: encodings-source-encoding-and-new-no-parens
 description: "The metorex example program encodings/source_encoding_and_new_no_parens.rb and its output."
 ---
 
-`tests/_examples/encodings/source_encoding_and_new_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/source_encoding_and_new_no_parens.rb).
+`tests/_examples/encodings/source_encoding_and_new_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/source_encoding_and_new_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # encoding: us-ascii

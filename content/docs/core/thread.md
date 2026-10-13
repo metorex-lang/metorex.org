@@ -86,4 +86,4 @@ ruby/spec describes 69 methods in `core/thread`, and Metorex implements 67 of th
 - **`Thread::Backtrace::Location#syntax_tree`**: not implemented.
 - **`Thread::Backtrace::Location#to_s`**: implemented, parameters `[]`. Returns a Kernel#caller style string representing this frame. [An example calling it](/examples/addresses-internet-addresses).
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

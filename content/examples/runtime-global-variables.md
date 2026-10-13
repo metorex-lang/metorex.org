@@ -4,7 +4,7 @@ slug: runtime-global-variables
 description: "The metorex example program runtime/global/variables.rb and its output."
 ---
 
-`tests/_examples/runtime/global/variables.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/global/variables.rb).
+`tests/_examples/runtime/global/variables.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/global/variables.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Global variables with $ prefix

@@ -4,7 +4,7 @@ slug: introspection-public-method
 description: "The metorex example program introspection/public_method.rb and its output."
 ---
 
-`tests/_examples/introspection/public_method.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/public_method.rb).
+`tests/_examples/introspection/public_method.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/public_method.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Vault

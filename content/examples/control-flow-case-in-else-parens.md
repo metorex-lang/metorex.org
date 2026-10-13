@@ -4,7 +4,7 @@ slug: control-flow-case-in-else-parens
 description: "The metorex example program control_flow/case_in_else_parens.rb and its output."
 ---
 
-`tests/_examples/control_flow/case_in_else_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/case_in_else_parens.rb).
+`tests/_examples/control_flow/case_in_else_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/case_in_else_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # case/in with else clause (no NoMatchingPatternError), with parentheses

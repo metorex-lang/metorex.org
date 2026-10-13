@@ -4,7 +4,7 @@ slug: filesystem-io-encoding-rules
 description: "The metorex example program filesystem/io_encoding_rules.rb and its output."
 ---
 
-`tests/_examples/filesystem/io_encoding_rules.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/io_encoding_rules.rb).
+`tests/_examples/filesystem/io_encoding_rules.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/io_encoding_rules.rb){target=_blank rel=noopener}.
 
 ```metorex
 require "tmpdir"

@@ -4,7 +4,7 @@ slug: stdlib-libraries-time-limits-no-parens
 description: "The metorex example program stdlib_libraries/time_limits_no_parens.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/time_limits_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/time_limits_no_parens.rb).
+`tests/_examples/stdlib_libraries/time_limits_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/time_limits_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A block given a limit on how long it may run, and the collector's settings.

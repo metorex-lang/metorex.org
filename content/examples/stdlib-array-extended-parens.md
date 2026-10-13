@@ -4,7 +4,7 @@ slug: stdlib-array-extended-parens
 description: "The metorex example program stdlib/array/extended_parens.rb and its output."
 ---
 
-`tests/_examples/stdlib/array/extended_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/array/extended_parens.rb).
+`tests/_examples/stdlib/array/extended_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/array/extended_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 a = [1, 2, 3, 4, 5]

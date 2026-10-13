@@ -4,7 +4,7 @@ slug: strings-copies-and-dumps
 description: "The metorex example program strings/copies_and_dumps.rb and its output."
 ---
 
-`tests/_examples/strings/copies_and_dumps.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/copies_and_dumps.rb).
+`tests/_examples/strings/copies_and_dumps.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/copies_and_dumps.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A copy of a string holds its own characters, so changing one of them leaves

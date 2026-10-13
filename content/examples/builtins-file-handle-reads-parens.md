@@ -4,7 +4,7 @@ slug: builtins-file-handle-reads-parens
 description: "The metorex example program builtins/file_handle_reads_parens.rb and its output."
 ---
 
-`tests/_examples/builtins/file_handle_reads_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/file_handle_reads_parens.rb).
+`tests/_examples/builtins/file_handle_reads_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/file_handle_reads_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # An open handle reads a character at a time, moves about, and reports where

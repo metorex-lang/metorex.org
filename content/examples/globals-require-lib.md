@@ -4,7 +4,7 @@ slug: globals-require-lib
 description: "The metorex example program globals/require/lib.rb and its output."
 ---
 
-`tests/_examples/globals/require/lib.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/globals/require/lib.rb).
+`tests/_examples/globals/require/lib.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/globals/require/lib.rb){target=_blank rel=noopener}.
 
 ```metorex
 GREETING = "hello from lib"

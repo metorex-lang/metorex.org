@@ -4,7 +4,7 @@ slug: syntax-grouped-targets
 description: "The metorex example program syntax/grouped_targets.rb and its output."
 ---
 
-`tests/_examples/syntax/grouped_targets.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/grouped_targets.rb).
+`tests/_examples/syntax/grouped_targets.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/grouped_targets.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A multiple assignment may group its targets, and a group takes its value

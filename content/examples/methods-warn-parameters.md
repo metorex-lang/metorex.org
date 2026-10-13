@@ -4,7 +4,7 @@ slug: methods-warn-parameters
 description: "The metorex example program methods/warn_parameters.rb and its output."
 ---
 
-`tests/_examples/methods/warn_parameters.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/warn_parameters.rb).
+`tests/_examples/methods/warn_parameters.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/warn_parameters.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `Kernel#warn` names the keywords it takes.

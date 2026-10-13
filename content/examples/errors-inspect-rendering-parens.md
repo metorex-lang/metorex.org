@@ -4,7 +4,7 @@ slug: errors-inspect-rendering-parens
 description: "The metorex example program errors/inspect/rendering_parens.rb and its output."
 ---
 
-`tests/_examples/errors/inspect/rendering_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/inspect/rendering_parens.rb).
+`tests/_examples/errors/inspect/rendering_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/inspect/rendering_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `Exception#inspect` reads `#<ClassName: message>`, using whatever `to_s`

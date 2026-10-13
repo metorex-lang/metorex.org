@@ -4,7 +4,7 @@ slug: encodings-held-back-bytes
 description: "The metorex example program encodings/held_back_bytes.rb and its output."
 ---
 
-`tests/_examples/encodings/held_back_bytes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/held_back_bytes.rb).
+`tests/_examples/encodings/held_back_bytes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/held_back_bytes.rb){target=_blank rel=noopener}.
 
 ```metorex
 # encoding: binary

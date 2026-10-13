@@ -4,7 +4,7 @@ slug: stdlib-libraries-templates-and-commands
 description: "The metorex example program stdlib_libraries/templates_and_commands.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/templates_and_commands.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/templates_and_commands.rb).
+`tests/_examples/stdlib_libraries/templates_and_commands.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/templates_and_commands.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Templates with Ruby in them, and running a command to see what it wrote.

@@ -4,7 +4,7 @@ slug: regexp-end-of-subject
 description: "The metorex example program regexp/end_of_subject.rb and its output."
 ---
 
-`tests/_examples/regexp/end_of_subject.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/regexp/end_of_subject.rb).
+`tests/_examples/regexp/end_of_subject.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/regexp/end_of_subject.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `\z` stands at the very end of the subject, and `\Z` stands there too or

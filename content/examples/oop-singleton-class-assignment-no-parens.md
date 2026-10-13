@@ -4,7 +4,7 @@ slug: oop-singleton-class-assignment-no-parens
 description: "The metorex example program oop/singleton_class_assignment_no_parens.rb and its output."
 ---
 
-`tests/_examples/oop/singleton_class_assignment_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/singleton_class_assignment_no_parens.rb).
+`tests/_examples/oop/singleton_class_assignment_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/singleton_class_assignment_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 class << $receiver = Object.new

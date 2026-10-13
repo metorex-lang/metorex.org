@@ -4,7 +4,7 @@ slug: stdlib-libraries-addrinfo-from-arrays
 description: "The metorex example program stdlib_libraries/addrinfo_from_arrays.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/addrinfo_from_arrays.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/addrinfo_from_arrays.rb).
+`tests/_examples/stdlib_libraries/addrinfo_from_arrays.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/addrinfo_from_arrays.rb){target=_blank rel=noopener}.
 
 ```metorex
 # An Addrinfo built from the array IPSocket#addr answers is checked the way

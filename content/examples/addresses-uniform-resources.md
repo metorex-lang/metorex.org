@@ -4,7 +4,7 @@ slug: addresses-uniform-resources
 description: "The metorex example program addresses/uniform_resources.rb and its output."
 ---
 
-`tests/_examples/addresses/uniform_resources.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/addresses/uniform_resources.rb).
+`tests/_examples/addresses/uniform_resources.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/addresses/uniform_resources.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A URI is split into the components RFC 2396 names, and the scheme decides

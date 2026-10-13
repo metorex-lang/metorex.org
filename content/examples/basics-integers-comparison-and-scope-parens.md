@@ -4,7 +4,7 @@ slug: basics-integers-comparison-and-scope-parens
 description: "The metorex example program basics/integers/comparison_and_scope_parens.rb and its output."
 ---
 
-`tests/_examples/basics/integers/comparison_and_scope_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/integers/comparison_and_scope_parens.rb).
+`tests/_examples/basics/integers/comparison_and_scope_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/integers/comparison_and_scope_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Comparable is mixed into the classes whose values have an order.

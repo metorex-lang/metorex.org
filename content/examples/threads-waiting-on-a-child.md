@@ -4,7 +4,7 @@ slug: threads-waiting-on-a-child
 description: "The metorex example program threads/waiting_on_a_child.rb and its output."
 ---
 
-`tests/_examples/threads/waiting_on_a_child.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/waiting_on_a_child.rb).
+`tests/_examples/threads/waiting_on_a_child.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/waiting_on_a_child.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A thread waiting on a child process lets the other threads run, so the

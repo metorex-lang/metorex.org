@@ -4,7 +4,7 @@ slug: ruby-vm-syntax-error-messages
 description: "The metorex example program ruby_vm/syntax_error_messages.rb and its output."
 ---
 
-`tests/_examples/ruby_vm/syntax_error_messages.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/ruby_vm/syntax_error_messages.rb).
+`tests/_examples/ruby_vm/syntax_error_messages.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/ruby_vm/syntax_error_messages.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A program the parser refuses raises SyntaxError naming the token it met

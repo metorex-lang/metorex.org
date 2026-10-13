@@ -4,7 +4,7 @@ slug: paths-naming-files
 description: "The metorex example program paths/naming_files.rb and its output."
 ---
 
-`tests/_examples/paths/naming_files.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/paths/naming_files.rb).
+`tests/_examples/paths/naming_files.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/paths/naming_files.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A Pathname is a filesystem path as an object, with the naming operations

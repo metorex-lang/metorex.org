@@ -4,7 +4,7 @@ slug: metaprogramming-define-method-from-callable
 description: "The metorex example program metaprogramming/define_method_from_callable.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/define_method_from_callable.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/define_method_from_callable.rb).
+`tests/_examples/metaprogramming/define_method_from_callable.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/define_method_from_callable.rb){target=_blank rel=noopener}.
 
 ```metorex
 borrowed = Class.new do

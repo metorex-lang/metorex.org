@@ -4,7 +4,7 @@ slug: array-methods-conversion-and-draws
 description: "The metorex example program array_methods/conversion_and_draws.rb and its output."
 ---
 
-`tests/_examples/array_methods/conversion_and_draws.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/array_methods/conversion_and_draws.rb).
+`tests/_examples/array_methods/conversion_and_draws.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/array_methods/conversion_and_draws.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Array.try_convert and Hash.try_convert ask an object what it stands for, and

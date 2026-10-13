@@ -4,7 +4,7 @@ slug: oop-super-chain
 description: "The metorex example program oop/super/chain.rb and its output."
 ---
 
-`tests/_examples/oop/super/chain.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/super/chain.rb).
+`tests/_examples/oop/super/chain.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/super/chain.rb){target=_blank rel=noopener}.
 
 ```metorex
 class GrandParent

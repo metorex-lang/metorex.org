@@ -4,7 +4,7 @@ slug: errors-name-error-details
 description: "The metorex example program errors/name_error_details.rb and its output."
 ---
 
-`tests/_examples/errors/name_error_details.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/name_error_details.rb).
+`tests/_examples/errors/name_error_details.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/name_error_details.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A NameError carries the object a name was looked up on and the local

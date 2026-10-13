@@ -4,7 +4,7 @@ slug: strings-byte-searches
 description: "The metorex example program strings/byte_searches.rb and its output."
 ---
 
-`tests/_examples/strings/byte_searches.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/byte_searches.rb).
+`tests/_examples/strings/byte_searches.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/byte_searches.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `byteindex` and `byterindex` answer where a needle sits, counted in bytes,

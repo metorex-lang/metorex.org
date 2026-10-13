@@ -4,7 +4,7 @@ slug: advanced-threads-take-turns-no-parens
 description: "The metorex example program advanced/threads_take_turns_no_parens.rb and its output."
 ---
 
-`tests/_examples/advanced/threads_take_turns_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/threads_take_turns_no_parens.rb).
+`tests/_examples/advanced/threads_take_turns_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/threads_take_turns_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A thread hands the turn over once it has run for a time slice, however

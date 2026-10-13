@@ -4,7 +4,7 @@ slug: builtins-loop-enumerator
 description: "The metorex example program builtins/loop_enumerator.rb and its output."
 ---
 
-`tests/_examples/builtins/loop_enumerator.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/loop_enumerator.rb).
+`tests/_examples/builtins/loop_enumerator.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/loop_enumerator.rb){target=_blank rel=noopener}.
 
 ```metorex
 counted = 0

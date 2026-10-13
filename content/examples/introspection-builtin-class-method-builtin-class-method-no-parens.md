@@ -4,7 +4,7 @@ slug: introspection-builtin-class-method-builtin-class-method-no-parens
 description: "The metorex example program introspection/builtin_class_method/builtin_class_method_no_parens.rb and its output."
 ---
 
-`tests/_examples/introspection/builtin_class_method/builtin_class_method_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/builtin_class_method/builtin_class_method_no_parens.rb).
+`tests/_examples/introspection/builtin_class_method/builtin_class_method_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/builtin_class_method/builtin_class_method_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 a = [1, 2, 3]

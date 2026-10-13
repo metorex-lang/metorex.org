@@ -4,7 +4,7 @@ slug: c-extensions-c-calls
 description: "The metorex example program c_extensions/c_calls.rb and its output."
 ---
 
-`tests/_examples/c_extensions/c_calls.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/c_extensions/c_calls.rb).
+`tests/_examples/c_extensions/c_calls.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/c_extensions/c_calls.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A C extension calling back into Ruby: methods by name, constants, Marshal,

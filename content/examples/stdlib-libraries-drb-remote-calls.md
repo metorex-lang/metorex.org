@@ -4,7 +4,7 @@ slug: stdlib-libraries-drb-remote-calls
 description: "The metorex example program stdlib_libraries/drb_remote_calls.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/drb_remote_calls.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/drb_remote_calls.rb).
+`tests/_examples/stdlib_libraries/drb_remote_calls.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/drb_remote_calls.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A DRb server in one process answers method calls made from another. Values

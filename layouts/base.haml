@@ -4,6 +4,13 @@
     %meta{charset: 'utf-8'}
     %meta{name: 'viewport', content: 'width=device-width, initial-scale=1'}
     :plain
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-DHW39WEM7G"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-DHW39WEM7G');
+      </script>
       <script>(function(){var root=document.documentElement;var stored=null;try{stored=localStorage.getItem('theme')}catch(error){}if(stored==='light'||stored==='dark'){root.dataset.theme=stored}var dark=root.dataset.theme?root.dataset.theme==='dark':window.matchMedia('(prefers-color-scheme: dark)').matches;root.dataset.themeEffective=dark?'dark':'light'})();</script>
     %title= meta-title
     != head-meta

@@ -4,7 +4,7 @@ slug: syntax-literal-condition-warnings
 description: "The metorex example program syntax/literal_condition_warnings.rb and its output."
 ---
 
-`tests/_examples/syntax/literal_condition_warnings.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/literal_condition_warnings.rb).
+`tests/_examples/syntax/literal_condition_warnings.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/literal_condition_warnings.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A literal written where a test goes earns a warning while the code is

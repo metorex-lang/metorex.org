@@ -4,7 +4,7 @@ slug: stdlib-libraries-socket-full-buffers
 description: "The metorex example program stdlib_libraries/socket_full_buffers.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/socket_full_buffers.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/socket_full_buffers.rb).
+`tests/_examples/stdlib_libraries/socket_full_buffers.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/socket_full_buffers.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A write on a socket whose buffer is full waits for the other end to read,

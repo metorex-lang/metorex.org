@@ -4,7 +4,7 @@ slug: ractors-passing-messages-no-parens
 description: "The metorex example program ractors/passing_messages_no_parens.rb and its output."
 ---
 
-`tests/_examples/ractors/passing_messages_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/ractors/passing_messages_no_parens.rb).
+`tests/_examples/ractors/passing_messages_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/ractors/passing_messages_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A Ractor receives what is sent to a port it made. Its default port takes

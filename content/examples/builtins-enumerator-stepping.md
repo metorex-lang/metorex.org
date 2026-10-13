@@ -4,7 +4,7 @@ slug: builtins-enumerator-stepping
 description: "The metorex example program builtins/enumerator/stepping.rb and its output."
 ---
 
-`tests/_examples/builtins/enumerator/stepping.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/enumerator/stepping.rb).
+`tests/_examples/builtins/enumerator/stepping.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/enumerator/stepping.rb){target=_blank rel=noopener}.
 
 ```metorex
 # An Enumerator steps through the values a method yields, one at a time.

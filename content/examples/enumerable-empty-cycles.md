@@ -4,7 +4,7 @@ slug: enumerable-empty-cycles
 description: "The metorex example program enumerable/empty_cycles.rb and its output."
 ---
 
-`tests/_examples/enumerable/empty_cycles.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/enumerable/empty_cycles.rb).
+`tests/_examples/enumerable/empty_cycles.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/enumerable/empty_cycles.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Cycling over nothing has no elements to repeat, so its size is 0.

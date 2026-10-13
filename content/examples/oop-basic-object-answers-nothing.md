@@ -4,7 +4,7 @@ slug: oop-basic-object-answers-nothing
 description: "The metorex example program oop/basic_object/answers_nothing.rb and its output."
 ---
 
-`tests/_examples/oop/basic_object/answers_nothing.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/basic_object/answers_nothing.rb).
+`tests/_examples/oop/basic_object/answers_nothing.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/basic_object/answers_nothing.rb){target=_blank rel=noopener}.
 
 ```metorex
 # An object rooted at BasicObject answers only what BasicObject defines.

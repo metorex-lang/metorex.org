@@ -4,7 +4,7 @@ slug: builtins-string-encodings
 description: "The metorex example program builtins/string_encodings.rb and its output."
 ---
 
-`tests/_examples/builtins/string_encodings.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/string_encodings.rb).
+`tests/_examples/builtins/string_encodings.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/string_encodings.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A string carries the encoding it says it is in, and two strings holding the

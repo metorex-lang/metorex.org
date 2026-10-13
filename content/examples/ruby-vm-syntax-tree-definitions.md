@@ -4,7 +4,7 @@ slug: ruby-vm-syntax-tree-definitions
 description: "The metorex example program ruby_vm/syntax_tree_definitions.rb and its output."
 ---
 
-`tests/_examples/ruby_vm/syntax_tree_definitions.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/ruby_vm/syntax_tree_definitions.rb).
+`tests/_examples/ruby_vm/syntax_tree_definitions.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/ruby_vm/syntax_tree_definitions.rb){target=_blank rel=noopener}.
 
 ```metorex
 # RubyVM::AbstractSyntaxTree names each method, class, module, block and

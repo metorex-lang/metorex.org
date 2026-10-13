@@ -4,7 +4,7 @@ slug: rescue-instance-exec-scope-test
 description: "The metorex example program rescue/instance_exec_scope_test.rb and its output."
 ---
 
-`tests/_examples/rescue/instance_exec_scope_test.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rescue/instance_exec_scope_test.rb).
+`tests/_examples/rescue/instance_exec_scope_test.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rescue/instance_exec_scope_test.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Env

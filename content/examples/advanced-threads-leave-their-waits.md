@@ -4,7 +4,7 @@ slug: advanced-threads-leave-their-waits
 description: "The metorex example program advanced/threads_leave_their_waits.rb and its output."
 ---
 
-`tests/_examples/advanced/threads_leave_their_waits.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/threads_leave_their_waits.rb).
+`tests/_examples/advanced/threads_leave_their_waits.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/threads_leave_their_waits.rb){target=_blank rel=noopener}.
 
 ```metorex
 reader, writer = IO.pipe

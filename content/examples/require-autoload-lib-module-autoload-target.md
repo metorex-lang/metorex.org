@@ -4,7 +4,7 @@ slug: require-autoload-lib-module-autoload-target
 description: "The metorex example program require/autoload_lib/module_autoload_target.rb and its output."
 ---
 
-`tests/_examples/require/autoload_lib/module_autoload_target.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/autoload_lib/module_autoload_target.rb).
+`tests/_examples/require/autoload_lib/module_autoload_target.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/autoload_lib/module_autoload_target.rb){target=_blank rel=noopener}.
 
 ```metorex
 module Holder

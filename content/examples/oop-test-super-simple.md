@@ -4,7 +4,7 @@ slug: oop-test-super-simple
 description: "The metorex example program oop/test/super_simple.rb and its output."
 ---
 
-`tests/_examples/oop/test/super_simple.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/test/super_simple.rb).
+`tests/_examples/oop/test/super_simple.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/test/super_simple.rb){target=_blank rel=noopener}.
 
 ```metorex
 class A

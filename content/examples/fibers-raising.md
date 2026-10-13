@@ -4,7 +4,7 @@ slug: fibers-raising
 description: "The metorex example program fibers/raising.rb and its output."
 ---
 
-`tests/_examples/fibers/raising.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/fibers/raising.rb).
+`tests/_examples/fibers/raising.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/fibers/raising.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A fiber that has not started, or has run out, takes no exception.

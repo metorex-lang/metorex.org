@@ -4,7 +4,7 @@ slug: encodings-converting-through-jis
 description: "The metorex example program encodings/converting_through_jis.rb and its output."
 ---
 
-`tests/_examples/encodings/converting_through_jis.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/converting_through_jis.rb).
+`tests/_examples/encodings/converting_through_jis.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/converting_through_jis.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A converter carries text through each step of its convpath. Text reaches

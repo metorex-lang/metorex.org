@@ -4,7 +4,7 @@ slug: object-space-gc-answers-object-methods
 description: "The metorex example program object_space/gc_answers_object_methods.rb and its output."
 ---
 
-`tests/_examples/object_space/gc_answers_object_methods.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/object_space/gc_answers_object_methods.rb).
+`tests/_examples/object_space/gc_answers_object_methods.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/object_space/gc_answers_object_methods.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A method the program defines on Object is one GC and ObjectSpace answer

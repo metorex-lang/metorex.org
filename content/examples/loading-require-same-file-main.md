@@ -4,7 +4,7 @@ slug: loading-require-same-file-main
 description: "The metorex example program loading/require_same_file/main.rb and its output."
 ---
 
-`tests/_examples/loading/require_same_file/main.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/loading/require_same_file/main.rb).
+`tests/_examples/loading/require_same_file/main.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/loading/require_same_file/main.rb){target=_blank rel=noopener}.
 
 ```metorex
 $LOAD_PATH.unshift(__dir__)

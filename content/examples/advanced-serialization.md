@@ -4,7 +4,7 @@ slug: advanced-serialization
 description: "The metorex example program advanced/serialization.rb and its output."
 ---
 
-`tests/_examples/advanced/serialization.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/serialization.rb).
+`tests/_examples/advanced/serialization.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/serialization.rb){target=_blank rel=noopener}.
 
 ```metorex
 data = {name: "Atlas", age: 30}

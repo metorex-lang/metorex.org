@@ -4,7 +4,7 @@ slug: metaprogramming-alias-definee
 description: "The metorex example program metaprogramming/alias_definee.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/alias_definee.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/alias_definee.rb).
+`tests/_examples/metaprogramming/alias_definee.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/alias_definee.rb){target=_blank rel=noopener}.
 
 ```metorex
 # An `alias` written where a `def` would land on the receiver alone lands

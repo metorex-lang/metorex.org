@@ -4,7 +4,7 @@ slug: globals-expand-path-expand-path
 description: "The metorex example program globals/expand_path/expand_path.rb and its output."
 ---
 
-`tests/_examples/globals/expand_path/expand_path.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/globals/expand_path/expand_path.rb).
+`tests/_examples/globals/expand_path/expand_path.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/globals/expand_path/expand_path.rb){target=_blank rel=noopener}.
 
 ```metorex
 puts File.expand_path("lib")

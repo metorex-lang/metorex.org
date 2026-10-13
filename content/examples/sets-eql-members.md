@@ -4,7 +4,7 @@ slug: sets-eql-members
 description: "The metorex example program sets/eql_members.rb and its output."
 ---
 
-`tests/_examples/sets/eql_members.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/sets/eql_members.rb).
+`tests/_examples/sets/eql_members.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/sets/eql_members.rb){target=_blank rel=noopener}.
 
 ```metorex
 require "set"

@@ -4,7 +4,7 @@ slug: file-loader-wrapped-load
 description: "The metorex example program file_loader/wrapped_load.rb and its output."
 ---
 
-`tests/_examples/file_loader/wrapped_load.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/file_loader/wrapped_load.rb).
+`tests/_examples/file_loader/wrapped_load.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/file_loader/wrapped_load.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `load(path, true)` runs a file inside a module of its own, and

@@ -4,7 +4,7 @@ slug: symbols-and-ranges-allocated-range
 description: "The metorex example program symbols_and_ranges/allocated_range.rb and its output."
 ---
 
-`tests/_examples/symbols_and_ranges/allocated_range.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/symbols_and_ranges/allocated_range.rb).
+`tests/_examples/symbols_and_ranges/allocated_range.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/symbols_and_ranges/allocated_range.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A range written as a literal is frozen the moment it is made, so the only

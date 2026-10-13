@@ -4,7 +4,7 @@ slug: builtins-core-class-additions-parens
 description: "The metorex example program builtins/core_class_additions_parens.rb and its output."
 ---
 
-`tests/_examples/builtins/core_class_additions_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/core_class_additions_parens.rb).
+`tests/_examples/builtins/core_class_additions_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/core_class_additions_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Constants and readings the core classes carry.

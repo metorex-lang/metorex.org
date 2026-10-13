@@ -4,7 +4,7 @@ slug: rex-performance-native-matchers-spec-native-matchers-spec
 description: "The metorex example program rex/performance/native_matchers/spec/native_matchers_spec.rb and its output."
 ---
 
-`tests/_examples/rex/performance/native_matchers/spec/native_matchers_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/performance/native_matchers/spec/native_matchers_spec.rb).
+`tests/_examples/rex/performance/native_matchers/spec/native_matchers_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/performance/native_matchers/spec/native_matchers_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 RSpec.describe "the matchers Rex matches natively" do

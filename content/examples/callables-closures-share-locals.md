@@ -4,7 +4,7 @@ slug: callables-closures-share-locals
 description: "The metorex example program callables/closures_share_locals.rb and its output."
 ---
 
-`tests/_examples/callables/closures_share_locals.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/closures_share_locals.rb).
+`tests/_examples/callables/closures_share_locals.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/closures_share_locals.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A block reads and writes the locals of the scope it was written in, as do

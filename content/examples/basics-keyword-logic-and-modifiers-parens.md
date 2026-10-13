@@ -4,7 +4,7 @@ slug: basics-keyword-logic-and-modifiers-parens
 description: "The metorex example program basics/keyword_logic_and_modifiers_parens.rb and its output."
 ---
 
-`tests/_examples/basics/keyword_logic_and_modifiers_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/keyword_logic_and_modifiers_parens.rb).
+`tests/_examples/basics/keyword_logic_and_modifiers_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/keyword_logic_and_modifiers_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 rate = if 2 > 1

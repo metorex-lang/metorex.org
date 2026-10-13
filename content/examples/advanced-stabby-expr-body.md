@@ -4,7 +4,7 @@ slug: advanced-stabby-expr-body
 description: "The metorex example program advanced/stabby_expr_body.rb and its output."
 ---
 
-`tests/_examples/advanced/stabby_expr_body.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/stabby_expr_body.rb).
+`tests/_examples/advanced/stabby_expr_body.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/stabby_expr_body.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A stabby lambda whose body is one expression in braces

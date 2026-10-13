@@ -4,7 +4,7 @@ slug: struct-shaped-by-initialize
 description: "The metorex example program struct/shaped_by_initialize.rb and its output."
 ---
 
-`tests/_examples/struct/shaped_by_initialize.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/struct/shaped_by_initialize.rb).
+`tests/_examples/struct/shaped_by_initialize.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/struct/shaped_by_initialize.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A Struct writes its own `initialize`: it is private, assigns the members it

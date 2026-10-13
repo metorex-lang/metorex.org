@@ -4,7 +4,7 @@ slug: advanced-block-param-nil
 description: "The metorex example program advanced/block_param_nil.rb and its output."
 ---
 
-`tests/_examples/advanced/block_param_nil.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/block_param_nil.rb).
+`tests/_examples/advanced/block_param_nil.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/block_param_nil.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Test calling a method that accepts &blk without passing a block

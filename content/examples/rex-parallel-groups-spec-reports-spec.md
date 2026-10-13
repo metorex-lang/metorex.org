@@ -4,7 +4,7 @@ slug: rex-parallel-groups-spec-reports-spec
 description: "The metorex example program rex/parallel/groups/spec/reports_spec.rb and its output."
 ---
 
-`tests/_examples/rex/parallel/groups/spec/reports_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/parallel/groups/spec/reports_spec.rb).
+`tests/_examples/rex/parallel/groups/spec/reports_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/parallel/groups/spec/reports_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 RSpec.describe "monthly reports" do

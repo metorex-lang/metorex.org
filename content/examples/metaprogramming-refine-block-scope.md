@@ -4,7 +4,7 @@ slug: metaprogramming-refine-block-scope
 description: "The metorex example program metaprogramming/refine_block_scope.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/refine_block_scope.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/refine_block_scope.rb).
+`tests/_examples/metaprogramming/refine_block_scope.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/refine_block_scope.rb){target=_blank rel=noopener}.
 
 ```metorex
 inside = nil

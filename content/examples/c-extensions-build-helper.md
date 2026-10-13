@@ -4,7 +4,7 @@ slug: c-extensions-build-helper
 description: "The metorex example program c_extensions/build_helper.rb and its output."
 ---
 
-`tests/_examples/c_extensions/build_helper.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/c_extensions/build_helper.rb).
+`tests/_examples/c_extensions/build_helper.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/c_extensions/build_helper.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Builds the C source beside this file into an extension in `directory`, the

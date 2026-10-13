@@ -4,7 +4,7 @@ slug: encodings-big5-source
 description: "The metorex example program encodings/big5_source.rb and its output."
 ---
 
-`tests/_examples/encodings/big5_source.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/big5_source.rb).
+`tests/_examples/encodings/big5_source.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/big5_source.rb){target=_blank rel=noopener}.
 
 The file is not UTF-8 text, so it is not shown.
 

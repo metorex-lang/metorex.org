@@ -4,7 +4,7 @@ slug: runtime-dash-n-chomp
 description: "The metorex example program runtime/dash_n_chomp.rb and its output."
 ---
 
-`tests/_examples/runtime/dash_n_chomp.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/dash_n_chomp.rb).
+`tests/_examples/runtime/dash_n_chomp.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/dash_n_chomp.rb){target=_blank rel=noopener}.
 
 ```metorex
 $_ = "abc\n"

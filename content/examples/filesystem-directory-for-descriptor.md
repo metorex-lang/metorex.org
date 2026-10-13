@@ -4,7 +4,7 @@ slug: filesystem-directory-for-descriptor
 description: "The metorex example program filesystem/directory_for_descriptor.rb and its output."
 ---
 
-`tests/_examples/filesystem/directory_for_descriptor.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/directory_for_descriptor.rb).
+`tests/_examples/filesystem/directory_for_descriptor.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/directory_for_descriptor.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A Dir made over a descriptor another Dir holds reads the same directory,

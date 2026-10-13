@@ -4,7 +4,7 @@ slug: threads-waiting-backtraces
 description: "The metorex example program threads/waiting_backtraces.rb and its output."
 ---
 
-`tests/_examples/threads/waiting_backtraces.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/waiting_backtraces.rb).
+`tests/_examples/threads/waiting_backtraces.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/waiting_backtraces.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A thread waiting on a lock, a sleep, a queue or a condition variable

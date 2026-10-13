@@ -4,7 +4,7 @@ slug: introspection-closure-namespace
 description: "The metorex example program introspection/closure_namespace.rb and its output."
 ---
 
-`tests/_examples/introspection/closure_namespace.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/closure_namespace.rb).
+`tests/_examples/introspection/closure_namespace.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/closure_namespace.rb){target=_blank rel=noopener}.
 
 ```metorex
 def simple_func

@@ -4,7 +4,7 @@ slug: metaprogramming-define-singleton-method-sources
 description: "The metorex example program metaprogramming/define_singleton_method_sources.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/define_singleton_method_sources.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/define_singleton_method_sources.rb).
+`tests/_examples/metaprogramming/define_singleton_method_sources.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/define_singleton_method_sources.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Catalog

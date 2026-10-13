@@ -4,7 +4,7 @@ slug: errors-message-detailed
 description: "The metorex example program errors/message/detailed.rb and its output."
 ---
 
-`tests/_examples/errors/message/detailed.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/message/detailed.rb).
+`tests/_examples/errors/message/detailed.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/message/detailed.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `Exception#detailed_message` decorates the message with the class name, or

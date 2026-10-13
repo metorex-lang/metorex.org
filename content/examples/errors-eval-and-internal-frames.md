@@ -4,7 +4,7 @@ slug: errors-eval-and-internal-frames
 description: "The metorex example program errors/eval_and_internal_frames.rb and its output."
 ---
 
-`tests/_examples/errors/eval_and_internal_frames.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/eval_and_internal_frames.rb).
+`tests/_examples/errors/eval_and_internal_frames.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/eval_and_internal_frames.rb){target=_blank rel=noopener}.
 
 ```metorex
 def run_snippet(code) = eval(code, binding, "(snippet)", 7)

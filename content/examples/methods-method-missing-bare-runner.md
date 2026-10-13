@@ -4,7 +4,7 @@ slug: methods-method-missing-bare-runner
 description: "The metorex example program methods/method_missing_bare_runner.rb and its output."
 ---
 
-`tests/_examples/methods/method_missing_bare_runner.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/method_missing_bare_runner.rb).
+`tests/_examples/methods/method_missing_bare_runner.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/method_missing_bare_runner.rb){target=_blank rel=noopener}.
 
 ```metorex
 module BarePredicates

@@ -4,7 +4,7 @@ slug: builtins-srand-seeding
 description: "The metorex example program builtins/srand_seeding.rb and its output."
 ---
 
-`tests/_examples/builtins/srand_seeding.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/srand_seeding.rb).
+`tests/_examples/builtins/srand_seeding.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/srand_seeding.rb){target=_blank rel=noopener}.
 
 ```metorex
 srand 10

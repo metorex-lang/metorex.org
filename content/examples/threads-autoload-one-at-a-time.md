@@ -4,7 +4,7 @@ slug: threads-autoload-one-at-a-time
 description: "The metorex example program threads/autoload_one_at_a_time.rb and its output."
 ---
 
-`tests/_examples/threads/autoload_one_at_a_time.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/autoload_one_at_a_time.rb).
+`tests/_examples/threads/autoload_one_at_a_time.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/autoload_one_at_a_time.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A constant is loaded once however many threads ask for it. The one that

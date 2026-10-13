@@ -4,7 +4,7 @@ slug: algorithms-matrix-nested-ops
 description: "The metorex example program algorithms/matrix_nested_ops.rb and its output."
 ---
 
-`tests/_examples/algorithms/matrix_nested_ops.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/algorithms/matrix_nested_ops.rb).
+`tests/_examples/algorithms/matrix_nested_ops.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/algorithms/matrix_nested_ops.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Test nested array operations and matrix operations combined

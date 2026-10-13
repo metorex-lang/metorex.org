@@ -4,7 +4,7 @@ slug: oop-public-visibility-parens
 description: "The metorex example program oop/public_visibility_parens.rb and its output."
 ---
 
-`tests/_examples/oop/public_visibility_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/public_visibility_parens.rb).
+`tests/_examples/oop/public_visibility_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/public_visibility_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Ancestor

@@ -4,7 +4,7 @@ slug: eval-binding-in-module-eval-no-parens
 description: "The metorex example program eval/binding_in_module_eval_no_parens.rb and its output."
 ---
 
-`tests/_examples/eval/binding_in_module_eval_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/eval/binding_in_module_eval_no_parens.rb).
+`tests/_examples/eval/binding_in_module_eval_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/eval/binding_in_module_eval_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A `def` run through a binding taken inside a `module_eval` block lands on

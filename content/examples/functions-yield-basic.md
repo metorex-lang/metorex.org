@@ -4,7 +4,7 @@ slug: functions-yield-basic
 description: "The metorex example program functions/yield_basic.rb and its output."
 ---
 
-`tests/_examples/functions/yield_basic.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/yield_basic.rb).
+`tests/_examples/functions/yield_basic.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/yield_basic.rb){target=_blank rel=noopener}.
 
 ```metorex
 def greet(name)

@@ -4,7 +4,7 @@ slug: oop-multi-arg-bracket-multi-arg-bracket
 description: "The metorex example program oop/multi_arg_bracket/multi_arg_bracket.rb and its output."
 ---
 
-`tests/_examples/oop/multi_arg_bracket/multi_arg_bracket.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/multi_arg_bracket/multi_arg_bracket.rb).
+`tests/_examples/oop/multi_arg_bracket/multi_arg_bracket.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/multi_arg_bracket/multi_arg_bracket.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Matrix

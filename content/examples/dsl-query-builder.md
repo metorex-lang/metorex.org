@@ -4,7 +4,7 @@ slug: dsl-query-builder
 description: "The metorex example program dsl/query_builder.rb and its output."
 ---
 
-`tests/_examples/dsl/query_builder.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/dsl/query_builder.rb).
+`tests/_examples/dsl/query_builder.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/dsl/query_builder.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Query Builder DSL

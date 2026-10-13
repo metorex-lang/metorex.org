@@ -4,7 +4,7 @@ slug: errors-exception-chaining
 description: "The metorex example program errors/exception_chaining.rb and its output."
 ---
 
-`tests/_examples/errors/exception_chaining.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/exception_chaining.rb).
+`tests/_examples/errors/exception_chaining.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/exception_chaining.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Exception Chaining Example

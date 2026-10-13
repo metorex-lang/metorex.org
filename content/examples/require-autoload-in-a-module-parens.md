@@ -4,7 +4,7 @@ slug: require-autoload-in-a-module-parens
 description: "The metorex example program require/autoload_in_a_module_parens.rb and its output."
 ---
 
-`tests/_examples/require/autoload_in_a_module_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/autoload_in_a_module_parens.rb).
+`tests/_examples/require/autoload_in_a_module_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/autoload_in_a_module_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `autoload` inside a module's method registers on that module, since that is

@@ -4,7 +4,7 @@ slug: syntax-assignment-order-no-parens
 description: "The metorex example program syntax/assignment_order_no_parens.rb and its output."
 ---
 
-`tests/_examples/syntax/assignment_order_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/assignment_order_no_parens.rb).
+`tests/_examples/syntax/assignment_order_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/assignment_order_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Assignment evaluates the receiver, subscripts, and namespace of each target

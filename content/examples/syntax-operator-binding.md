@@ -4,7 +4,7 @@ slug: syntax-operator-binding
 description: "The metorex example program syntax/operator_binding.rb and its output."
 ---
 
-`tests/_examples/syntax/operator_binding.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/operator_binding.rb).
+`tests/_examples/syntax/operator_binding.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/operator_binding.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A range binds looser than every operator but the conditional, so what

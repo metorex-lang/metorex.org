@@ -4,7 +4,7 @@ slug: oop-instance-methods-visibility
 description: "The metorex example program oop/instance_methods_visibility.rb and its output."
 ---
 
-`tests/_examples/oop/instance_methods_visibility.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/instance_methods_visibility.rb).
+`tests/_examples/oop/instance_methods_visibility.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/instance_methods_visibility.rb){target=_blank rel=noopener}.
 
 ```metorex
 module Shared

@@ -4,7 +4,7 @@ slug: io-stderr-wrapper-answers-write-through-method-missing
 description: "The metorex example program io/stderr_wrapper_answers_write_through_method_missing.rb and its output."
 ---
 
-`tests/_examples/io/stderr_wrapper_answers_write_through_method_missing.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/io/stderr_wrapper_answers_write_through_method_missing.rb).
+`tests/_examples/io/stderr_wrapper_answers_write_through_method_missing.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/io/stderr_wrapper_answers_write_through_method_missing.rb){target=_blank rel=noopener}.
 
 ```metorex
 class StreamWrapper

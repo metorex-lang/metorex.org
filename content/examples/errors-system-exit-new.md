@@ -4,7 +4,7 @@ slug: errors-system-exit-new
 description: "The metorex example program errors/system_exit_new.rb and its output."
 ---
 
-`tests/_examples/errors/system_exit_new.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/system_exit_new.rb).
+`tests/_examples/errors/system_exit_new.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/system_exit_new.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `SystemExit.new` takes the status first, where true means a clean exit and

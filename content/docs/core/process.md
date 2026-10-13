@@ -11,10 +11,10 @@ ruby/spec describes 103 methods in `core/process`, and Metorex implements 99 of 
 - **`Process._fork`**: implemented, parameters `[[:req, :args]]`. An internal API for fork. [An example calling it](/examples/runtime-forked-popen).
 - **`Process.abort`**: implemented, parameters `[[:rest]]`. Terminates execution immediately, effectively by calling <code>Kernel.exit(false)</code>.
 - **`Process.argv0`**: implemented, parameters `[[:req, :args]]`. Returns the name of the script being executed. [An example calling it](/examples/require-gem-home-gems-bundler-4-0-19-lib-bundler-self-manager).
-- **`Process.clock_getres`**: implemented, parameters `[[:req, :args]]`. Returns a clock resolution as determined by POSIX function [clock_getres()](https://man7.org/linux/man-pages/man3/clock_getres.3.html):
-- **`Process.clock_gettime`**: implemented, parameters `[[:req, :args]]`. Returns a clock time as determined by POSIX function [clock_gettime()](https://man7.org/linux/man-pages/man3/clock_gettime.3.html): [An example calling it](/examples/require-gem-home-gems-bundler-4-0-19-lib-bundler-vendor-connection-pool-lib-connection-pool-timed-stack).
+- **`Process.clock_getres`**: implemented, parameters `[[:req, :args]]`. Returns a clock resolution as determined by POSIX function [clock_getres()](https://man7.org/linux/man-pages/man3/clock_getres.3.html){target=_blank rel=noopener}:
+- **`Process.clock_gettime`**: implemented, parameters `[[:req, :args]]`. Returns a clock time as determined by POSIX function [clock_gettime()](https://man7.org/linux/man-pages/man3/clock_gettime.3.html){target=_blank rel=noopener}: [An example calling it](/examples/require-gem-home-gems-bundler-4-0-19-lib-bundler-vendor-connection-pool-lib-connection-pool-timed-stack).
 - **`Process.daemon`**: implemented, parameters `[[:req, :args]]`. Detaches the current process from its controlling terminal and runs it in the background as system daemon; returns zero. [An example calling it](/examples/methods-warn-parameters).
-- **`Process.detach`**: implemented, parameters `[[:req, :pid]]`. Avoids the potential for a child process to become a [zombie process](https://en.wikipedia.org/wiki/Zombie_process).
+- **`Process.detach`**: implemented, parameters `[[:req, :pid]]`. Avoids the potential for a child process to become a [zombie process](https://en.wikipedia.org/wiki/Zombie_process){target=_blank rel=noopener}.
 - **`Process.egid`**: implemented, parameters `[[:req, :args]]`. Returns the effective group ID for the current process: [An example calling it](/examples/stdlib-libraries-process-identity).
 - **`Process.egid=`**: implemented, parameters `[[:req, :args]]`. Sets the effective group ID for the current process.
 - **`Process.euid`**: implemented, parameters `[[:req, :args]]`. Returns the effective user ID for the current process. [An example calling it](/examples/filesystem-permission-checks).
@@ -127,4 +127,4 @@ ruby/spec describes 103 methods in `core/process`, and Metorex implements 99 of 
 - **`Process::UID.sid_available?`**: implemented, parameters `[[:req, :args]]`. Returns `true` if the current platform has saved user ID functionality.
 - **`Process::UID.switch`**: implemented, parameters `[[:req, :args]]`. Switch the effective and real user IDs of the current process.
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

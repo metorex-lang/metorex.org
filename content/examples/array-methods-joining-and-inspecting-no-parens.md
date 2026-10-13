@@ -4,7 +4,7 @@ slug: array-methods-joining-and-inspecting-no-parens
 description: "The metorex example program array_methods/joining_and_inspecting_no_parens.rb and its output."
 ---
 
-`tests/_examples/array_methods/joining_and_inspecting_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/array_methods/joining_and_inspecting_no_parens.rb).
+`tests/_examples/array_methods/joining_and_inspecting_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/array_methods/joining_and_inspecting_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # With no separator, or with nil for one, `$,` says what goes between.

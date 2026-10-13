@@ -4,7 +4,7 @@ slug: errors-abort-uncaught
 description: "The metorex example program errors/abort_uncaught.rb and its output."
 ---
 
-`tests/_examples/errors/abort_uncaught.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/abort_uncaught.rb).
+`tests/_examples/errors/abort_uncaught.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/abort_uncaught.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Capture

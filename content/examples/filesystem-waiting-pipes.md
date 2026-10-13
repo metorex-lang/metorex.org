@@ -4,7 +4,7 @@ slug: filesystem-waiting-pipes
 description: "The metorex example program filesystem/waiting_pipes.rb and its output."
 ---
 
-`tests/_examples/filesystem/waiting_pipes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/waiting_pipes.rb).
+`tests/_examples/filesystem/waiting_pipes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/waiting_pipes.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A read that has nothing to hand over yet waits, and waiting is where every

@@ -4,7 +4,7 @@ slug: oop-class-method-super
 description: "The metorex example program oop/class_method_super.rb and its output."
 ---
 
-`tests/_examples/oop/class_method_super.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/class_method_super.rb).
+`tests/_examples/oop/class_method_super.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/class_method_super.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `super` in a class method reaches the next class method up the chain,

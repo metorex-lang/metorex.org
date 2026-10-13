@@ -4,7 +4,7 @@ slug: basics-simple-range
 description: "The metorex example program basics/simple_range.rb and its output."
 ---
 
-`tests/_examples/basics/simple_range.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/simple_range.rb).
+`tests/_examples/basics/simple_range.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/simple_range.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Simple range test

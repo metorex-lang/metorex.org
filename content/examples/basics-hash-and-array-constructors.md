@@ -4,7 +4,7 @@ slug: basics-hash-and-array-constructors
 description: "The metorex example program basics/hash_and_array_constructors.rb and its output."
 ---
 
-`tests/_examples/basics/hash_and_array_constructors.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/hash_and_array_constructors.rb).
+`tests/_examples/basics/hash_and_array_constructors.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/hash_and_array_constructors.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `Hash[]` reads a list of pairs, a hash, or one argument that answers

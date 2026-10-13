@@ -4,7 +4,7 @@ slug: stdlib-rubygems-owner-no-parens
 description: "The metorex example program stdlib/rubygems_owner_no_parens.rb and its output."
 ---
 
-`tests/_examples/stdlib/rubygems_owner_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/rubygems_owner_no_parens.rb).
+`tests/_examples/stdlib/rubygems_owner_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/rubygems_owner_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `gem owner` says each owner a server lists, by email, handle, or id, with

@@ -4,7 +4,7 @@ slug: basics-bitwise-ops-parens
 description: "The metorex example program basics/bitwise_ops_parens.rb and its output."
 ---
 
-`tests/_examples/basics/bitwise_ops_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/bitwise_ops_parens.rb).
+`tests/_examples/basics/bitwise_ops_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/bitwise_ops_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Bitwise operator examples (with parens)

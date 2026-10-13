@@ -4,7 +4,7 @@ slug: procs-binding-receiver-no-parens
 description: "The metorex example program procs/binding_receiver_no_parens.rb and its output."
 ---
 
-`tests/_examples/procs/binding_receiver_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/procs/binding_receiver_no_parens.rb).
+`tests/_examples/procs/binding_receiver_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/procs/binding_receiver_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A proc's binding answers the `self` of the place the proc was written.

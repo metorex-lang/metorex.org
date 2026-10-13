@@ -4,7 +4,7 @@ slug: builtins-integer-bits-operations-parens
 description: "The metorex example program builtins/integer_bits/operations_parens.rb and its output."
 ---
 
-`tests/_examples/builtins/integer_bits/operations_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/integer_bits/operations_parens.rb).
+`tests/_examples/builtins/integer_bits/operations_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/integer_bits/operations_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Integer bit operations: shifts, complement, and bit_length.

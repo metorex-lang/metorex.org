@@ -4,7 +4,7 @@ slug: errors-rescue-names-in-scope
 description: "The metorex example program errors/rescue_names_in_scope.rb and its output."
 ---
 
-`tests/_examples/errors/rescue_names_in_scope.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/rescue_names_in_scope.rb).
+`tests/_examples/errors/rescue_names_in_scope.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/rescue_names_in_scope.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A name in a rescue clause is read where it was written, so a method of a

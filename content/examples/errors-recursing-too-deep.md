@@ -4,7 +4,7 @@ slug: errors-recursing-too-deep
 description: "The metorex example program errors/recursing_too_deep.rb and its output."
 ---
 
-`tests/_examples/errors/recursing_too_deep.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/recursing_too_deep.rb).
+`tests/_examples/errors/recursing_too_deep.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/recursing_too_deep.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A method that calls itself without end raises SystemStackError, which the

@@ -4,7 +4,7 @@ slug: require-gem-home-gems-bundler-4-0-19-lib-bundler-ruby-dsl
 description: "The metorex example program require/gem_home/gems/bundler-4.0.19/lib/bundler/ruby_dsl.rb and its output."
 ---
 
-`tests/_examples/require/gem_home/gems/bundler-4.0.19/lib/bundler/ruby_dsl.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/gem_home/gems/bundler-4.0.19/lib/bundler/ruby_dsl.rb).
+`tests/_examples/require/gem_home/gems/bundler-4.0.19/lib/bundler/ruby_dsl.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/gem_home/gems/bundler-4.0.19/lib/bundler/ruby_dsl.rb){target=_blank rel=noopener}.
 
 ```metorex
 # frozen_string_literal: true

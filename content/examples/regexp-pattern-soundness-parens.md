@@ -4,7 +4,7 @@ slug: regexp-pattern-soundness-parens
 description: "The metorex example program regexp/pattern_soundness_parens.rb and its output."
 ---
 
-`tests/_examples/regexp/pattern_soundness_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/regexp/pattern_soundness_parens.rb).
+`tests/_examples/regexp/pattern_soundness_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/regexp/pattern_soundness_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A pattern has to close every group it opens.

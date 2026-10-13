@@ -4,7 +4,7 @@ slug: strings-radix-reading-no-parens
 description: "The metorex example program strings/radix_reading_no_parens.rb and its output."
 ---
 
-`tests/_examples/strings/radix_reading_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/radix_reading_no_parens.rb).
+`tests/_examples/strings/radix_reading_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/radix_reading_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # String#to_i reads the leading number in a base, taking a radix prefix that

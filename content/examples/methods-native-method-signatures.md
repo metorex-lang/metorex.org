@@ -4,7 +4,7 @@ slug: methods-native-method-signatures
 description: "The metorex example program methods/native_method_signatures.rb and its output."
 ---
 
-`tests/_examples/methods/native_method_signatures.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/native_method_signatures.rb).
+`tests/_examples/methods/native_method_signatures.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/native_method_signatures.rb){target=_blank rel=noopener}.
 
 ```metorex
 p "x".method(:upcase).parameters

@@ -4,7 +4,7 @@ slug: dates-calendar-days
 description: "The metorex example program dates/calendar_days.rb and its output."
 ---
 
-`tests/_examples/dates/calendar_days.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/dates/calendar_days.rb).
+`tests/_examples/dates/calendar_days.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/dates/calendar_days.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A Date holds the Julian Day Number a calendar day stands for, together with

@@ -4,7 +4,7 @@ slug: require-extension-auto-detect
 description: "The metorex example program require/extension/auto_detect.rb and its output."
 ---
 
-`tests/_examples/require/extension/auto_detect.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/extension/auto_detect.rb).
+`tests/_examples/require/extension/auto_detect.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/extension/auto_detect.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Test that require_relative auto-detects .rb extension

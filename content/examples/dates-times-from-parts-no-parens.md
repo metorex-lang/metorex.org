@@ -4,7 +4,7 @@ slug: dates-times-from-parts-no-parens
 description: "The metorex example program dates/times_from_parts_no_parens.rb and its output."
 ---
 
-`tests/_examples/dates/times_from_parts_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/dates/times_from_parts_no_parens.rb).
+`tests/_examples/dates/times_from_parts_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/dates/times_from_parts_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A time may be built from its calendar parts, with a numeral spelled out

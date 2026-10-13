@@ -4,7 +4,7 @@ slug: filesystem-reopened-streams
 description: "The metorex example program filesystem/reopened_streams.rb and its output."
 ---
 
-`tests/_examples/filesystem/reopened_streams.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/reopened_streams.rb).
+`tests/_examples/filesystem/reopened_streams.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/reopened_streams.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `IO#reopen` points a stream at another place without changing the object.

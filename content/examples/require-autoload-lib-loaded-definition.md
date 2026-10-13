@@ -4,7 +4,7 @@ slug: require-autoload-lib-loaded-definition
 description: "The metorex example program require/autoload_lib/loaded_definition.rb and its output."
 ---
 
-`tests/_examples/require/autoload_lib/loaded_definition.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/autoload_lib/loaded_definition.rb).
+`tests/_examples/require/autoload_lib/loaded_definition.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/autoload_lib/loaded_definition.rb){target=_blank rel=noopener}.
 
 ```metorex
 def nesting_where_defined

@@ -4,7 +4,7 @@ slug: stdlib-libraries-http-exchange
 description: "The metorex example program stdlib_libraries/http_exchange.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/http_exchange.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/http_exchange.rb).
+`tests/_examples/stdlib_libraries/http_exchange.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/http_exchange.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Net::HTTP against a server in another thread: a gzipped body arrives

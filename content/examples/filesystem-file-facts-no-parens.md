@@ -4,7 +4,7 @@ slug: filesystem-file-facts-no-parens
 description: "The metorex example program filesystem/file_facts_no_parens.rb and its output."
 ---
 
-`tests/_examples/filesystem/file_facts_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/file_facts_no_parens.rb).
+`tests/_examples/filesystem/file_facts_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/file_facts_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # What the operating system keeps about a file, read through File::Stat and

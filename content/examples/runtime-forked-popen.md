@@ -4,7 +4,7 @@ slug: runtime-forked-popen
 description: "The metorex example program runtime/forked_popen.rb and its output."
 ---
 
-`tests/_examples/runtime/forked_popen.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/forked_popen.rb).
+`tests/_examples/runtime/forked_popen.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/forked_popen.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `IO.popen("-")` forks. The child answers nil with its standard output and

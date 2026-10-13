@@ -4,7 +4,7 @@ slug: rex-diffs-compound-spec-compound-spec
 description: "The metorex example program rex/diffs/compound/spec/compound_spec.rb and its output."
 ---
 
-`tests/_examples/rex/diffs/compound/spec/compound_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/diffs/compound/spec/compound_spec.rb).
+`tests/_examples/rex/diffs/compound/spec/compound_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/diffs/compound/spec/compound_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 RSpec.describe "compound matchers" do

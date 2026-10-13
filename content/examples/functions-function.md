@@ -4,7 +4,7 @@ slug: functions-function
 description: "The metorex example program functions/function.rb and its output."
 ---
 
-`tests/_examples/functions/function.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/function.rb).
+`tests/_examples/functions/function.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/function.rb){target=_blank rel=noopener}.
 
 ```metorex
 def add_numbers(a, b)

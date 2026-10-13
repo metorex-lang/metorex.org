@@ -4,7 +4,7 @@ slug: syntax-literal-conditions-fixture
 description: "The metorex example program syntax/literal_conditions_fixture.rb and its output."
 ---
 
-`tests/_examples/syntax/literal_conditions_fixture.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/literal_conditions_fixture.rb).
+`tests/_examples/syntax/literal_conditions_fixture.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/literal_conditions_fixture.rb){target=_blank rel=noopener}.
 
 ```metorex
 if 1..2 then end

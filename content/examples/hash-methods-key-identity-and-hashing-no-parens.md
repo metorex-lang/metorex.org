@@ -4,7 +4,7 @@ slug: hash-methods-key-identity-and-hashing-no-parens
 description: "The metorex example program hash_methods/key_identity_and_hashing_no_parens.rb and its output."
 ---
 
-`tests/_examples/hash_methods/key_identity_and_hashing_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/hash_methods/key_identity_and_hashing_no_parens.rb).
+`tests/_examples/hash_methods/key_identity_and_hashing_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/hash_methods/key_identity_and_hashing_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A hash places a key by its own #hash and tells keys sharing a number apart

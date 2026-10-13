@@ -4,7 +4,7 @@ slug: control-flow-return-from-nested-blocks
 description: "The metorex example program control_flow/return_from_nested_blocks.rb and its output."
 ---
 
-`tests/_examples/control_flow/return_from_nested_blocks.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/return_from_nested_blocks.rb).
+`tests/_examples/control_flow/return_from_nested_blocks.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/return_from_nested_blocks.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A `return` written inside a block unwinds to the method the block was

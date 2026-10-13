@@ -4,7 +4,7 @@ slug: array-methods-sort-comparisons
 description: "The metorex example program array_methods/sort_comparisons.rb and its output."
 ---
 
-`tests/_examples/array_methods/sort_comparisons.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/array_methods/sort_comparisons.rb).
+`tests/_examples/array_methods/sort_comparisons.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/array_methods/sort_comparisons.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Sorting asks for a number of comparisons that grows as n log n, so a

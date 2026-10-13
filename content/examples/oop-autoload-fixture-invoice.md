@@ -4,7 +4,7 @@ slug: oop-autoload-fixture-invoice
 description: "The metorex example program oop/autoload_fixture/invoice.rb and its output."
 ---
 
-`tests/_examples/oop/autoload_fixture/invoice.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/autoload_fixture/invoice.rb).
+`tests/_examples/oop/autoload_fixture/invoice.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/autoload_fixture/invoice.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Invoice

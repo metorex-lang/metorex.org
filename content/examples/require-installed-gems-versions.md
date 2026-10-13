@@ -4,7 +4,7 @@ slug: require-installed-gems-versions
 description: "The metorex example program require/installed_gems_versions.rb and its output."
 ---
 
-`tests/_examples/require/installed_gems_versions.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/installed_gems_versions.rb).
+`tests/_examples/require/installed_gems_versions.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/installed_gems_versions.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `gem` activates the version a requirement asks for, and refuses another

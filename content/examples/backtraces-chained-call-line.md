@@ -4,7 +4,7 @@ slug: backtraces-chained-call-line
 description: "The metorex example program backtraces/chained_call_line.rb and its output."
 ---
 
-`tests/_examples/backtraces/chained_call_line.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/backtraces/chained_call_line.rb).
+`tests/_examples/backtraces/chained_call_line.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/backtraces/chained_call_line.rb){target=_blank rel=noopener}.
 
 ```metorex
 def fail_here(*)

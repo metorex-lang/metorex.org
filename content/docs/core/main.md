@@ -14,4 +14,4 @@ ruby/spec describes 7 methods in `core/main`, and Metorex implements 7 of them. 
 - **`main#to_s`**: implemented, parameters `[]`. [An example calling it](/examples/addresses-internet-addresses).
 - **`main.using`**: implemented, parameters `[[:rest, :*]]`.
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

@@ -4,7 +4,7 @@ slug: builtins-frozen-answers-no-parens
 description: "The metorex example program builtins/frozen_answers_no_parens.rb and its output."
 ---
 
-`tests/_examples/builtins/frozen_answers_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/frozen_answers_no_parens.rb).
+`tests/_examples/builtins/frozen_answers_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/frozen_answers_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # What the runtime hands back over and over is frozen, so changing it cannot

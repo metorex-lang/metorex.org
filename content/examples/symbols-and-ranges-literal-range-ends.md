@@ -4,7 +4,7 @@ slug: symbols-and-ranges-literal-range-ends
 description: "The metorex example program symbols_and_ranges/literal_range_ends.rb and its output."
 ---
 
-`tests/_examples/symbols_and_ranges/literal_range_ends.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/symbols_and_ranges/literal_range_ends.rb).
+`tests/_examples/symbols_and_ranges/literal_range_ends.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/symbols_and_ranges/literal_range_ends.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A range written with literal ends is built once, so the Strings at its ends

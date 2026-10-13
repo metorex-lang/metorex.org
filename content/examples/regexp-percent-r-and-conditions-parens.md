@@ -4,7 +4,7 @@ slug: regexp-percent-r-and-conditions-parens
 description: "The metorex example program regexp/percent_r_and_conditions_parens.rb and its output."
 ---
 
-`tests/_examples/regexp/percent_r_and_conditions_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/regexp/percent_r_and_conditions_parens.rb).
+`tests/_examples/regexp/percent_r_and_conditions_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/regexp/percent_r_and_conditions_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A paired delimiter nests, so a group written inside one does not close the

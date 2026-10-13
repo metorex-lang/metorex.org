@@ -4,7 +4,7 @@ slug: basics-integers-rounding-parens
 description: "The metorex example program basics/integers/rounding_parens.rb and its output."
 ---
 
-`tests/_examples/basics/integers/rounding_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/integers/rounding_parens.rb).
+`tests/_examples/basics/integers/rounding_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/integers/rounding_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A precision of zero or more leaves an Integer alone, since it has no digits

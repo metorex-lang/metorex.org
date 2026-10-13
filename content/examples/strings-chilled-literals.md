@@ -4,7 +4,7 @@ slug: strings-chilled-literals
 description: "The metorex example program strings/chilled_literals.rb and its output."
 ---
 
-`tests/_examples/strings/chilled_literals.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/chilled_literals.rb).
+`tests/_examples/strings/chilled_literals.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/chilled_literals.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A literal in a source that says nothing about frozen string literals is

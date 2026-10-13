@@ -4,7 +4,7 @@ slug: introspection-block-frame-labels
 description: "The metorex example program introspection/block_frame_labels.rb and its output."
 ---
 
-`tests/_examples/introspection/block_frame_labels.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/block_frame_labels.rb).
+`tests/_examples/introspection/block_frame_labels.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/block_frame_labels.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A block is a place of its own in a backtrace, named for the scope it was

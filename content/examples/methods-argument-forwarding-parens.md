@@ -4,7 +4,7 @@ slug: methods-argument-forwarding-parens
 description: "The metorex example program methods/argument_forwarding_parens.rb and its output."
 ---
 
-`tests/_examples/methods/argument_forwarding_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/argument_forwarding_parens.rb).
+`tests/_examples/methods/argument_forwarding_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/argument_forwarding_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 def target(a, b:, &block)

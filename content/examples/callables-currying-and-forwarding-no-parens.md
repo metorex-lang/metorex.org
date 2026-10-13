@@ -4,7 +4,7 @@ slug: callables-currying-and-forwarding-no-parens
 description: "The metorex example program callables/currying_and_forwarding_no_parens.rb and its output."
 ---
 
-`tests/_examples/callables/currying_and_forwarding_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/currying_and_forwarding_no_parens.rb).
+`tests/_examples/callables/currying_and_forwarding_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/currying_and_forwarding_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A curried lambda gathers its arguments one call at a time, and stays a

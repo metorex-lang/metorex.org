@@ -4,7 +4,7 @@ slug: builtins-enumerator-walk-shapes-parens
 description: "The metorex example program builtins/enumerator/walk_shapes_parens.rb and its output."
 ---
 
-`tests/_examples/builtins/enumerator/walk_shapes_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/enumerator/walk_shapes_parens.rb).
+`tests/_examples/builtins/enumerator/walk_shapes_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/enumerator/walk_shapes_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A walk names the count it will hand out, reports itself before it has been

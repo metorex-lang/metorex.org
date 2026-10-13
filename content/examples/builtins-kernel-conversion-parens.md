@@ -4,7 +4,7 @@ slug: builtins-kernel-conversion-parens
 description: "The metorex example program builtins/kernel_conversion_parens.rb and its output."
 ---
 
-`tests/_examples/builtins/kernel_conversion_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/kernel_conversion_parens.rb).
+`tests/_examples/builtins/kernel_conversion_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/kernel_conversion_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 puts Integer "42"

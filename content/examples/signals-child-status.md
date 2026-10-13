@@ -4,7 +4,7 @@ slug: signals-child-status
 description: "The metorex example program signals/child_status.rb and its output."
 ---
 
-`tests/_examples/signals/child_status.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/signals/child_status.rb).
+`tests/_examples/signals/child_status.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/signals/child_status.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A child's status reads how it ended: the code it exited with, the signal

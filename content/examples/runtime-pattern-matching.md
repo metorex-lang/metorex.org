@@ -4,7 +4,7 @@ slug: runtime-pattern-matching
 description: "The metorex example program runtime/pattern_matching.rb and its output."
 ---
 
-`tests/_examples/runtime/pattern_matching.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/pattern_matching.rb).
+`tests/_examples/runtime/pattern_matching.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/pattern_matching.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Pattern matching with `case` and `in`: literals, bindings, array and hash

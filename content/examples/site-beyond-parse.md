@@ -4,7 +4,7 @@ slug: site-beyond-parse
 description: "The metorex example program site/beyond_parse.rb and its output."
 ---
 
-`tests/_examples/site/beyond_parse.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/site/beyond_parse.rb).
+`tests/_examples/site/beyond_parse.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/site/beyond_parse.rb){target=_blank rel=noopener}.
 
 ```metorex
 def grouped(node)

@@ -4,7 +4,7 @@ slug: addresses-sockets-of-every-kind
 description: "The metorex example program addresses/sockets_of_every_kind.rb and its output."
 ---
 
-`tests/_examples/addresses/sockets_of_every_kind.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/addresses/sockets_of_every_kind.rb).
+`tests/_examples/addresses/sockets_of_every_kind.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/addresses/sockets_of_every_kind.rb){target=_blank rel=noopener}.
 
 ```metorex
 require 'socket'

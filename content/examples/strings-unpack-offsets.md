@@ -4,7 +4,7 @@ slug: strings-unpack-offsets
 description: "The metorex example program strings/unpack_offsets.rb and its output."
 ---
 
-`tests/_examples/strings/unpack_offsets.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/unpack_offsets.rb).
+`tests/_examples/strings/unpack_offsets.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/unpack_offsets.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `unpack` reads from a byte offset when it is given one, and the offset must

@@ -4,7 +4,7 @@ slug: strings-written-formats
 description: "The metorex example program strings/written_formats.rb and its output."
 ---
 
-`tests/_examples/strings/written_formats.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/written_formats.rb).
+`tests/_examples/strings/written_formats.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/written_formats.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `sprintf` writes a value the way a directive names: a base, a fraction, a

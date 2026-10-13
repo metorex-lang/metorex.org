@@ -4,7 +4,7 @@ slug: errors-warning-warn-super
 description: "The metorex example program errors/warning_warn_super.rb and its output."
 ---
 
-`tests/_examples/errors/warning_warn_super.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/warning_warn_super.rb).
+`tests/_examples/errors/warning_warn_super.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/warning_warn_super.rb){target=_blank rel=noopener}.
 
 ```metorex
 $stderr = $stdout

@@ -4,7 +4,7 @@ slug: stdlib-libraries-colorized-code
 description: "The metorex example program stdlib_libraries/colorized_code.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/colorized_code.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/colorized_code.rb).
+`tests/_examples/stdlib_libraries/colorized_code.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/colorized_code.rb){target=_blank rel=noopener}.
 
 ```metorex
 # IRB::Color colors Ruby source for a terminal: keywords, constants, numbers,

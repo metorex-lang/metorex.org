@@ -4,7 +4,7 @@ slug: fibers-transferring
 description: "The metorex example program fibers/transferring.rb and its output."
 ---
 
-`tests/_examples/fibers/transferring.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/fibers/transferring.rb).
+`tests/_examples/fibers/transferring.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/fibers/transferring.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A fiber reached by a transfer from the top level hands what it answered

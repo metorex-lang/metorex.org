@@ -4,7 +4,7 @@ slug: control-flow-jumps-as-values-no-parens
 description: "The metorex example program control_flow/jumps_as_values_no_parens.rb and its output."
 ---
 
-`tests/_examples/control_flow/jumps_as_values_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/jumps_as_values_no_parens.rb).
+`tests/_examples/control_flow/jumps_as_values_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/jumps_as_values_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A jump reads as a value wherever one goes, and a loop answers what a break

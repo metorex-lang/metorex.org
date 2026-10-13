@@ -4,7 +4,7 @@ slug: stdlib-libraries-pseudo-terminals
 description: "The metorex example program stdlib_libraries/pseudo_terminals.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/pseudo_terminals.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/pseudo_terminals.rb).
+`tests/_examples/stdlib_libraries/pseudo_terminals.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/pseudo_terminals.rb){target=_blank rel=noopener}.
 
 ```metorex
 # PTY runs a program with a terminal of its own and opens terminal pairs, and

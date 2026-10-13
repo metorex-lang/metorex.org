@@ -4,7 +4,7 @@ slug: oop-clone-semantics
 description: "The metorex example program oop/clone_semantics.rb and its output."
 ---
 
-`tests/_examples/oop/clone_semantics.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/clone_semantics.rb).
+`tests/_examples/oop/clone_semantics.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/clone_semantics.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Widget

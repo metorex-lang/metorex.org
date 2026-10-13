@@ -4,7 +4,7 @@ slug: advanced-native-thread-ids
 description: "The metorex example program advanced/native_thread_ids.rb and its output."
 ---
 
-`tests/_examples/advanced/native_thread_ids.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/native_thread_ids.rb).
+`tests/_examples/advanced/native_thread_ids.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/native_thread_ids.rb){target=_blank rel=noopener}.
 
 ```metorex
 main_id = Thread.main.native_thread_id

@@ -4,7 +4,7 @@ slug: errors-backtrace-native-frames
 description: "The metorex example program errors/backtrace/native_frames.rb and its output."
 ---
 
-`tests/_examples/errors/backtrace/native_frames.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/backtrace/native_frames.rb).
+`tests/_examples/errors/backtrace/native_frames.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/backtrace/native_frames.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A backtrace lists the native methods running between the raise and the

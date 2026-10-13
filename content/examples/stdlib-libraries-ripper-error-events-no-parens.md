@@ -4,7 +4,7 @@ slug: stdlib-libraries-ripper-error-events-no-parens
 description: "The metorex example program stdlib_libraries/ripper_error_events_no_parens.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/ripper_error_events_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/ripper_error_events_no_parens.rb).
+`tests/_examples/stdlib_libraries/ripper_error_events_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/ripper_error_events_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Ripper reports each error through the event MRI's parser uses for it:

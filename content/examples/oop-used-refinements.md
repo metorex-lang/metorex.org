@@ -4,7 +4,7 @@ slug: oop-used-refinements
 description: "The metorex example program oop/used_refinements.rb and its output."
 ---
 
-`tests/_examples/oop/used_refinements.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/used_refinements.rb).
+`tests/_examples/oop/used_refinements.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/used_refinements.rb){target=_blank rel=noopener}.
 
 ```metorex
 integers = Module.new do

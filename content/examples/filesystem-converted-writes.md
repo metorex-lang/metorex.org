@@ -4,7 +4,7 @@ slug: filesystem-converted-writes
 description: "The metorex example program filesystem/converted_writes.rb and its output."
 ---
 
-`tests/_examples/filesystem/converted_writes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/converted_writes.rb).
+`tests/_examples/filesystem/converted_writes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/converted_writes.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A stream told an encoding writes text carried into it, one piece at a

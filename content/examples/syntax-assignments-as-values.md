@@ -4,7 +4,7 @@ slug: syntax-assignments-as-values
 description: "The metorex example program syntax/assignments_as_values.rb and its output."
 ---
 
-`tests/_examples/syntax/assignments_as_values.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/assignments_as_values.rb).
+`tests/_examples/syntax/assignments_as_values.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/assignments_as_values.rb){target=_blank rel=noopener}.
 
 ```metorex
 def show(*values, region: nil, &block)

@@ -4,7 +4,7 @@ slug: algorithms-factorial-iterative
 description: "The metorex example program algorithms/factorial_iterative.rb and its output."
 ---
 
-`tests/_examples/algorithms/factorial_iterative.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/algorithms/factorial_iterative.rb).
+`tests/_examples/algorithms/factorial_iterative.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/algorithms/factorial_iterative.rb){target=_blank rel=noopener}.
 
 ```metorex
 n = 6

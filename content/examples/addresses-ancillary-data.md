@@ -4,7 +4,7 @@ slug: addresses-ancillary-data
 description: "The metorex example program addresses/ancillary_data.rb and its output."
 ---
 
-`tests/_examples/addresses/ancillary_data.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/addresses/ancillary_data.rb).
+`tests/_examples/addresses/ancillary_data.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/addresses/ancillary_data.rb){target=_blank rel=noopener}.
 
 ```metorex
 require "socket"

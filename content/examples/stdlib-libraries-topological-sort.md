@@ -4,7 +4,7 @@ slug: stdlib-libraries-topological-sort
 description: "The metorex example program stdlib_libraries/topological_sort.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/topological_sort.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/topological_sort.rb).
+`tests/_examples/stdlib_libraries/topological_sort.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/topological_sort.rb){target=_blank rel=noopener}.
 
 ```metorex
 # TSort orders a graph so each node comes after the nodes it reaches, and

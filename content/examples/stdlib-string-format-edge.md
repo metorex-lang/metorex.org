@@ -4,7 +4,7 @@ slug: stdlib-string-format-edge
 description: "The metorex example program stdlib/string/format_edge.rb and its output."
 ---
 
-`tests/_examples/stdlib/string/format_edge.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/string/format_edge.rb).
+`tests/_examples/stdlib/string/format_edge.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/string/format_edge.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A String handed to a number directive is read the way `Integer()` reads one,

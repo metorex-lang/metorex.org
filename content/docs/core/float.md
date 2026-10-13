@@ -56,4 +56,4 @@ ruby/spec describes 49 methods in `core/float`, and Metorex implements 49 of the
 - **`Float#truncate`**: implemented, parameters `[[:opt, :digits]]`. Returns `self` truncated (toward zero) to a precision of `ndigits` decimal digits. [An example calling it](/examples/basics-floats-methods).
 - **`Float#zero?`**: implemented, parameters `[]`. Returns `true` if `self` is 0.0, `false` otherwise. [An example calling it](/examples/advanced-threads-take-turns).
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

@@ -4,7 +4,7 @@ slug: strings-copies-and-dumps-no-parens
 description: "The metorex example program strings/copies_and_dumps_no_parens.rb and its output."
 ---
 
-`tests/_examples/strings/copies_and_dumps_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/copies_and_dumps_no_parens.rb).
+`tests/_examples/strings/copies_and_dumps_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/copies_and_dumps_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A copy of a string holds its own characters, so changing one of them leaves

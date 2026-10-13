@@ -4,7 +4,7 @@ slug: metaprogramming-const-missing-parens
 description: "The metorex example program metaprogramming/const_missing_parens.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/const_missing_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/const_missing_parens.rb).
+`tests/_examples/metaprogramming/const_missing_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/const_missing_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Module#const_missing — written with parentheses. Fires for literal

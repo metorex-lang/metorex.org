@@ -4,7 +4,7 @@ slug: array-methods-pickings-and-search
 description: "The metorex example program array_methods/pickings_and_search.rb and its output."
 ---
 
-`tests/_examples/array_methods/pickings_and_search.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/array_methods/pickings_and_search.rb).
+`tests/_examples/array_methods/pickings_and_search.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/array_methods/pickings_and_search.rb){target=_blank rel=noopener}.
 
 ```metorex
 # The ways elements can be picked out of an array, and the search that halves

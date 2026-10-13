@@ -4,7 +4,7 @@ slug: encodings-encoding-names
 description: "The metorex example program encodings/encoding_names.rb and its output."
 ---
 
-`tests/_examples/encodings/encoding_names.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/encoding_names.rb).
+`tests/_examples/encodings/encoding_names.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/encodings/encoding_names.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Each encoding answers the names Ruby gives it: its own, then the aliases

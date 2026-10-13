@@ -4,7 +4,7 @@ slug: stdlib-rubygems-interaction
 description: "The metorex example program stdlib/rubygems_interaction.rb and its output."
 ---
 
-`tests/_examples/stdlib/rubygems_interaction.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/rubygems_interaction.rb).
+`tests/_examples/stdlib/rubygems_interaction.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/rubygems_interaction.rb){target=_blank rel=noopener}.
 
 ```metorex
 # RubyGems says things through a UI object a caller can swap, and cleans

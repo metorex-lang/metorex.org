@@ -4,7 +4,7 @@ slug: callables-proc-case-compare
 description: "The metorex example program callables/proc_case_compare.rb and its output."
 ---
 
-`tests/_examples/callables/proc_case_compare.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/proc_case_compare.rb).
+`tests/_examples/callables/proc_case_compare.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/proc_case_compare.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Proc#=== calls the proc with the given argument, so a callable can stand in

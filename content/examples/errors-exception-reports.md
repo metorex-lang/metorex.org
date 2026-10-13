@@ -4,7 +4,7 @@ slug: errors-exception-reports
 description: "The metorex example program errors/exception_reports.rb and its output."
 ---
 
-`tests/_examples/errors/exception_reports.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/exception_reports.rb).
+`tests/_examples/errors/exception_reports.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/exception_reports.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `detailed_message` names the class at the end of the first line, leaving the

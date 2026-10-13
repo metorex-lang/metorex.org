@@ -4,7 +4,7 @@ slug: data-structures-simple-list
 description: "The metorex example program data_structures/simple_list.rb and its output."
 ---
 
-`tests/_examples/data_structures/simple_list.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/data_structures/simple_list.rb).
+`tests/_examples/data_structures/simple_list.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/data_structures/simple_list.rb){target=_blank rel=noopener}.
 
 ```metorex
 items = [1, 2, 3]

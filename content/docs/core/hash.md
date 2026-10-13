@@ -88,4 +88,4 @@ ruby/spec describes 81 methods in `core/hash`, and Metorex implements 81 of them
 - **`Hash#values`**: implemented, parameters `[]`. Returns a new array containing all values in `self`: [An example calling it](/examples/hash-methods-lookup-and-transform).
 - **`Hash#values_at`**: implemented, parameters `[[:rest]]`. Returns a new array containing values for the given `keys`: [An example calling it](/examples/hash-methods-lookup-and-transform).
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

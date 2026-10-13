@@ -4,7 +4,7 @@ slug: stdlib-math-functions
 description: "The metorex example program stdlib/math/functions.rb and its output."
 ---
 
-`tests/_examples/stdlib/math/functions.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/math/functions.rb).
+`tests/_examples/stdlib/math/functions.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/math/functions.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Math's functions are module functions, so both `Math.sqrt` and a private

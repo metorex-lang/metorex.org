@@ -4,7 +4,7 @@ slug: symbols-and-ranges-reverse-walks
 description: "The metorex example program symbols_and_ranges/reverse_walks.rb and its output."
 ---
 
-`tests/_examples/symbols_and_ranges/reverse_walks.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/symbols_and_ranges/reverse_walks.rb).
+`tests/_examples/symbols_and_ranges/reverse_walks.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/symbols_and_ranges/reverse_walks.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `reverse_each` walks a range from its end down to its beginning. A range

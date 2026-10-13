@@ -4,7 +4,7 @@ slug: oop-extended-hook-parens
 description: "The metorex example program oop/extended_hook_parens.rb and its output."
 ---
 
-`tests/_examples/oop/extended_hook_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/extended_hook_parens.rb).
+`tests/_examples/oop/extended_hook_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/extended_hook_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 $order = []

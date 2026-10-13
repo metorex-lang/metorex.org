@@ -4,7 +4,7 @@ slug: runtime-dir-chdir
 description: "The metorex example program runtime/dir_chdir.rb and its output."
 ---
 
-`tests/_examples/runtime/dir_chdir.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/dir_chdir.rb).
+`tests/_examples/runtime/dir_chdir.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/dir_chdir.rb){target=_blank rel=noopener}.
 
 ```metorex
 start = Dir.pwd

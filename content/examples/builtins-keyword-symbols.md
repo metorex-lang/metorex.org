@@ -4,7 +4,7 @@ slug: builtins-keyword-symbols
 description: "The metorex example program builtins/keyword_symbols.rb and its output."
 ---
 
-`tests/_examples/builtins/keyword_symbols.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/keyword_symbols.rb).
+`tests/_examples/builtins/keyword_symbols.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/keyword_symbols.rb){target=_blank rel=noopener}.
 
 ```metorex
 puts(:def)

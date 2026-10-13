@@ -5,7 +5,7 @@ description: What Metorex has that MRI does not, each with a sample, and the fea
 layout: page
 ---
 
-Metorex runs Ruby, and it carries a few things MRI does not. Each sample below runs under Metorex and prints the output shown. Under MRI 4.0.6 each one stops at its first line with a NoMethodError.
+Metorex runs Ruby, and it has a few features MRI does not. Each sample below runs under Metorex and prints the output shown. Under MRI 4.0.6 each one stops at its first line with a NoMethodError.
 
 ## Assertions
 
@@ -37,7 +37,7 @@ metorex --test test
 
 ## RSpec with no gems
 
-[Rex](/rex), the spec framework Metorex carries, runs suites written for RSpec 3.13 with `metorex spec`, and loads the first time a program names `RSpec`. `metorex spec --coverage` reports the lines and branches that ran, counted by the interpreter.
+[Rex](/rex), the spec framework built into Metorex, runs suites written for RSpec 3.13 with `metorex spec`, and loads the first time a program names `RSpec`. `metorex spec --coverage` reports the lines and branches that ran, counted by the interpreter.
 
 ## Code as objects
 
@@ -64,7 +64,7 @@ puts grouped(parse("rate * (hours + 40)").first)
 
 ## Listed in the README, not built yet
 
-The [metorex README](https://github.com/metorex-lang/metorex#readme) lists these, and Metorex does not have them yet:
+The [metorex README](https://github.com/metorex-lang/metorex#readme){target=_blank rel=noopener} lists these, and Metorex does not have them yet:
 
 - Traits. A module included in a class is a Ruby module and nothing more.
 - Optional static typing and type inference.
@@ -73,4 +73,4 @@ The [metorex README](https://github.com/metorex-lang/metorex#readme) lists these
 - MessagePack serialization.
 - A JIT compiler, a language server, a debugger of its own, and a linter or formatter.
 
-The samples on this page are `tests/_examples/site/beyond_assertions.rb` and `beyond_parse.rb` in the [metorex repository](https://github.com/metorex-lang/metorex), where the test suite checks their output.
+The samples on this page are `tests/_examples/site/beyond_assertions.rb` and `beyond_parse.rb` in the [metorex repository](https://github.com/metorex-lang/metorex){target=_blank rel=noopener}, where the test suite checks their output.

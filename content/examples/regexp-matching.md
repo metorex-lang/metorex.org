@@ -4,7 +4,7 @@ slug: regexp-matching
 description: "The metorex example program regexp/matching.rb and its output."
 ---
 
-`tests/_examples/regexp/matching.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/regexp/matching.rb).
+`tests/_examples/regexp/matching.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/regexp/matching.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A match answers a MatchData, which carries the whole match, the captures,

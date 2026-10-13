@@ -4,7 +4,7 @@ slug: strings-mutable-adjacent-literals
 description: "The metorex example program strings/mutable_adjacent_literals.rb and its output."
 ---
 
-`tests/_examples/strings/mutable_adjacent_literals.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/mutable_adjacent_literals.rb).
+`tests/_examples/strings/mutable_adjacent_literals.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/mutable_adjacent_literals.rb){target=_blank rel=noopener}.
 
 ```metorex
 # frozen_string_literal: false

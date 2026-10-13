@@ -4,7 +4,7 @@ slug: basics-scientific-notation
 description: "The metorex example program basics/scientific_notation.rb and its output."
 ---
 
-`tests/_examples/basics/scientific_notation.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/scientific_notation.rb).
+`tests/_examples/basics/scientific_notation.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/scientific_notation.rb){target=_blank rel=noopener}.
 
 ```metorex
 puts 2e3

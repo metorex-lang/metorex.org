@@ -4,7 +4,7 @@ slug: stdlib-bigdecimal-arithmetic
 description: "The metorex example program stdlib/bigdecimal_arithmetic.rb and its output."
 ---
 
-`tests/_examples/stdlib/bigdecimal_arithmetic.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/bigdecimal_arithmetic.rb).
+`tests/_examples/stdlib/bigdecimal_arithmetic.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/bigdecimal_arithmetic.rb){target=_blank rel=noopener}.
 
 ```metorex
 # How BigDecimal divides, reads text and Floats, and takes logarithms: a

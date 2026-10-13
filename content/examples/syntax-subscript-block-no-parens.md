@@ -4,7 +4,7 @@ slug: syntax-subscript-block-no-parens
 description: "The metorex example program syntax/subscript_block_no_parens.rb and its output."
 ---
 
-`tests/_examples/syntax/subscript_block_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/subscript_block_no_parens.rb).
+`tests/_examples/syntax/subscript_block_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/subscript_block_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A block written after a subscript is handed to the `[]` method.

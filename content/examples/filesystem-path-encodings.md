@@ -4,7 +4,7 @@ slug: filesystem-path-encodings
 description: "The metorex example program filesystem/path_encodings.rb and its output."
 ---
 
-`tests/_examples/filesystem/path_encodings.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/path_encodings.rb).
+`tests/_examples/filesystem/path_encodings.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/filesystem/path_encodings.rb){target=_blank rel=noopener}.
 
 ```metorex
 require "tmpdir"

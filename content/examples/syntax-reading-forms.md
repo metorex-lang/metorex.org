@@ -4,7 +4,7 @@ slug: syntax-reading-forms
 description: "The metorex example program syntax/reading_forms.rb and its output."
 ---
 
-`tests/_examples/syntax/reading_forms.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/reading_forms.rb).
+`tests/_examples/syntax/reading_forms.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/reading_forms.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Forms the parser reads: a control-flow keyword used for its value, an empty

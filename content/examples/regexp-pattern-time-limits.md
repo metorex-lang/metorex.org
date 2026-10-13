@@ -4,7 +4,7 @@ slug: regexp-pattern-time-limits
 description: "The metorex example program regexp/pattern_time_limits.rb and its output."
 ---
 
-`tests/_examples/regexp/pattern_time_limits.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/regexp/pattern_time_limits.rb).
+`tests/_examples/regexp/pattern_time_limits.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/regexp/pattern_time_limits.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A pattern can be given a limit on how long one match may run. A match that

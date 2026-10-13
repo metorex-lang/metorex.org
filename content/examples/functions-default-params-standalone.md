@@ -4,7 +4,7 @@ slug: functions-default-params-standalone
 description: "The metorex example program functions/default_params_standalone.rb and its output."
 ---
 
-`tests/_examples/functions/default_params_standalone.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/default_params_standalone.rb).
+`tests/_examples/functions/default_params_standalone.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/default_params_standalone.rb){target=_blank rel=noopener}.
 
 ```metorex
 def say(msg, times = 1)

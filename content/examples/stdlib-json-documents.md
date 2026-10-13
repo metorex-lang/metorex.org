@@ -4,7 +4,7 @@ slug: stdlib-json-documents
 description: "The metorex example program stdlib/json_documents.rb and its output."
 ---
 
-`tests/_examples/stdlib/json_documents.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/json_documents.rb).
+`tests/_examples/stdlib/json_documents.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/json_documents.rb){target=_blank rel=noopener}.
 
 ```metorex
 require "json"

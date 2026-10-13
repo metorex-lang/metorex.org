@@ -4,7 +4,7 @@ slug: hash-methods-subclass-brackets
 description: "The metorex example program hash_methods/subclass_brackets.rb and its output."
 ---
 
-`tests/_examples/hash_methods/subclass_brackets.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/hash_methods/subclass_brackets.rb).
+`tests/_examples/hash_methods/subclass_brackets.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/hash_methods/subclass_brackets.rb){target=_blank rel=noopener}.
 
 ```metorex
 class StringKeyHash < Hash

@@ -4,7 +4,7 @@ slug: stdlib-erb-trim-modes
 description: "The metorex example program stdlib/erb_trim_modes.rb and its output."
 ---
 
-`tests/_examples/stdlib/erb_trim_modes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/erb_trim_modes.rb).
+`tests/_examples/stdlib/erb_trim_modes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/erb_trim_modes.rb){target=_blank rel=noopener}.
 
 ```metorex
 # An ERB trim mode decides what a tag leaves behind: `>` drops the newline

@@ -4,7 +4,7 @@ slug: oop-nested-class-names-no-parens
 description: "The metorex example program oop/nested_class_names_no_parens.rb and its output."
 ---
 
-`tests/_examples/oop/nested_class_names_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/nested_class_names_no_parens.rb).
+`tests/_examples/oop/nested_class_names_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/nested_class_names_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A class nested in a class can inherit from the class holding it.

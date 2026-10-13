@@ -4,7 +4,7 @@ slug: algorithms-fib-sequence
 description: "The metorex example program algorithms/fib_sequence.rb and its output."
 ---
 
-`tests/_examples/algorithms/fib_sequence.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/algorithms/fib_sequence.rb).
+`tests/_examples/algorithms/fib_sequence.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/algorithms/fib_sequence.rb){target=_blank rel=noopener}.
 
 ```metorex
 count = 8

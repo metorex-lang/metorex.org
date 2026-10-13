@@ -4,7 +4,7 @@ slug: stdlib-libraries-socket-connect-nonblock-no-parens
 description: "The metorex example program stdlib_libraries/socket_connect_nonblock_no_parens.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/socket_connect_nonblock_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/socket_connect_nonblock_no_parens.rb).
+`tests/_examples/stdlib_libraries/socket_connect_nonblock_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/socket_connect_nonblock_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A connect told not to wait starts the connection and reports that it is

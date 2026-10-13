@@ -4,7 +4,7 @@ slug: addresses-uniform-resources-no-parens
 description: "The metorex example program addresses/uniform_resources_no_parens.rb and its output."
 ---
 
-`tests/_examples/addresses/uniform_resources_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/addresses/uniform_resources_no_parens.rb).
+`tests/_examples/addresses/uniform_resources_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/addresses/uniform_resources_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A URI is split into the components RFC 2396 names, and the scheme decides

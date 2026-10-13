@@ -1,6 +1,6 @@
 ---
 title: Phone width check
-description: Loads the home, install, docs, and theme sample pages in 320px frames and records whether any page scrolls sideways, built with --drafts.
+description: Loads each page of the site in a 320px frame and records whether any page scrolls sideways, built with --drafts.
 layout: page
 draft: true
 ---

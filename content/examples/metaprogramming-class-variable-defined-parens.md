@@ -4,7 +4,7 @@ slug: metaprogramming-class-variable-defined-parens
 description: "The metorex example program metaprogramming/class_variable_defined_parens.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/class_variable_defined_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/class_variable_defined_parens.rb).
+`tests/_examples/metaprogramming/class_variable_defined_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/class_variable_defined_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Module#class_variable_set / class_variable_defined? — written with

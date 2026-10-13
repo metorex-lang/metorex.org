@@ -4,7 +4,7 @@ slug: c-extensions-c-tables
 description: "The metorex example program c_extensions/c_tables.rb and its output."
 ---
 
-`tests/_examples/c_extensions/c_tables.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/c_extensions/c_tables.rb).
+`tests/_examples/c_extensions/c_tables.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/c_extensions/c_tables.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A C extension keeping its own data in st_table hash tables keyed by

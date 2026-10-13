@@ -4,7 +4,7 @@ slug: dsl-test-framework
 description: "The metorex example program dsl/test_framework.rb and its output."
 ---
 
-`tests/_examples/dsl/test_framework.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/dsl/test_framework.rb).
+`tests/_examples/dsl/test_framework.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/dsl/test_framework.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Simple test framework DSL

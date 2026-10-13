@@ -4,7 +4,7 @@ slug: methods-bare-names-over-kernel
 description: "The metorex example program methods/bare_names_over_kernel.rb and its output."
 ---
 
-`tests/_examples/methods/bare_names_over_kernel.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/bare_names_over_kernel.rb).
+`tests/_examples/methods/bare_names_over_kernel.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/bare_names_over_kernel.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A bare name inside a class calls the method the class defines under that

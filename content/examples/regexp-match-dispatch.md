@@ -4,7 +4,7 @@ slug: regexp-match-dispatch
 description: "The metorex example program regexp/match_dispatch.rb and its output."
 ---
 
-`tests/_examples/regexp/match_dispatch.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/regexp/match_dispatch.rb).
+`tests/_examples/regexp/match_dispatch.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/regexp/match_dispatch.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A string matched against another string refuses outright, and one matched

@@ -4,7 +4,7 @@ slug: errors-no-method-error-missing-setter
 description: "The metorex example program errors/no_method_error/missing_setter.rb and its output."
 ---
 
-`tests/_examples/errors/no_method_error/missing_setter.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/no_method_error/missing_setter.rb).
+`tests/_examples/errors/no_method_error/missing_setter.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/no_method_error/missing_setter.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Assigning through a setter an object does not define raises NoMethodError,

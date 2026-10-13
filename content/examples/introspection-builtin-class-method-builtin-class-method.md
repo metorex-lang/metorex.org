@@ -4,7 +4,7 @@ slug: introspection-builtin-class-method-builtin-class-method
 description: "The metorex example program introspection/builtin_class_method/builtin_class_method.rb and its output."
 ---
 
-`tests/_examples/introspection/builtin_class_method/builtin_class_method.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/builtin_class_method/builtin_class_method.rb).
+`tests/_examples/introspection/builtin_class_method/builtin_class_method.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/builtin_class_method/builtin_class_method.rb){target=_blank rel=noopener}.
 
 ```metorex
 puts([1, 2, 3].class)

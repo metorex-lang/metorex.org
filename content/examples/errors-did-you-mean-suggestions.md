@@ -4,7 +4,7 @@ slug: errors-did-you-mean-suggestions
 description: "The metorex example program errors/did_you_mean_suggestions.rb and its output."
 ---
 
-`tests/_examples/errors/did_you_mean_suggestions.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/did_you_mean_suggestions.rb).
+`tests/_examples/errors/did_you_mean_suggestions.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/did_you_mean_suggestions.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Ruby appends what a misspelled name may have meant to the report of a

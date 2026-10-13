@@ -4,7 +4,7 @@ slug: ractors-local-storage-no-parens
 description: "The metorex example program ractors/local_storage_no_parens.rb and its output."
 ---
 
-`tests/_examples/ractors/local_storage_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/ractors/local_storage_no_parens.rb).
+`tests/_examples/ractors/local_storage_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/ractors/local_storage_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Each Ractor keeps values of its own under Symbol keys, which only that

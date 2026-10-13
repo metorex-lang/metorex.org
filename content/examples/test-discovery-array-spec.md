@@ -4,7 +4,7 @@ slug: test-discovery-array-spec
 description: "The metorex example program test_discovery/array_spec.rb and its output."
 ---
 
-`tests/_examples/test_discovery/array_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/test_discovery/array_spec.rb).
+`tests/_examples/test_discovery/array_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/test_discovery/array_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Test file: array_spec.rb

@@ -4,7 +4,7 @@ slug: control-flow-throw-and-tap
 description: "The metorex example program control_flow/throw_and_tap.rb and its output."
 ---
 
-`tests/_examples/control_flow/throw_and_tap.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/throw_and_tap.rb).
+`tests/_examples/control_flow/throw_and_tap.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/throw_and_tap.rb){target=_blank rel=noopener}.
 
 ```metorex
 result = catch(:done) do

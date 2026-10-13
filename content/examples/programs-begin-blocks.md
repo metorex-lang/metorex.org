@@ -4,7 +4,7 @@ slug: programs-begin-blocks
 description: "The metorex example program programs/begin_blocks.rb and its output."
 ---
 
-`tests/_examples/programs/begin_blocks.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/programs/begin_blocks.rb).
+`tests/_examples/programs/begin_blocks.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/programs/begin_blocks.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Every BEGIN body runs before the rest of the file it was written in, in the

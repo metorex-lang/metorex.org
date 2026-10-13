@@ -4,7 +4,7 @@ slug: symbols-and-ranges-names-and-walks
 description: "The metorex example program symbols_and_ranges/names_and_walks.rb and its output."
 ---
 
-`tests/_examples/symbols_and_ranges/names_and_walks.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/symbols_and_ranges/names_and_walks.rb).
+`tests/_examples/symbols_and_ranges/names_and_walks.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/symbols_and_ranges/names_and_walks.rb){target=_blank rel=noopener}.
 
 ```metorex
 p :glark.upcase

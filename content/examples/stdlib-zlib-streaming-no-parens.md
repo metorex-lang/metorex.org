@@ -4,7 +4,7 @@ slug: stdlib-zlib-streaming-no-parens
 description: "The metorex example program stdlib/zlib_streaming_no_parens.rb and its output."
 ---
 
-`tests/_examples/stdlib/zlib_streaming_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/zlib_streaming_no_parens.rb).
+`tests/_examples/stdlib/zlib_streaming_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/zlib_streaming_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Deflating a little at a time: each call answers what zlib has written so

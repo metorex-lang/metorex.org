@@ -4,7 +4,7 @@ slug: callables-method-composition
 description: "The metorex example program callables/method_composition.rb and its output."
 ---
 
-`tests/_examples/callables/method_composition.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/method_composition.rb).
+`tests/_examples/callables/method_composition.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/method_composition.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A Method composes with any callable: `>>` runs the method first and is

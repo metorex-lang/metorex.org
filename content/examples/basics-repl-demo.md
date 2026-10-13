@@ -4,7 +4,7 @@ slug: basics-repl-demo
 description: "The metorex example program basics/repl_demo.rb and its output."
 ---
 
-`tests/_examples/basics/repl_demo.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/repl_demo.rb).
+`tests/_examples/basics/repl_demo.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/repl_demo.rb){target=_blank rel=noopener}.
 
 ```metorex
 # REPL Demo - Interactive examples

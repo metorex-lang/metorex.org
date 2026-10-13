@@ -4,7 +4,7 @@ slug: regexp-pattern-readings-no-parens
 description: "The metorex example program regexp/pattern_readings_no_parens.rb and its output."
 ---
 
-`tests/_examples/regexp/pattern_readings_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/regexp/pattern_readings_no_parens.rb).
+`tests/_examples/regexp/pattern_readings_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/regexp/pattern_readings_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # What a pattern says about itself, and the text a pattern is written from.

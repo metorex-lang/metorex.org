@@ -4,7 +4,7 @@ slug: globals-output-stream-names-no-parens
 description: "The metorex example program globals/output_stream_names_no_parens.rb and its output."
 ---
 
-`tests/_examples/globals/output_stream_names_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/globals/output_stream_names_no_parens.rb).
+`tests/_examples/globals/output_stream_names_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/globals/output_stream_names_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 require "stringio"

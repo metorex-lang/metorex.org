@@ -4,7 +4,7 @@ slug: stdlib-io-io
 description: "The metorex example program stdlib/io/io.rb and its output."
 ---
 
-`tests/_examples/stdlib/io/io.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/io/io.rb).
+`tests/_examples/stdlib/io/io.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/io/io.rb){target=_blank rel=noopener}.
 
 ```metorex
 # IO and print functions demonstration

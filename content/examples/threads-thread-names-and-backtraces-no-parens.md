@@ -4,7 +4,7 @@ slug: threads-thread-names-and-backtraces-no-parens
 description: "The metorex example program threads/thread_names_and_backtraces_no_parens.rb and its output."
 ---
 
-`tests/_examples/threads/thread_names_and_backtraces_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/thread_names_and_backtraces_no_parens.rb).
+`tests/_examples/threads/thread_names_and_backtraces_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/thread_names_and_backtraces_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A named thread shows its name in `to_s`, which is UTF-8 text when the

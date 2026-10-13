@@ -4,7 +4,7 @@ slug: basics-power-operator
 description: "The metorex example program basics/power_operator.rb and its output."
 ---
 
-`tests/_examples/basics/power_operator.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/power_operator.rb).
+`tests/_examples/basics/power_operator.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/power_operator.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Power operator examples

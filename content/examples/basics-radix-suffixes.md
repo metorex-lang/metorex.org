@@ -4,7 +4,7 @@ slug: basics-radix-suffixes
 description: "The metorex example program basics/radix_suffixes.rb and its output."
 ---
 
-`tests/_examples/basics/radix_suffixes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/radix_suffixes.rb).
+`tests/_examples/basics/radix_suffixes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/radix_suffixes.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A number written in another base carries the same `r` and `i` suffixes a

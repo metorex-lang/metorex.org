@@ -19,4 +19,4 @@ ruby/spec describes 12 methods in `core/binding`, and Metorex implements 12 of t
 - **`Binding#receiver`**: implemented, parameters `[]`. Returns the bound receiver of the binding object. [An example calling it](/examples/c-extensions-c-debug).
 - **`Binding#source_location`**: implemented, parameters `[]`. Returns the Ruby source filename and line number of the binding object. [An example calling it](/examples/c-extensions-c-procs).
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

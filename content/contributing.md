@@ -5,7 +5,7 @@ description: How to build Metorex from source, run its tests and the ruby/spec s
 layout: page
 ---
 
-Metorex is developed in the [metorex repository](https://github.com/metorex-lang/metorex) on GitHub. Issues and pull requests go there, and a contribution is licensed under the MIT License.
+Metorex is developed in the [metorex repository](https://github.com/metorex-lang/metorex){target=_blank rel=noopener} on GitHub. Issues and pull requests go there, and a contribution is licensed under the MIT License.
 
 ## What you need
 

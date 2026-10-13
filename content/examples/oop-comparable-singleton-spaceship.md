@@ -4,7 +4,7 @@ slug: oop-comparable-singleton-spaceship
 description: "The metorex example program oop/comparable/singleton_spaceship.rb and its output."
 ---
 
-`tests/_examples/oop/comparable/singleton_spaceship.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/comparable/singleton_spaceship.rb).
+`tests/_examples/oop/comparable/singleton_spaceship.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/comparable/singleton_spaceship.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Pair

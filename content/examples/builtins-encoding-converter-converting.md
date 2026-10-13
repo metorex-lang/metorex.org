@@ -4,7 +4,7 @@ slug: builtins-encoding-converter-converting
 description: "The metorex example program builtins/encoding_converter/converting.rb and its output."
 ---
 
-`tests/_examples/builtins/encoding_converter/converting.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/encoding_converter/converting.rb).
+`tests/_examples/builtins/encoding_converter/converting.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/encoding_converter/converting.rb){target=_blank rel=noopener}.
 
 ```metorex
 # encoding: binary

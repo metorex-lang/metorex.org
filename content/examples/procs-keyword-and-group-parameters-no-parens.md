@@ -4,7 +4,7 @@ slug: procs-keyword-and-group-parameters-no-parens
 description: "The metorex example program procs/keyword_and_group_parameters_no_parens.rb and its output."
 ---
 
-`tests/_examples/procs/keyword_and_group_parameters_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/procs/keyword_and_group_parameters_no_parens.rb).
+`tests/_examples/procs/keyword_and_group_parameters_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/procs/keyword_and_group_parameters_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `|**nil|` says a block takes no keyword arguments at all, whether it is a

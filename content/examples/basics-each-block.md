@@ -4,7 +4,7 @@ slug: basics-each-block
 description: "The metorex example program basics/each_block.rb and its output."
 ---
 
-`tests/_examples/basics/each_block.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/each_block.rb).
+`tests/_examples/basics/each_block.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/each_block.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Test block iteration with each

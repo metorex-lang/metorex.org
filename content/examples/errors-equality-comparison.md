@@ -4,7 +4,7 @@ slug: errors-equality-comparison
 description: "The metorex example program errors/equality/comparison.rb and its output."
 ---
 
-`tests/_examples/errors/equality/comparison.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/equality/comparison.rb).
+`tests/_examples/errors/equality/comparison.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/equality/comparison.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Two exceptions are equal when they share a class, a message, and a

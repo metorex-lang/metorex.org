@@ -4,7 +4,7 @@ slug: dates-points-in-time
 description: "The metorex example program dates/points_in_time.rb and its output."
 ---
 
-`tests/_examples/dates/points_in_time.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/dates/points_in_time.rb).
+`tests/_examples/dates/points_in_time.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/dates/points_in_time.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A Time holds a whole number of seconds since the epoch plus an exact

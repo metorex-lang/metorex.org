@@ -4,7 +4,7 @@ slug: data-structures-hash-methods
 description: "The metorex example program data_structures/hash_methods.rb and its output."
 ---
 
-`tests/_examples/data_structures/hash_methods.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/data_structures/hash_methods.rb).
+`tests/_examples/data_structures/hash_methods.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/data_structures/hash_methods.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Test hash methods

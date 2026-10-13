@@ -4,7 +4,7 @@ slug: oop-operator-methods-extended
 description: "The metorex example program oop/operator_methods/extended.rb and its output."
 ---
 
-`tests/_examples/oop/operator_methods/extended.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/operator_methods/extended.rb).
+`tests/_examples/oop/operator_methods/extended.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/operator_methods/extended.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Value

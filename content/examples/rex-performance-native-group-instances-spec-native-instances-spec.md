@@ -4,7 +4,7 @@ slug: rex-performance-native-group-instances-spec-native-instances-spec
 description: "The metorex example program rex/performance/native_group_instances/spec/native_instances_spec.rb and its output."
 ---
 
-`tests/_examples/rex/performance/native_group_instances/spec/native_instances_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/performance/native_group_instances/spec/native_instances_spec.rb).
+`tests/_examples/rex/performance/native_group_instances/spec/native_instances_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/performance/native_group_instances/spec/native_instances_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 RSpec.configure { |config| config.order = :defined }

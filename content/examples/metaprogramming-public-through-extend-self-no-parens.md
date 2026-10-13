@@ -4,7 +4,7 @@ slug: metaprogramming-public-through-extend-self-no-parens
 description: "The metorex example program metaprogramming/public_through_extend_self_no_parens.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/public_through_extend_self_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/public_through_extend_self_no_parens.rb).
+`tests/_examples/metaprogramming/public_through_extend_self_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/public_through_extend_self_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `public` in a singleton class makes public a method the object reaches only

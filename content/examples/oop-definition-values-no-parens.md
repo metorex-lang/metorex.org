@@ -4,7 +4,7 @@ slug: oop-definition-values-no-parens
 description: "The metorex example program oop/definition_values_no_parens.rb and its output."
 ---
 
-`tests/_examples/oop/definition_values_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/definition_values_no_parens.rb).
+`tests/_examples/oop/definition_values_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/definition_values_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 puts eval("class Twenty; 20; end").to_s

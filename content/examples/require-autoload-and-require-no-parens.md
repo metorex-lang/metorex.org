@@ -4,7 +4,7 @@ slug: require-autoload-and-require-no-parens
 description: "The metorex example program require/autoload_and_require_no_parens.rb and its output."
 ---
 
-`tests/_examples/require/autoload_and_require_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/autoload_and_require_no_parens.rb).
+`tests/_examples/require/autoload_and_require_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/autoload_and_require_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # An autoload of a constant already defined is ignored. A file required

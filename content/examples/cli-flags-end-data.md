@@ -4,7 +4,7 @@ slug: cli-flags-end-data
 description: "The metorex example program cli_flags/end_data.rb and its output."
 ---
 
-`tests/_examples/cli_flags/end_data.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/cli_flags/end_data.rb).
+`tests/_examples/cli_flags/end_data.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/cli_flags/end_data.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A line reading `__END__` closes the code, and `DATA` reads the text after it

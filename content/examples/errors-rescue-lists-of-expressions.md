@@ -4,7 +4,7 @@ slug: errors-rescue-lists-of-expressions
 description: "The metorex example program errors/rescue_lists_of_expressions.rb and its output."
 ---
 
-`tests/_examples/errors/rescue_lists_of_expressions.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/rescue_lists_of_expressions.rb).
+`tests/_examples/errors/rescue_lists_of_expressions.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/rescue_lists_of_expressions.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A rescue list holds expressions as well as names: a ternary, a group, a

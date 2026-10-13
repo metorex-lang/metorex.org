@@ -4,7 +4,7 @@ slug: introspection-class-answers-kernel-methods
 description: "The metorex example program introspection/class_answers_kernel_methods.rb and its output."
 ---
 
-`tests/_examples/introspection/class_answers_kernel_methods.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/class_answers_kernel_methods.rb).
+`tests/_examples/introspection/class_answers_kernel_methods.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/class_answers_kernel_methods.rb){target=_blank rel=noopener}.
 
 ```metorex
 names = Kernel.instance_methods.sort

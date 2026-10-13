@@ -4,7 +4,7 @@ slug: errors-stack-trace-basic
 description: "The metorex example program errors/stack_trace_basic.rb and its output."
 ---
 
-`tests/_examples/errors/stack_trace_basic.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/stack_trace_basic.rb).
+`tests/_examples/errors/stack_trace_basic.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/stack_trace_basic.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Basic stack trace example

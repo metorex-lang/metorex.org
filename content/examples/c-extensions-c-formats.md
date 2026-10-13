@@ -4,7 +4,7 @@ slug: c-extensions-c-formats
 description: "The metorex example program c_extensions/c_formats.rb and its output."
 ---
 
-`tests/_examples/c_extensions/c_formats.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/c_extensions/c_formats.rb).
+`tests/_examples/c_extensions/c_formats.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/c_extensions/c_formats.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A C extension formatting text the way rb_sprintf, rb_raise and rb_warn do,

@@ -4,7 +4,7 @@ slug: rescue-module-case-equality-through-class-constant
 description: "The metorex example program rescue/module_case_equality_through_class_constant.rb and its output."
 ---
 
-`tests/_examples/rescue/module_case_equality_through_class_constant.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rescue/module_case_equality_through_class_constant.rb).
+`tests/_examples/rescue/module_case_equality_through_class_constant.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rescue/module_case_equality_through_class_constant.rb){target=_blank rel=noopener}.
 
 ```metorex
 module Catching

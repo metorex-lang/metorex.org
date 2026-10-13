@@ -4,7 +4,7 @@ slug: eval-refused-programs-no-parens
 description: "The metorex example program eval/refused_programs_no_parens.rb and its output."
 ---
 
-`tests/_examples/eval/refused_programs_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/eval/refused_programs_no_parens.rb).
+`tests/_examples/eval/refused_programs_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/eval/refused_programs_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Code the interpreter could read but Ruby's grammar refuses raises a

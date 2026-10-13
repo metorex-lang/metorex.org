@@ -4,7 +4,7 @@ slug: require-gem-home-gems-bundler-4-0-19-lib-bundler-compact-index-client-upda
 description: "The metorex example program require/gem_home/gems/bundler-4.0.19/lib/bundler/compact_index_client/updater.rb and its output."
 ---
 
-`tests/_examples/require/gem_home/gems/bundler-4.0.19/lib/bundler/compact_index_client/updater.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/gem_home/gems/bundler-4.0.19/lib/bundler/compact_index_client/updater.rb).
+`tests/_examples/require/gem_home/gems/bundler-4.0.19/lib/bundler/compact_index_client/updater.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/require/gem_home/gems/bundler-4.0.19/lib/bundler/compact_index_client/updater.rb){target=_blank rel=noopener}.
 
 ```metorex
 # frozen_string_literal: true

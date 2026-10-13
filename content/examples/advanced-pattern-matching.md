@@ -4,7 +4,7 @@ slug: advanced-pattern-matching
 description: "The metorex example program advanced/pattern_matching.rb and its output."
 ---
 
-`tests/_examples/advanced/pattern_matching.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/pattern_matching.rb).
+`tests/_examples/advanced/pattern_matching.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/advanced/pattern_matching.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Advanced pattern matching example

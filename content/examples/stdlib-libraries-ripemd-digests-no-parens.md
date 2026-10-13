@@ -4,7 +4,7 @@ slug: stdlib-libraries-ripemd-digests-no-parens
 description: "The metorex example program stdlib_libraries/ripemd_digests_no_parens.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/ripemd_digests_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/ripemd_digests_no_parens.rb).
+`tests/_examples/stdlib_libraries/ripemd_digests_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/ripemd_digests_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Digest::RMD160 gives RIPEMD-160 digests, twenty bytes long, through the same

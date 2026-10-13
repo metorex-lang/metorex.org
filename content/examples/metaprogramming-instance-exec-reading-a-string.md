@@ -4,7 +4,7 @@ slug: metaprogramming-instance-exec-reading-a-string
 description: "The metorex example program metaprogramming/instance_exec/reading_a_string.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/instance_exec/reading_a_string.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/instance_exec/reading_a_string.rb).
+`tests/_examples/metaprogramming/instance_exec/reading_a_string.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/instance_exec/reading_a_string.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `instance_eval` handed a String runs it against the receiver: the code reads

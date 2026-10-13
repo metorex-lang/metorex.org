@@ -4,7 +4,7 @@ slug: builtins-string-variables-after-free
 description: "The metorex example program builtins/string_variables_after_free.rb and its output."
 ---
 
-`tests/_examples/builtins/string_variables_after_free.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/string_variables_after_free.rb).
+`tests/_examples/builtins/string_variables_after_free.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/builtins/string_variables_after_free.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A String given an instance variable and then dropped leaves nothing on the

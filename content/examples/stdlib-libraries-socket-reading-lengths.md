@@ -4,7 +4,7 @@ slug: stdlib-libraries-socket-reading-lengths
 description: "The metorex example program stdlib_libraries/socket_reading_lengths.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/socket_reading_lengths.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/socket_reading_lengths.rb).
+`tests/_examples/stdlib_libraries/socket_reading_lengths.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/socket_reading_lengths.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A socket read of a length waits for that many bytes or for the other end

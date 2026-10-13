@@ -4,7 +4,7 @@ slug: c-extensions-c-modules
 description: "The metorex example program c_extensions/c_modules.rb and its output."
 ---
 
-`tests/_examples/c_extensions/c_modules.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/c_extensions/c_modules.rb).
+`tests/_examples/c_extensions/c_modules.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/c_extensions/c_modules.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A C extension working with classes and modules: constants under any name,

@@ -4,7 +4,7 @@ slug: oop-module-refinements
 description: "The metorex example program oop/module_refinements.rb and its output."
 ---
 
-`tests/_examples/oop/module_refinements.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/module_refinements.rb).
+`tests/_examples/oop/module_refinements.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/module_refinements.rb){target=_blank rel=noopener}.
 
 ```metorex
 collected = []

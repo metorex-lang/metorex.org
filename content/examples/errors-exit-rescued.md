@@ -4,7 +4,7 @@ slug: errors-exit-rescued
 description: "The metorex example program errors/exit_rescued.rb and its output."
 ---
 
-`tests/_examples/errors/exit_rescued.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/exit_rescued.rb).
+`tests/_examples/errors/exit_rescued.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/exit_rescued.rb){target=_blank rel=noopener}.
 
 ```metorex
 begin

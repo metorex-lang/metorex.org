@@ -4,7 +4,7 @@ slug: enumerable-walking-a-collection-no-parens
 description: "The metorex example program enumerable/walking_a_collection_no_parens.rb and its output."
 ---
 
-`tests/_examples/enumerable/walking_a_collection_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/enumerable/walking_a_collection_no_parens.rb).
+`tests/_examples/enumerable/walking_a_collection_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/enumerable/walking_a_collection_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Enumerable written over each: a class supplies each, and the module supplies

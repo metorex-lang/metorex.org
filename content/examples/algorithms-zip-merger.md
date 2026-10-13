@@ -4,7 +4,7 @@ slug: algorithms-zip-merger
 description: "The metorex example program algorithms/zip_merger.rb and its output."
 ---
 
-`tests/_examples/algorithms/zip_merger.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/algorithms/zip_merger.rb).
+`tests/_examples/algorithms/zip_merger.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/algorithms/zip_merger.rb){target=_blank rel=noopener}.
 
 ```metorex
 names = ["Ann", "Ben"]

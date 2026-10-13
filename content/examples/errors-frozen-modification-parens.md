@@ -4,7 +4,7 @@ slug: errors-frozen-modification-parens
 description: "The metorex example program errors/frozen/modification_parens.rb and its output."
 ---
 
-`tests/_examples/errors/frozen/modification_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/frozen/modification_parens.rb).
+`tests/_examples/errors/frozen/modification_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/frozen/modification_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Modifying a frozen object raises FrozenError naming the class and the

@@ -4,7 +4,7 @@ slug: methods-method-missing-for-bare-names
 description: "The metorex example program methods/method_missing_for_bare_names.rb and its output."
 ---
 
-`tests/_examples/methods/method_missing_for_bare_names.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/method_missing_for_bare_names.rb).
+`tests/_examples/methods/method_missing_for_bare_names.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/method_missing_for_bare_names.rb){target=_blank rel=noopener}.
 
 ```metorex
 module Predicates

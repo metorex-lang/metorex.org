@@ -4,7 +4,7 @@ slug: stdlib-libraries-ripper-brace-after-command
 description: "The metorex example program stdlib_libraries/ripper_brace_after_command.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/ripper_brace_after_command.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/ripper_brace_after_command.rb).
+`tests/_examples/stdlib_libraries/ripper_brace_after_command.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/ripper_brace_after_command.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A `{` after a call written with arguments and no parentheses opens no

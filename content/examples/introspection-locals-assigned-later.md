@@ -4,7 +4,7 @@ slug: introspection-locals-assigned-later
 description: "The metorex example program introspection/locals_assigned_later.rb and its output."
 ---
 
-`tests/_examples/introspection/locals_assigned_later.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/locals_assigned_later.rb).
+`tests/_examples/introspection/locals_assigned_later.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/introspection/locals_assigned_later.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `local_variables` lists every local of a scope, the ones assigned further

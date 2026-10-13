@@ -4,7 +4,7 @@ slug: stdlib-marshal-core-values
 description: "The metorex example program stdlib/marshal_core_values.rb and its output."
 ---
 
-`tests/_examples/stdlib/marshal_core_values.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/marshal_core_values.rb).
+`tests/_examples/stdlib/marshal_core_values.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/marshal_core_values.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Marshal writes exceptions, ranges, times and wide numbers the way Ruby

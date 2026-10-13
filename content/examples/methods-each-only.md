@@ -4,7 +4,7 @@ slug: methods-each-only
 description: "The metorex example program methods/each/only.rb and its output."
 ---
 
-`tests/_examples/methods/each/only.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/each/only.rb).
+`tests/_examples/methods/each/only.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/each/only.rb){target=_blank rel=noopener}.
 
 ```metorex
 def test

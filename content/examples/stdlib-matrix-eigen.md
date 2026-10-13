@@ -4,7 +4,7 @@ slug: stdlib-matrix-eigen
 description: "The metorex example program stdlib/matrix_eigen.rb and its output."
 ---
 
-`tests/_examples/stdlib/matrix_eigen.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/matrix_eigen.rb).
+`tests/_examples/stdlib/matrix_eigen.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/matrix_eigen.rb){target=_blank rel=noopener}.
 
 ```metorex
 # The eigenvalues and eigenvectors of square matrices of any size: a

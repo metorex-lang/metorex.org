@@ -4,7 +4,7 @@ slug: strings-multibyte-byteslices-parens
 description: "The metorex example program strings/multibyte_byteslices_parens.rb and its output."
 ---
 
-`tests/_examples/strings/multibyte_byteslices_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/multibyte_byteslices_parens.rb).
+`tests/_examples/strings/multibyte_byteslices_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/multibyte_byteslices_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A byte slice of UTF-8 text that holds whole characters is text again, and

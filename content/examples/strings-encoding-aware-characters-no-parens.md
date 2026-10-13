@@ -4,7 +4,7 @@ slug: strings-encoding-aware-characters-no-parens
 description: "The metorex example program strings/encoding_aware_characters_no_parens.rb and its output."
 ---
 
-`tests/_examples/strings/encoding_aware_characters_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/encoding_aware_characters_no_parens.rb).
+`tests/_examples/strings/encoding_aware_characters_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/encoding_aware_characters_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A string splits into characters the way the encoding it is tagged with

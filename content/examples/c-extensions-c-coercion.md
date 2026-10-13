@@ -4,7 +4,7 @@ slug: c-extensions-c-coercion
 description: "The metorex example program c_extensions/c_coercion.rb and its output."
 ---
 
-`tests/_examples/c_extensions/c_coercion.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/c_extensions/c_coercion.rb).
+`tests/_examples/c_extensions/c_coercion.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/c_extensions/c_coercion.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A C extension comparing and coercing numbers the way MRI's numeric

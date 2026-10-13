@@ -4,7 +4,7 @@ slug: errors-errno-system-call-error
 description: "The metorex example program errors/errno/system_call_error.rb and its output."
 ---
 
-`tests/_examples/errors/errno/system_call_error.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/errno/system_call_error.rb).
+`tests/_examples/errors/errno/system_call_error.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/errno/system_call_error.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `SystemCallError.new` takes the number in the second position, or in the

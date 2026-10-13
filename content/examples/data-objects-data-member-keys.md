@@ -4,7 +4,7 @@ slug: data-objects-data-member-keys
 description: "The metorex example program data_objects/data_member_keys.rb and its output."
 ---
 
-`tests/_examples/data_objects/data_member_keys.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/data_objects/data_member_keys.rb).
+`tests/_examples/data_objects/data_member_keys.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/data_objects/data_member_keys.rb){target=_blank rel=noopener}.
 
 ```metorex
 Reading = Data.define(:meter, :value)

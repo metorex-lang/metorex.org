@@ -4,7 +4,7 @@ slug: metaprogramming-advanced-aspect-oriented
 description: "The metorex example program metaprogramming/advanced/aspect_oriented.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/advanced/aspect_oriented.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/advanced/aspect_oriented.rb).
+`tests/_examples/metaprogramming/advanced/aspect_oriented.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/advanced/aspect_oriented.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Aspect-Oriented Programming: Cross-cutting concerns via wrapping

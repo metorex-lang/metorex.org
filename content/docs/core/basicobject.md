@@ -20,4 +20,4 @@ ruby/spec describes 13 methods in `core/basicobject`, and Metorex implements 13 
 - **`BasicObject#singleton_method_removed`**: implemented, parameters `[[:req]]`. Invoked as a callback whenever a singleton method is removed from the receiver. [An example calling it](/examples/metaprogramming-singleton-hooks-removed).
 - **`BasicObject#singleton_method_undefined`**: implemented, parameters `[[:req]]`. Invoked as a callback whenever a singleton method is undefined in the receiver. [An example calling it](/examples/metaprogramming-singleton-hooks-undefined).
 
-The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt).
+The method summaries are the first sentences of Ruby's own documentation for each method, read from MRI 4.0.6's ri data. Ruby's documentation is distributed under [Ruby's license](https://www.ruby-lang.org/en/about/license.txt){target=_blank rel=noopener}.

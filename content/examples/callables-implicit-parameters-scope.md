@@ -4,7 +4,7 @@ slug: callables-implicit-parameters-scope
 description: "The metorex example program callables/implicit_parameters_scope.rb and its output."
 ---
 
-`tests/_examples/callables/implicit_parameters_scope.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/implicit_parameters_scope.rb).
+`tests/_examples/callables/implicit_parameters_scope.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/implicit_parameters_scope.rb){target=_blank rel=noopener}.
 
 ```metorex
 puts([3].map { it * 2 }.inspect)

@@ -4,7 +4,7 @@ slug: runtime-variable-scope
 description: "The metorex example program runtime/variable_scope.rb and its output."
 ---
 
-`tests/_examples/runtime/variable_scope.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/variable_scope.rb).
+`tests/_examples/runtime/variable_scope.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/variable_scope.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Variable Scope and Resolution Examples for Metorex

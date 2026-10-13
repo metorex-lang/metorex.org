@@ -4,7 +4,7 @@ slug: threads-mutex-subclass
 description: "The metorex example program threads/mutex_subclass.rb and its output."
 ---
 
-`tests/_examples/threads/mutex_subclass.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/mutex_subclass.rb).
+`tests/_examples/threads/mutex_subclass.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/threads/mutex_subclass.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Guard < Mutex; end

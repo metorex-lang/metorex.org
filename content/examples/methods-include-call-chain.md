@@ -4,7 +4,7 @@ slug: methods-include-call-chain
 description: "The metorex example program methods/include_call_chain.rb and its output."
 ---
 
-`tests/_examples/methods/include_call_chain.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/include_call_chain.rb).
+`tests/_examples/methods/include_call_chain.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/include_call_chain.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Builder

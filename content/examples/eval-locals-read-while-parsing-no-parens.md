@@ -4,7 +4,7 @@ slug: eval-locals-read-while-parsing-no-parens
 description: "The metorex example program eval/locals_read_while_parsing_no_parens.rb and its output."
 ---
 
-`tests/_examples/eval/locals_read_while_parsing_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/eval/locals_read_while_parsing_no_parens.rb).
+`tests/_examples/eval/locals_read_while_parsing_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/eval/locals_read_while_parsing_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Code inside `#{}` and code given to `eval` is read knowing the locals of

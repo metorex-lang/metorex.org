@@ -4,7 +4,7 @@ slug: oop-include-no-arguments
 description: "The metorex example program oop/include_no_arguments.rb and its output."
 ---
 
-`tests/_examples/oop/include_no_arguments.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/include_no_arguments.rb).
+`tests/_examples/oop/include_no_arguments.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/include_no_arguments.rb){target=_blank rel=noopener}.
 
 ```metorex
 begin

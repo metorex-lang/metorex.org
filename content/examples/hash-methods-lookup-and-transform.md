@@ -4,7 +4,7 @@ slug: hash-methods-lookup-and-transform
 description: "The metorex example program hash_methods/lookup_and_transform.rb and its output."
 ---
 
-`tests/_examples/hash_methods/lookup_and_transform.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/hash_methods/lookup_and_transform.rb).
+`tests/_examples/hash_methods/lookup_and_transform.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/hash_methods/lookup_and_transform.rb){target=_blank rel=noopener}.
 
 ```metorex
 counts = Hash.new(0)

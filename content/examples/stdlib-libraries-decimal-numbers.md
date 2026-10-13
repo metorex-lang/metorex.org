@@ -4,7 +4,7 @@ slug: stdlib-libraries-decimal-numbers
 description: "The metorex example program stdlib_libraries/decimal_numbers.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/decimal_numbers.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/decimal_numbers.rb).
+`tests/_examples/stdlib_libraries/decimal_numbers.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/decimal_numbers.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Decimal numbers with as many digits as they are given, rather than as many

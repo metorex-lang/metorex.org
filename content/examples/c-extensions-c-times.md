@@ -4,7 +4,7 @@ slug: c-extensions-c-times
 description: "The metorex example program c_extensions/c_times.rb and its output."
 ---
 
-`tests/_examples/c_extensions/c_times.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/c_extensions/c_times.rb).
+`tests/_examples/c_extensions/c_times.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/c_extensions/c_times.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A C extension making Times from seconds and a fraction, and reading Times

@@ -4,7 +4,7 @@ slug: functions-yield-class
 description: "The metorex example program functions/yield_class.rb and its output."
 ---
 
-`tests/_examples/functions/yield_class.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/yield_class.rb).
+`tests/_examples/functions/yield_class.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/functions/yield_class.rb){target=_blank rel=noopener}.
 
 ```metorex
 class MyArray

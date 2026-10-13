@@ -4,7 +4,7 @@ slug: runtime-builtin-classes
 description: "The metorex example program runtime/builtin_classes.rb and its output."
 ---
 
-`tests/_examples/runtime/builtin_classes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/builtin_classes.rb).
+`tests/_examples/runtime/builtin_classes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/runtime/builtin_classes.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Built-in Classes Examples

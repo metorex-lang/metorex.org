@@ -4,7 +4,7 @@ slug: basics-integers-coercion-parens
 description: "The metorex example program basics/integers/coercion_parens.rb and its output."
 ---
 
-`tests/_examples/basics/integers/coercion_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/integers/coercion_parens.rb).
+`tests/_examples/basics/integers/coercion_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/integers/coercion_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # An operand a number does not know is asked to `coerce`, which answers the

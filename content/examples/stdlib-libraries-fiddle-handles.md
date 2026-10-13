@@ -4,7 +4,7 @@ slug: stdlib-libraries-fiddle-handles
 description: "The metorex example program stdlib_libraries/fiddle_handles.rb and its output."
 ---
 
-`tests/_examples/stdlib_libraries/fiddle_handles.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/fiddle_handles.rb).
+`tests/_examples/stdlib_libraries/fiddle_handles.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib_libraries/fiddle_handles.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Fiddle::Handle opens a shared library, or the program itself, and answers

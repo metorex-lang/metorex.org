@@ -4,7 +4,7 @@ slug: rex-diffs-named-spec-expressions-spec
 description: "The metorex example program rex/diffs/named/spec/expressions_spec.rb and its output."
 ---
 
-`tests/_examples/rex/diffs/named/spec/expressions_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/diffs/named/spec/expressions_spec.rb).
+`tests/_examples/rex/diffs/named/spec/expressions_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/diffs/named/spec/expressions_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 User = Struct.new(:name, :age)

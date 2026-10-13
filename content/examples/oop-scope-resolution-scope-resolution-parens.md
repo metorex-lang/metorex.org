@@ -4,7 +4,7 @@ slug: oop-scope-resolution-scope-resolution-parens
 description: "The metorex example program oop/scope_resolution/scope_resolution_parens.rb and its output."
 ---
 
-`tests/_examples/oop/scope_resolution/scope_resolution_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/scope_resolution/scope_resolution_parens.rb).
+`tests/_examples/oop/scope_resolution/scope_resolution_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/scope_resolution/scope_resolution_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Scope resolution with :: (with parentheses)

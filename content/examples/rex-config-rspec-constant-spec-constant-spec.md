@@ -4,7 +4,7 @@ slug: rex-config-rspec-constant-spec-constant-spec
 description: "The metorex example program rex/config/rspec_constant/spec/constant_spec.rb and its output."
 ---
 
-`tests/_examples/rex/config/rspec_constant/spec/constant_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/config/rspec_constant/spec/constant_spec.rb).
+`tests/_examples/rex/config/rspec_constant/spec/constant_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/config/rspec_constant/spec/constant_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 Rex.configure { |config| config.rspec_constant = false }

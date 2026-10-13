@@ -4,7 +4,7 @@ slug: basics-for-loop-break
 description: "The metorex example program basics/for_loop_break.rb and its output."
 ---
 
-`tests/_examples/basics/for_loop_break.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/for_loop_break.rb).
+`tests/_examples/basics/for_loop_break.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/for_loop_break.rb){target=_blank rel=noopener}.
 
 ```metorex
 # For loop with break

@@ -4,7 +4,7 @@ slug: data-objects-value-objects
 description: "The metorex example program data_objects/value_objects.rb and its output."
 ---
 
-`tests/_examples/data_objects/value_objects.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/data_objects/value_objects.rb).
+`tests/_examples/data_objects/value_objects.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/data_objects/value_objects.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A Data class holds a fixed set of members and cannot be changed once made.

@@ -4,7 +4,7 @@ slug: methods-method-missing-bare-backtrace
 description: "The metorex example program methods/method_missing_bare_backtrace.rb and its output."
 ---
 
-`tests/_examples/methods/method_missing_bare_backtrace.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/method_missing_bare_backtrace.rb).
+`tests/_examples/methods/method_missing_bare_backtrace.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/method_missing_bare_backtrace.rb){target=_blank rel=noopener}.
 
 ```metorex
 require_relative "method_missing_bare_runner"

@@ -4,7 +4,7 @@ slug: linear-algebra-eigenvalues
 description: "The metorex example program linear_algebra/eigenvalues.rb and its output."
 ---
 
-`tests/_examples/linear_algebra/eigenvalues.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/linear_algebra/eigenvalues.rb).
+`tests/_examples/linear_algebra/eigenvalues.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/linear_algebra/eigenvalues.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A matrix answers its eigenvalues as Floats, with a conjugate pair where

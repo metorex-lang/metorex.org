@@ -4,7 +4,7 @@ slug: basics-rationals-rounding-parens
 description: "The metorex example program basics/rationals/rounding_parens.rb and its output."
 ---
 
-`tests/_examples/basics/rationals/rounding_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/rationals/rounding_parens.rb).
+`tests/_examples/basics/rationals/rounding_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/rationals/rounding_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A precision moves the decimal point: a positive one keeps that many places

@@ -4,7 +4,7 @@ slug: callables-proc-written-at
 description: "The metorex example program callables/proc_written_at.rb and its output."
 ---
 
-`tests/_examples/callables/proc_written_at.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/proc_written_at.rb).
+`tests/_examples/callables/proc_written_at.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/callables/proc_written_at.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A block written in the main script names that script the way it was given

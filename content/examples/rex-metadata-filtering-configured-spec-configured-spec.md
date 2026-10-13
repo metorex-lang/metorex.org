@@ -4,7 +4,7 @@ slug: rex-metadata-filtering-configured-spec-configured-spec
 description: "The metorex example program rex/metadata/filtering/configured/spec/configured_spec.rb and its output."
 ---
 
-`tests/_examples/rex/metadata/filtering/configured/spec/configured_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/metadata/filtering/configured/spec/configured_spec.rb).
+`tests/_examples/rex/metadata/filtering/configured/spec/configured_spec.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/rex/metadata/filtering/configured/spec/configured_spec.rb){target=_blank rel=noopener}.
 
 ```metorex
 RSpec.configure do |config|

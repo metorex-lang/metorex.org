@@ -4,7 +4,7 @@ slug: syntax-lambda-parameter
 description: "The metorex example program syntax/lambda_parameter.rb and its output."
 ---
 
-`tests/_examples/syntax/lambda_parameter.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/lambda_parameter.rb).
+`tests/_examples/syntax/lambda_parameter.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/syntax/lambda_parameter.rb){target=_blank rel=noopener}.
 
 ```metorex
 # `lambda` is a method rather than a keyword, so a parameter may take its

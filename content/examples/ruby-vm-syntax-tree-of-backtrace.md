@@ -4,7 +4,7 @@ slug: ruby-vm-syntax-tree-of-backtrace
 description: "The metorex example program ruby_vm/syntax_tree_of_backtrace.rb and its output."
 ---
 
-`tests/_examples/ruby_vm/syntax_tree_of_backtrace.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/ruby_vm/syntax_tree_of_backtrace.rb).
+`tests/_examples/ruby_vm/syntax_tree_of_backtrace.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/ruby_vm/syntax_tree_of_backtrace.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Each location in a backtrace finds the call node written at it, the call

@@ -4,7 +4,7 @@ slug: errors-message-object-mixin
 description: "The metorex example program errors/message/object_mixin.rb and its output."
 ---
 
-`tests/_examples/errors/message/object_mixin.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/message/object_mixin.rb).
+`tests/_examples/errors/message/object_mixin.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/errors/message/object_mixin.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A module included into Object, as mkmf's MakeMakefile is, gives every object

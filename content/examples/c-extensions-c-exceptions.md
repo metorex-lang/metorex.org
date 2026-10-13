@@ -4,7 +4,7 @@ slug: c-extensions-c-exceptions
 description: "The metorex example program c_extensions/c_exceptions.rb and its output."
 ---
 
-`tests/_examples/c_extensions/c_exceptions.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/c_extensions/c_exceptions.rb).
+`tests/_examples/c_extensions/c_exceptions.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/c_extensions/c_exceptions.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A C extension making and raising exceptions, reading and setting the

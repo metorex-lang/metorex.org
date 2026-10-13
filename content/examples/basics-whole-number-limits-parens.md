@@ -4,7 +4,7 @@ slug: basics-whole-number-limits-parens
 description: "The metorex example program basics/whole_number_limits_parens.rb and its output."
 ---
 
-`tests/_examples/basics/whole_number_limits_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/whole_number_limits_parens.rb).
+`tests/_examples/basics/whole_number_limits_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/whole_number_limits_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A shift reads its count through `to_int`, and a count too wide for a machine

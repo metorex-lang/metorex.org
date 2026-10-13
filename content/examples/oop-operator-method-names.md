@@ -4,7 +4,7 @@ slug: oop-operator-method-names
 description: "The metorex example program oop/operator_method_names.rb and its output."
 ---
 
-`tests/_examples/oop/operator_method_names.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/operator_method_names.rb).
+`tests/_examples/oop/operator_method_names.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/operator_method_names.rb){target=_blank rel=noopener}.
 
 ```metorex
 class Weight

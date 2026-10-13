@@ -4,7 +4,7 @@ slug: basics-imaginary-literals
 description: "The metorex example program basics/imaginary_literals.rb and its output."
 ---
 
-`tests/_examples/basics/imaginary_literals.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/imaginary_literals.rb).
+`tests/_examples/basics/imaginary_literals.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/basics/imaginary_literals.rb){target=_blank rel=noopener}.
 
 ```metorex
 puts 1.3i.class

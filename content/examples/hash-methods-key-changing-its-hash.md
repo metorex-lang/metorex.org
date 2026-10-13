@@ -4,7 +4,7 @@ slug: hash-methods-key-changing-its-hash
 description: "The metorex example program hash_methods/key_changing_its_hash.rb and its output."
 ---
 
-`tests/_examples/hash_methods/key_changing_its_hash.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/hash_methods/key_changing_its_hash.rb).
+`tests/_examples/hash_methods/key_changing_its_hash.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/hash_methods/key_changing_its_hash.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A key's own #hash and #eql? may change the hash that is looking it up.

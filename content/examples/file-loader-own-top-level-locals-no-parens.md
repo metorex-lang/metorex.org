@@ -4,7 +4,7 @@ slug: file-loader-own-top-level-locals-no-parens
 description: "The metorex example program file_loader/own_top_level_locals_no_parens.rb and its output."
 ---
 
-`tests/_examples/file_loader/own_top_level_locals_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/file_loader/own_top_level_locals_no_parens.rb).
+`tests/_examples/file_loader/own_top_level_locals_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/file_loader/own_top_level_locals_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A file loaded from another one keeps its own top-level locals, so a name it

@@ -4,7 +4,7 @@ slug: strings-element-assignment
 description: "The metorex example program strings/element_assignment.rb and its output."
 ---
 
-`tests/_examples/strings/element_assignment.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/element_assignment.rb).
+`tests/_examples/strings/element_assignment.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/strings/element_assignment.rb){target=_blank rel=noopener}.
 
 ```metorex
 def refusal

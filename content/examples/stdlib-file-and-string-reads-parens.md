@@ -4,7 +4,7 @@ slug: stdlib-file-and-string-reads-parens
 description: "The metorex example program stdlib/file_and_string_reads_parens.rb and its output."
 ---
 
-`tests/_examples/stdlib/file_and_string_reads_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/file_and_string_reads_parens.rb).
+`tests/_examples/stdlib/file_and_string_reads_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/stdlib/file_and_string_reads_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 path = "/tmp/metorex_example_lines_parens.txt"

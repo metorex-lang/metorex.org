@@ -4,7 +4,7 @@ slug: oop-autoload-thread-test
 description: "The metorex example program oop/autoload_thread_test.rb and its output."
 ---
 
-`tests/_examples/oop/autoload_thread_test.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/autoload_thread_test.rb).
+`tests/_examples/oop/autoload_thread_test.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/oop/autoload_thread_test.rb){target=_blank rel=noopener}.
 
 ```metorex
 module Outer

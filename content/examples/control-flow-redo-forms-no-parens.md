@@ -4,7 +4,7 @@ slug: control-flow-redo-forms-no-parens
 description: "The metorex example program control_flow/redo_forms_no_parens.rb and its output."
 ---
 
-`tests/_examples/control_flow/redo_forms_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/redo_forms_no_parens.rb).
+`tests/_examples/control_flow/redo_forms_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/redo_forms_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Where `redo` restarts: the body of the closest block or loop, without

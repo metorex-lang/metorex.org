@@ -4,7 +4,7 @@ slug: fibers-scheduler-hooks-no-parens
 description: "The metorex example program fibers/scheduler_hooks_no_parens.rb and its output."
 ---
 
-`tests/_examples/fibers/scheduler_hooks_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/fibers/scheduler_hooks_no_parens.rb).
+`tests/_examples/fibers/scheduler_hooks_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/fibers/scheduler_hooks_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A thread's scheduler takes the waits of its non-blocking fibers: a lock

@@ -4,7 +4,7 @@ slug: methods-nested-definitions-no-parens
 description: "The metorex example program methods/nested_definitions_no_parens.rb and its output."
 ---
 
-`tests/_examples/methods/nested_definitions_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/nested_definitions_no_parens.rb).
+`tests/_examples/methods/nested_definitions_no_parens.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/methods/nested_definitions_no_parens.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Where a `def` installs its method and what visibility it gets: a method

@@ -4,7 +4,7 @@ slug: metaprogramming-implicit-blocks
 description: "The metorex example program metaprogramming/implicit_blocks.rb and its output."
 ---
 
-`tests/_examples/metaprogramming/implicit_blocks.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/implicit_blocks.rb).
+`tests/_examples/metaprogramming/implicit_blocks.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/metaprogramming/implicit_blocks.rb){target=_blank rel=noopener}.
 
 ```metorex
 # Implicit block capture - trailing blocks passed to methods

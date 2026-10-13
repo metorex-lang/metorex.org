@@ -4,7 +4,7 @@ slug: control-flow-catch-throw
 description: "The metorex example program control_flow/catch_throw.rb and its output."
 ---
 
-`tests/_examples/control_flow/catch_throw.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/catch_throw.rb).
+`tests/_examples/control_flow/catch_throw.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/control_flow/catch_throw.rb){target=_blank rel=noopener}.
 
 ```metorex
 puts catch(:done) { throw :done, "thrown value" }

@@ -4,7 +4,7 @@ slug: hash-methods-misses-compare-within-a-hash
 description: "The metorex example program hash_methods/misses_compare_within_a_hash.rb and its output."
 ---
 
-`tests/_examples/hash_methods/misses_compare_within_a_hash.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/hash_methods/misses_compare_within_a_hash.rb).
+`tests/_examples/hash_methods/misses_compare_within_a_hash.rb` in the [metorex repository](https://github.com/metorex-lang/metorex/blob/main/tests/_examples/hash_methods/misses_compare_within_a_hash.rb){target=_blank rel=noopener}.
 
 ```metorex
 # A key a hash does not hold is compared with `eql?` against the keys that
