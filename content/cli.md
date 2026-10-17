@@ -239,7 +239,7 @@ $VERBOSE true
 $-d true
 ```
 
-`--ast` prints the syntax tree Metorex runs, for a file or for `-e` code, and runs nothing. `--debug`, given a file, writes the file's path, its length in bytes, and its counts of tokens and statements to standard error before running it.
+`--ast` prints the syntax tree Metorex compiles, for a file or for `-e` code, and runs nothing. `--debug`, given a file, writes the file's path, its length in bytes, and its counts of tokens and statements to standard error before running it.
 
 ## Metorex's own options
 

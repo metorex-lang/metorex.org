@@ -41,7 +41,7 @@ metorex --test test
 
 ## Code as objects
 
-`parse` turns source text into the syntax tree nodes the interpreter runs, and `body`, called on the method `get_source` returns, answers that method's statements as the same nodes. Each node is a hash with a `"type"` key. [Code as objects](/meta) goes through them.
+`parse` turns source text into the syntax tree nodes Metorex compiles, and `body`, called on the method `get_source` returns, answers that method's statements as the same nodes. Each node is a hash with a `"type"` key. [Code as objects](/meta) goes through them.
 
 ```metorex
 def grouped(node)

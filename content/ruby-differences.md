@@ -32,7 +32,7 @@ ruby 4.0.6 (2026-07-14 revision 03b6d3f889) +PRISM [arm64-darwin25]
 
 ## Instruction sequences
 
-Metorex runs the syntax tree rather than compiling it to instructions, so `RubyVM::InstructionSequence#disasm` and `#to_a` list the tree's nodes.
+Metorex compiles to instructions of its own rather than YARV's, so `RubyVM::InstructionSequence#disasm` and `#to_a` list those, each with its operands, what a table operand names, and its line.
 
 ```metorex
 puts RubyVM::InstructionSequence.compile("total = 2 + 3").disasm
@@ -42,12 +42,12 @@ Metorex:
 
 ```
 == disasm: #<ISeq:<compiled>@<compiled>:1 (1,0)-(1,13)>
-0000 lasgn :total
-0001 opcall :+
-0002 integer 2
-0003 list nil
-0004 integer 3
-0005 leave
+0000 Unhoist slot: 0  ; total               (   1)[Li]
+0001 LoadInteger to: 0, value: 2            (   1)
+0002 LoadInteger to: 1, value: 3            (   1)
+0003 Add to: 0, left: 0, right: 1           (   1)
+0004 SetLocal from: 0, slot: 0  ; total     (   1)
+0005 Return from: 0                         (   1)
 ```
 
 MRI 4.0.6:
@@ -66,21 +66,25 @@ local table (size: 1, argc: 0 [opts: 0, rest: -1, post: 0, block: -1, kw: -1@-1,
 
 ## Virtual machine statistics
 
-`RubyVM.stat` answers MRI's keys, each at zero, since Metorex keeps none of the inline caches or object shapes they count.
+`RubyVM.stat` answers MRI's keys, each at zero, since Metorex keeps none of the inline caches or object shapes they count. It also answers `units_compiled` and `instructions_compiled`, the units of code Metorex has compiled so far and the instructions they hold, which MRI does not have.
 
 ```metorex
-p RubyVM.stat.values.all?(&:zero?)
+stat = RubyVM.stat
+p stat.slice(:constant_cache_misses, :next_shape_id).values.all?(&:zero?)
+p stat.key?(:units_compiled) && stat[:instructions_compiled] > stat[:units_compiled]
 ```
 
 Metorex:
 
 ```
 true
+true
 ```
 
 MRI 4.0.6:
 
 ```
+false
 false
 ```
 
