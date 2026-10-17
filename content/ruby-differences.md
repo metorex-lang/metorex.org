@@ -66,12 +66,13 @@ local table (size: 1, argc: 0 [opts: 0, rest: -1, post: 0, block: -1, kw: -1@-1,
 
 ## Virtual machine statistics
 
-`RubyVM.stat` answers MRI's keys, each at zero, since Metorex keeps none of the inline caches or object shapes they count. It also answers `units_compiled` and `instructions_compiled`, the units of code Metorex has compiled so far and the instructions they hold, which MRI does not have.
+`RubyVM.stat` answers `constant_cache_invalidations` and `constant_cache_misses` from Metorex's own constant caches: the times a constant or an autoload changed, and the constant reads that looked the constant up. `next_shape_id` counts the object shapes Metorex has made, which share the names of objects' instance variables. It answers `global_cvar_state` and `shape_cache_size` at zero, since Metorex keeps neither. It also answers keys MRI does not have: `units_compiled` and `instructions_compiled`, the units of code Metorex has compiled so far and the instructions they hold, and `method_cache_hits` and `method_cache_misses`, the calls a call site answered from the methods it keeps by the receiver's class and those that looked the method up.
 
 ```metorex
 stat = RubyVM.stat
-p stat.slice(:constant_cache_misses, :next_shape_id).values.all?(&:zero?)
+p stat.slice(:global_cvar_state, :shape_cache_size).values.all?(&:zero?)
 p stat.key?(:units_compiled) && stat[:instructions_compiled] > stat[:units_compiled]
+p stat.fetch(:method_cache_hits, 0) > 0
 ```
 
 Metorex:
@@ -79,11 +80,13 @@ Metorex:
 ```
 true
 true
+true
 ```
 
 MRI 4.0.6:
 
 ```
+false
 false
 false
 ```
