@@ -26,7 +26,8 @@
           def +(other) = Point.new(x + other.x, y + other.y)
         end
 
-        total = [Point.new(1, 2), Point.new(3, 4)].sum(Point.new(0, 0))
+        points = [Point.new(1, 2), Point.new(3, 4)]
+        total = points.sum(Point.new(0, 0))
         puts total.inspect
 
         case total

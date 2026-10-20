@@ -23,7 +23,9 @@
     %main
       = yield
     != render(:partial<footer>)
+    %button.back-to-top{type: 'button', 'aria-label' => 'Back to top'} &#8679;
     %script{src: '/assets/js/theme.js'}
+    %script{src: '/assets/js/back-to-top.js'}
     %script{src: '/assets/js/nav.js'}
     %script{src: '/assets/js/highlight.js'}
     %script{src: '/assets/js/copy.js'}

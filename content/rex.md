@@ -126,12 +126,12 @@ Coverage: 100.00% of lines (9 of 9) and 100.00% of branches (2 of 2) in 1 file
 
 ## How close it is
 
-The RSpec libraries' own suites run under `metorex spec`, one spec file to a process:
+The RSpec libraries' own suites, at RSpec 3.13.6, run under `metorex spec` and under MRI 4.0.7's own `rspec`, one spec file to a process:
 
-| Suite | Passing | Examples |
-| :-- | --: | --: |
-| rspec-core | 2038 | 2258 |
-| rspec-expectations | 2231 | 2455 |
-| rspec-mocks | 1376 | 1806 |
+| Suite | Passing under MRI | Passing under Metorex | Examples |
+| :-- | --: | --: | --: |
+| rspec-core | 2239 | 2089 | 2258 |
+| rspec-expectations | 2438 | 2436 | 2455 |
+| rspec-mocks | 1794 | 1388 | 1806 |
 
 diff-lcs's suite passes all 322 of its examples, with documentation output identical to RSpec's byte for byte. The suite and both outputs above are `tests/_examples/rex/site/ledger` in the [metorex repository](https://github.com/metorex-lang/metorex){target=_blank rel=noopener}, where the test suite checks them.

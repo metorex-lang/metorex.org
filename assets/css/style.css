@@ -39,12 +39,32 @@
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 @font-face {
-  font-family: 'JetBrains Mono';
+  font-family: 'MesloLGS NF';
   font-style: normal;
-  font-weight: 100 800;
+  font-weight: 400;
   font-display: swap;
-  src: url('/fonts/jetbrains-mono-latin-wght-normal.woff2') format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  src: url('/fonts/meslolgs-nf-400-normal.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'MesloLGS NF';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url('/fonts/meslolgs-nf-400-italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'MesloLGS NF';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/fonts/meslolgs-nf-700-normal.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'MesloLGS NF';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url('/fonts/meslolgs-nf-700-italic.ttf') format('truetype');
 }
 
 /* Each token is light-dark(light, dark). color-scheme picks the side: the OS
@@ -57,19 +77,23 @@
   --border: light-dark(#dfe3e8, #242931);
   --fg: light-dark(#24292f, #e2e5e9);
   --fg-bright: light-dark(#0a0d12, #ffffff);
-  --muted: light-dark(#636c76, #949ba5);
+  --muted: light-dark(#5a626c, #949ba5);
   --accent: light-dark(#b4153a, #ff5c7f);
   --accent-fill: light-dark(#b4153a, #c8183f);
-  --accent-2: light-dark(#5c6570, #8a929c);
+  --accent-2: light-dark(#56606a, #949ba5);
   --accent-3: light-dark(#3b4450, #cfd4da);
   --on-accent: light-dark(#ffffff, #ffffff);
   --on-light-accent: light-dark(#ffffff, #0a0d12);
   --ok: light-dark(#3b4450, #cfd4da);
   --string: light-dark(#7a1a33, #fda4b8);
+  --bg-gradient-top: light-dark(#ffffff, #000000);
+  --bg-gradient-bottom: light-dark(#dde0e5, #2b2f36);
+  --text-shadow-color: light-dark(rgb(10 13 18 / 0.14), rgb(0 0 0 / 0.65));
+  --link-glow: light-dark(rgb(180 21 58 / 0.35), rgb(255 92 127 / 0.55));
 
   --font-heading: 'Poppins', system-ui, sans-serif;
   --font-body: 'Poppins', system-ui, sans-serif;
-  --font-code: 'JetBrains Mono', ui-monospace, monospace;
+  --font-code: 'MesloLGS NF', ui-monospace, monospace;
 
   --content-width: 72rem;
   --gutter: 16px;
@@ -97,12 +121,22 @@ html {
 
 body {
   margin: 0;
-  background: var(--bg);
   color: var(--fg);
   font-family: var(--font-body);
   font-size: 1rem;
   line-height: 1.65;
   overflow-wrap: break-word;
+  text-shadow: 0 1px 2px var(--text-shadow-color);
+}
+
+/* A fixed layer instead of background-attachment: fixed, which iOS Safari
+   ignores. */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background: linear-gradient(to bottom right, var(--bg-gradient-top), var(--bg-gradient-bottom));
 }
 
 h1,
@@ -133,7 +167,7 @@ pre,
 kbd,
 samp {
   font-family: var(--font-code);
-  font-size: 0.875em;
+  font-size: 1.05em;
   font-variant-ligatures: none;
   font-feature-settings: 'liga' 0, 'calt' 0;
 }
@@ -147,6 +181,7 @@ samp {
 }
 
 pre {
+  font-size: 0.875em;
   margin: 1.25rem 0;
   padding: 1.1rem 1.25rem;
   overflow-x: auto;
@@ -242,6 +277,13 @@ td {
 
 .site-nav a:hover {
   color: var(--accent);
+}
+
+.site-nav a:hover,
+.anchor:hover,
+.doc-nav-list a:hover,
+.footer-grid a:hover {
+  text-shadow: 0 1px 2px var(--text-shadow-color), 0 0 8px var(--link-glow);
 }
 
 .nav-toggle {
@@ -553,6 +595,7 @@ td {
 }
 
 .feature-card {
+  position: relative;
   display: flex;
   flex-direction: column;
   gap: 0.6rem;
@@ -607,8 +650,25 @@ td {
   text-decoration: none;
 }
 
-.feature-link:hover {
+.feature-link:hover,
+.feature-card:hover .feature-link {
   text-decoration: underline;
+}
+
+/* Stretches the card's link over the whole card, so a click anywhere on the
+   card follows it. */
+.feature-link::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+}
+
+.feature-card:has(.feature-link:focus-visible) {
+  border-color: var(--accent);
+}
+
+.feature-link:focus-visible {
+  outline: none;
 }
 
 .notice {
@@ -965,4 +1025,43 @@ main {
 .example-count {
   margin-left: 0.4rem;
   color: var(--muted);
+}
+
+/* Back to top */
+
+.back-to-top {
+  position: fixed;
+  right: calc(2rem + env(safe-area-inset-right, 0px));
+  bottom: calc(2rem + env(safe-area-inset-bottom, 0px));
+  z-index: 25;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  background: color-mix(in srgb, var(--accent) 20%, transparent);
+  border: 1px solid color-mix(in srgb, var(--accent) 40%, transparent);
+  color: var(--accent);
+  font-size: 1.6rem;
+  line-height: 1;
+  cursor: pointer;
+  -webkit-backdrop-filter: blur(8px);
+  backdrop-filter: blur(8px);
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease, visibility 0.3s ease, background 0.3s ease, color 0.3s ease;
+}
+
+.back-to-top.visible {
+  opacity: 1;
+  visibility: visible;
+}
+
+.back-to-top:hover,
+.back-to-top:focus-visible {
+  background: color-mix(in srgb, var(--accent) 40%, transparent);
+  border-color: color-mix(in srgb, var(--accent) 70%, transparent);
+  color: var(--fg-bright);
+  outline: none;
 }
