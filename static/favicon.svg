@@ -5,9 +5,21 @@
       <stop offset="0" stop-color="#ffcad6"/>
       <stop offset="1" stop-color="#f0436a"/>
     </linearGradient>
+    <linearGradient id="trail" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.95"/>
+      <stop offset="0.45" stop-color="#0891b2" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#0891b2" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="trail-core" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#ecfeff" stop-opacity="0.95"/>
+      <stop offset="0.4" stop-color="#67e8f9" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
   </defs>
-  <!-- The logo's gem with six facets, drawn upright and turned like the logo. -->
-  <g transform="translate(32 32) scale(1.29) translate(-39.5 -26.75) translate(32 32) rotate(38) scale(0.083) translate(0 -65)">
+  <!-- The logo's gem with six facets and a short trail, drawn upright and turned like the logo. -->
+  <g transform="translate(21 48) rotate(38) scale(0.052) translate(0 -200)">
+    <path d="M-330,-90 C-260,-360 -90,-580 0,-720 C90,-580 260,-360 330,-90 Z" fill="url(#trail)"/>
+    <path d="M-150,-150 C-110,-340 -40,-480 0,-580 C40,-480 110,-340 150,-150 Z" fill="url(#trail-core)"/>
     <polygon points="-340,-80 -180,-200 -110,-80" fill="#f0436a"/>
     <polygon points="-180,-200 180,-200 110,-80 -110,-80" fill="url(#crown)"/>
     <polygon points="180,-200 340,-80 110,-80" fill="#d1123f"/>
