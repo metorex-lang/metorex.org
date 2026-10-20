@@ -7,14 +7,46 @@
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
     %nav.site-nav{id: 'site-nav', 'aria-label' => 'Primary'}
       %a{href: '/install'} Install
-      %a{href: '/language'} Language
-      %a{href: '/meta'} Meta
-      %a{href: '/rex'} Rex
-      %a{href: '/implementations'} Compare
-      %a{href: '/versions'} Versions
-      %a{href: '/docs'} Docs
+      .nav-menu
+        %button.nav-menu-toggle{type: 'button', 'aria-expanded' => 'false', 'aria-controls' => 'nav-menu-language'} Language
+        %ul.nav-submenu{id: 'nav-menu-language'}
+          %li
+            %a{href: '/language'} Tour
+          %li
+            %a{href: '/docs/meta'} Code as Objects
+          %li
+            %a{href: '/beyond-ruby'} Beyond Ruby
+          %li
+            %a{href: '/docs/ruby-differences'} MRI Differences
+          %li
+            %a{href: '/docs/rex'} Rex
+      .nav-menu
+        %button.nav-menu-toggle{type: 'button', 'aria-expanded' => 'false', 'aria-controls' => 'nav-menu-reference'} Reference
+        %ul.nav-submenu{id: 'nav-menu-reference'}
+          %li
+            %a{href: '/docs'} Docs
+          %li
+            %a{href: '/docs/cli'} Command Line
+          %li
+            %a{href: '/docs/stdlib'} Standard Library
+          %li
+            %a{href: '/docs/c-extensions'} C Extensions
+          %li
+            %a{href: '/versions'} Versions
+      .nav-menu
+        %button.nav-menu-toggle{type: 'button', 'aria-expanded' => 'false', 'aria-controls' => 'nav-menu-project'} Project
+        %ul.nav-submenu{id: 'nav-menu-project'}
+          %li
+            %a{href: '/architecture'} Architecture
+          %li
+            %a{href: '/implementations'} Compare
+          %li
+            %a{href: '/benchmarks'} Benchmarks
+          %li
+            %a{href: '/contributing'} Contributing
+          %li
+            %a{href: 'https://github.com/metorex-lang/metorex', target: '_blank', rel: 'noopener'} GitHub
       %a{href: '/blog'} Blog
-      %a{href: 'https://github.com/metorex-lang/metorex', target: '_blank', rel: 'noopener'} GitHub
       .site-search{'data-blogin-search' => True}
         %input{type: 'search', placeholder: 'Search', autocomplete: 'off', 'aria-label' => 'Search this site'}
         %ul.site-search-results{'data-blogin-results' => True}

@@ -1,11 +1,11 @@
 ---
-title: Syntax tree nodes
+title: Syntax Tree Nodes
 slug: syntax-tree-nodes
 description: Every node type parse and Method#body answer, with the keys each one has.
 order: 2
 ---
 
-`parse(source)` answers an Array of nodes, one for each top-level statement in `source`, and `body` on the method `get_source` returns answers the method's statements the same way. A node is a Hash with a `"type"` key and the keys its type lists below. A child node is a Hash of the same kind, and a list of children is an Array. [Code as objects](/meta) shows them in use.
+`parse(source)` answers an Array of nodes, one for each top-level statement in `source`, and `body` on the method `get_source` returns answers the method's statements the same way. A node is a Hash with a `"type"` key and the keys its type lists below. A child node is a Hash of the same kind, and a list of children is an Array. [Code as objects](/docs/meta) shows them in use.
 
 ```metorex
 node = parse("total = items.sum(:price) if ready").first

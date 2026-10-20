@@ -32,7 +32,7 @@ cargo run -- tests/_examples/cli_flags/good_syntax.rb
 cargo run
 ```
 
-`cargo run` with no file starts the REPL. The binary is `target/debug/metorex`, and the [command line](/cli) page lists its options.
+`cargo run` with no file starts the REPL. The binary is `target/debug/metorex`, and the [command line](/docs/cli) page lists its options.
 
 ## Running the tests
 

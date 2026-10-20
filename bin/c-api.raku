@@ -1,7 +1,7 @@
 #!/usr/bin/env raku
 
 # Writes the MRI C API functions a metorex build exports into
-# content/c-extensions.md, between its two marker comments. Functions named
+# content/docs/c-extensions.md, between its two marker comments. Functions named
 # `rb_metorex_` are metorex's own and are left out.
 #
 #   bin/c-api.raku [--binary=../metorex/target/debug/metorex]
@@ -47,7 +47,7 @@ sub section(@functions --> Str) {
     @lines.join("\n")
 }
 
-sub MAIN(Str :$binary = '../metorex/target/debug/metorex', Str :$page = 'content/c-extensions.md') {
+sub MAIN(Str :$binary = '../metorex/target/debug/metorex', Str :$page = 'content/docs/c-extensions.md') {
     my $text = $page.IO.slurp;
     my $start = $text.index(START-MARKER) // die "no {START-MARKER} in $page";
     my $end = $text.index(END-MARKER) // die "no {END-MARKER} in $page";

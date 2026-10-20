@@ -5,7 +5,7 @@ description: A tour of Metorex through classes, blocks, Struct and Data, Enumera
 layout: page
 ---
 
-Metorex runs Ruby. Each sample below runs under Metorex and prints the output shown under it, which matches MRI 4.0.6 for the same file. [Differences from MRI](/ruby-differences) lists the places where the two answer differently.
+Metorex runs Ruby. Each sample below runs under Metorex and prints the output shown under it, which matches MRI 4.0.6 for the same file. [Differences from MRI](/docs/ruby-differences) lists the places where the two answer differently.
 
 ## Classes
 

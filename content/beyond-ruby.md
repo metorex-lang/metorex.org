@@ -37,11 +37,11 @@ metorex --test test
 
 ## RSpec with no gems
 
-[Rex](/rex), the spec framework built into Metorex, runs suites written for RSpec 3.13 with `metorex spec`, and loads the first time a program names `RSpec`. `metorex spec --coverage` reports the lines and branches that ran, counted by the interpreter.
+[Rex](/docs/rex), the spec framework built into Metorex, runs suites written for RSpec 3.13 with `metorex spec`, and loads the first time a program names `RSpec`. `metorex spec --coverage` reports the lines and branches that ran, counted by the interpreter.
 
 ## Code as objects
 
-`parse` turns source text into the syntax tree nodes Metorex compiles, and `body`, called on the method `get_source` returns, answers that method's statements as the same nodes. Each node is a hash with a `"type"` key. [Code as objects](/meta) goes through them.
+`parse` turns source text into the syntax tree nodes Metorex compiles, and `body`, called on the method `get_source` returns, answers that method's statements as the same nodes. Each node is a hash with a `"type"` key. [Code as objects](/docs/meta) goes through them.
 
 ```metorex
 def grouped(node)

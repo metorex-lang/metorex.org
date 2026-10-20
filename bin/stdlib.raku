@@ -1,6 +1,6 @@
 #!/usr/bin/env raku
 
-# Writes the table of MRI's default and bundled gems into content/stdlib.md,
+# Writes the table of MRI's default and bundled gems into content/docs/stdlib.md,
 # between its two marker comments. Each library is required under MRI and
 # under metorex, and the table says whether each one loaded and where from.
 #
@@ -85,7 +85,7 @@ sub rows(Str $ruby, Str $binary, Str $kind, @gems --> List) {
     }).List
 }
 
-sub MAIN(Str :$binary = '../metorex/target/debug/metorex', Str :$ruby = 'ruby', Str :$page = 'content/stdlib.md') {
+sub MAIN(Str :$binary = '../metorex/target/debug/metorex', Str :$ruby = 'ruby', Str :$page = 'content/docs/stdlib.md') {
     my $binary-path = $binary.IO.absolute;
     my @rows = |rows($ruby, $binary-path, 'default', default-gems($ruby)),
                |rows($ruby, $binary-path, 'bundled', bundled-gems($ruby));

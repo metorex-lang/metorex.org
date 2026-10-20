@@ -8,9 +8,7 @@
   "search": true,
   "sections": {
     "blog": { "label": "Blog", "page-size": 10, "index-dates": true, "show-dates": true },
-    "docs": { "label": "Docs", "page-size": 1000, "index-dates": false, "show-dates": false },
-    "docs/core": { "label": "Core reference", "page-size": 1000, "index-dates": false, "show-dates": false },
-    "examples": { "label": "Examples", "page-size": 10000, "index-dates": false, "show-dates": false, "nav": false }
+    "docs": { "label": "Docs", "page-size": 1000, "index-dates": false, "show-dates": false }
   },
   "taxonomies": ["tags", "archives"],
   "feed-formats": ["atom", "rss"],

@@ -9,7 +9,7 @@ Metorex has two version numbers. Its own, now 0.1.0, is the version of the metor
 
 ## What a program sees
 
-`RUBY_VERSION` and `RUBY_ENGINE_VERSION` are the MRI release Metorex follows, and `RUBY_ENGINE` is `ruby`, so a library that checks the version or the engine treats Metorex as MRI. `RSpec::Core::Version::STRING` is the RSpec release [Rex](/rex) reports.
+`RUBY_VERSION` and `RUBY_ENGINE_VERSION` are the MRI release Metorex follows, and `RUBY_ENGINE` is `ruby`, so a library that checks the version or the engine treats Metorex as MRI. `RSpec::Core::Version::STRING` is the RSpec release [Rex](/docs/rex) reports.
 
 ```metorex
 require "rspec/core"

@@ -5,7 +5,7 @@ description: Metorex beside CRuby, JRuby, TruffleRuby, mruby, and Artichoke, by 
 layout: page
 ---
 
-The pages were read on October 13, 2026.
+As of October 13, 2026.
 
 | Implementation | Written in | Ruby version | ruby/spec | C extensions | License |
 | :-- | :-- | :-- | :-- | :-- | :-- |
