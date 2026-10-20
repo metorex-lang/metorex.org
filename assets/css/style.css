@@ -28,21 +28,20 @@
 :root {
   color-scheme: light dark;
 
-  --bg: light-dark(#fbf8f5, #0e0c0b);
-  --bg-elevated: light-dark(#f2ece6, #1a1614);
-  --border: light-dark(#e3d9d1, #2a2320);
-  --fg: light-dark(#2a2320, #e6dfda);
-  --fg-bright: light-dark(#0e0c0b, #faf6f3);
-  --muted: light-dark(#6f645d, #8a7f78);
-  --accent: light-dark(#c62f27, #e8433a);
-  --accent-2: light-dark(#c25a12, #ff8a3d);
-  --ok: light-dark(#1f8a4c, #5ccf8a);
-  --string: light-dark(#4f7a1f, #a8c97f);
-  --glow-1: light-dark(#c62f2717, #e8433a1c);
-  --glow-2: light-dark(#c25a121c, #ff8a3d12);
-
-  --wordmark-from: #e8433a;
-  --wordmark-to: #ff8a3d;
+  --bg: light-dark(#f8fafc, #070b14);
+  --bg-elevated: light-dark(#eef2f7, #0e1424);
+  --border: light-dark(#d8dee8, #1e2638);
+  --fg: light-dark(#1e293b, #dfe2ee);
+  --fg-bright: light-dark(#0b1020, #ffffff);
+  --muted: light-dark(#5b6578, #8a95ab);
+  --accent: light-dark(#be123c, #f0476b);
+  --accent-fill: light-dark(#be123c, #d1123f);
+  --accent-2: light-dark(#5b6b82, #94a3b8);
+  --accent-3: light-dark(#0e7490, #22d3ee);
+  --on-accent: light-dark(#ffffff, #ffffff);
+  --on-light-accent: light-dark(#ffffff, #0b1020);
+  --ok: light-dark(#15803d, #4ade80);
+  --string: light-dark(#4d7c0f, #a3e635);
 
   --font-heading: 'Space Grotesk', system-ui, sans-serif;
   --font-body: 'Inter', system-ui, sans-serif;
@@ -72,22 +71,9 @@ html {
   scroll-padding-top: 5rem;
 }
 
-/* A fixed layer behind every page with two glows. It is a
-   pseudo-element because iOS Safari ignores background-attachment: fixed. */
-body::before {
-  content: '';
-  position: fixed;
-  inset: 0;
-  z-index: -1;
-  background:
-    radial-gradient(64rem 44rem at 88% -12%, var(--glow-1), transparent 70%),
-    radial-gradient(56rem 40rem at -12% 108%, var(--glow-2), transparent 70%),
-    var(--bg);
-  pointer-events: none;
-}
-
 body {
   margin: 0;
+  background: var(--bg);
   color: var(--fg);
   font-family: var(--font-body);
   font-size: 1rem;
@@ -217,10 +203,7 @@ td {
   font-size: 1.4rem;
   font-weight: 700;
   letter-spacing: -0.02em;
-  background: linear-gradient(90deg, var(--wordmark-from), var(--wordmark-to));
-  -webkit-background-clip: text;
-  background-clip: text;
-  color: transparent;
+  color: var(--accent);
 }
 
 .site-nav {
@@ -398,14 +381,14 @@ td {
 }
 
 .button-primary {
-  background: var(--accent);
-  border-color: var(--accent);
-  color: var(--bg);
+  background: var(--accent-fill);
+  border-color: var(--accent-fill);
+  color: var(--on-accent);
 }
 
 .button-primary:hover {
-  background: color-mix(in srgb, var(--accent) 85%, var(--fg-bright));
-  border-color: color-mix(in srgb, var(--accent) 85%, var(--fg-bright));
+  background: color-mix(in srgb, var(--accent-fill) 85%, var(--fg-bright));
+  border-color: color-mix(in srgb, var(--accent-fill) 85%, var(--fg-bright));
 }
 
 .button svg {
@@ -425,25 +408,7 @@ td {
 
 /* Home */
 
-.hero {
-  position: relative;
-  overflow: hidden;
-}
-
-.hero::before {
-  content: '';
-  position: absolute;
-  inset: -20% -10% auto auto;
-  width: 60rem;
-  height: 40rem;
-  background:
-    radial-gradient(closest-side, color-mix(in srgb, var(--accent) 22%, transparent), transparent),
-    radial-gradient(closest-side at 30% 70%, color-mix(in srgb, var(--accent-2) 14%, transparent), transparent);
-  pointer-events: none;
-}
-
 .hero .container {
-  position: relative;
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(0, 1.1fr);
   gap: 3rem;
@@ -462,7 +427,7 @@ td {
 }
 
 .hero-title .accent-2 {
-  color: var(--accent-2);
+  color: var(--accent-3);
 }
 
 .hero-expansion {
@@ -494,7 +459,6 @@ td {
   background: var(--bg-elevated);
   border: 1px solid var(--border);
   border-radius: 14px;
-  box-shadow: 0 1.5rem 4rem color-mix(in srgb, var(--accent) 14%, transparent);
 }
 
 .code-window-bar {
@@ -524,7 +488,7 @@ td {
 
 .code-window-bar .dot-3 {
   margin-right: 0.6rem;
-  background: var(--ok);
+  background: var(--accent-3);
 }
 
 .code-window pre {
@@ -591,11 +555,21 @@ td {
   width: 2.4rem;
   height: 2.4rem;
   border-radius: 9px;
-  background: color-mix(in srgb, var(--accent) 14%, var(--bg));
-  color: var(--accent);
+  background: var(--accent-fill);
+  color: var(--on-accent);
   font-family: var(--font-code);
   font-size: 0.85rem;
   font-weight: 700;
+}
+
+.feature-card:nth-child(3n + 2) .feature-icon {
+  background: var(--accent-2);
+  color: var(--on-light-accent);
+}
+
+.feature-card:nth-child(3n) .feature-icon {
+  background: var(--accent-3);
+  color: var(--on-light-accent);
 }
 
 .feature-card h3 {
@@ -627,7 +601,7 @@ td {
   padding: 1.75rem 2rem;
   background: var(--bg-elevated);
   border: 1px solid var(--border);
-  border-left: 4px solid var(--accent-2);
+  border-left: 4px solid var(--accent);
   border-radius: 14px;
 }
 
@@ -809,7 +783,7 @@ main {
 
 .tok-symbol,
 .tok-constant {
-  color: var(--accent-2);
+  color: var(--accent-3);
 }
 
 .tok-string {
