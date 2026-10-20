@@ -14,6 +14,6 @@
     <polygon points="-340,-80 -110,-80 0,330" fill="#d1123f"/>
     <polygon points="-110,-80 110,-80 0,330" fill="#a30f33"/>
     <polygon points="110,-80 340,-80 0,330" fill="#5e0a20"/>
-    <polyline points="-340,-80 -180,-200 180,-200 340,-80" fill="none" stroke="#ffcad6" stroke-width="22" stroke-linejoin="round" stroke-linecap="round"/>
+    <polyline points="-340,-80 -180,-200 180,-200 340,-80" fill="none" stroke="#e2e8f0" stroke-width="22" stroke-linejoin="round" stroke-linecap="round"/>
   </g>
 </svg>
