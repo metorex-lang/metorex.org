@@ -14,7 +14,7 @@ The libraries that load are built into the Metorex binary, so `require` finds th
 
 <!-- stdlib-table start -->
 
-85 libraries, of which 68 load under Metorex.
+85 libraries, of which 83 load under Metorex.
 
 | Library | Kind | Required as | Metorex | MRI |
 | :-- | :-- | :-- | :-- | :-- |
@@ -69,39 +69,39 @@ The libraries that load are built into the Metorex binary, so `require` finds th
 | benchmark | bundled | `benchmark` | Loads, built into the binary | Loads |
 | bigdecimal | bundled | `bigdecimal` | Loads, built into the binary | Loads |
 | csv | bundled | `csv` | Loads, built into the binary | Loads |
-| debug | bundled | `debug` | Does not load: LoadError: cannot load such file -- debug | Loads |
+| debug | bundled | `debug` | Loads, built into the binary | Loads |
 | drb | bundled | `drb` | Loads, built into the binary | Loads |
 | fiddle | bundled | `fiddle` | Loads, built into the binary | Loads |
 | getoptlong | bundled | `getoptlong` | Loads, built into the binary | Loads |
 | irb | bundled | `irb` | Loads, built into the binary | Loads |
 | logger | bundled | `logger` | Loads, built into the binary | Loads |
 | matrix | bundled | `matrix` | Loads, built into the binary | Loads |
-| minitest | bundled | `minitest` | Does not load: LoadError: cannot load such file -- minitest | Loads |
+| minitest | bundled | `minitest` | Loads, built into the binary | Loads |
 | mutex_m | bundled | `mutex_m` | Loads, built into the binary | Loads |
 | net-ftp | bundled | `net/ftp` | Loads, built into the binary | Loads |
-| net-imap | bundled | `net/imap` | Does not load: LoadError: cannot load such file -- net/imap | Loads |
-| net-pop | bundled | `net/pop` | Does not load: LoadError: cannot load such file -- net/pop | Loads |
-| net-smtp | bundled | `net/smtp` | Does not load: LoadError: cannot load such file -- net/smtp | Loads |
+| net-imap | bundled | `net/imap` | Loads, built into the binary | Loads |
+| net-pop | bundled | `net/pop` | Loads, built into the binary | Loads |
+| net-smtp | bundled | `net/smtp` | Loads, built into the binary | Loads |
 | nkf | bundled | `nkf` | Loads, built into the binary | Loads |
 | observer | bundled | `observer` | Loads, built into the binary | Loads |
 | ostruct | bundled | `ostruct` | Loads, built into the binary | Loads |
-| power_assert | bundled | `power_assert` | Does not load: LoadError: cannot load such file -- power_assert | Loads |
+| power_assert | bundled | `power_assert` | Loads, built into the binary | Loads |
 | prime | bundled | `prime` | Loads, built into the binary | Loads |
 | pstore | bundled | `pstore` | Loads, built into the binary | Loads |
 | racc | bundled | `racc` | Loads, built into the binary | Loads |
-| rake | bundled | `rake` | Does not load: LoadError: cannot load such file -- rake | Loads |
-| rbs | bundled | `rbs` | Does not load: LoadError: cannot load such file -- rbs | Loads |
-| rdoc | bundled | `rdoc` | Does not load: LoadError: cannot load such file -- rdoc | Loads |
-| readline | bundled | `readline` | Does not load: LoadError: cannot load such file -- readline | Loads |
+| rake | bundled | `rake` | Loads, built into the binary | Loads |
+| rbs | bundled | `rbs` | Loads, built into the binary | Loads |
+| rdoc | bundled | `rdoc` | Loads, built into the binary | Loads |
+| readline | bundled | `readline` | Loads, built into the binary | Loads |
 | reline | bundled | `reline` | Loads, built into the binary | Loads |
-| repl_type_completor | bundled | `repl_type_completor` | Does not load: LoadError: cannot load such file -- repl_type_completor | Loads |
+| repl_type_completor | bundled | `repl_type_completor` | Loads, built into the binary | Loads |
 | resolv-replace | bundled | `resolv-replace` | Loads, built into the binary | Loads |
-| rexml | bundled | `rexml` | Does not load: LoadError: cannot load such file -- rexml | Loads |
+| rexml | bundled | `rexml` | Loads, built into the binary | Loads |
 | rinda | bundled | `rinda/rinda` | Loads, built into the binary | Loads |
-| rss | bundled | `rss` | Does not load: LoadError: cannot load such file -- rss | Loads |
+| rss | bundled | `rss` | Loads, built into the binary | Loads |
 | syslog | bundled | `syslog` | Loads, built into the binary | Loads |
-| test-unit | bundled | `test-unit` | Does not load: LoadError: cannot load such file -- test-unit | Loads |
-| typeprof | bundled | `typeprof` | Does not load: LoadError: cannot load such file -- typeprof | Loads |
+| test-unit | bundled | `test-unit` | Loads, built into the binary | Loads |
+| typeprof | bundled | `typeprof` | Loads, built into the binary | Loads |
 | win32ole | bundled | `win32ole` | Does not load: LoadError: cannot load such file -- win32ole | Does not load: LoadError: cannot load such file -- win32ole |
 
 <!-- stdlib-table end -->
