@@ -77,19 +77,25 @@
   --border: light-dark(#dfe3e8, #242931);
   --fg: light-dark(#24292f, #e2e5e9);
   --fg-bright: light-dark(#0a0d12, #ffffff);
-  --muted: light-dark(#5a626c, #949ba5);
-  --accent: light-dark(#b4153a, #ff5c7f);
+  --muted: light-dark(#4f5761, #a1a8b2);
+  --accent: light-dark(#b4153a, #ff7595);
   --accent-fill: light-dark(#b4153a, #c8183f);
-  --accent-2: light-dark(#56606a, #949ba5);
+  --accent-2: light-dark(#4f5761, #a1a8b2);
   --accent-3: light-dark(#3b4450, #cfd4da);
   --on-accent: light-dark(#ffffff, #ffffff);
   --on-light-accent: light-dark(#ffffff, #0a0d12);
   --ok: light-dark(#3b4450, #cfd4da);
   --string: light-dark(#7a1a33, #fda4b8);
+  --number: light-dark(#8a4b08, #f5b971);
   --bg-gradient-top: light-dark(#ffffff, #000000);
-  --bg-gradient-bottom: light-dark(#dde0e5, #2b2f36);
+  --bg-gradient-middle: light-dark(#d4d4d4, #383838);
+  --bg-gradient-bottom: light-dark(#f7f7f7, #0a0a0a);
   --text-shadow-color: light-dark(rgb(10 13 18 / 0.14), rgb(0 0 0 / 0.65));
   --table-border: light-dark(#6e7782, #7a828e);
+  --table-heading-bg: light-dark(rgb(180 21 58 / 0.18), rgb(200 24 63 / 0.35));
+  --table-cell-bg: light-dark(rgb(0 0 0 / 0.05), rgb(0 0 0 / 0.45));
+  --panel-bg: light-dark(rgb(255 255 255 / 0.55), rgb(0 0 0 / 0.45));
+  --dither: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.07'/%3E%3C/svg%3E");
   --link-glow: light-dark(rgb(180 21 58 / 0.35), rgb(255 92 127 / 0.55));
 
   --font-heading: 'Poppins', system-ui, sans-serif;
@@ -131,13 +137,29 @@ body {
 }
 
 /* A fixed layer instead of background-attachment: fixed, which iOS Safari
-   ignores. */
+   ignores. The stops follow a sine curve, so the gradient turns at its middle
+   without the sharp corner that reads as a line. */
 body::before {
   content: '';
   position: fixed;
   inset: 0;
   z-index: -1;
-  background: linear-gradient(to bottom right, var(--bg-gradient-top), var(--bg-gradient-bottom));
+  background:
+    var(--dither),
+    linear-gradient(
+      135deg,
+      var(--bg-gradient-top) 0%,
+      color-mix(in srgb, var(--bg-gradient-middle) 30.9%, var(--bg-gradient-top)) 10%,
+      color-mix(in srgb, var(--bg-gradient-middle) 58.8%, var(--bg-gradient-top)) 20%,
+      color-mix(in srgb, var(--bg-gradient-middle) 80.9%, var(--bg-gradient-top)) 30%,
+      color-mix(in srgb, var(--bg-gradient-middle) 95.1%, var(--bg-gradient-top)) 40%,
+      var(--bg-gradient-middle) 50%,
+      color-mix(in srgb, var(--bg-gradient-middle) 95.1%, var(--bg-gradient-bottom)) 60%,
+      color-mix(in srgb, var(--bg-gradient-middle) 80.9%, var(--bg-gradient-bottom)) 70%,
+      color-mix(in srgb, var(--bg-gradient-middle) 58.8%, var(--bg-gradient-bottom)) 80%,
+      color-mix(in srgb, var(--bg-gradient-middle) 30.9%, var(--bg-gradient-bottom)) 90%,
+      var(--bg-gradient-bottom) 100%
+    );
 }
 
 h1,
@@ -181,12 +203,15 @@ samp {
   color: var(--accent);
 }
 
+/* A line too long for the column wraps rather than scrolling the block. */
 pre {
   font-size: 0.875em;
   margin: 1.25rem 0;
   padding: 1.1rem 1.25rem;
   overflow-x: auto;
-  background: var(--bg-elevated);
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  background: var(--panel-bg);
   border: 1px solid var(--border);
   border-radius: 10px;
   line-height: 1.6;
@@ -204,19 +229,102 @@ table {
 
 th,
 td {
-  padding: 0.55rem 0.8rem;
+  padding: 0.55rem 0.6rem;
   border: 1px solid var(--table-border);
   text-align: left;
   vertical-align: top;
 }
 
+th[align='right'],
+td[align='right'] {
+  text-align: right;
+}
+
+/* tables.js marks a cell holding a number, with or without a unit, which
+   reads wrong split across two lines. */
+td.number {
+  white-space: nowrap;
+}
+
 th {
-  background: var(--bg-elevated);
+  background: var(--table-heading-bg);
   color: var(--fg-bright);
+  white-space: nowrap;
 }
 
 td {
-  min-width: 9rem;
+  min-width: 5rem;
+  background: var(--table-cell-bg);
+}
+
+.tables-pending table {
+  visibility: hidden;
+}
+
+/* tables.js adds .stacked to a table wider than its column, and each row is
+   then laid out as a block with its column headings as labels. */
+table.stacked,
+table.stacked tbody {
+  display: block;
+}
+
+/* A row's cells share its two columns, so every label in a row lines up and
+   the label column is as wide as the row's longest label. */
+table.stacked tr {
+  display: grid;
+  grid-template-columns: max-content minmax(0, 1fr);
+}
+
+table.stacked {
+  overflow: visible;
+}
+
+table.stacked thead {
+  display: none;
+}
+
+table.stacked tr {
+  border: 1px solid var(--table-border);
+}
+
+table.stacked tr + tr {
+  margin-top: 0.75rem;
+}
+
+table.stacked td {
+  display: grid;
+  grid-column: 1 / -1;
+  grid-template-columns: subgrid;
+  text-align: left;
+  min-width: 0;
+  padding: 0;
+  border: 0;
+  background: none;
+  -webkit-backdrop-filter: none;
+  backdrop-filter: none;
+  overflow-wrap: anywhere;
+}
+
+table.stacked td + td {
+  border-top: 1px solid var(--table-border);
+}
+
+/* Each label is drawn as the column's heading cell is, and the value beside
+   it as a body cell is. */
+table.stacked td::before {
+  content: attr(data-label);
+  padding: 0.45rem 0.6rem;
+  border-right: 1px solid var(--table-border);
+  background: var(--table-heading-bg);
+  color: var(--fg-bright);
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+table.stacked .cell-value {
+  min-width: 0;
+  padding: 0.45rem 0.6rem;
+  background: var(--table-cell-bg);
 }
 
 .container {
@@ -620,7 +728,7 @@ td {
 
 .code-window {
   overflow: hidden;
-  background: var(--bg-elevated);
+  background: var(--panel-bg);
   border: 1px solid var(--border);
   border-radius: 14px;
 }
@@ -680,15 +788,8 @@ td {
 
 .section-title {
   max-width: 40rem;
-  margin: 0 0 1rem;
-  font-size: clamp(1.8rem, 4vw, 2.6rem);
-}
-
-.section-lede {
-  max-width: 44rem;
   margin: 0 0 2.5rem;
-  color: var(--muted);
-  font-size: 1.05rem;
+  font-size: clamp(1.8rem, 4vw, 2.6rem);
 }
 
 .features {
@@ -703,7 +804,7 @@ td {
   flex-direction: column;
   gap: 0.6rem;
   padding: 1.5rem;
-  background: var(--bg-elevated);
+  background: var(--panel-bg);
   border: 1px solid var(--border);
   border-radius: 14px;
   transition: border-color 0.15s, transform 0.15s;
@@ -781,7 +882,7 @@ td {
   justify-content: space-between;
   gap: 1rem 2rem;
   padding: 1.75rem 2rem;
-  background: var(--bg-elevated);
+  background: var(--panel-bg);
   border: 1px solid var(--border);
   border-left: 4px solid var(--accent);
   border-radius: 14px;
@@ -831,12 +932,14 @@ h4:hover .anchor,
   color: var(--accent);
 }
 
-.page h2 {
-  margin: 2.5rem 0 0.75rem;
+.page h2,
+.doc-article h2 {
+  margin: 3.5rem 0 0.75rem;
   font-size: 1.5rem;
 }
 
-.page h3 {
+.page h3,
+.doc-article h3 {
   margin: 2rem 0 0.5rem;
   font-size: 1.2rem;
 }
@@ -959,20 +1062,19 @@ main {
   color: var(--fg);
 }
 
-.tok-keyword {
+.hl-keyword {
   color: var(--accent);
 }
 
-.tok-symbol,
-.tok-constant {
-  color: var(--accent-3);
-}
-
-.tok-string {
+.hl-string {
   color: var(--string);
 }
 
-.tok-comment {
+.hl-number {
+  color: var(--number);
+}
+
+.hl-comment {
   color: var(--muted);
   font-style: italic;
 }
@@ -1156,23 +1258,34 @@ main {
   margin: 1.5rem 0;
 }
 
-/* The diagram keeps a readable size at phone width and scrolls sideways
-   inside its own box. */
-.arch-diagram-scroll {
-  overflow-x: auto;
-}
-
 .arch-diagram svg {
   display: block;
   width: 100%;
-  min-width: 640px;
   height: auto;
 }
 
-.arch-diagram figcaption {
-  margin-top: 0.5rem;
-  color: var(--muted);
-  font-size: 0.9rem;
+/* A single-column drawing replaces the wide one where the wide one's text
+   would shrink below a readable size. */
+.arch-narrow {
+  display: none;
+  max-width: 420px;
+  margin: 0 auto;
+}
+
+@media (max-width: 640px) {
+  .arch-diagram .arch-wide {
+    display: none;
+  }
+
+  .arch-diagram .arch-narrow {
+    display: block;
+  }
+}
+
+.arch-group {
+  fill: none;
+  stroke: var(--table-border);
+  stroke-dasharray: 4 4;
 }
 
 .arch-edges line,
@@ -1222,4 +1335,45 @@ main {
   fill: var(--muted);
   font-family: var(--font-code);
   font-size: 11px;
+}
+
+/* A backdrop blur renders what is behind it at 8 bits a channel, which turns
+   the dithered gradient back into bands, so the blurred header carries its
+   own noise. */
+.site-header {
+  background-image: var(--dither);
+}
+
+/* Previous and next links at the end of a docs page or blog post */
+
+.post-nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-top: 3rem;
+}
+
+.post-nav a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  max-width: 100%;
+  padding: 0.6rem 1rem;
+  background: var(--panel-bg);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  color: var(--fg-bright);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.post-nav a:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.post-nav .next {
+  margin-left: auto;
+  text-align: right;
 }

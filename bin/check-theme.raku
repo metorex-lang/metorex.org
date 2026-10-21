@@ -3,7 +3,7 @@
 # Checks assets/css/style.css against the theme rules:
 # every hex color sits in the :root token block, and body text, muted text,
 # links, and the two other accents meet WCAG AA contrast against the page
-# background, the card background, and both ends of the page gradient in
+# background, the card background, and the three stops of the page gradient in
 # both modes, as does the text on each solid accent fill. Table borders meet
 # the 3:1 contrast WCAG asks of non-text elements against the same backgrounds.
 
@@ -54,7 +54,7 @@ sub MAIN(Str :$stylesheet = 'assets/css/style.css') {
         @failures.push: "hex color $stray outside the :root token block";
     }
 
-    for <fg muted accent accent-2 accent-3> X <bg bg-elevated bg-gradient-top bg-gradient-bottom> -> ($foreground, $background) {
+    for <fg muted accent accent-2 accent-3 string number> X <bg bg-elevated bg-gradient-top bg-gradient-middle bg-gradient-bottom> -> ($foreground, $background) {
         for <light dark> -> $mode {
             my $ratio = contrast(%tokens{$foreground}{$mode}, %tokens{$background}{$mode});
             my $line = sprintf '%-5s --%-15s on --%-18s %5.2f:1', $mode, $foreground, $background, $ratio;
@@ -74,7 +74,7 @@ sub MAIN(Str :$stylesheet = 'assets/css/style.css') {
         }
     }
 
-    for <table-border> X <bg bg-elevated bg-gradient-top bg-gradient-bottom> -> ($foreground, $background) {
+    for <table-border> X <bg bg-elevated bg-gradient-top bg-gradient-middle bg-gradient-bottom> -> ($foreground, $background) {
         for <light dark> -> $mode {
             my $ratio = contrast(%tokens{$foreground}{$mode}, %tokens{$background}{$mode});
             my $line = sprintf '%-5s --%-15s on --%-18s %5.2f:1', $mode, $foreground, $background, $ratio;

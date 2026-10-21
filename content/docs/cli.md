@@ -6,7 +6,7 @@ order: 3
 aliases: [/cli]
 ---
 
-`metorex` runs a Ruby program: a file, code given with `-e`, or a program piped to standard input. With none of those and a terminal attached, it starts the REPL. The examples below are files under `tests/_examples/cli_flags` in the [metorex repository](https://github.com/metorex-lang/metorex){target=_blank rel=noopener}, run from that directory, and the test suite checks each output.
+`metorex` runs a Ruby program: a file, code given with `-e`, or a program piped to standard input. With none of those and a terminal attached, it starts the REPL.
 
 ## metorex --help
 
@@ -19,14 +19,19 @@ Arguments:
   [FILE]...  Source file to execute, followed by arguments for the script
 
 Options:
-      --ast          Dump the AST instead of executing
-      --debug        Enable debug/verbose output
-      --repl         Start the REPL
-      --test <TEST>  Discover and run test files in a directory (matches *_test.rb, test_*.rb, *_spec.rb)
-  -v, --verbose      Print Ruby-compatible version string
-  -e <EXECUTE>       Evaluate code from command line, once per `-e` written
-  -h, --help         Print help
-  -V, --version      Print version
+      --ast      Dump the AST instead of executing
+      --debug    Enable debug/verbose output
+  -v, --verbose  Print Ruby-compatible version string
+  -e <EXECUTE>   Evaluate code from command line, once per `-e` written
+  -h, --help     Print help
+  -V, --version  Print version
+
+Commands:
+  spec [PATHS]   Run spec files with Rex (default: spec/)
+  test [DIR]     Run the *_test.rb, test_*.rb, and *_spec.rb files under DIR (default: test/)
+  repl           Start the REPL
+  help           Print this help
+  version        Print the metorex version
 ```
 
 The words after the file name go to the program in `ARGV`.
@@ -46,12 +51,12 @@ metorex spec spec/ledger_spec.rb:14 --format documentation
 
 ```
 $ metorex -v
-metorex 4.0.6 (ruby-compatible) [arm64-darwin]
+metorex 4.0.7 (ruby-compatible) [arm64-darwin]
 $ metorex -V
 metorex 0.1.0
 ```
 
-## Ruby's switches
+## Ruby's Switches
 
 `metorex --help` leaves these out, and each one does what it does for `ruby`.
 
@@ -83,7 +88,7 @@ metorex 0.1.0
 | `--enable=FEATURE`, `--disable=FEATURE` | Turns a feature on or off. `--enable-FEATURE` is the same. |
 | `--debug-frozen-string-literal` | A frozen literal remembers where it was written, and the error from changing it names that place. |
 
-`RUBYOPT` is read as words written ahead of the command line, and it allows the switches MRI allows there.
+`RUBYOPT` is read as words written ahead of the command line. It allows `-d`, `-E`, `-I`, `-K`, `-r`, `-T`, `-U`, `-v`, `-w`, `-W`, `--debug`, `--enable`, `--disable`, `--external-encoding`, `--internal-encoding`, `--verbose`, and `--backtrace-limit`, and any other switch there stops the run.
 
 ## Features
 
@@ -91,8 +96,9 @@ metorex 0.1.0
 
 `show_features.rb`:
 
-```metorex
-# What `--enable` and `--disable` left behind, and how loud the run is.
+```ruby
+# What `--enable` and `--disable` left behind,
+# and how loud the run is.
 puts defined?(Gem).inspect
 puts defined?(DidYouMean).inspect
 puts $VERBOSE.inspect
@@ -111,7 +117,7 @@ frozen false
 
 `frozen_literal_flags.rb`:
 
-```metorex
+```ruby
 held = "shared"
 puts "frozen #{held.frozen?}"
 puts "shared #{"shared".equal?("shared")}"
@@ -125,7 +131,7 @@ shared true
 
 `frozen_literal_birthplace.rb`:
 
-```metorex
+```ruby
 held = 'written here'
 begin
   held << ' and more'
@@ -139,11 +145,11 @@ $ metorex --enable-frozen-string-literal --debug-frozen-string-literal frozen_li
 can't modify frozen String: "written here", created at frozen_literal_birthplace.rb:3
 ```
 
-## Loading libraries
+## Loading Libraries
 
 `lib/greet.rb` defines `greet`, and `use_greet.rb` requires it:
 
-```metorex
+```ruby
 require "greet"
 greet("world")
 ```
@@ -153,11 +159,11 @@ $ metorex -I lib use_greet.rb
 hello world
 ```
 
-## Switches as globals
+## Switches as Globals
 
 `switch_globals.rb`:
 
-```metorex
+```ruby
 p $flag
 p $name
 p $_long__name
@@ -172,13 +178,15 @@ true
 ["rest"]
 ```
 
-## Reading lines
+## Reading Lines
 
 Under `-n`, `Kernel` answers `chomp`, `chop`, `sub`, and `gsub`. `line_loop_methods.rb`:
 
-```metorex
-print(Kernel.public_methods(false).include?(:chomp), " ")
-print(Kernel.private_instance_methods(false).include?(:sub), "\n")
+```ruby
+functions = Kernel.public_methods(false)
+carried = Kernel.private_instance_methods(false)
+print(functions.include?(:chomp), " ")
+print(carried.include?(:sub), "\n")
 ```
 
 ```
@@ -191,11 +199,12 @@ true true
 
 `show_encodings.rb`:
 
-```metorex
+```ruby
 internal = Encoding.default_internal
+internal_name = internal.nil? ? "none" : internal.name
 puts("source #{__ENCODING__.name}")
 puts("external #{Encoding.default_external.name}")
-puts("internal #{internal.nil? ? "none" : internal.name}")
+puts("internal #{internal_name}")
 ```
 
 ```
@@ -207,7 +216,7 @@ internal UTF-8
 
 `source_encoding.rb`:
 
-```metorex
+```ruby
 p "a".encoding
 p __ENCODING__
 ```
@@ -218,7 +227,7 @@ $ metorex -Ke source_encoding.rb
 #<Encoding:EUC-JP>
 ```
 
-## Checking and debugging
+## Checking and Debugging
 
 ```
 $ metorex -c good_syntax.rb
@@ -227,7 +236,7 @@ Syntax OK
 
 `show_debug.rb`:
 
-```metorex
+```ruby
 puts("$DEBUG #{$DEBUG}")
 puts("$VERBOSE #{$VERBOSE}")
 puts("$-d #{$-d}")
@@ -242,7 +251,9 @@ $-d true
 
 `--ast` prints the syntax tree Metorex compiles, for a file or for `-e` code, and runs nothing. `--debug`, given a file, writes the file's path, its length in bytes, and its counts of tokens and statements to standard error before running it.
 
-## Metorex's own options
+## Metorex's Own Commands
 
-- `--repl` starts the REPL even when a file is named.
-- `--test DIR` finds the files under DIR named `*_test.rb`, `test_*.rb`, or `*_spec.rb`, runs each, and exits with status 1 when one fails.
+- `metorex repl` starts the REPL. `metorex` with no file named and a terminal attached starts it too.
+- `metorex test [DIR]` finds the files under DIR, or under `test/` when none is named, whose names match `*_test.rb`, `test_*.rb`, or `*_spec.rb`, runs each, and exits with status 1 when one fails.
+- `metorex help` prints the help above, and `metorex version` prints the version `-V` prints.
+- A file named `help`, `version`, `repl`, `test`, or `spec` in the current directory runs as a script instead, as `ruby help` would run it.

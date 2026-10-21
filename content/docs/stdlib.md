@@ -1,14 +1,14 @@
 ---
 title: Standard Library
 slug: stdlib
-description: Each default and bundled gem MRI 4.0.6 ships, with whether it loads under require in Metorex and where Metorex finds it.
+description: Each default and bundled gem MRI ships, with whether it loads under require in Metorex and where Metorex finds it.
 order: 7
 aliases: [/stdlib]
 ---
 
-MRI 4.0.6 ships default gems, which are part of its standard library, and bundled gems, which are installed alongside it. The table lists each one, the name `require` takes for it, and what `require` does under Metorex and under MRI 4.0.6 on macOS.
+MRI ships default gems, which are part of its standard library, and bundled gems, which are installed alongside it. The MRI results are from macOS.
 
-The libraries that load are built into the Metorex binary, so `require` finds them with no gems installed. "Loaded at startup" means the library was already loaded when the program began, so `require` answered false. win32ole is for Windows, and it does not load under MRI on macOS either.
+The libraries that load are built into the Metorex binary, so `require` finds them with no gems installed. "Loaded at startup" means the library was already loaded when the program began, so `require` answered false. win32ole is for Windows, and it does not load under MRI on macOS either. Each `require` was run with `--disable=did_you_mean`, so did_you_mean shows as loading rather than as loaded at startup.
 
 `bin/stdlib.raku` in the [metorex.org repository](https://github.com/metorex-lang/metorex.org){target=_blank rel=noopener} writes the table by running each `require` under both.
 

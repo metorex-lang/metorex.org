@@ -14,7 +14,7 @@
           Install
           :plain
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
-        %a.button{href: '/language'} Language tour
+        %a.button{href: '/language'} Language Tour
     .code-window
       .code-window-bar
         %span.dot.dot-1
@@ -22,18 +22,18 @@
         %span.dot.dot-3
         example.rb
       :plain
-        <pre><code class="language-metorex">Point = Struct.new(:x, :y) do
-          def +(other) = Point.new(x + other.x, y + other.y)
-        end
+        <pre><code class="language-ruby">Point = Struct.<span class="hl-keyword">new</span>(:x, :y) <span class="hl-keyword">do</span>
+          <span class="hl-keyword">def</span> +(other) = Point.<span class="hl-keyword">new</span>(x + other.x, y + other.y)
+        <span class="hl-keyword">end</span>
 
-        points = [Point.new(1, 2), Point.new(3, 4)]
-        total = points.sum(Point.new(0, 0))
+        points = [Point.<span class="hl-keyword">new</span>(<span class="hl-number">1</span>, <span class="hl-number">2</span>), Point.<span class="hl-keyword">new</span>(<span class="hl-number">3</span>, <span class="hl-number">4</span>)]
+        total = points.sum(Point.<span class="hl-keyword">new</span>(<span class="hl-number">0</span>, <span class="hl-number">0</span>))
         puts total.inspect
 
-        case total
-        in { x: Integer =&gt; x, y: } if y &gt; x
-          puts "y leads by #{y - x}"
-        end</code></pre>
+        <span class="hl-keyword">case</span> total
+        in { x: Integer =&gt; x, y: } <span class="hl-keyword">if</span> y &gt; x
+          puts <span class="hl-string">"y leads by #{y - x}"</span>
+        <span class="hl-keyword">end</span></code></pre>
       .code-window-bar terminal
       :plain
         <pre class="sample-output"><code><span class="prompt">$ </span>metorex example.rb
@@ -43,38 +43,36 @@
 %section.section
   .container
     %p.eyebrow Features
-    %h2.section-title What Metorex does today
-    %p.section-lede
-      Each of these works in the current build.
+    %h2.section-title What Metorex Does Today
     .features
       .feature-card
         %span.feature-icon{'aria-hidden' => 'true'} 4.x
-        %h3 Ruby 4.x syntax
+        %h3 Ruby 4.x Syntax
         :plain
-          <p>Metorex reads Ruby 4.x source with its own lexer and parser. <code>RUBY_VERSION</code> reports the MRI release it follows, now <code>4.0.6</code>.</p>
-        %a.feature-link{href: '/language'} Language tour →
+          <p>Metorex reads Ruby 4.x source with its own lexer and parser. <code>RUBY_VERSION</code> reports the MRI release it follows.</p>
+        %a.feature-link{href: '/language'} Language Tour →
       .feature-card
         %span.feature-icon{'aria-hidden' => 'true'} { }
-        %h3 Code as objects
+        %h3 Code as Objects
         %p A method's body is available at runtime as syntax tree nodes you can inspect.
-        %a.feature-link{href: '/docs/meta'} Read a method's tree →
+        %a.feature-link{href: '/docs/meta'} Read a Method's Tree →
       .feature-card
         %span.feature-icon{'aria-hidden' => 'true'} ✓
-        %h3 Built-in test runner
+        %h3 Built-In Test Runner
         :plain
-          <p><code>metorex --test DIR</code> finds and runs <code>*_test.rb</code>, <code>test_*.rb</code>, and <code>*_spec.rb</code> files.</p>
+          <p><code>metorex test</code> finds and runs the <code>*_test.rb</code>, <code>test_*.rb</code>, and <code>*_spec.rb</code> files under <code>test/</code>.</p>
         %a.feature-link{href: '/docs/rex'} Rex →
       .feature-card
         %span.feature-icon{'aria-hidden' => 'true'} .c
-        %h3 C extensions
+        %h3 C Extensions
         %p Loads C extensions written against Ruby's C API.
         %a.feature-link{href: '/docs/c-extensions'} C API →
       .feature-card
         %span.feature-icon{'aria-hidden' => 'true'} &gt;&gt;
         %h3 REPL
         :plain
-          <p><code>metorex --repl</code> starts an interactive session.</p>
-        %a.feature-link{href: '/docs/cli'} Command line →
+          <p><code>metorex repl</code> starts an interactive session.</p>
+        %a.feature-link{href: '/docs/cli'} Command Line →
       .feature-card
         %span.feature-icon{'aria-hidden' => 'true'} rs
         %h3 Written in Rust
@@ -89,5 +87,5 @@
         :plain
           <p>Every spec in core, library, language, command_line, optional, and security runs in CI. If a program behaves differently under Metorex than under MRI, open an issue with the program and both outputs.</p>
       .hero-actions
-        %a.button.button-primary{href: 'https://github.com/metorex-lang/metorex/issues/new', target: '_blank', rel: 'noopener'} Open an issue
-        %a.button{href: 'https://github.com/metorex-lang/metorex/pulls', target: '_blank', rel: 'noopener'} Pull requests
+        %a.button.button-primary{href: 'https://github.com/metorex-lang/metorex/issues/new', target: '_blank', rel: 'noopener'} Open an Issue
+        %a.button{href: 'https://github.com/metorex-lang/metorex/pulls', target: '_blank', rel: 'noopener'} Pull Requests

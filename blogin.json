@@ -6,6 +6,7 @@
   "clean-urls": true,
   "css-framework": "none",
   "search": true,
+  "highlight": true,
   "sections": {
     "blog": { "label": "Blog", "page-size": 10, "index-dates": true, "show-dates": true },
     "docs": { "label": "Docs", "page-size": 1000, "index-dates": false, "show-dates": false }

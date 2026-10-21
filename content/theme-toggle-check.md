@@ -1,5 +1,5 @@
 ---
-title: Theme toggle check
+title: Theme Toggle Check
 description: Clicks the theme toggle inside a frame, reloads it, then clears storage, and records the mode at each step, built with --drafts.
 layout: page
 draft: true

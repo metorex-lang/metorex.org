@@ -1,5 +1,5 @@
 ---
-title: Copy button check
+title: Copy Button Check
 description: Clicks each code block's copy button with the clipboard replaced by a recorder, and records the copied text, built with --drafts.
 layout: page
 draft: true
@@ -12,7 +12,7 @@ $ target/release/metorex hello.rb
 hello
 ```
 
-```metorex
+```ruby
 >> [1, 2, 3].sum
 => 6
 >> def twice(n)
@@ -21,7 +21,7 @@ hello
 => :twice
 ```
 
-```metorex
+```ruby
 puts "no prompts here"
 x ||= 1
 ```

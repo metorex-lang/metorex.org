@@ -1,5 +1,5 @@
 ---
-title: Phone width check
+title: Phone Width Check
 description: Loads each page of the site in a 320px frame and records whether any page scrolls sideways, built with --drafts.
 layout: page
 draft: true
@@ -17,7 +17,7 @@ draft: true
 <iframe class="phone-frame" data-page="cli" src="/docs/cli.html" width="320" height="600"></iframe>
 <iframe class="phone-frame" data-page="architecture" src="/architecture.html" width="320" height="600"></iframe>
 <iframe class="phone-frame" data-page="benchmarks" src="/benchmarks.html" width="320" height="600"></iframe>
-<iframe class="phone-frame" data-page="beyond-ruby" src="/beyond-ruby.html" width="320" height="600"></iframe>
+<iframe class="phone-frame" data-page="beyond-ruby" src="/docs/beyond-ruby.html" width="320" height="600"></iframe>
 <iframe class="phone-frame" data-page="stdlib" src="/docs/stdlib.html" width="320" height="600"></iframe>
 <iframe class="phone-frame" data-page="versions" src="/versions.html" width="320" height="600"></iframe>
 <iframe class="phone-frame" data-page="contributing" src="/contributing.html" width="320" height="600"></iframe>

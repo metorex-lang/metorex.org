@@ -8,7 +8,7 @@ aliases: [/meta]
 
 The **Met**a **O**bject **R**untime **Ex**ecution in the name means a program can read its own code. Metorex returns a method's body, a block's statements, or a parsed string to the program as syntax tree nodes. Each node is a hash with a `"type"` key and the fields for that type.
 
-## A method's body
+## A Method's Body
 
 `get_source` returns the method. `body` returns its statements as nodes.
 
@@ -39,7 +39,7 @@ end</code></pre>
 
 A program can walk those nodes like any other hashes:
 
-```metorex
+```ruby
 method = Invoice.new.get_source(:total)
 puts "#{method.name} takes #{method.arity} arguments"
 
@@ -66,11 +66,11 @@ BinaryOp +
   IntLiteral 5
 ```
 
-## A block's statements
+## A Block's Statements
 
 A block captured with `&block` answers `statements` the same way, and it still runs:
 
-```metorex
+```ruby
 def capture(&block) = block
 
 rule = capture { |order| order * 2 }
@@ -85,11 +85,11 @@ p rule.call(21)
 42
 ```
 
-## Parsing a string
+## Parsing a String
 
 `parse` turns source text into the same nodes without running it:
 
-```metorex
+```ruby
 tree = parse("1 + 2 * 3")
 p tree.first["op"]
 p tree.first["right"]
@@ -99,5 +99,3 @@ p tree.first["right"]
 "+"
 {"type" => "BinaryOp", "op" => "*", "left" => {"type" => "IntLiteral", "value" => 2}, "right" => {"type" => "IntLiteral", "value" => 3}}
 ```
-
-The samples on this page are `tests/_examples/site/meta.rb`, `meta_block.rb`, and `meta_parse.rb` in the [metorex repository](https://github.com/metorex-lang/metorex){target=_blank rel=noopener}, where the test suite checks their output.

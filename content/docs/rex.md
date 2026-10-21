@@ -1,14 +1,14 @@
 ---
 title: Rex
 slug: rex
-description: Rex is the spec framework built into Metorex. It runs suites written for RSpec 3.13 with no gems installed, and prints what RSpec prints.
+description: Rex is the spec framework built into Metorex. It runs suites written for RSpec with no gems installed.
 order: 4
 aliases: [/rex]
 ---
 
-Rex is the spec framework built into Metorex. Its goal is RSpec 3.13 compatibility: a suite written for RSpec runs under `metorex spec` unchanged, with no gems installed, and prints what RSpec prints for it. `RSpec` names Rex, and `require "rspec"`, `require "rspec/core"`, and the other RSpec paths load it.
+Rex is the spec framework built into Metorex. A suite written for RSpec runs under `metorex spec` with no gems installed. `RSpec` names Rex, and `require "rspec"`, `require "rspec/core"`, and the other RSpec paths load it.
 
-## Running a suite
+## Running a Suite
 
 `metorex spec` runs the files under `spec/` whose names end in `_spec.rb`, as `rspec` does. It reads `.rspec`, `.rspec-local`, and `SPEC_OPTS`, loads `spec/spec_helper.rb` when there is one, and takes RSpec's options, which `metorex spec --help` lists.
 
@@ -20,18 +20,20 @@ metorex spec --format documentation --seed 1234
 
 A script run with `metorex` that names `RSpec` loads Rex the first time it does, and runs the examples it defined as it ends, as `require "rspec/autorun"` does.
 
-## A suite and its output
+## A Suite and Its Output
 
 `lib/ledger.rb`:
 
-```metorex
+```ruby
 class Ledger
   def initialize
     @entries = []
   end
 
   def record(amount)
-    raise ArgumentError, "an entry needs an amount" if amount.zero?
+    if amount.zero?
+      raise ArgumentError, "an entry needs an amount"
+    end
 
     @entries << amount
     self
@@ -45,7 +47,7 @@ end
 
 `spec/ledger_spec.rb`:
 
-```metorex
+```ruby
 require_relative "../lib/ledger"
 
 RSpec.describe Ledger do
@@ -68,7 +70,9 @@ RSpec.describe Ledger do
   end
 
   it "refuses an entry of zero" do
-    expect { ledger.record(0) }.to raise_error(ArgumentError, "an entry needs an amount")
+    expect { ledger.record(0) }.to raise_error(
+      ArgumentError, "an entry needs an amount"
+    )
   end
 
   it "rounds a balance" do
@@ -98,17 +102,17 @@ Failures:
             got: 7
 
        (compared using ==)
-     # ./spec/ledger_spec.rb:28:in 'block (2 levels) in <top (required)>'
+     # ./spec/ledger_spec.rb:30:in 'block (2 levels) in <top (required)>'
 
 Finished in 0.01056 seconds (files took 0.07906 seconds to load)
 5 examples, 1 failure
 
 Failed examples:
 
-rspec ./spec/ledger_spec.rb:26 # Ledger rounds a balance
+rspec ./spec/ledger_spec.rb:28 # Ledger rounds a balance
 ```
 
-## Options of its own
+## Options of Its Own
 
 Rex adds these to RSpec's options:
 
@@ -121,18 +125,16 @@ Rex adds these to RSpec's options:
 `metorex spec --coverage` on the suite above ends with:
 
 ```
-Coverage: 100.00% of lines (9 of 9) and 100.00% of branches (2 of 2) in 1 file
+Coverage: 100.00% of lines (10 of 10) and 100.00% of branches (2 of 2) in 1 file
   lib/ledger.rb  100.00% of lines  100.00% of branches
 ```
 
-## How close it is
+## RSpec's Own Suites
 
-The RSpec libraries' own suites, at RSpec 3.13.6, run under `metorex spec` and under MRI 4.0.7's own `rspec`, one spec file to a process:
+The RSpec libraries' own suites run under `metorex spec` and under MRI's own `rspec`, one spec file to a process:
 
 | Suite | Passing under MRI | Passing under Metorex | Examples |
 | :-- | --: | --: | --: |
-| rspec-core | 2239 | 2139 | 2258 |
-| rspec-expectations | 2438 | 2437 | 2455 |
+| rspec-core | 2239 | 2238 | 2258 |
+| rspec-expectations | 2438 | 2438 | 2455 |
 | rspec-mocks | 1794 | 1794 | 1806 |
-
-diff-lcs's suite passes all 322 of its examples, with documentation output identical to RSpec's byte for byte. The suite and both outputs above are `tests/_examples/rex/site/ledger` in the [metorex repository](https://github.com/metorex-lang/metorex){target=_blank rel=noopener}, where the test suite checks them.

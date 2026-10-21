@@ -7,7 +7,7 @@ order: 2
 
 `parse(source)` answers an Array of nodes, one for each top-level statement in `source`, and `body` on the method `get_source` returns answers the method's statements the same way. A node is a Hash with a `"type"` key and the keys its type lists below. A child node is a Hash of the same kind, and a list of children is an Array. [Code as objects](/docs/meta) shows them in use.
 
-```metorex
+```ruby
 node = parse("total = items.sum(:price) if ready").first
 p node["type"]
 p node["condition"]
@@ -31,7 +31,7 @@ nil
 {"type" => "Unknown"}
 ```
 
-A statement or expression with no type below answers `{"type" => "Unknown"}`, as the `case` above does. Method definitions are among them.
+A statement or expression with no type below answers `{"type" => "Unknown"}`, as the `case` above does. A `def` that `parse` reads at the top level is among them.
 
 ## Values
 
@@ -39,7 +39,7 @@ A statement or expression with no type below answers `{"type" => "Unknown"}`, as
 | :-- | :-- |
 | `IntLiteral` | `value`, an Integer |
 | `FloatLiteral` | `value`, a Float |
-| `StringLiteral` | `value`, a String. A string whose interpolations are all literals is folded into one `StringLiteral`. |
+| `StringLiteral` | `value`, a String |
 | `InterpolatedString` | none |
 | `BoolLiteral` | `value`, true or false |
 | `NilLiteral` | none |
@@ -59,12 +59,12 @@ A statement or expression with no type below answers `{"type" => "Unknown"}`, as
 | `Self` | none |
 | `ScopeResolution` | `namespace`, a node, and `name`, as in `Foo::Bar` |
 
-## Operations and calls
+## Operations and Calls
 
 | Type | Keys |
 | :-- | :-- |
 | `BinaryOp` | `op`, `left`, and `right` |
-| `UnaryOp` | `op`, which is `-` or `!`, and `operand` |
+| `UnaryOp` | `op`, which is `+`, `-`, or `!`, and `operand` |
 | `Grouped` | `expression`, the node inside the parentheses |
 | `Call` | `callee`, a node, and `arguments`, an Array of nodes, for a call with no receiver |
 | `MethodCall` | `receiver`, a node, `method`, a String, and `arguments`, an Array of nodes |
@@ -84,5 +84,4 @@ A statement or expression with no type below answers `{"type" => "Unknown"}`, as
 | `Raise` | `exception`, a node or nil |
 | `Break` | none |
 | `Continue` | none, for `next` |
-
-The sample on this page is `tests/_examples/site/docs_nodes.rb` in the [metorex repository](https://github.com/metorex-lang/metorex){target=_blank rel=noopener}, where the test suite checks its output.
+| `MethodDef` | `name`, and `parameters`, an Array of names, for a `def` inside a method body |

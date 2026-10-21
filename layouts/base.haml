@@ -11,7 +11,7 @@
         gtag('js', new Date());
         gtag('config', 'G-DHW39WEM7G');
       </script>
-      <script>(function(){var root=document.documentElement;var stored=null;try{stored=localStorage.getItem('theme')}catch(error){}if(stored==='light'||stored==='dark'){root.dataset.theme=stored}var dark=root.dataset.theme?root.dataset.theme==='dark':window.matchMedia('(prefers-color-scheme: dark)').matches;root.dataset.themeEffective=dark?'dark':'light'})();</script>
+      <script>(function(){var root=document.documentElement;var stored=null;try{stored=localStorage.getItem('theme')}catch(error){}if(stored==='light'||stored==='dark'){root.dataset.theme=stored}var dark=root.dataset.theme?root.dataset.theme==='dark':window.matchMedia('(prefers-color-scheme: dark)').matches;root.dataset.themeEffective=dark?'dark':'light';root.classList.add('tables-pending');setTimeout(function(){root.classList.remove('tables-pending')},3000)})();</script>
     %title= meta-title
     != head-meta
     %link{rel: 'preload', href: '/fonts/poppins-latin-400-normal.woff2', as: 'font', type: 'font/woff2', crossorigin: True}
@@ -27,6 +27,6 @@
     %script{src: '/assets/js/theme.js'}
     %script{src: '/assets/js/back-to-top.js'}
     %script{src: '/assets/js/nav.js'}
-    %script{src: '/assets/js/highlight.js'}
     %script{src: '/assets/js/copy.js'}
+    %script{src: '/assets/js/tables.js'}
     %script{src: '/assets/js/search.js'}

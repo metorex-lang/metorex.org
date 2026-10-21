@@ -1,11 +1,11 @@
 ---
-title: Theme sample
+title: Theme Sample
 description: One code block covering each highlighted token class, built with --drafts to check the theme.
 layout: page
 draft: true
 ---
 
-```metorex
+```ruby
 # A comment
 =begin
 A block comment

@@ -1,5 +1,5 @@
 ---
-title: Search check
+title: Search Check
 description: Types a query into the header search box and records the result titles, built with --drafts.
 layout: page
 draft: true

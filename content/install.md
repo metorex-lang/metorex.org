@@ -8,7 +8,7 @@ Metorex is built from source with Cargo.
 
 ## Requirements
 
-- Rust 1.85 or newer. Metorex uses the 2024 edition.
+- Rust 1.88 or newer. Metorex uses the 2024 edition and let chains.
 - A C compiler on your `PATH` as `cc`, and `ar`. The build compiles the bundled Prism and nkf sources. Set `CC` to use a different compiler.
 - Git.
 
@@ -22,11 +22,11 @@ $ cargo build --release
 
 The binary is `target/release/metorex`.
 
-## Run a file
+## Run a File
 
 Save this as `hello.rb`:
 
-```metorex
+```ruby
 puts "Hello, world!"
 p [1, 2, 3].map { it * 2 }
 ```
@@ -41,7 +41,7 @@ Hello, world!
 
 Arguments after the file name are passed to the program in `ARGV`.
 
-## Run a one-line program
+## Run a One-Line Program
 
 ```sh
 $ target/release/metorex -e 'puts 6 * 7'
@@ -51,26 +51,27 @@ $ target/release/metorex -e 'puts 6 * 7'
 ## Start the REPL
 
 ```sh
-$ target/release/metorex --repl
+$ target/release/metorex
 ```
 
-```metorex
+```ruby
 >> [1, 2].sum
 => 3
->> .exit
+>> exit
 ```
 
-`.help` lists the REPL's commands.
+`help` lists the REPL's commands, and Ctrl+D also exits.
 
-## Run tests
+## Run Tests
 
-`--test` finds the files in a directory whose names match `*_test.rb`, `test_*.rb`, or `*_spec.rb`, and runs them:
+`metorex test` runs the files under `test/` whose names match `*_test.rb`, `test_*.rb`, or `*_spec.rb`, and `metorex test DIR` runs those under DIR. `metorex spec` runs an RSpec suite under `spec/` with [Rex](/docs/rex).
 
 ```sh
-$ target/release/metorex --test spec/
+$ target/release/metorex test
+$ target/release/metorex spec
 ```
 
-## Every option
+## Every Option
 
 ```sh
 $ target/release/metorex --help

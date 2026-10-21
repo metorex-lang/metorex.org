@@ -10,9 +10,9 @@ Metorex loads C extensions written for MRI. `require` of a `.bundle` or `.so` op
 
 ## nkf
 
-nkf, the Japanese text converter MRI ships as a bundled gem, is a C extension. Metorex compiles it into its binary, and `require "nkf"` starts it. This sample prints the same under Metorex and MRI 4.0.6:
+nkf, the Japanese text converter MRI ships as a bundled gem, is a C extension. Metorex compiles it into its binary, and `require "nkf"` starts it. This sample prints the same under Metorex and MRI:
 
-```metorex
+```ruby
 require "nkf"
 
 greeting = "こんにちは、世界".encode("Shift_JIS")
@@ -29,11 +29,9 @@ p NKF.nkf("-w --hiragana", "カタカナ")
 "かたかな"
 ```
 
-This sample is `tests/_examples/site/c_extensions_nkf.rb` in the [metorex repository](https://github.com/metorex-lang/metorex){target=_blank rel=noopener}, where the test suite checks its output.
+## The Functions Metorex Exports
 
-## The functions metorex exports
-
-These are the functions of MRI's C API a current build of metorex exports, grouped by the prefix they share. `bin/c-api.raku` in this site's repository writes the list from the symbols the metorex binary exports.
+`bin/c-api.raku` in this site's repository writes this list from the symbols the metorex binary exports.
 
 <!-- c-api-functions start -->
 
