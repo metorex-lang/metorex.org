@@ -367,8 +367,40 @@ table.stacked .cell-value {
   height: 2.75rem;
 }
 
-.brand-border {
-  stroke: light-dark(#2a302d, #f4f1ec);
+.brand-mark-dark {
+  display: none;
+}
+
+:root[data-theme-effective='dark'] .brand-mark-light {
+  display: none;
+}
+
+:root[data-theme-effective='dark'] .brand-mark-dark {
+  display: block;
+}
+
+.icon {
+  display: inline-block;
+  flex: none;
+  background-color: currentColor;
+  -webkit-mask: var(--icon) center / contain no-repeat;
+  mask: var(--icon) center / contain no-repeat;
+}
+
+.icon-menu {
+  --icon: url('/assets/images/icons/menu.svg');
+}
+
+.icon-moon {
+  --icon: url('/assets/images/icons/moon.svg');
+}
+
+.icon-sun {
+  --icon: url('/assets/images/icons/sun.svg');
+}
+
+.icon-arrow-right {
+  --icon: url('/assets/images/icons/arrow-right.svg');
 }
 
 .wordmark {
@@ -517,8 +549,8 @@ table.stacked .cell-value {
   display: inline-flex;
 }
 
-.nav-toggle svg,
-.theme-toggle svg {
+.nav-toggle .icon,
+.theme-toggle .icon {
   width: 1.15rem;
   height: 1.15rem;
 }
@@ -673,7 +705,7 @@ table.stacked .cell-value {
   border-color: color-mix(in srgb, var(--accent-fill) 85%, var(--fg-bright));
 }
 
-.button svg {
+.button .icon {
   width: 1rem;
   height: 1rem;
 }
