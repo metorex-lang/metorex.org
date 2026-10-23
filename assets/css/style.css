@@ -361,6 +361,16 @@ table.stacked .cell-value {
   text-decoration: none;
 }
 
+.brand-mark {
+  flex: none;
+  width: 2.75rem;
+  height: 2.75rem;
+}
+
+.brand-border {
+  stroke: light-dark(#2a302d, #f4f1ec);
+}
+
 .wordmark {
   font-family: var(--font-heading);
   font-size: 1.4rem;
