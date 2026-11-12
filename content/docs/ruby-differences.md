@@ -33,7 +33,7 @@ ruby 4.0.7 (2026-09-15 revision 229531a6cf) +PRISM [arm64-darwin27]
 
 ## Instruction Sequences
 
-Metorex compiles to instructions of its own rather than YARV's. `RubyVM::InstructionSequence#disasm` lists those instructions with their operands, the local variable a slot operand names, and the line. `#to_a` lists each instruction as its name and operands.
+Metorex compiles to instructions of its own rather than YARV's. `RubyVM::InstructionSequence#disasm` lists those instructions, named in lowercase as YARV's are, with their operands, the local variable a slot operand names, and the line. `#to_a` lists each instruction as its name and operands. A method's listing opens with the code of its optional parameters' defaults, as MRI's does.
 
 ```ruby
 source = "total = 2 + 3"
@@ -45,12 +45,11 @@ Metorex:
 
 ```
 == disasm: #<ISeq:<compiled>@<compiled>:1 (1,0)-(1,13)>
-0000 Unhoist slot: 0  ; total               (   1)[Li]
-0001 LoadInteger to: 0, value: 2            (   1)
-0002 LoadInteger to: 1, value: 3            (   1)
-0003 Add to: 0, left: 0, right: 1           (   1)
-0004 SetLocal from: 0, slot: 0  ; total     (   1)
-0005 Return from: 0                         (   1)
+0000 loadinteger to: 0, value: 2            (   1)[Li]
+0001 loadinteger to: 1, value: 3            (   1)
+0002 add to: 0, left: 0, right: 1           (   1)
+0003 setlocal from: 0, slot: 0  ; total     (   1)
+0004 return from: 0                         (   1)
 ```
 
 MRI:
